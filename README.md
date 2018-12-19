@@ -1,12 +1,5 @@
-# gatsby-starter-hello-world
-Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site.
+# XTREME sports games wiki
+My humble attempt at hoarding/presenting info on games with mechanics similar to [THPS Series](https://www.gatsbyjs.org/), [SSX Series](https://www.gatsbyjs.org/) or just somewhat relevant to the aestetic.
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
-```
-
-Or [view the live demo here](https://gatsby-starter-hello-world-demo.netlify.com/).
-
-## Running in development
-`gatsby develop`
+At the moment site is generated using [Gatsby](https://www.gatsbyjs.org/)
+Some data is retrieved from [IGDB](https://www.igdb.com/)
