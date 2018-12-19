@@ -4,6 +4,12 @@ platforms: PC (Microsoft Windows)
 mechanics: n/a
 ---
 #Digital Extreme Sport Games
-![game cover art](//images.igdb.com/igdb/image/upload/t_thumb/lzwlul0dulrcufwkazet.jpg "Logo Title Text 1")
+![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/lzwlul0dulrcufwkazet.jpg "Logo Title Text 1")
+###Platforms
+PC (Microsoft Windows)
+###Description:
 undefined
--
+###Screenshots
+[no screenshots yet ...]
+###Video
+[no videos yet...]

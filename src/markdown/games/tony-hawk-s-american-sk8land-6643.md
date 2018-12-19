@@ -4,7 +4,10 @@ platforms: GBA, Nintendo DS
 mechanics: thps
 ---
 #Tony Hawk's American Sk8land
-![game cover art](//images.igdb.com/igdb/image/upload/t_thumb/eeq4sjbaildexl0kshh8.jpg "Logo Title Text 1")
+![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/eeq4sjbaildexl0kshh8.jpg "Logo Title Text 1")
+###Platforms
+GBA, Nintendo DS
+###Description:
 Tony Hawk's American Sk8land is the handheld version of American Wasteland, the seventh entry in the Tony Hawk's series. It is the first entry in the series for the Nintendo DS, and the fifth to appear on Game Boy Advance. 
  
 American Sk8land uses cel shaded visuals and it was developed by Vicarious Visions, the developer of the Game Boy Advance Tony Hawk games. The game is based on its console counterpart, American Wasteland, featuring the same soundtrack, many of the same environments, characters. 
@@ -16,4 +19,7 @@ American Sk8land was the first Nintendo DS game released by a third party to sup
 In the DS version, the ability to get off the skateboard and walk around was removed; however, this was somewhat balanced by the ability to come to a complete stop and rotate the camera. 
  
 The name is shared by the Game Boy Advance version, also created by Vicarious Visions. The GBA version does not share the same graphics, however, having an isometric point of view, polygonal skaters and pre-rendered levels creating a 3D sensation.
-<img src="//images.igdb.com/igdb/image/upload/t_thumb/eb4qsljb8z4bbtxt8urq.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/dbgqsd3huuy8ba6ewkic.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/by1wtwbbwe1snhjmlhyx.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/ktuxdx41m3u3m8vhdnkc.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/mibfayuosn77atn31rwo.jpg"/>
+###Screenshots
+<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/eb4qsljb8z4bbtxt8urq.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/eb4qsljb8z4bbtxt8urq.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/dbgqsd3huuy8ba6ewkic.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/dbgqsd3huuy8ba6ewkic.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/by1wtwbbwe1snhjmlhyx.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/by1wtwbbwe1snhjmlhyx.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/ktuxdx41m3u3m8vhdnkc.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/ktuxdx41m3u3m8vhdnkc.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/mibfayuosn77atn31rwo.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/mibfayuosn77atn31rwo.jpg"/></a>
+###Video
+[no videos yet...]

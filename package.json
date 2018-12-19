@@ -6,7 +6,8 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "regen": "rm -rf src/markdown/games/* && node script.js && gatsby develop"
   },
   "dependencies": {
     "gatsby": "^2.0.33",

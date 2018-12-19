@@ -4,6 +4,12 @@ platforms: PS2
 mechanics: n/a
 ---
 #Ski-Doo: Snow X Racing
-![game cover art](//images.igdb.com/igdb/image/upload/t_thumb/rian3dyq9ajne1i2msxi.jpg "Logo Title Text 1")
+![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/rian3dyq9ajne1i2msxi.jpg "Logo Title Text 1")
+###Platforms
+PS2
+###Description:
 A Ski-Doo branded snow machine racing game.
-<img src="//images.igdb.com/igdb/image/upload/t_thumb/fvdfzfiv0dx3xlxewe5e.jpg"/>
+###Screenshots
+<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/fvdfzfiv0dx3xlxewe5e.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/fvdfzfiv0dx3xlxewe5e.jpg"/></a>
+###Video
+[no videos yet...]

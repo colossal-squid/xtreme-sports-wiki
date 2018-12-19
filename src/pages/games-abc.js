@@ -7,7 +7,7 @@ export default ({data}) => (
    <h1> Extreme games alphabetically</h1>
    <ul>
        { data.allMarkdownRemark.edges.map(edge=>(
-            <li><a href="#" dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></a></li>
+            <li><Link to={edge.node.fields.slug} dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></Link></li>
         ))
        }
    </ul>
@@ -23,6 +23,9 @@ export const query = graphql`
           id
           frontmatter {
             title
+          },
+          fields {
+              slug
           }
           excerpt
         }

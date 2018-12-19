@@ -4,6 +4,12 @@ platforms: PS2
 mechanics: n/a
 ---
 #Cool Boarders: Code Alien
-![game cover art](//images.igdb.com/igdb/image/upload/t_thumb/txpoxyawugy24hg7xsj9.jpg "Logo Title Text 1")
+![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/txpoxyawugy24hg7xsj9.jpg "Logo Title Text 1")
+###Platforms
+PS2
+###Description:
 Cool Boarders: Code Alien is the only Cool Boarders title to be released exclusively in Japan.
--
+###Screenshots
+[no screenshots yet ...]
+###Video
+[no videos yet...]

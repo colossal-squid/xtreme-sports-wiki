@@ -22,7 +22,7 @@ export default ({data}) => (
 
 function formatGames(data, mechanic) {
     return data.allMarkdownRemark.edges.filter(edge=>(mechanic && edge.node.frontmatter.mechanics === mechanic) || (!mechanic && !edge.node.frontmatter.mechanics )).map(edge=>(
-        <li><a href="#" dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></a></li>
+        <li><Link to={edge.node.fields.slug} dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></Link></li>
     ))
 }
 
@@ -36,6 +36,9 @@ export const query = graphql`
           frontmatter {
             title,
             mechanics
+          },
+          fields {
+              slug
           }
           excerpt
         }

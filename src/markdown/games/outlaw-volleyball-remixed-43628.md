@@ -4,7 +4,10 @@ platforms: PS2
 mechanics: n/a
 ---
 #Outlaw Volleyball: Remixed
-![game cover art](//images.igdb.com/igdb/image/upload/t_thumb/nebf5oyyvlbdneivqqlr.jpg "Logo Title Text 1")
+![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nebf5oyyvlbdneivqqlr.jpg "Logo Title Text 1")
+###Platforms
+PS2
+###Description:
 No Shoes. No shirts. No mercy. 
  
 50 Tour Events 
@@ -24,4 +27,7 @@ With their own playing styles and unique skills
  
 Beat Your Opponent Senseless 
 Gain MOMENTUM for turbo moves.
--
+###Screenshots
+[no screenshots yet ...]
+###Video
+[no videos yet...]

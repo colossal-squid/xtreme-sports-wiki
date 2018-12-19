@@ -4,7 +4,10 @@ platforms: iOS
 mechanics: n/a
 ---
 #Touchgrind BMX
-![game cover art](//images.igdb.com/igdb/image/upload/t_thumb/irpyfnsxrezr12jmikun.jpg "Logo Title Text 1")
+![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/irpyfnsxrezr12jmikun.jpg "Logo Title Text 1")
+###Platforms
+iOS
+###Description:
 - Chosen by Apple as one of the three best iPhone games of 2011 
 
 - Awarded Best Sports Game at the International Mobile Gaming Awards 2012
@@ -24,4 +27,7 @@ FEATURES
 - Earn medals and complete challenges at every location
 - Record and replay your runs
 - Create replay videos and show the world
-<img src="//images.igdb.com/igdb/image/upload/t_thumb/jd0lm9eqdsbfedc9yxsq.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/pnbdrapn0iaovz06po7y.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/zl22eugh6gtaxicwn2a3.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/kiutyppehrakrvfkbvjb.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/qmfixesayogbdiriymfm.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/phabsj9zgpifimkk2zz3.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/qzmoiatddbllsvok2dng.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/wxa88ohxaxapsvrqdg79.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/bmub3leauhvvrokmt39o.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/ekofzuuk0beepygnvl3u.jpg"/>
+###Screenshots
+<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/jd0lm9eqdsbfedc9yxsq.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/jd0lm9eqdsbfedc9yxsq.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/pnbdrapn0iaovz06po7y.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/pnbdrapn0iaovz06po7y.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/zl22eugh6gtaxicwn2a3.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/zl22eugh6gtaxicwn2a3.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/kiutyppehrakrvfkbvjb.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/kiutyppehrakrvfkbvjb.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/qmfixesayogbdiriymfm.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/qmfixesayogbdiriymfm.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/phabsj9zgpifimkk2zz3.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/phabsj9zgpifimkk2zz3.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/qzmoiatddbllsvok2dng.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/qzmoiatddbllsvok2dng.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/wxa88ohxaxapsvrqdg79.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/wxa88ohxaxapsvrqdg79.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/bmub3leauhvvrokmt39o.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/bmub3leauhvvrokmt39o.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/ekofzuuk0beepygnvl3u.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/ekofzuuk0beepygnvl3u.jpg"/></a>
+###Video
+[no videos yet...]

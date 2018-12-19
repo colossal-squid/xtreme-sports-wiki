@@ -4,7 +4,10 @@ platforms: n/a
 mechanics: n/a
 ---
 #Skateboard Party 2
-![game cover art](//images.igdb.com/igdb/image/upload/t_thumb/pwliknsq5qggu4tcrwlg.jpg "Logo Title Text 1")
+![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/pwliknsq5qggu4tcrwlg.jpg "Logo Title Text 1")
+###Platforms
+n/a
+###Description:
 Skateboard Party 2 brings all the fun of skateboarding to your mobile device allowing you to ride in 8 completely unique locations. Jump on your board, learn new moves and improve your skateboarding skills to land sick combos. 
  
 Play with your friends using the new online multiplayer mode or challenge skaters from all over the world using the online leaderboards. Complete achievements, gain experience and upgrade your favorite skater. You can also customize your outfits, boards, trucks and wheels with real brands. 
@@ -45,4 +48,7 @@ LOADED WITH FEATURES
 •Extended Soundtrack featuring songs from Voice of Addiction, Sink Alaska, Beta, Hitplay!, Moovalya, We Outspoken and Melodic in Fusion. 
 •Ability to purchase experience points using in-app purchases. 
 •Available in the following languages: English, French, German, Italian, Spanish, Russian, Japanese, Korean, Portuguese and Chinese
-<img src="//images.igdb.com/igdb/image/upload/t_thumb/sh10wywdomhsblrc5nt6.jpg"/>
+###Screenshots
+<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sh10wywdomhsblrc5nt6.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sh10wywdomhsblrc5nt6.jpg"/></a>
+###Video
+[no videos yet...]

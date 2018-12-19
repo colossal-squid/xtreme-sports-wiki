@@ -4,6 +4,12 @@ platforms: Nintendo DSi
 mechanics: n/a
 ---
 #Snowboard Xtreme
-![game cover art](//images.igdb.com/igdb/image/upload/t_thumb/qbtljxxf4rrwt6gkm2pj.jpg "Logo Title Text 1")
+![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qbtljxxf4rrwt6gkm2pj.jpg "Logo Title Text 1")
+###Platforms
+Nintendo DSi
+###Description:
 Plough through the snow in extremely dangerous settings!
-<img src="//images.igdb.com/igdb/image/upload/t_thumb/urpmhit4sf2jxgxqgusw.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/fqtyf2hl56v6l7nm3t9j.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/okiuygej9wtem7npaiir.jpg"/>
+###Screenshots
+<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/urpmhit4sf2jxgxqgusw.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/urpmhit4sf2jxgxqgusw.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/fqtyf2hl56v6l7nm3t9j.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/fqtyf2hl56v6l7nm3t9j.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/okiuygej9wtem7npaiir.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/okiuygej9wtem7npaiir.jpg"/></a>
+###Video
+[no videos yet...]

@@ -21,16 +21,31 @@ fs.readFile('./cooldump.json', 'utf8', (err, bin)=>{
 });
 
 function recToMd(game) {
-const screenshotsHtml = game.screenshots && game.screenshots.length ? game.screenshots.map(scr=>`<img src="${scr.url}"/>`) : '-';
+const screenshotsHtml = game.screenshots && game.screenshots.length ? game.screenshots.map(
+    scr=>`<a target="_blank" href="${scr.url.replace('t_thumb', 't_cover_big')}"><img src="${scr.url}"/></a>`
+).join('') : '[no screenshots yet ...]';
+const videoHtml = game.videos && game.videos.length ? game.videos.map(vid=>{
+    `
+    <h4>${vid.name}</h4>
+    <iframe width="560" height="315" src="
+https://www.youtube.com/embed/${vid.video_id}" frameborder="0" allowfullscreen></iframe>
+    `
+}) : '[no videos yet...]';
 return `---
 title: ${game.name.replace(':','&#x3a;')}
 platforms: ${transformPlatforms(game.platforms)}
 mechanics: ${game.core_mechanics || "n/a"}
 ---
 #${game.name}
-![game cover art](${game.cover && game.cover.url ? game.cover.url : '-'} "Logo Title Text 1")
+![game cover art](${game.cover && game.cover.url ? game.cover.url.replace('t_thumb', 't_cover_big') : '-'} "Logo Title Text 1")
+###Platforms
+${transformPlatforms(game.platforms)}
+###Description:
 ${game.summary}
+###Screenshots
 ${screenshotsHtml}
+###Video
+${videoHtml}
 `;
 }
 

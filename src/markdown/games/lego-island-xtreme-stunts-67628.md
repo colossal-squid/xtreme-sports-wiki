@@ -4,6 +4,12 @@ platforms: n/a
 mechanics: n/a
 ---
 #Lego Island: Xtreme Stunts
-![game cover art](//images.igdb.com/igdb/image/upload/t_thumb/kclphdq6zoqoaxs5yjtk.jpg "Logo Title Text 1")
+![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/kclphdq6zoqoaxs5yjtk.jpg "Logo Title Text 1")
+###Platforms
+n/a
+###Description:
 Island Xtreme Stunts is the third Lego Island game. It is a mission-based stunt driving game, centered around an open world hub. It is unknown why the word "Lego" was dropped from the title.
--
+###Screenshots
+[no screenshots yet ...]
+###Video
+[no videos yet...]

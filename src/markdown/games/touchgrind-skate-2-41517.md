@@ -4,7 +4,10 @@ platforms: iOS
 mechanics: n/a
 ---
 #Touchgrind Skate 2
-![game cover art](//images.igdb.com/igdb/image/upload/t_thumb/qhjidthulm8q2rvrdos8.jpg "Logo Title Text 1")
+![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qhjidthulm8q2rvrdos8.jpg "Logo Title Text 1")
+###Platforms
+iOS
+###Description:
 “Touchgrind Skate 2 is one of the best touch gaming experiences around that is a must buy for hours of action packed fun.” - Apple'N'Apps
 
 “Touchgrind Skate 2 blossoms into a world of enjoyment [..] Illusion Labs does it again!” - TouchArcade 
@@ -39,4 +42,7 @@ FEATURES
 
 Follow @illusionlabs on Twitter
 Like us at www.facebook.com/illusionlabs1
-<img src="//images.igdb.com/igdb/image/upload/t_thumb/jgbal67hpt8or1nuwvvn.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/xgrnzbgvspbwtvelfttb.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/rfc5jecljkjgae6msaud.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/nhai42llljb42btzzskw.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/kfgpsanfgyjoeketxkte.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/sabn4kkaw959nmxnzi71.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/b5gzp3kpwoetyak0myje.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/txe1uvidplnasmrayrnb.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/pdynjvj3ahoz3cac461c.jpg"/>,<img src="//images.igdb.com/igdb/image/upload/t_thumb/hvdacvirtrts6wi6gwft.jpg"/>
+###Screenshots
+<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/jgbal67hpt8or1nuwvvn.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/jgbal67hpt8or1nuwvvn.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/xgrnzbgvspbwtvelfttb.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/xgrnzbgvspbwtvelfttb.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/rfc5jecljkjgae6msaud.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/rfc5jecljkjgae6msaud.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/nhai42llljb42btzzskw.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/nhai42llljb42btzzskw.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/kfgpsanfgyjoeketxkte.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/kfgpsanfgyjoeketxkte.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sabn4kkaw959nmxnzi71.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sabn4kkaw959nmxnzi71.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/b5gzp3kpwoetyak0myje.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/b5gzp3kpwoetyak0myje.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/txe1uvidplnasmrayrnb.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/txe1uvidplnasmrayrnb.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/pdynjvj3ahoz3cac461c.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/pdynjvj3ahoz3cac461c.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/hvdacvirtrts6wi6gwft.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/hvdacvirtrts6wi6gwft.jpg"/></a>
+###Video
+[no videos yet...]
