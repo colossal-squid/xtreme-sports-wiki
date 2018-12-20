@@ -3,6 +3,7 @@ title: Riptide GP&#x3a; Renegade
 platforms: Android, PC (Microsoft Windows), iOS, PS4, Xbox One, Nintendo Switch
 mechanics: n/a
 date: July 2016
+sports: 
 ---
 #Riptide GP: Renegade
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nonzzeu01fzss9bfmaqo.jpg "Logo Title Text 1")

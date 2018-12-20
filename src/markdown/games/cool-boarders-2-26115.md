@@ -3,6 +3,7 @@ title: Cool Boarders 2
 platforms: PlayStation Network, PSOne
 mechanics: n/a
 date: August 1997
+sports: Snowboarding
 ---
 #Cool Boarders 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/di1vobjepgrae6szyugr.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: Sunny Garcia Surfing
 platforms: PS2
 mechanics: n/a
 date: November 2001
+sports: Surfing
 ---
 #Sunny Garcia Surfing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/vrfn8jzbraadxhwx3lts.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: Tony Hawk's Pro Skater 4
 platforms: PC (Microsoft Windows), Mac, Xbox, PSOne, GBA, Nintendo Gamecube, PS2
 mechanics: thps
 date: October 2002
+sports: Skateboarding
 ---
 #Tony Hawk's Pro Skater 4
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/shets6vcsxahsswmiodj.jpg "Logo Title Text 1")

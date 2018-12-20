@@ -3,6 +3,7 @@ title: TransWorld Snowboarding
 platforms: Xbox
 mechanics: n/a
 date: October 2002
+sports: 
 ---
 #TransWorld Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/t1i9syslizdfvldcho6o.jpg "Logo Title Text 1")

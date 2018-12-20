@@ -3,6 +3,7 @@ title: Ski and Shoot
 platforms: PC (Microsoft Windows), Nintendo Wii, PS2
 mechanics: n/a
 date: December 2008
+sports: 
 ---
 #Ski and Shoot
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nwd4vygioaufl2hswufr.jpg "Logo Title Text 1")

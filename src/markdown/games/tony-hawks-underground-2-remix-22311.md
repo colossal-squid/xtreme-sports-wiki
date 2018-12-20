@@ -3,6 +3,7 @@ title: Tony Hawk's Underground 2 Remix
 platforms: PSP
 mechanics: n/a
 date: April 2005
+sports: 
 ---
 #Tony Hawk's Underground 2 Remix
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qocr7hwltlvqypoekbuo.jpg "Logo Title Text 1")

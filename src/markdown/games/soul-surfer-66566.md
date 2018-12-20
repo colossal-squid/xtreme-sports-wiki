@@ -3,6 +3,7 @@ title: Soul Surfer
 platforms: n/a
 mechanics: n/a
 date: n/a
+sports: 
 ---
 #Soul Surfer
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/syceuky8oyqdupfmxecu.jpg "Logo Title Text 1")

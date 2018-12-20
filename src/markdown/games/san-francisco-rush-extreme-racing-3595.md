@@ -3,6 +3,7 @@ title: San Francisco Rush&#x3a; Extreme Racing
 platforms: Nintendo 64, Arcade, PSOne
 mechanics: n/a
 date: December 1996
+sports: 
 ---
 #San Francisco Rush: Extreme Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gmpspitzt4yufwvay0bu.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: TrickStyle
 platforms: PC (Microsoft Windows), Sega Dreamcast
 mechanics: n/a
 date: September 1999
+sports: 
 ---
 #TrickStyle
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/wmall0xkhamkdm5omwjz.jpg "Logo Title Text 1")

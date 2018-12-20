@@ -3,6 +3,7 @@ title: Riptide GP2
 platforms: Android, PlayStation Network, PC (Microsoft Windows), iOS, PS4, Xbox One
 mechanics: n/a
 date: July 2013
+sports: 
 ---
 #Riptide GP2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/wivpgjxmuxgtka057wta.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: Jet Set Radio Future
 platforms: Xbox
 mechanics: n/a
 date: February 2002
+sports: Inline skates
 ---
 #Jet Set Radio Future
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/pyo7wstu4k6pcgilvgif.jpg "Logo Title Text 1")

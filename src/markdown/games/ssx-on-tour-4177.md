@@ -3,6 +3,7 @@ title: SSX on Tour
 platforms: Xbox, PSP, Nintendo Gamecube, PS2
 mechanics: ssx
 date: October 2005
+sports: Snowboarding
 ---
 #SSX on Tour
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/h1bcfjf6pyz3ysa6vqfd.jpg "Logo Title Text 1")

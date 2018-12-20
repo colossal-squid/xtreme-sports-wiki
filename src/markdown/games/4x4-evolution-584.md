@@ -3,6 +3,7 @@ title: 4x4 Evolution
 platforms: PC (Microsoft Windows), Mac, Sega Dreamcast, PS2
 mechanics: n/a
 date: October 2000
+sports: 
 ---
 #4x4 Evolution
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/xdy91dx1ufgpkfhcti95.jpg "Logo Title Text 1")

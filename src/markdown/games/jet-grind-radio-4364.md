@@ -3,6 +3,7 @@ title: Jet Grind Radio
 platforms: Sega Dreamcast
 mechanics: n/a
 date: September 2000
+sports: Inline skates
 ---
 #Jet Grind Radio
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/k9o1syyx1u6qeo9ofjyd.jpg "Logo Title Text 1")

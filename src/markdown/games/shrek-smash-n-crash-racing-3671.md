@@ -3,6 +3,7 @@ title: Shrek Smash n' Crash Racing
 platforms: PSP, GBA, Nintendo Gamecube, Nintendo DS, PS2
 mechanics: n/a
 date: November 2006
+sports: 
 ---
 #Shrek Smash n' Crash Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nw3h09prv0cg6zkvjwzx.jpg "Logo Title Text 1")

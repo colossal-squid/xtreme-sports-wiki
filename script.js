@@ -48,6 +48,7 @@ title: ${game.name.replace(':','&#x3a;')}
 platforms: ${transformPlatforms(game.platforms)}
 mechanics: ${game.core_mechanics || "n/a"}
 date: ${game.first_release_date ? moment(new Date(game.first_release_date)).format('MMMM YYYY') : 'n/a'}
+sports: ${(game.sports || []).join(',')}
 ---
 #${game.name}
 ![game cover art](${game.cover && game.cover.url ? game.cover.url.replace('t_thumb', 't_cover_big') : '-'} "Logo Title Text 1")

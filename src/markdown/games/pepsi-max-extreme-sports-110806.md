@@ -3,6 +3,7 @@ title: Pepsi Max Extreme Sports
 platforms: PC (Microsoft Windows)
 mechanics: n/a
 date: October 2000
+sports: 
 ---
 #Pepsi Max Extreme Sports
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/co1h25.jpg "Logo Title Text 1")

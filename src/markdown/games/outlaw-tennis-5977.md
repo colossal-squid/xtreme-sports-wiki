@@ -3,6 +3,7 @@ title: Outlaw Tennis
 platforms: Xbox, PS2
 mechanics: n/a
 date: July 2005
+sports: 
 ---
 #Outlaw Tennis
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/xcbifkfuyaxxq04wnliq.jpg "Logo Title Text 1")

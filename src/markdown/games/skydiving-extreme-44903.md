@@ -3,6 +3,7 @@ title: Skydiving Extreme
 platforms: PSOne
 mechanics: n/a
 date: September 2001
+sports: 
 ---
 #Skydiving Extreme
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/zytgxew6wjwsrws0wm23.jpg "Logo Title Text 1")

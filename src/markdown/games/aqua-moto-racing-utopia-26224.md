@@ -3,6 +3,7 @@ title: Aqua Moto Racing Utopia
 platforms: PC (Microsoft Windows), Virtual console, PS4, Xbox One, Nintendo Switch
 mechanics: n/a
 date: November 2016
+sports: 
 ---
 #Aqua Moto Racing Utopia
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/iyk2ajgvnuzvatjzsxqf.jpg "Logo Title Text 1")

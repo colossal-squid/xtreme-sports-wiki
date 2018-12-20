@@ -3,6 +3,7 @@ title: Lego Island&#x3a; Xtreme Stunts
 platforms: n/a
 mechanics: n/a
 date: n/a
+sports: 
 ---
 #Lego Island: Xtreme Stunts
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/kclphdq6zoqoaxs5yjtk.jpg "Logo Title Text 1")

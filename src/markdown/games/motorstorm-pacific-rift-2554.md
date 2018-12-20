@@ -3,6 +3,7 @@ title: MotorStorm&#x3a; Pacific Rift
 platforms: PS3
 mechanics: n/a
 date: October 2008
+sports: 
 ---
 #MotorStorm: Pacific Rift
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/titwc4jb1fog1tyk9zzk.jpg "Logo Title Text 1")

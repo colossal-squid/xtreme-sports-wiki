@@ -3,6 +3,7 @@ title: NBA Street Vol. 2
 platforms: Xbox, Nintendo Gamecube, PS2
 mechanics: n/a
 date: April 2003
+sports: 
 ---
 #NBA Street Vol. 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ulwgzuoxpmbjsjsrveck.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: FIFA Street 3
 platforms: PS3, Xbox 360, Nintendo DS
 mechanics: n/a
 date: February 2008
+sports: 
 ---
 #FIFA Street 3
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/itky7wcmurmomdtli9yx.jpg "Logo Title Text 1")

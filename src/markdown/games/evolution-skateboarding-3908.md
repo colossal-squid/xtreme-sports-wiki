@@ -3,6 +3,7 @@ title: Evolution Skateboarding
 platforms: Nintendo Gamecube, PS2
 mechanics: n/a
 date: October 2002
+sports: 
 ---
 #Evolution Skateboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/le9cr4bc5o5bisunimhk.jpg "Logo Title Text 1")

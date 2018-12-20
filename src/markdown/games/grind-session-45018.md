@@ -3,6 +3,7 @@ title: Grind Session
 platforms: PSOne
 mechanics: n/a
 date: May 2000
+sports: 
 ---
 #Grind Session
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/yeslbtp1rv2dxk4qguw0.jpg "Logo Title Text 1")

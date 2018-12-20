@@ -3,6 +3,7 @@ title: TrackMania United Forever
 platforms: PC (Microsoft Windows)
 mechanics: n/a
 date: April 2008
+sports: 
 ---
 #TrackMania United Forever
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/x0fofrs1x00nexgbwr7y.jpg "Logo Title Text 1")

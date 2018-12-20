@@ -3,6 +3,7 @@ title: Outlaw Volleyball Red Hot
 platforms: n/a
 mechanics: n/a
 date: n/a
+sports: 
 ---
 #Outlaw Volleyball Red Hot
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/yzaheqioayxqguzwfvob.jpg "Logo Title Text 1")

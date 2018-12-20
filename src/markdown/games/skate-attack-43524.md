@@ -3,6 +3,7 @@ title: Skate Attack
 platforms: PS2
 mechanics: n/a
 date: April 2007
+sports: 
 ---
 #Skate Attack
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ktcsa0dciy2tbicighl0.jpg "Logo Title Text 1")

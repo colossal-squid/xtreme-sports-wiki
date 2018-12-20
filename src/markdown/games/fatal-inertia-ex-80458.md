@@ -3,6 +3,7 @@ title: Fatal Inertia EX
 platforms: n/a
 mechanics: n/a
 date: n/a
+sports: 
 ---
 #Fatal Inertia EX
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nwqxdnajthuzmloqrteg.jpg "Logo Title Text 1")

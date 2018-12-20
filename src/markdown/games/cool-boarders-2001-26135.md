@@ -3,6 +3,7 @@ title: Cool Boarders 2001
 platforms: PSOne, PS2
 mechanics: n/a
 date: October 2000
+sports: Snowboarding
 ---
 #Cool Boarders 2001
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/romyljsb9i3mfzkip3gk.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: Outlaw Golf
 platforms: PC (Microsoft Windows), Xbox, Nintendo Gamecube
 mechanics: n/a
 date: June 2002
+sports: 
 ---
 #Outlaw Golf
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/cxgtamh2r6z7tezfs1og.jpg "Logo Title Text 1")

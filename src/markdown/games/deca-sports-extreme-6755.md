@@ -3,6 +3,7 @@ title: Deca Sports Extreme
 platforms: Nintendo 3DS
 mechanics: n/a
 date: April 2011
+sports: 
 ---
 #Deca Sports Extreme
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/bqticqicegnoe1vbgkjk.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: Breeders' Cup World Thoroughbred Championships
 platforms: Xbox, PS2
 mechanics: n/a
 date: September 2005
+sports: 
 ---
 #Breeders' Cup World Thoroughbred Championships
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ozyje5tkhrvj6cipbt9y.jpg "Logo Title Text 1")

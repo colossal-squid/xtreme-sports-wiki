@@ -3,6 +3,7 @@ title: Mad Dash Racing
 platforms: Xbox
 mechanics: n/a
 date: November 2001
+sports: 
 ---
 #Mad Dash Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/cxbxpvrvr0jj7nwbidif.jpg "Logo Title Text 1")

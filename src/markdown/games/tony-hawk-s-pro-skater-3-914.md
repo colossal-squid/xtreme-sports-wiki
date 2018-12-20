@@ -3,6 +3,7 @@ title: Tony Hawk's Pro Skater 3
 platforms: Nintendo 64, PC (Microsoft Windows), Mac, Game Boy Color, Xbox, PSOne, GBA, Nintendo Gamecube, PS2
 mechanics: thps
 date: October 2001
+sports: Skateboarding
 ---
 #Tony Hawk's Pro Skater 3
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ckvrca62rzyaemovjk5k.jpg "Logo Title Text 1")

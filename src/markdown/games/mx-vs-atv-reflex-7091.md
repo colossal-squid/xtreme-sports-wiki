@@ -3,6 +3,7 @@ title: MX vs. ATV Reflex
 platforms: PC (Microsoft Windows), Steam OS, PS3, PSP, Xbox 360, Nintendo DS
 mechanics: n/a
 date: December 2009
+sports: 
 ---
 #MX vs. ATV Reflex
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/h39pudvgw01eoloss34q.jpg "Logo Title Text 1")

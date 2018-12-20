@@ -3,6 +3,7 @@ title: Island Xtreme Stunts
 platforms: PC (Microsoft Windows), GBA, PS2
 mechanics: n/a
 date: November 2002
+sports: 
 ---
 #Island Xtreme Stunts
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/orin4xm9chatcf0adskr.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: TrackMania DS
 platforms: Nintendo DS
 mechanics: n/a
 date: November 2008
+sports: 
 ---
 #TrackMania DS
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ehzwp2puma71h9ir3bay.jpg "Logo Title Text 1")

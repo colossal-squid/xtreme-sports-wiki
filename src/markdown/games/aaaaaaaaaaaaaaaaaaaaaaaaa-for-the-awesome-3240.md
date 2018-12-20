@@ -3,6 +3,7 @@ title: AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome
 platforms: PC (Microsoft Windows), Mac, Linux
 mechanics: n/a
 date: November 2011
+sports: 
 ---
 #AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/fvssqphzqkmw9tujvqso.jpg "Logo Title Text 1")

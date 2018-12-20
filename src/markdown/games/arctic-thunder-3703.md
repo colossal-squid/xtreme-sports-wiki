@@ -3,6 +3,7 @@ title: Arctic Thunder
 platforms: Arcade, Xbox, PS2
 mechanics: n/a
 date: September 2001
+sports: 
 ---
 #Arctic Thunder
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gvka6j6y7wblrji5q818.jpg "Logo Title Text 1")

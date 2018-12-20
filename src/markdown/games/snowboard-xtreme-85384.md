@@ -3,6 +3,7 @@ title: Snowboard Xtreme
 platforms: Nintendo DSi
 mechanics: n/a
 date: January 2013
+sports: 
 ---
 #Snowboard Xtreme
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qbtljxxf4rrwt6gkm2pj.jpg "Logo Title Text 1")

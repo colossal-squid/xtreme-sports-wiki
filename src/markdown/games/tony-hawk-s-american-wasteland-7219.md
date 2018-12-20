@@ -3,6 +3,7 @@ title: Tony Hawk's American Wasteland
 platforms: PC (Microsoft Windows), Xbox, Xbox 360, Nintendo Gamecube, PS2
 mechanics: thps
 date: October 2005
+sports: 
 ---
 #Tony Hawk's American Wasteland
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/pys7dln1gif4xrcsw34g.jpg "Logo Title Text 1")

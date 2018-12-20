@@ -3,6 +3,7 @@ title: Tony Hawk's Underground
 platforms: PC (Microsoft Windows), Xbox, GBA, Nintendo Gamecube, PS2
 mechanics: thps
 date: October 2003
+sports: Skateboarding
 ---
 #Tony Hawk's Underground
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/oswq52vp6cvuh1tgg1e3.jpg "Logo Title Text 1")

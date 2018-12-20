@@ -3,6 +3,7 @@ title: Snowboard Kids 2
 platforms: Nintendo 64
 mechanics: n/a
 date: March 1999
+sports: 
 ---
 #Snowboard Kids 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/l9dalxadszvn40vawjch.jpg "Logo Title Text 1")

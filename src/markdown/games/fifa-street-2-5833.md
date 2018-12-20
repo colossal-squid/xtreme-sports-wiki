@@ -3,6 +3,7 @@ title: FIFA Street 2
 platforms: Xbox, PSP, Nintendo Gamecube, Nintendo DS, Mobile, PS2
 mechanics: n/a
 date: February 2006
+sports: 
 ---
 #FIFA Street 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/emsii7ac7ovh9tlq3vbu.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: King Of Dirt
 platforms: PC (Microsoft Windows)
 mechanics: n/a
 date: February 2017
+sports: 
 ---
 #King Of Dirt
 ![game cover art](- "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: Outlaw Volleyball&#x3a; Remixed
 platforms: PS2
 mechanics: n/a
 date: June 2005
+sports: 
 ---
 #Outlaw Volleyball: Remixed
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nebf5oyyvlbdneivqqlr.jpg "Logo Title Text 1")

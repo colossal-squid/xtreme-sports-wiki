@@ -3,6 +3,7 @@ title: Tony Hawk's Pro Skater 2
 platforms: Nintendo 64, PC (Microsoft Windows), iOS, Mac, Game Boy Color, Xbox, PSOne, GBA, Sega Dreamcast
 mechanics: thps
 date: September 2000
+sports: Skateboarding
 ---
 #Tony Hawk's Pro Skater 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/eksrjpbmz4kdlz6yxoqc.jpg "Logo Title Text 1")

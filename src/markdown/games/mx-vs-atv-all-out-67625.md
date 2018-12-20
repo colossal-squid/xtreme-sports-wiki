@@ -3,6 +3,7 @@ title: MX vs. ATV All Out
 platforms: PC (Microsoft Windows), PS4, Xbox One
 mechanics: n/a
 date: March 2018
+sports: 
 ---
 #MX vs. ATV All Out
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/bs8kozrjvnnkxmfvurew.jpg "Logo Title Text 1")

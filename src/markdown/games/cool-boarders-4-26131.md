@@ -3,6 +3,7 @@ title: Cool Boarders 4
 platforms: PSOne
 mechanics: n/a
 date: November 1999
+sports: Snowboarding
 ---
 #Cool Boarders 4
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/yaxsuivtwzlybjyuygcs.jpg "Logo Title Text 1")

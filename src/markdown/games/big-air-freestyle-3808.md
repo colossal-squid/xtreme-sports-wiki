@@ -3,6 +3,7 @@ title: Big Air Freestyle
 platforms: Nintendo Gamecube
 mechanics: n/a
 date: September 2002
+sports: 
 ---
 #Big Air Freestyle
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nsfpgnkjtjkqalk6yigt.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: Mountain Bike Adrenaline
 platforms: PC (Microsoft Windows)
 mechanics: n/a
 date: October 2007
+sports: 
 ---
 #Mountain Bike Adrenaline
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/frjzo98ct8cehbqmvnys.jpg "Logo Title Text 1")

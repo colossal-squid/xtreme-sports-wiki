@@ -3,6 +3,7 @@ title: XGRA&#x3a; Extreme G Racing Association
 platforms: Xbox, Nintendo Gamecube, PS2
 mechanics: n/a
 date: September 2003
+sports: 
 ---
 #XGRA: Extreme G Racing Association
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/hxgff8pznlrbk3cyogro.jpg "Logo Title Text 1")

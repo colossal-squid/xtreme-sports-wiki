@@ -3,6 +3,7 @@ title: SSX Tricky
 platforms: Xbox, GBA, Nintendo Gamecube, PS2
 mechanics: ssx
 date: November 2001
+sports: Snowboarding
 ---
 #SSX Tricky
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/t5ijsgg2kzhmu7wd6wm5.jpg "Logo Title Text 1")

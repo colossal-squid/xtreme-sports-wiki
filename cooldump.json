@@ -2398,6 +2398,7 @@
 			"name": "JetX2O",
 			"data": [{
 				"id": 77121,
+				"core_mechanics": "ssx",
 				"name": "Jet X2O",
 				"slug": "jet-x2o",
 				"url": "https://www.igdb.com/games/jet-x2o",
@@ -3020,6 +3021,7 @@
 				"id": 8264,
 				"name": "Sled Storm",
 				"slug": "sled-storm",
+				"core_mechanics": "ssx",
 				"url": "https://www.igdb.com/games/sled-storm",
 				"created_at": 1418128996855,
 				"updated_at": 1530864719997,
@@ -14524,6 +14526,7 @@
 			"data": [{
 				"sports": ["Inline skates"],
 				"id": 6017,
+				"core_mechanics": "thps",
 				"name": "Rolling",
 				"slug": "rolling",
 				"url": "https://www.igdb.com/games/rolling",

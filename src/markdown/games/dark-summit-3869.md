@@ -3,6 +3,7 @@ title: Dark Summit
 platforms: Xbox, Nintendo Gamecube, PS2
 mechanics: n/a
 date: November 2001
+sports: 
 ---
 #Dark Summit
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/tjdfsfnqlauxrumopcbv.jpg "Logo Title Text 1")

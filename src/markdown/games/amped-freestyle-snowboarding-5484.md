@@ -3,6 +3,7 @@ title: Amped&#x3a; Freestyle Snowboarding
 platforms: Xbox
 mechanics: n/a
 date: November 2001
+sports: 
 ---
 #Amped: Freestyle Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ug7f0tbofaiqcjwt1dll.jpg "Logo Title Text 1")

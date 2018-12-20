@@ -3,6 +3,7 @@ title: Cool Boarders 3
 platforms: PSOne
 mechanics: n/a
 date: September 1998
+sports: Snowboarding
 ---
 #Cool Boarders 3
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ydg6qxmhq4q9s9aa2ds9.jpg "Logo Title Text 1")

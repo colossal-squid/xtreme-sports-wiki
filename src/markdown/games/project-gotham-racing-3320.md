@@ -3,6 +3,7 @@ title: Project Gotham Racing
 platforms: Xbox
 mechanics: n/a
 date: November 2001
+sports: 
 ---
 #Project Gotham Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ycupwepfoshpoahfe0tp.jpg "Logo Title Text 1")

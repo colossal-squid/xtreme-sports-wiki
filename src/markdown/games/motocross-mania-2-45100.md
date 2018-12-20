@@ -3,6 +3,7 @@ title: Motocross Mania 2
 platforms: PSOne
 mechanics: n/a
 date: July 2003
+sports: 
 ---
 #Motocross Mania 2
 ![game cover art](- "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: Antz Extreme Racing
 platforms: PC (Microsoft Windows), Xbox, GBA, PS2
 mechanics: n/a
 date: August 2002
+sports: 
 ---
 #Antz Extreme Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/puptsrrdwfolht5nke64.jpg "Logo Title Text 1")

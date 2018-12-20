@@ -3,6 +3,7 @@ title: BursTrick WakeBoarding
 platforms: PSOne
 mechanics: n/a
 date: February 2001
+sports: 
 ---
 #BursTrick WakeBoarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/fcasbqrz3zpnzosjqhdf.jpg "Logo Title Text 1")

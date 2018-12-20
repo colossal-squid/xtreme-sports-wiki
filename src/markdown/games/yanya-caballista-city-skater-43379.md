@@ -3,6 +3,7 @@ title: Yanya Caballista City Skater
 platforms: PS2
 mechanics: n/a
 date: August 2001
+sports: 
 ---
 #Yanya Caballista City Skater
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/if8isy6b4ryzpdylvzuf.jpg "Logo Title Text 1")

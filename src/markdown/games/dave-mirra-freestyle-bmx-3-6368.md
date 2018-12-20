@@ -3,6 +3,7 @@ title: Dave Mirra Freestyle BMX 3
 platforms: GBA
 mechanics: thps
 date: November 2002
+sports: BMX
 ---
 #Dave Mirra Freestyle BMX 3
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/pw9pay2raost8jycijin.jpg "Logo Title Text 1")

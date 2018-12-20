@@ -3,6 +3,7 @@ title: Beetle Adventure Racing!
 platforms: Nintendo 64
 mechanics: n/a
 date: March 1999
+sports: 
 ---
 #Beetle Adventure Racing!
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/l2ysxkrswi6ghntoxsvz.jpg "Logo Title Text 1")

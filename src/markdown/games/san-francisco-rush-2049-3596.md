@@ -3,6 +3,7 @@ title: San Francisco Rush 2049
 platforms: Nintendo 64, Arcade, Game Boy Color, Sega Dreamcast
 mechanics: n/a
 date: January 1999
+sports: 
 ---
 #San Francisco Rush 2049
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/vaanbnl3gkxcqa89jfkb.jpg "Logo Title Text 1")

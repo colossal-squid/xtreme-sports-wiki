@@ -3,6 +3,7 @@ title: Pumped BMX+
 platforms: PC (Microsoft Windows), Virtual console, Xbox One
 mechanics: n/a
 date: September 2015
+sports: 
 ---
 #Pumped BMX+
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/guijjbkgurvc8doy2y1p.jpg "Logo Title Text 1")

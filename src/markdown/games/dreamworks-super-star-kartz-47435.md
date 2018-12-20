@@ -3,6 +3,7 @@ title: DreamWorks Super Star Kartz
 platforms: Xbox 360, Nintendo 3DS
 mechanics: n/a
 date: November 2011
+sports: 
 ---
 #DreamWorks Super Star Kartz
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/sdb4webm0dnzfpgs8jiw.jpg "Logo Title Text 1")

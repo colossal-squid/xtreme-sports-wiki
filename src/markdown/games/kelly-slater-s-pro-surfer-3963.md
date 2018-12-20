@@ -3,6 +3,7 @@ title: Kelly Slater's Pro Surfer
 platforms: PC (Microsoft Windows), Xbox, GBA, Nintendo Gamecube, PS2
 mechanics: thps
 date: August 2002
+sports: Surfing
 ---
 #Kelly Slater's Pro Surfer
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/hofecvy4ggyoes9cotun.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: Excitebots&#x3a; Trick Racing
 platforms: Virtual console, Nintendo Wii
 mechanics: n/a
 date: April 2009
+sports: 
 ---
 #Excitebots: Trick Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/pty416lkg0kgbrxd737c.jpg "Logo Title Text 1")

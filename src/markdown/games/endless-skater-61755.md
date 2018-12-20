@@ -3,6 +3,7 @@ title: Endless Skater
 platforms: PC (Microsoft Windows)
 mechanics: n/a
 date: May 2013
+sports: 
 ---
 #Endless Skater
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/roccwcpxg1ilydfbtylr.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: Shox&#x3a; Rally Reinvented
 platforms: PS2
 mechanics: n/a
 date: September 2002
+sports: 
 ---
 #Shox: Rally Reinvented
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/rmtejw1sfzxfqbmzwc8q.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: Rocket Power&#x3a; Team Rocket Rescue
 platforms: PSOne
 mechanics: n/a
 date: September 2001
+sports: 
 ---
 #Rocket Power: Team Rocket Rescue
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/thnum6gcyg7hsnvzl439.jpg "Logo Title Text 1")

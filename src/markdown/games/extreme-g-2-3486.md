@@ -3,6 +3,7 @@ title: Extreme-G 2
 platforms: Nintendo 64, PC (Microsoft Windows)
 mechanics: n/a
 date: October 1998
+sports: 
 ---
 #Extreme-G 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qedx7zjcccfvo6jcm1kz.jpg "Logo Title Text 1")

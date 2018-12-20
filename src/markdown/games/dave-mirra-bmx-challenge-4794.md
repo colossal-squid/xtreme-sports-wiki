@@ -3,6 +3,7 @@ title: Dave Mirra BMX Challenge
 platforms: PSP, Nintendo Wii
 mechanics: thps
 date: November 2006
+sports: BMX
 ---
 #Dave Mirra BMX Challenge
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/dy3dflnr7wzabqs1qdv9.jpg "Logo Title Text 1")

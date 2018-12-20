@@ -3,6 +3,7 @@ title: Rocket Power&#x3a; Beach Bandits
 platforms: GBA, Nintendo Gamecube, PS2
 mechanics: n/a
 date: September 2002
+sports: 
 ---
 #Rocket Power: Beach Bandits
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/jwj3lvszszoiq1zwv9ss.jpg "Logo Title Text 1")

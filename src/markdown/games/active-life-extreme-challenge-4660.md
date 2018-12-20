@@ -3,6 +3,7 @@ title: Active Life&#x3a; Extreme Challenge
 platforms: Nintendo Wii
 mechanics: n/a
 date: August 2009
+sports: 
 ---
 #Active Life: Extreme Challenge
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/guucsdtdvsuqrbhuz8jk.jpg "Logo Title Text 1")

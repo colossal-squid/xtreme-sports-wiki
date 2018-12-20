@@ -3,6 +3,7 @@ title: ESPN Winter X Games Snowboarding
 platforms: PS2
 mechanics: n/a
 date: November 2000
+sports: 
 ---
 #ESPN Winter X Games Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ludqg8zw4csyraj9jxeb.jpg "Logo Title Text 1")

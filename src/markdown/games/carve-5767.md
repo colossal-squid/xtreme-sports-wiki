@@ -3,6 +3,7 @@ title: Carve
 platforms: Xbox
 mechanics: n/a
 date: February 2004
+sports: 
 ---
 #Carve
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/le3e6dq2jsctvh9twf4c.jpg "Logo Title Text 1")

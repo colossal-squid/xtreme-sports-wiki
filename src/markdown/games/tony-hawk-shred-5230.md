@@ -3,6 +3,7 @@ title: Tony Hawk&#x3a; Shred
 platforms: PS3, Xbox 360, Nintendo Wii
 mechanics: n/a
 date: October 2010
+sports: 
 ---
 #Tony Hawk: Shred
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/x3pza2gkhufjqaawkkck.jpg "Logo Title Text 1")

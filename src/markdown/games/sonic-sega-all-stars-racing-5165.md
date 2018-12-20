@@ -3,6 +3,7 @@ title: Sonic & Sega All-Stars Racing
 platforms: Android, Arcade, PC (Microsoft Windows), iOS, Mac, BlackBerry OS, PS3, Xbox 360, Nintendo DS, Nintendo Wii
 mechanics: n/a
 date: February 2010
+sports: 
 ---
 #Sonic & Sega All-Stars Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/shsjhpgfjqydrla8gc36.jpg "Logo Title Text 1")

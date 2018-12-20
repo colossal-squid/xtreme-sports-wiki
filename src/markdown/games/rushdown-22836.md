@@ -3,6 +3,7 @@ title: Rushdown
 platforms: PSOne
 mechanics: n/a
 date: March 1999
+sports: 
 ---
 #Rushdown
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/irven5uzja5jhahwsz4s.jpg "Logo Title Text 1")

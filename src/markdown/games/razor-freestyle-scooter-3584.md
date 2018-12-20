@@ -3,6 +3,7 @@ title: Razor Freestyle Scooter
 platforms: Nintendo 64, Game Boy Color, PSOne, GBA, Sega Dreamcast
 mechanics: n/a
 date: December 2000
+sports: 
 ---
 #Razor Freestyle Scooter
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/g8kcrkjmitljmhaf9vsm.jpg "Logo Title Text 1")

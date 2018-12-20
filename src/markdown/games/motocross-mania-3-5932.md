@@ -3,6 +3,7 @@ title: Motocross Mania 3
 platforms: Xbox, PS2
 mechanics: n/a
 date: April 2005
+sports: 
 ---
 #Motocross Mania 3
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/vqbspiaycy4mboogdt1h.jpg "Logo Title Text 1")

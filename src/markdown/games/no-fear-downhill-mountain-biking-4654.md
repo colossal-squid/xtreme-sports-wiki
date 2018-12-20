@@ -3,6 +3,7 @@ title: No Fear Downhill Mountain Biking
 platforms: Game Boy Color, PSOne
 mechanics: n/a
 date: December 1999
+sports: 
 ---
 #No Fear Downhill Mountain Biking
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/jyyzi6n0dvqj01ovbsyq.jpg "Logo Title Text 1")

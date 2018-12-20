@@ -3,6 +3,7 @@ title: Wakeboarding HD
 platforms: PS3
 mechanics: n/a
 date: March 2010
+sports: 
 ---
 #Wakeboarding HD
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/g9452upuyo9frmegogga.jpg "Logo Title Text 1")

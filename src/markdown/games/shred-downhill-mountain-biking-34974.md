@@ -3,6 +3,7 @@ title: Shred! Downhill Mountain Biking
 platforms: PC (Microsoft Windows), Mac
 mechanics: n/a
 date: July 2015
+sports: 
 ---
 #Shred! Downhill Mountain Biking
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/kclcdq5isdyh1i55egmh.jpg "Logo Title Text 1")

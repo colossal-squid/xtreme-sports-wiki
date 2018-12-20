@@ -3,6 +3,7 @@ title: Snowboard Kids
 platforms: Nintendo 64, PSOne
 mechanics: n/a
 date: February 1998
+sports: 
 ---
 #Snowboard Kids
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/owuujppkixli11l0hndz.jpg "Logo Title Text 1")

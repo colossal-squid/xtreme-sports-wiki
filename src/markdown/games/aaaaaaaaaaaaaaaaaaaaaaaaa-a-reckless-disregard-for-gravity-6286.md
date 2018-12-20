@@ -3,6 +3,7 @@ title: AaaaaAAaaaAAAaaAAAAaAAAAA!!! – A Reckless Disregard for Gravity
 platforms: PC (Microsoft Windows)
 mechanics: n/a
 date: September 2009
+sports: 
 ---
 #AaaaaAAaaaAAAaaAAAAaAAAAA!!! – A Reckless Disregard for Gravity
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/v9oj2tyajk045ckgthjb.jpg "Logo Title Text 1")

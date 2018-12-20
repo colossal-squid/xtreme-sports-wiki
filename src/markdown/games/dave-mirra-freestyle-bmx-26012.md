@@ -3,6 +3,7 @@ title: Dave Mirra Freestyle BMX
 platforms: PC (Microsoft Windows), Game Boy Color, PSOne, Sega Dreamcast
 mechanics: thps
 date: September 2000
+sports: BMX
 ---
 #Dave Mirra Freestyle BMX
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/cunj7d2auluednhpano4.jpg "Logo Title Text 1")

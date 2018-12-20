@@ -3,6 +3,7 @@ title: Tony Hawk's Pro Skater 5
 platforms: PS3, PS4, Xbox 360, Xbox One
 mechanics: thps
 date: September 2015
+sports: Skateboarding
 ---
 #Tony Hawk's Pro Skater 5
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/i8s0tvdnjuy4rxfixsj8.jpg "Logo Title Text 1")

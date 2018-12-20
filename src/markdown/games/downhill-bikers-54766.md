@@ -3,6 +3,7 @@ title: Downhill Bikers
 platforms: Arcade
 mechanics: n/a
 date: March 1998
+sports: 
 ---
 #Downhill Bikers
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gddj8eytwyxdptmo7egr.jpg "Logo Title Text 1")

@@ -3,6 +3,7 @@ title: NBA Street Homecourt
 platforms: PS3, Xbox 360
 mechanics: n/a
 date: February 2007
+sports: 
 ---
 #NBA Street Homecourt
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/sveyfrkfbiexwge1c17a.jpg "Logo Title Text 1")

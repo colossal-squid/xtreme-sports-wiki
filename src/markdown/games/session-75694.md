@@ -3,6 +3,7 @@ title: Session
 platforms: Xbox One
 mechanics: n/a
 date: n/a
+sports: 
 ---
 #Session
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ki1ojhvkgcvppomzmj2q.jpg "Logo Title Text 1")

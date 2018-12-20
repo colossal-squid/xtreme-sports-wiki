@@ -3,6 +3,7 @@ title: Tech Deck Dude Bare Knuckle Grind
 platforms: PC (Microsoft Windows)
 mechanics: n/a
 date: March 2004
+sports: 
 ---
 #Tech Deck Dude Bare Knuckle Grind
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gsot4qpvx1iop6d5ijdx.jpg "Logo Title Text 1")

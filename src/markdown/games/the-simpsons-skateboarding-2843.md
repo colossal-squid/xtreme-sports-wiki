@@ -3,6 +3,7 @@ title: The Simpsons Skateboarding
 platforms: PS2
 mechanics: n/a
 date: November 2002
+sports: 
 ---
 #The Simpsons Skateboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/sndwktpx8ayvr7g9xsjk.jpg "Logo Title Text 1")

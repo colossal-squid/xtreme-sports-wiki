@@ -3,6 +3,7 @@ title: MX vs. ATV&#x3a; Untamed
 platforms: PS3, PSP, Xbox 360, Nintendo DS, Nintendo Wii, PS2
 mechanics: n/a
 date: December 2007
+sports: 
 ---
 #MX vs. ATV: Untamed
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/jsvapkk9myz6xnu2ltsv.jpg "Logo Title Text 1")

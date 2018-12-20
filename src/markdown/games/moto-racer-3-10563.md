@@ -3,6 +3,7 @@ title: Moto Racer 3
 platforms: PC (Microsoft Windows)
 mechanics: n/a
 date: December 2001
+sports: 
 ---
 #Moto Racer 3
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/uczhu9anrqcgtpbwzvs1.jpg "Logo Title Text 1")

@@ -11,7 +11,7 @@ export default ({data}) => (
    <ul>
       <li><Link to="/games-abc/">Extreme games alphabetically</Link></li>
       <li><a href="/games-mechanics/">Extreme games by mechanics</a></li>
-      <li><a href="#">Extreme games by sport</a></li>
+      <li><a href="/games-by-sport/">Extreme games by sport</a></li>
    </ul>
    <section>
        <h2> EXTREME news!</h2>

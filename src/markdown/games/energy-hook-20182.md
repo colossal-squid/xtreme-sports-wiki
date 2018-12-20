@@ -3,6 +3,7 @@ title: Energy Hook
 platforms: PlayStation Network, PC (Microsoft Windows), Mac, PS4, Linux
 mechanics: n/a
 date: December 2014
+sports: 
 ---
 #Energy Hook
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ocytxdw9c8lwzujyvgau.jpg "Logo Title Text 1")
