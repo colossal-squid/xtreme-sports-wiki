@@ -4080,6 +4080,7 @@
 			"data": [{
 				"id": 49995,
 				"name": "Tech Deck Skateboarding",
+				"core_mechanics": "thps",
 				"slug": "tech-deck-skateboarding",
 				"url": "https://www.igdb.com/games/tech-deck-skateboarding",
 				"created_at": 1500035554225,

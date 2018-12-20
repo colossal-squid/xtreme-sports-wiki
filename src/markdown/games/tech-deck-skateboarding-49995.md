@@ -1,7 +1,7 @@
 ---
 title: Tech Deck Skateboarding
 platforms: Game Boy Color
-mechanics: n/a
+mechanics: thps
 date: April 2001
 sports: 
 ---
