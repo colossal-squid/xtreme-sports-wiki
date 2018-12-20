@@ -2,11 +2,15 @@
 title: Skyline Skaters
 platforms: iOS
 mechanics: n/a
+date: March 2014
 ---
 #Skyline Skaters
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/c1ti7skmnjjetxripfgj.jpg "Logo Title Text 1")
+####Alternative tiles:
+
 ###Platforms
 iOS
+
 ###Description:
 Skate across the rooftops of the world!
 
@@ -29,3 +33,7 @@ Get out of the subway and feel the joy of Skyline Skating!
 <a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/lg1qpspto3es00ecgnor.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/lg1qpspto3es00ecgnor.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/vgn59tcv5ki2sqaw7fzw.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/vgn59tcv5ki2sqaw7fzw.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/knw7f8sxxwea9azxkkwq.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/knw7f8sxxwea9azxkkwq.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/vjnfk9cbldjzon0bxrqa.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/vjnfk9cbldjzon0bxrqa.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/wn2lnnwzdhwtxmhkzw8z.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/wn2lnnwzdhwtxmhkzw8z.jpg"/></a>
 ###Video
 [no videos yet...]
+###Related games
+
+###Websites
+* [http://www.tactile.dk/](http://www.tactile.dk/)

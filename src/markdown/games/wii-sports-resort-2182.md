@@ -2,11 +2,16 @@
 title: Wii Sports Resort
 platforms: Nintendo Wii
 mechanics: n/a
+date: July 2009
 ---
 #Wii Sports Resort
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/vyihkhcjmdgwjmpxuem1.jpg "Logo Title Text 1")
+####Alternative tiles:
+* Wii Sports 2 (Other)
+* Wī Supōtsu Rizōto (undefined)
 ###Platforms
 Nintendo Wii
+
 ###Description:
 Set off on a journey to a tropical island where an array of fun activities await. In Wii Sports Resort, the sequel to the engaging Wii Sports, you'll discover a wide range of new sports and activities you can play anytime. Go head-to-head with your friends and family in the ultimate sports showdown set in a tropical paradise. 
  
@@ -21,4 +26,12 @@ Key Game Features:
 ###Screenshots
 <a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/pph3cha64bsvjjvdmmgy.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/pph3cha64bsvjjvdmmgy.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/alb4en9eirhgksyimyec.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/alb4en9eirhgksyimyec.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/piurqd0hnqbuxomz2ssq.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/piurqd0hnqbuxomz2ssq.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/zy1mbmwtlexxdjcya8iw.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/zy1mbmwtlexxdjcya8iw.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/gbp4aifesozldjz19x1i.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/gbp4aifesozldjz19x1i.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/q4uo55rsymutw8jsmf6l.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/q4uo55rsymutw8jsmf6l.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/nmkhqpbzh3gfe042ayso.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/nmkhqpbzh3gfe042ayso.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/qozewmsfz1zgmvb139zs.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/qozewmsfz1zgmvb139zs.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/jo1bg7g0ee4x5rvihwxv.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/jo1bg7g0ee4x5rvihwxv.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/orhp3sishdegntrupsax.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/orhp3sishdegntrupsax.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/muqeui5btbyvig3iv4dd.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/muqeui5btbyvig3iv4dd.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc3q0nxmpaj3e45hdy1m.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc3q0nxmpaj3e45hdy1m.jpg"/></a>
 ###Video
+####Trailer
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JcqPmTksZg4" frameborder="0" allowfullscreen></iframe>
+
+###Related games
+* [Wave Race 64](/games/wave-race-64-3629/)
+###Websites
+* [https://en.wikipedia.org/wiki/Wii_Sports_Resort](https://en.wikipedia.org/wiki/Wii_Sports_Resort)
+* [http://www.wiisportsresort.com/](http://www.wiisportsresort.com/)

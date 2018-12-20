@@ -2,11 +2,15 @@
 title: Outlaw Volleyball&#x3a; Remixed
 platforms: PS2
 mechanics: n/a
+date: June 2005
 ---
 #Outlaw Volleyball: Remixed
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nebf5oyyvlbdneivqqlr.jpg "Logo Title Text 1")
+####Alternative tiles:
+
 ###Platforms
 PS2
+
 ###Description:
 No Shoes. No shirts. No mercy. 
  
@@ -31,3 +35,7 @@ Gain MOMENTUM for turbo moves.
 [no screenshots yet ...]
 ###Video
 [no videos yet...]
+###Related games
+* [Outlaw Volleyball Red Hot](/games/outlaw-volleyball-red-hot-47379/)
+###Websites
+

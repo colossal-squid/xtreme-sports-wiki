@@ -2,11 +2,15 @@
 title: Cool Boarders 4
 platforms: PSOne
 mechanics: n/a
+date: November 1999
 ---
 #Cool Boarders 4
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/yaxsuivtwzlybjyuygcs.jpg "Logo Title Text 1")
+####Alternative tiles:
+
 ###Platforms
 PSOne
+
 ###Description:
 Cool Boarders 4 features 16 real-life professional snowboarders ranging from 13 year-old prodigy Shaun White to veterans such as Noah Salasnek and living-legend Jim Rippey. Players also have the ability to custom-create a rider by selecting a body, choosing brand name attire and gear, and customizing any available board to your liking. Players can choose among 34 boards from Burton, Forum, K2, MLY, M3, Salomon, Ride, Morrow and Santa Cruz. 
  
@@ -16,4 +20,14 @@ Cool Boarders 4 features big names like Jim Rippey, Ross Powers, Michele Taggart
 ###Screenshots
 <a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/ec3tnmwsjwmmtz5ydtlp.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/ec3tnmwsjwmmtz5ydtlp.jpg"/></a>
 ###Video
+####Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RHrChJWWXkY" frameborder="0" allowfullscreen></iframe>
+
+###Related games
+* [Steep](/games/steep-19554/)
+* [Cool Boarders 3](/games/cool-boarders-3-26130/)
+* [Cool Boarders 2001](/games/cool-boarders-2001-26135/)
+* [Cool Boarders](/games/cool-boarders-20728/)
+###Websites
 

@@ -2,11 +2,15 @@
 title: Tony Hawk's American Sk8land
 platforms: GBA, Nintendo DS
 mechanics: thps
+date: October 2005
 ---
 #Tony Hawk's American Sk8land
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/eeq4sjbaildexl0kshh8.jpg "Logo Title Text 1")
+####Alternative tiles:
+
 ###Platforms
 GBA, Nintendo DS
+
 ###Description:
 Tony Hawk's American Sk8land is the handheld version of American Wasteland, the seventh entry in the Tony Hawk's series. It is the first entry in the series for the Nintendo DS, and the fifth to appear on Game Boy Advance. 
  
@@ -23,3 +27,14 @@ The name is shared by the Game Boy Advance version, also created by Vicarious Vi
 <a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/eb4qsljb8z4bbtxt8urq.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/eb4qsljb8z4bbtxt8urq.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/dbgqsd3huuy8ba6ewkic.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/dbgqsd3huuy8ba6ewkic.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/by1wtwbbwe1snhjmlhyx.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/by1wtwbbwe1snhjmlhyx.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/ktuxdx41m3u3m8vhdnkc.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/ktuxdx41m3u3m8vhdnkc.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/mibfayuosn77atn31rwo.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/mibfayuosn77atn31rwo.jpg"/></a>
 ###Video
 [no videos yet...]
+###Related games
+* [Tony Hawk's Downhill Jam](/games/tony-hawk-s-downhill-jam-5231/)
+* [Tony Hawk's Proving Ground](/games/tony-hawk-s-proving-ground-2700/)
+* [Tony Hawk's Underground 2 Remix](/games/tony-hawks-underground-2-remix-22311/)
+* [SSX Tricky](/games/ssx-tricky-4176/)
+* [OlliOlli](/games/olliolli-7768/)
+* [Tony Hawk's Pro Skater 2X](/games/tony-hawks-pro-skater-2x-47325/)
+* [Tony Hawk's Pro Skater](/games/tony-hawk-s-pro-skater-6692/)
+* [Tony Hawk's Pro Skater 2](/games/tony-hawk-s-pro-skater-2-913/)
+###Websites
+* [https://en.wikipedia.org/wiki/Tony_Hawk%27s_American_Sk8land](https://en.wikipedia.org/wiki/Tony_Hawk%27s_American_Sk8land)

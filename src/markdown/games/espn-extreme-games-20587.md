@@ -2,11 +2,15 @@
 title: ESPN Extreme Games
 platforms: PSOne
 mechanics: n/a
+date: June 1995
 ---
 #ESPN Extreme Games
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/mjma1vnpoywp2tpxrmhd.jpg "Logo Title Text 1")
+####Alternative tiles:
+* 1Xtreme (Other)
 ###Platforms
 PSOne
+
 ###Description:
 Insane sports for an extreme generation! 
  
@@ -25,3 +29,7 @@ Catch epic air off ramps, launch over cable cars and discover hidden zones for t
 [no screenshots yet ...]
 ###Video
 [no videos yet...]
+###Related games
+
+###Websites
+

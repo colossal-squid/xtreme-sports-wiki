@@ -2,17 +2,26 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout";
 
-export default ({data}) => (
+export default function ({data}) {
+  const LETTERS = "#abcdefghijklmnopqrstuvwxyz".toUpperCase().split('');
+  return (
   <Layout>
    <h1> Extreme games alphabetically</h1>
-   <ul>
-       { data.allMarkdownRemark.edges.map(edge=>(
-            <li><Link to={edge.node.fields.slug} dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></Link></li>
+   <p>{LETTERS.map(letter=>(<a href={'#'+letter}>[{letter}]</a>))}</p>
+   {LETTERS.map(letter=>(
+     <section id={letter}>
+      <h2>{letter}</h2>
+        { data.allMarkdownRemark.edges
+        .filter(edge=>edge.node.frontmatter.title.toUpperCase().charAt(0) === letter || (!/[A-Z]/.test(edge.node.frontmatter.title.toUpperCase().charAt(0))) && letter === '#')
+        .map(edge=>(
+          <li><Link to={edge.node.fields.slug} dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></Link></li>
         ))
-       }
-   </ul>
+        }
+     </section>
+   ))}
   </Layout>
 )
+}
 
 export const query = graphql`
   query {

@@ -2,11 +2,15 @@
 title: Shaun White Snowboarding
 platforms: PC (Microsoft Windows), iOS, Mac, PS3, PSP, Xbox 360, Nintendo DS, Nintendo Wii, PS2
 mechanics: n/a
+date: November 2008
 ---
 #Shaun White Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/wmkbjoaklex6kuuffpnk.jpg "Logo Title Text 1")
+####Alternative tiles:
+* Shawn White Snowboarding (Other)
 ###Platforms
 PC (Microsoft Windows), iOS, Mac, PS3, PSP, Xbox 360, Nintendo DS, Nintendo Wii, PS2
+
 ###Description:
 Enter a snowboarding world of total freedom. You can create your own experience in this game, and choose when, where, how and with whom you want to ride. 
 Developed in close collaboration with Olympic Gold Medalist Shaun White – the most successful snowboarder in the history of the sport – Shaun White Snowboarding is the next-gen game that redefines the action sports genre. 
@@ -19,3 +23,7 @@ Ride your way: Express yourself through tricks, riding styles, and highly custom
 <a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/y8wclcojrmislgb0h0yw.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/y8wclcojrmislgb0h0yw.jpg"/></a>
 ###Video
 [no videos yet...]
+###Related games
+
+###Websites
+

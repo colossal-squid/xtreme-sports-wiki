@@ -1,4 +1,5 @@
 var fs = require('fs');
+var moment = require('moment');
 
 fs.readFile('./cooldump.json', 'utf8', (err, bin)=>{
     if (err) {
@@ -8,7 +9,7 @@ fs.readFile('./cooldump.json', 'utf8', (err, bin)=>{
     let allFilePromises = allRecords.data.map((record)=>{
         const game = record.data[0];
         const fileName = `${game.slug}-${game.id}.md`;
-        const dataToWrite = recToMd(game);
+        const dataToWrite = recToMd(game, allRecords.data);
         return new Promise((res, rej)=>{
             fs.writeFile(`./src/markdown/games/${fileName}`, dataToWrite, (err) => {
                 if (err) rej(err);
@@ -20,32 +21,51 @@ fs.readFile('./cooldump.json', 'utf8', (err, bin)=>{
     });
 });
 
-function recToMd(game) {
+function recToMd(game, allRecords) {
+const gamesList = (game.games || [])
+.map( id => {
+    let found = allRecords.find( rec => rec.data[0].id === id );
+    if (!found) {
+        console.log(`could not map ${id}`)
+    } else {
+        console.log(`Mapped ${found.data[0].name}`)
+    }
+    return !!found ? found.data[0] : 'nope'; 
+})
+.filter(g => g!== 'nope')
+.map( rec => `* [${rec.name}](/games/${rec.slug +'-'+ rec.id}/)` ).join('\n');
 const screenshotsHtml = game.screenshots && game.screenshots.length ? game.screenshots.map(
     scr=>`<a target="_blank" href="${scr.url.replace('t_thumb', 't_cover_big')}"><img src="${scr.url}"/></a>`
 ).join('') : '[no screenshots yet ...]';
 const videoHtml = game.videos && game.videos.length ? game.videos.map(vid=>{
-    `
-    <h4>${vid.name}</h4>
-    <iframe width="560" height="315" src="
-https://www.youtube.com/embed/${vid.video_id}" frameborder="0" allowfullscreen></iframe>
-    `
+    return `####${vid.name}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/${vid.video_id}" frameborder="0" allowfullscreen></iframe>
+`
 }) : '[no videos yet...]';
 return `---
 title: ${game.name.replace(':','&#x3a;')}
 platforms: ${transformPlatforms(game.platforms)}
 mechanics: ${game.core_mechanics || "n/a"}
+date: ${game.first_release_date ? moment(new Date(game.first_release_date)).format('MMMM YYYY') : 'n/a'}
 ---
 #${game.name}
 ![game cover art](${game.cover && game.cover.url ? game.cover.url.replace('t_thumb', 't_cover_big') : '-'} "Logo Title Text 1")
+####Alternative tiles:
+${(game.alternative_names || []).map(name=>`* ${name.name} (${name.comment})`).join('\n')}
 ###Platforms
 ${transformPlatforms(game.platforms)}
+
 ###Description:
 ${game.summary}
 ###Screenshots
 ${screenshotsHtml}
 ###Video
 ${videoHtml}
+###Related games
+${gamesList}
+###Websites
+${(game.websites || []).map( site=> `* [${site.url}](${site.url})` ).join('\n')}
 `;
 }
 

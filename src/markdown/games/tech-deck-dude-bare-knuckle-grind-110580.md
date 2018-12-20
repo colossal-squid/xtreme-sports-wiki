@@ -2,11 +2,15 @@
 title: Tech Deck Dude Bare Knuckle Grind
 platforms: PC (Microsoft Windows)
 mechanics: n/a
+date: March 2004
 ---
 #Tech Deck Dude Bare Knuckle Grind
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gsot4qpvx1iop6d5ijdx.jpg "Logo Title Text 1")
+####Alternative tiles:
+
 ###Platforms
 PC (Microsoft Windows)
+
 ###Description:
 The game is a fully-functional THPS clone released for PC. Version for XBOX was never released (but there's a working prototype you can find on the net) 
  
@@ -20,3 +24,7 @@ Tech Deck Dude Bare Knuckle Grind Space-Town
 <a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/cj5efcyuu1wejvr7hysf.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/cj5efcyuu1wejvr7hysf.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/azrvdjfp8deywyj62ubr.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/azrvdjfp8deywyj62ubr.jpg"/></a>
 ###Video
 [no videos yet...]
+###Related games
+
+###Websites
+

@@ -19,5 +19,8 @@
     "react-typography": "^0.16.18",
     "typography": "^0.16.18",
     "typography-theme-twin-peaks": "^0.16.18"
+  },
+  "devDependencies": {
+    "moment": "^2.23.0"
   }
 }

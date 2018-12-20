@@ -2,11 +2,15 @@
 title: MX World Tour
 platforms: PS2
 mechanics: n/a
+date: May 2005
 ---
 #MX World Tour
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/uyldpqgfrm3aggwtqzit.jpg "Logo Title Text 1")
+####Alternative tiles:
+
 ###Platforms
 PS2
+
 ###Description:
 This game features Motocross racing and showcases popular motorsports commentator, Jamie Little. Race against 11 other riders on 32 different tracks around the globe. 
  
@@ -17,3 +21,7 @@ Jamie Little, in addition to providing race commentary, is also a playable chara
 [no screenshots yet ...]
 ###Video
 [no videos yet...]
+###Related games
+
+###Websites
+

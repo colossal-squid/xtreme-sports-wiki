@@ -2,11 +2,16 @@
 title: Sonic & Sega All-Stars Racing
 platforms: Android, Arcade, PC (Microsoft Windows), iOS, Mac, BlackBerry OS, PS3, Xbox 360, Nintendo DS, Nintendo Wii
 mechanics: n/a
+date: February 2010
 ---
 #Sonic & Sega All-Stars Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/shsjhpgfjqydrla8gc36.jpg "Logo Title Text 1")
+####Alternative tiles:
+* Sonic & Sega All-Stars Racing with Banjo-Kazooie (undefined)
+* Sonikku Ando Sega Ōru-Sutāzu Rēshingu (Japanese title)
 ###Platforms
 Android, Arcade, PC (Microsoft Windows), iOS, Mac, BlackBerry OS, PS3, Xbox 360, Nintendo DS, Nintendo Wii
+
 ###Description:
 SONIC AND SEGA ALL-STARS RACE FOR VICTORY IN A HIGH SPEED HIGH SKILL RACETRACK SHOWDOWN! 
  
@@ -21,4 +26,15 @@ Explore stunning new circuits including Sonic Seaside Hill, Curien Mansion and B
 ###Screenshots
 <a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/p9fp9e6tpiyhyofjei86.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/p9fp9e6tpiyhyofjei86.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/xg9ab9cyzixxdxmybpfu.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/xg9ab9cyzixxdxmybpfu.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/pemmz6bfl32vdnmwcc4h.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/pemmz6bfl32vdnmwcc4h.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/g2evqm8ktgwksqomb48a.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/g2evqm8ktgwksqomb48a.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/xsdiesrs50x8rzvpwpot.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/xsdiesrs50x8rzvpwpot.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/bi80jfln1uwhhlbcrhlg.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/bi80jfln1uwhhlbcrhlg.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/xg07ptatovwbyaevhrpj.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/xg07ptatovwbyaevhrpj.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/yoqv9mxnvb2ka0caulpp.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/yoqv9mxnvb2ka0caulpp.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/lv9crsl3kjyp92lpeuxd.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/lv9crsl3kjyp92lpeuxd.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/rbz0jxeiaaicmew0rzny.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/rbz0jxeiaaicmew0rzny.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/johtiv5xlwgj0lh0yzsp.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/johtiv5xlwgj0lh0yzsp.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/vpl5htaiyfvkyzi6sw8h.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/vpl5htaiyfvkyzi6sw8h.jpg"/></a>
 ###Video
+####Trailer
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i7KIeD1tNGo" frameborder="0" allowfullscreen></iframe>
+
+###Related games
+
+###Websites
+* [https://itunes.apple.com/us/app/sonic-sega-all-stars-racing/id429208823?mt=8&uo=4](https://itunes.apple.com/us/app/sonic-sega-all-stars-racing/id429208823?mt=8&uo=4)
+* [http://sonic.wikia.com/wiki/Sonic_%26_Sega_All-Stars_Racing](http://sonic.wikia.com/wiki/Sonic_%26_Sega_All-Stars_Racing)
+* [https://en.wikipedia.org/wiki/Sonic_%26_Sega_All-Stars_Racing](https://en.wikipedia.org/wiki/Sonic_%26_Sega_All-Stars_Racing)
+* [http://www.sega.com/sonicracing/](http://www.sega.com/sonicracing/)
+* [https://store.steampowered.com/app/34190](https://store.steampowered.com/app/34190)

@@ -2,11 +2,15 @@
 title: Skateboard Party 2
 platforms: n/a
 mechanics: n/a
+date: n/a
 ---
 #Skateboard Party 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/pwliknsq5qggu4tcrwlg.jpg "Logo Title Text 1")
+####Alternative tiles:
+
 ###Platforms
 n/a
+
 ###Description:
 Skateboard Party 2 brings all the fun of skateboarding to your mobile device allowing you to ride in 8 completely unique locations. Jump on your board, learn new moves and improve your skateboarding skills to land sick combos. 
  
@@ -52,3 +56,7 @@ LOADED WITH FEATURES
 <a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sh10wywdomhsblrc5nt6.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sh10wywdomhsblrc5nt6.jpg"/></a>
 ###Video
 [no videos yet...]
+###Related games
+
+###Websites
+

@@ -2,11 +2,15 @@
 title: Cool Boarders 2
 platforms: PlayStation Network, PSOne
 mechanics: n/a
+date: August 1997
 ---
 #Cool Boarders 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/di1vobjepgrae6szyugr.jpg "Logo Title Text 1")
+####Alternative tiles:
+
 ###Platforms
 PlayStation Network, PSOne
+
 ###Description:
 Cool Boarders 2 features four stock riders and six stock tracks. Many more are available as you progress through the game or unlock them with codes or secrets. 
  
@@ -16,4 +20,16 @@ The tracks all vary in length and challenge level. There is also a half pipe, Bo
 ###Screenshots
 [no screenshots yet ...]
 ###Video
+####Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p7mrFzi-aQA" frameborder="0" allowfullscreen></iframe>
+
+###Related games
+* [Cool Boarders](/games/cool-boarders-20728/)
+* [Cool Boarders 3](/games/cool-boarders-3-26130/)
+* [Cool Boarders 4](/games/cool-boarders-4-26131/)
+* [Cool Boarders 2001](/games/cool-boarders-2001-26135/)
+* [Steep](/games/steep-19554/)
+* [SSX Tricky](/games/ssx-tricky-4176/)
+###Websites
 

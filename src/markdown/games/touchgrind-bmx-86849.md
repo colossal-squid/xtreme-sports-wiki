@@ -2,11 +2,15 @@
 title: Touchgrind BMX
 platforms: iOS
 mechanics: n/a
+date: May 2011
 ---
 #Touchgrind BMX
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/irpyfnsxrezr12jmikun.jpg "Logo Title Text 1")
+####Alternative tiles:
+
 ###Platforms
 iOS
+
 ###Description:
 - Chosen by Apple as one of the three best iPhone games of 2011 
 
@@ -31,3 +35,7 @@ FEATURES
 <a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/jd0lm9eqdsbfedc9yxsq.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/jd0lm9eqdsbfedc9yxsq.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/pnbdrapn0iaovz06po7y.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/pnbdrapn0iaovz06po7y.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/zl22eugh6gtaxicwn2a3.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/zl22eugh6gtaxicwn2a3.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/kiutyppehrakrvfkbvjb.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/kiutyppehrakrvfkbvjb.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/qmfixesayogbdiriymfm.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/qmfixesayogbdiriymfm.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/phabsj9zgpifimkk2zz3.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/phabsj9zgpifimkk2zz3.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/qzmoiatddbllsvok2dng.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/qzmoiatddbllsvok2dng.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/wxa88ohxaxapsvrqdg79.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/wxa88ohxaxapsvrqdg79.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/bmub3leauhvvrokmt39o.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/bmub3leauhvvrokmt39o.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/ekofzuuk0beepygnvl3u.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/ekofzuuk0beepygnvl3u.jpg"/></a>
 ###Video
 [no videos yet...]
+###Related games
+
+###Websites
+* [https://itunes.apple.com/us/app/touchgrind-bmx/id426072035?mt=8&uo=4](https://itunes.apple.com/us/app/touchgrind-bmx/id426072035?mt=8&uo=4)

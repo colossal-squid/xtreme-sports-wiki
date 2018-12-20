@@ -2,11 +2,15 @@
 title: Snowboard Kids 2
 platforms: Nintendo 64
 mechanics: n/a
+date: March 1999
 ---
 #Snowboard Kids 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/l9dalxadszvn40vawjch.jpg "Logo Title Text 1")
+####Alternative tiles:
+* SBK 2 (Other)
 ###Platforms
 Nintendo 64
+
 ###Description:
 The game is set in Snow Town, which is the main hometown of the protagonists. The plot follows the daily lives and adventures of the kids, and the rather ridiculous attempts of Damien to sabotage them. 
  
@@ -21,3 +25,10 @@ The special tricks (which were different for each character and required the pla
 <a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/rsi6bpuhafnm4mslmyb5.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/rsi6bpuhafnm4mslmyb5.jpg"/></a>
 ###Video
 [no videos yet...]
+###Related games
+* [Snowboard Kids Plus](/games/snowboard-kids-plus-72103/)
+* [Snowboard Kids](/games/snowboard-kids-3342/)
+* [SBK: Snowboard Kids](/games/sbk-snowboard-kids-47725/)
+* [Amped: Freestyle Snowboarding](/games/amped-freestyle-snowboarding-5484/)
+###Websites
+
