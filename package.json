@@ -7,7 +7,6 @@
     "start": "npm run develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "regen": "rm -rf src/markdown/games/* && node script.js && gatsby develop",
     "deploy": "surge ./public/ extreme-wiki.roman-guivan.online"
   },
   "dependencies": {
