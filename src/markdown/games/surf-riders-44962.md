@@ -3,7 +3,7 @@ title: Surf Riders
 platforms: PSOne
 mechanics: n/a
 date: September 2000
-sports: 
+sports: Surfing
 ---
 #Surf Riders
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/b6tujtsokx0mkmdxbpmy.jpg "Logo Title Text 1")

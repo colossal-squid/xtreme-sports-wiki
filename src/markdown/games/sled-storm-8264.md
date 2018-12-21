@@ -3,7 +3,7 @@ title: Sled Storm
 platforms: PS2
 mechanics: ssx
 date: March 2002
-sports: 
+sports: Snowmobile
 ---
 #Sled Storm
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/fgyum8r4sy9qugcnwqrj.jpg "Logo Title Text 1")

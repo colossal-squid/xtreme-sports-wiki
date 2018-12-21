@@ -3,7 +3,7 @@ title: MotorStorm&#x3a; Arctic Edge
 platforms: PSP, PS2
 mechanics: n/a
 date: September 2009
-sports: 
+sports: Snowmobile
 ---
 #MotorStorm: Arctic Edge
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/zrj0wfpchw6crbhjyaru.jpg "Logo Title Text 1")

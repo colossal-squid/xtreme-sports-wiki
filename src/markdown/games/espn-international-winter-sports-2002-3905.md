@@ -3,7 +3,7 @@ title: ESPN International WInter Sports 2002
 platforms: Xbox, GBA, Nintendo Gamecube, PS2
 mechanics: n/a
 date: January 2002
-sports: 
+sports: Ski
 ---
 #ESPN International WInter Sports 2002
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/un40f6brenljnqmoiuhl.jpg "Logo Title Text 1")

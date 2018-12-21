@@ -3,7 +3,7 @@ title: Alpine Racer
 platforms: n/a
 mechanics: n/a
 date: n/a
-sports: 
+sports: Ski
 ---
 #Alpine Racer
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/kl9frfu5xb4dgmnrffl8.jpg "Logo Title Text 1")

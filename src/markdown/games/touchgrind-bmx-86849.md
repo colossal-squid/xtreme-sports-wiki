@@ -3,7 +3,7 @@ title: Touchgrind BMX
 platforms: iOS
 mechanics: n/a
 date: May 2011
-sports: 
+sports: BMX
 ---
 #Touchgrind BMX
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/irpyfnsxrezr12jmikun.jpg "Logo Title Text 1")

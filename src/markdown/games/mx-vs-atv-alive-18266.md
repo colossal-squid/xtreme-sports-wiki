@@ -3,7 +3,7 @@ title: MX vs. ATV Alive
 platforms: PS3, Xbox 360
 mechanics: n/a
 date: May 2011
-sports: 
+sports: ATV,MX
 ---
 #MX vs. ATV Alive
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/b5rgirera8xgus3zdsdy.jpg "Logo Title Text 1")

@@ -3,7 +3,7 @@ title: Descenders
 platforms: PC (Microsoft Windows), PS4, Xbox One, Nintendo Switch
 mechanics: n/a
 date: February 2018
-sports: 
+sports: Mountain bike
 ---
 #Descenders
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ouo8qsui9yq0jjgg9gsy.jpg "Logo Title Text 1")

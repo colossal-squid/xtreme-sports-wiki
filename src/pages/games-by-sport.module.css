@@ -1,0 +1,9 @@
+.img {
+    height: 130px;
+    object-fit: cover;
+}
+
+.blocky {
+    display: flex;
+    flex-direction: column;
+}

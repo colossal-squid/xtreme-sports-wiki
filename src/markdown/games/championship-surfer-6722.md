@@ -3,7 +3,7 @@ title: Championship Surfer
 platforms: PSOne, Sega Dreamcast
 mechanics: n/a
 date: November 2000
-sports: 
+sports: Surfing
 ---
 #Championship Surfer
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/hij8afadqrtcdutwosdl.jpg "Logo Title Text 1")

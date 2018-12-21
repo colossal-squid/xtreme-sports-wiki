@@ -3,7 +3,7 @@ title: Splashdown
 platforms: Xbox, PS2
 mechanics: n/a
 date: November 2001
-sports: 
+sports: Jet Ski
 ---
 #Splashdown
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/lxghp7sklbxsjxucpvs3.jpg "Logo Title Text 1")

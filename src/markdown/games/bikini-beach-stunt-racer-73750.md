@@ -3,7 +3,7 @@ title: Bikini Beach&#x3a; Stunt Racer
 platforms: n/a
 mechanics: thps
 date: n/a
-sports: Beach buggy
+sports: ATV
 ---
 #Bikini Beach: Stunt Racer
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/yb1fhjnjjmtxaokcj3yk.jpg "Logo Title Text 1")

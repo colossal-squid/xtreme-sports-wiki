@@ -3,7 +3,7 @@ title: Motocross Madness
 platforms: Xbox 360
 mechanics: n/a
 date: April 2013
-sports: 
+sports: MX
 ---
 #Motocross Madness
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/johv1vtwp79hfcxnbgct.jpg "Logo Title Text 1")

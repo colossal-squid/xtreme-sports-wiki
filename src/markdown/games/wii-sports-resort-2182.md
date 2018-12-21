@@ -3,7 +3,7 @@ title: Wii Sports Resort
 platforms: Nintendo Wii
 mechanics: n/a
 date: July 2009
-sports: 
+sports: Jet Ski
 ---
 #Wii Sports Resort
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/vyihkhcjmdgwjmpxuem1.jpg "Logo Title Text 1")

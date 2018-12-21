@@ -3,7 +3,7 @@ title: ESPN X Games Skateboarding
 platforms: GBA, PS2
 mechanics: n/a
 date: September 2001
-sports: 
+sports: Skateboarding
 ---
 #ESPN X Games Skateboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/zqzlxuoqtfiuig4kovou.jpg "Logo Title Text 1")

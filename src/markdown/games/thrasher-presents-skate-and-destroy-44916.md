@@ -3,7 +3,7 @@ title: Thrasher Presents&#x3a; Skate and Destroy
 platforms: PSOne
 mechanics: n/a
 date: December 1999
-sports: 
+sports: Skateboarding
 ---
 #Thrasher Presents: Skate and Destroy
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/inoievotcifwqzblrf5x.jpg "Logo Title Text 1")

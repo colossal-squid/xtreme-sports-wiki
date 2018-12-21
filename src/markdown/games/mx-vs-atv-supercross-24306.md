@@ -3,7 +3,7 @@ title: MX vs. ATV Supercross
 platforms: PlayStation Network
 mechanics: n/a
 date: October 2014
-sports: 
+sports: ATV,MX
 ---
 #MX vs. ATV Supercross
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/a3alv08dizvlhwvy9a5c.jpg "Logo Title Text 1")

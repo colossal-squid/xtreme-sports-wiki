@@ -3,7 +3,7 @@ title: MX Vs. ATV Unleashed
 platforms: PC (Microsoft Windows)
 mechanics: n/a
 date: January 2006
-sports: 
+sports: ATV,MX
 ---
 #MX Vs. ATV Unleashed
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/vpnn2qmyqb6ls6ussvbc.jpg "Logo Title Text 1")

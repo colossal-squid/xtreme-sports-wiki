@@ -3,7 +3,7 @@ title: ESPN Extreme Games
 platforms: PSOne
 mechanics: n/a
 date: June 1995
-sports: 
+sports: Skateboarding,Mountain bike,Inline skates
 ---
 #ESPN Extreme Games
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/mjma1vnpoywp2tpxrmhd.jpg "Logo Title Text 1")

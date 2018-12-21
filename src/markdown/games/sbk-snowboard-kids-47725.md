@@ -3,7 +3,7 @@ title: SBK&#x3a; Snowboard Kids
 platforms: Nintendo DS
 mechanics: n/a
 date: December 2005
-sports: 
+sports: Snowboarding
 ---
 #SBK: Snowboard Kids
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/iqlqwsfog1xg6rzwqgts.jpg "Logo Title Text 1")

@@ -3,7 +3,7 @@ title: Surf's Up
 platforms: PC (Microsoft Windows), Mac, PS3, PSP, Xbox 360, GBA, Nintendo Gamecube, Nintendo DS, Nintendo Wii, PS2
 mechanics: n/a
 date: May 2007
-sports: 
+sports: Surfing
 ---
 #Surf's Up
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/aejqlibddsyqd9zvcdjs.jpg "Logo Title Text 1")

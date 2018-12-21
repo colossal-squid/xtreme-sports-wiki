@@ -3,7 +3,7 @@ title: Hydro Thunder Hurricane
 platforms: PC (Microsoft Windows), Xbox Live Arcade
 mechanics: n/a
 date: July 2010
-sports: 
+sports: Boat racing
 ---
 #Hydro Thunder Hurricane
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/rmovjwfefpg9dwgmy8cn.jpg "Logo Title Text 1")

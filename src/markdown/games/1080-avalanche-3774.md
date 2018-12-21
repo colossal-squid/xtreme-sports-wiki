@@ -3,7 +3,7 @@ title: 1080° Avalanche
 platforms: Nintendo Gamecube
 mechanics: n/a
 date: November 2003
-sports: 
+sports: Snowboarding
 ---
 #1080° Avalanche
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gsyfqjzg1b7bftyh2alg.jpg "Logo Title Text 1")

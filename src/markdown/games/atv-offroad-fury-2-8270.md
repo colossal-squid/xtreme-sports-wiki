@@ -3,7 +3,7 @@ title: ATV Offroad Fury 2
 platforms: PS2
 mechanics: n/a
 date: November 2002
-sports: 
+sports: ATV
 ---
 #ATV Offroad Fury 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/vbtpwwf1rsknqygstq0g.jpg "Logo Title Text 1")

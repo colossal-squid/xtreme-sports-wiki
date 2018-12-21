@@ -5,6 +5,7 @@
 				"id": 3342,
 				"name": "Snowboard Kids",
 				"slug": "snowboard-kids",
+				"sports": ["Snowboarding"],
 				"url": "https://www.igdb.com/games/snowboard-kids",
 				"created_at": 1388694469144,
 				"updated_at": 1521971690201,
@@ -297,6 +298,7 @@
 			"name": "Motocross Madness",
 			"data": [{
 				"id": 10261,
+				"sports": ["MX"],
 				"name": "Motocross Madness",
 				"slug": "motocross-madness--1",
 				"url": "https://www.igdb.com/games/motocross-madness--1",
@@ -349,6 +351,7 @@
 			"data": [{
 				"id": 3343,
 				"name": "Snowboard Kids 2",
+				"sports": ["Snowboarding"],
 				"slug": "snowboard-kids-2",
 				"url": "https://www.igdb.com/games/snowboard-kids-2",
 				"created_at": 1388694625418,
@@ -408,6 +411,7 @@
 			"data": [{
 				"id": 43373,
 				"name": "ESPN Winter X Games Snowboarding",
+				"sports": ["Snowboarding"],
 				"slug": "espn-winter-x-games-snowboarding",
 				"url": "https://www.igdb.com/games/espn-winter-x-games-snowboarding",
 				"created_at": 1499151932743,
@@ -881,6 +885,7 @@
 				"id": 45033,
 				"name": "Street Sk8er 2",
 				"slug": "street-sk8er-2",
+				"sports": ["Skateboarding"],
 				"url": "https://www.igdb.com/games/street-sk8er-2",
 				"created_at": 1499446098335,
 				"updated_at": 1516169537208,
@@ -919,6 +924,7 @@
 			"data": [{
 				"id": 3328,
 				"name": "1080° Snowboarding",
+				"sports": ["Snowboarding"],
 				"slug": "1080-snowboarding",
 				"url": "https://www.igdb.com/games/1080-snowboarding",
 				"created_at": 1388684191672,
@@ -1085,6 +1091,7 @@
 			"name": "Thrasher Presents: Skate and Destroy",
 			"data": [{
 				"id": 44916,
+				"sports": ["Skateboarding"],
 				"name": "Thrasher Presents: Skate and Destroy",
 				"slug": "thrasher-presents-skate-and-destroy",
 				"url": "https://www.igdb.com/games/thrasher-presents-skate-and-destroy",
@@ -1210,6 +1217,7 @@
 				"slug": "espn-international-winter-sports-2002",
 				"url": "https://www.igdb.com/games/espn-international-winter-sports-2002",
 				"created_at": 1390198558400,
+				"sports": ["Ski"],
 				"updated_at": 1515696830586,
 				"summary": "As for the Winter Olympics rapidly approach, ESPN the Games invites gamers to experience all the thrills, chills and spills of cold-air competition with the only multi-event winter sports game available on any platform - ESPN International Winter Sports 2002. Boasting fast-paced events such as Downhill Alpine Skiing, Freestyle Mogul Skiing, Speed Skating, Bobsledding and more, ESPN International Winter Sports 2002 is fully-loaded. Cut through the gates at death-defying speeds in the slalom or bust some big air ski jumping as ESPN International Winter Sports 2002 provides the ultimate gaming experience for the most timid snowbunnies to adventurous hot dogs alike.",
 				"collection": 3936,
@@ -1327,6 +1335,7 @@
 			"data": [{
 				"id": 6340,
 				"name": "Downhill Domination",
+				"sports": ["Mountain bike"],
 				"slug": "downhill-domination",
 				"url": "https://www.igdb.com/games/downhill-domination",
 				"created_at": 1398117605738,
@@ -1570,6 +1579,7 @@
 				"id": 5231,
 				"name": "Tony Hawk's Downhill Jam",
 				"slug": "tony-hawk-s-downhill-jam",
+				"sports": ["Skateboarding"],
 				"url": "https://www.igdb.com/games/tony-hawk-s-downhill-jam",
 				"created_at": 1391998535460,
 				"updated_at": 1518017502422,
@@ -1917,6 +1927,7 @@
 			"my_rating": 3,
 			"data": [{
 				"id": 45018,
+				"sports": ["Skateboarding"],
 				"name": "Grind Session",
 				"slug": "grind-session",
 				"url": "https://www.igdb.com/games/grind-session",
@@ -2399,6 +2410,7 @@
 			"data": [{
 				"id": 77121,
 				"core_mechanics": "ssx",
+				"sports": ["Jet Ski"],
 				"name": "Jet X2O",
 				"slug": "jet-x2o",
 				"url": "https://www.igdb.com/games/jet-x2o",
@@ -2575,6 +2587,7 @@
 			"data": [{
 				"id": 44894,
 				"name": "Razor Racing",
+				"sports": ["Scooter"],
 				"slug": "razor-racing",
 				"url": "https://www.igdb.com/games/razor-racing",
 				"created_at": 1499443111178,
@@ -2607,6 +2620,7 @@
 			"name": "Championship Surfer",
 			"data": [{
 				"id": 6722,
+				"sports": ["Surfing"],
 				"name": "Championship Surfer",
 				"slug": "championship-surfer",
 				"url": "https://www.igdb.com/games/championship-surfer",
@@ -2825,6 +2839,7 @@
 			"name": "ATV Racers",
 			"data": [{
 				"id": 62261,
+				"sports": ["ATV"],
 				"name": "ATV Racers",
 				"slug": "atv-racers",
 				"url": "https://www.igdb.com/games/atv-racers",
@@ -2843,56 +2858,6 @@
 					"width": 640,
 					"height": 640
 				}
-			}]
-		}, {
-			"name": "Breeders' Cup: World Thoroughbred Championships",
-			"data": [{
-				"id": 47339,
-				"name": "Breeders' Cup World Thoroughbred Championships",
-				"slug": "breeders-cup-world-thoroughbred-championships",
-				"url": "https://www.igdb.com/games/breeders-cup-world-thoroughbred-championships",
-				"created_at": 1499865610811,
-				"updated_at": 1520006558180,
-				"summary": "Experience the most realistic horse racing simulation ever created and the only game officially licensed by the NTRA, with Breeders' Cup World Thoroughbred Championships. With thousands of horses, ability to race your own Thoroughbred, play the ponies, and even build your own stable, Breeders' Cup is the horse racing game with something for everyone.",
-				"popularity": 1.333333333333333,
-				"games": [44242, 54662, 40470, 18623, 22470, 29173, 22425, 26145, 55590, 54789],
-				"tags": [268435466, 268435469, 268435470, 536871535, 536872060, 536872078, 536875090, 536875244, 536875955, 536884021],
-				"developers": [279],
-				"category": 0,
-				"keywords": [623, 1148, 1166, 4178, 4332, 5043, 13109],
-				"genres": [10, 13, 14],
-				"first_release_date": 1127779200000,
-				"platforms": [11, 8],
-				"release_dates": [{
-					"category": 0,
-					"platform": 8,
-					"date": 1127779200000,
-					"region": 8,
-					"human": "2005-Sep-27",
-					"y": 2005,
-					"m": 9
-				}, {
-					"category": 0,
-					"platform": 11,
-					"date": 1130371200000,
-					"region": 8,
-					"human": "2005-Oct-27",
-					"y": 2005,
-					"m": 10
-				}],
-				"cover": {
-					"url": "//images.igdb.com/igdb/image/upload/t_thumb/ozyje5tkhrvj6cipbt9y.jpg",
-					"cloudinary_id": "ozyje5tkhrvj6cipbt9y",
-					"width": 617,
-					"height": 872
-				},
-				"esrb": {
-					"rating": 3
-				},
-				"websites": [{
-					"category": 2,
-					"url": "https://wiki.pcsx2.net/Breeders%27_Cup_World_Thoroughbred_Championships"
-				}]
 			}]
 		}, {
 			"name": "Sunny Garcia Surfing",
@@ -2969,6 +2934,7 @@
 				"id": 6149,
 				"name": "Splashdown",
 				"slug": "splashdown",
+				"sports": ["Jet Ski"],
 				"url": "https://www.igdb.com/games/splashdown",
 				"created_at": 1397840174198,
 				"updated_at": 1519519081991,
@@ -3021,6 +2987,7 @@
 				"id": 8264,
 				"name": "Sled Storm",
 				"slug": "sled-storm",
+				"sports": ["Snowmobile"],
 				"core_mechanics": "ssx",
 				"url": "https://www.igdb.com/games/sled-storm",
 				"created_at": 1418128996855,
@@ -3226,6 +3193,7 @@
 				"id": 22839,
 				"name": "Street Sk8er",
 				"slug": "street-sk8er",
+				"sports": ["Skateboarding"],
 				"url": "https://www.igdb.com/games/street-sk8er",
 				"created_at": 1471986246066,
 				"updated_at": 1513023104099,
@@ -3554,6 +3522,7 @@
 			"data": [{
 				"id": 44962,
 				"name": "Surf Riders",
+				"sports": ["Surfing"],
 				"slug": "surf-riders",
 				"url": "https://www.igdb.com/games/surf-riders",
 				"created_at": 1499443846569,
@@ -3687,6 +3656,7 @@
 			"name": "MTV Sports: Snowboarding",
 			"data": [{
 				"id": 43858,
+				"sports": ["Snowboarding"],
 				"name": "MTV Sports: Snowboarding",
 				"slug": "mtv-sports-snowboarding",
 				"url": "https://www.igdb.com/games/mtv-sports-snowboarding",
@@ -4601,6 +4571,7 @@
 			"name": "ATV Quad Power Racing 2",
 			"data": [{
 				"id": 3790,
+				"sports": ["ATV"],
 				"name": "ATV Quad Power Racing 2",
 				"slug": "atv-quad-power-racing-2",
 				"url": "https://www.igdb.com/games/atv-quad-power-racing-2",
@@ -4660,6 +4631,7 @@
 			"data": [{
 				"id": 8269,
 				"name": "ATV Offroad Fury",
+				"sports": ["ATV"],
 				"slug": "atv-offroad-fury",
 				"url": "https://www.igdb.com/games/atv-offroad-fury",
 				"created_at": 1418138750415,
@@ -4710,6 +4682,7 @@
 			"name": "Wakeboarding Unleashed Featuring Shaun Murray",
 			"data": [{
 				"id": 23694,
+				"sports": ["Wakeboarding", "Boat racing"],
 				"name": "Wakeboarding Unleashed Featuring Shaun Murray",
 				"slug": "wakeboarding-unleashed-featuring-shaun-murray",
 				"url": "https://www.igdb.com/games/wakeboarding-unleashed-featuring-shaun-murray",
@@ -4752,6 +4725,7 @@
 			"data": [{
 				"id": 3584,
 				"name": "Razor Freestyle Scooter",
+				"sports": ["Scooter"],
 				"slug": "razor-freestyle-scooter",
 				"url": "https://www.igdb.com/games/razor-freestyle-scooter",
 				"created_at": 1389140042155,
@@ -4828,6 +4802,7 @@
 				"id": 45839,
 				"name": "Sno-Cross Championship Racing",
 				"slug": "sno-cross-championship-racing",
+				"sports": ["Snowmobile"],
 				"url": "https://www.igdb.com/games/sno-cross-championship-racing",
 				"created_at": 1499518756031,
 				"updated_at": 1516158428135,
@@ -4947,6 +4922,7 @@
 				"id": 3826,
 				"name": "BMX XXX",
 				"slug": "bmx-xxx",
+				"sports": ["BMX"],
 				"url": "https://www.igdb.com/games/bmx-xxx",
 				"created_at": 1390145433449,
 				"updated_at": 1517271034076,
@@ -5347,6 +5323,7 @@
 			"name": "Whirl Tour",
 			"data": [{
 				"id": 4233,
+				"sports": ["Scooter"],
 				"name": "Whirl Tour",
 				"slug": "whirl-tour",
 				"url": "https://www.igdb.com/games/whirl-tour",
@@ -5397,6 +5374,7 @@
 				"id": 5725,
 				"name": "Amped 2",
 				"slug": "amped-2",
+				"sports": ["Snowboarding"],
 				"url": "https://www.igdb.com/games/amped-2",
 				"created_at": 1396316417947,
 				"updated_at": 1517270822653,
@@ -5878,6 +5856,7 @@
 				"id": 3774,
 				"name": "1080° Avalanche",
 				"slug": "1080-avalanche",
+				"sports": ["Snowboarding"],
 				"url": "https://www.igdb.com/games/1080-avalanche",
 				"created_at": 1389991903299,
 				"updated_at": 1532212027269,
@@ -6021,6 +6000,7 @@
 			"name": "ATV Offroad Fury: Blazin' Trails",
 			"data": [{
 				"id": 8272,
+				"sports": ["ATV"],
 				"name": "ATV Offroad Fury: Blazin' Trails",
 				"slug": "atv-offroad-fury-blazin-trails",
 				"url": "https://www.igdb.com/games/atv-offroad-fury-blazin-trails",
@@ -6079,6 +6059,7 @@
 			"data": [{
 				"id": 47725,
 				"name": "SBK: Snowboard Kids",
+				"sports": ["Snowboarding"],
 				"slug": "sbk-snowboard-kids",
 				"url": "https://www.igdb.com/games/sbk-snowboard-kids",
 				"created_at": 1499874313258,
@@ -6206,6 +6187,7 @@
 				"id": 3869,
 				"name": "Dark Summit",
 				"slug": "dark-summit",
+				"sports": ["Snowboarding"],
 				"url": "https://www.igdb.com/games/dark-summit",
 				"created_at": 1390159517004,
 				"updated_at": 1515667880750,
@@ -6264,6 +6246,7 @@
 			"data": [{
 				"id": 8270,
 				"name": "ATV Offroad Fury 2",
+				"sports": ["ATV"],
 				"slug": "atv-offroad-fury-2",
 				"url": "https://www.igdb.com/games/atv-offroad-fury-2",
 				"created_at": 1418139117502,
@@ -6555,6 +6538,7 @@
 				"id": 81484,
 				"name": "Sled Storm",
 				"slug": "sled-storm--1",
+				"sports": ["Snowmobile"],
 				"url": "https://www.igdb.com/games/sled-storm--1",
 				"created_at": 1515860595959,
 				"updated_at": 1530882189201,
@@ -6637,6 +6621,7 @@
 			"data": [{
 				"id": 3908,
 				"name": "Evolution Skateboarding",
+				"sports": ["Skateboarding"],
 				"slug": "evolution-skateboarding",
 				"url": "https://www.igdb.com/games/evolution-skateboarding",
 				"created_at": 1390199662136,
@@ -6790,6 +6775,7 @@
 			"data": [{
 				"id": 18267,
 				"name": "MX vs. ATV: On the Edge",
+				"sports": ["ATV", "MX"],
 				"slug": "mx-vs-atv-on-the-edge",
 				"url": "https://www.igdb.com/games/mx-vs-atv-on-the-edge",
 				"created_at": 1457466399694,
@@ -6865,6 +6851,7 @@
 				"id": 3919,
 				"name": "Freekstyle",
 				"slug": "freekstyle",
+				"sports": ["MX"],
 				"url": "https://www.igdb.com/games/freekstyle",
 				"created_at": 1390234521960,
 				"updated_at": 1517270840573,
@@ -6928,6 +6915,7 @@
 				"id": 4232,
 				"name": "Wave Race: Blue Storm",
 				"slug": "wave-race-blue-storm",
+				"sports": ["Jet Ski"],
 				"url": "https://www.igdb.com/games/wave-race-blue-storm",
 				"created_at": 1390752482260,
 				"updated_at": 1532212004149,
@@ -7687,6 +7675,7 @@
 				"id": 27578,
 				"name": "Mountain Bike Adrenaline",
 				"slug": "mountain-bike-adrenaline",
+				"sports": ["Mountain bike"],
 				"url": "https://www.igdb.com/games/mountain-bike-adrenaline",
 				"created_at": 1488588407740,
 				"updated_at": 1515823081763,
@@ -8335,6 +8324,7 @@
 			"data": [{
 				"id": 18266,
 				"name": "MX vs. ATV Alive",
+				"sports": ["ATV", "MX"],
 				"slug": "mx-vs-atv-alive",
 				"url": "https://www.igdb.com/games/mx-vs-atv-alive",
 				"created_at": 1457465626484,
@@ -8532,6 +8522,7 @@
 				"id": 5483,
 				"name": "Amped 3",
 				"slug": "amped-3",
+				"sports": ["Snowboarding"],
 				"url": "https://www.igdb.com/games/amped-3",
 				"created_at": 1393643509235,
 				"updated_at": 1517270815752,
@@ -8810,6 +8801,7 @@
 			"data": [{
 				"id": 53013,
 				"name": "Wakeboarding HD",
+				"sports": ["Wakeboarding"],
 				"slug": "wakeboarding-hd",
 				"url": "https://www.igdb.com/games/wakeboarding-hd",
 				"created_at": 1501514664810,
@@ -9080,6 +9072,7 @@
 			"data": [{
 				"id": 24150,
 				"name": "MX Vs. ATV Unleashed",
+				"sports": ["ATV", "MX"],
 				"slug": "mx-vs-atv-unleashed",
 				"url": "https://www.igdb.com/games/mx-vs-atv-unleashed",
 				"created_at": 1474564615302,
@@ -10156,6 +10149,7 @@
 				"id": 5028,
 				"name": "MX vs. ATV: Untamed",
 				"slug": "mx-vs-atv-untamed",
+				"sports": ["ATV", "MX"],
 				"url": "https://www.igdb.com/games/mx-vs-atv-untamed",
 				"created_at": 1391793857799,
 				"updated_at": 1517705541895,
@@ -10378,6 +10372,7 @@
 				"id": 5158,
 				"name": "Ski-Doo: Snowmobile Challenge",
 				"slug": "ski-doo-snowmobile-challenge",
+				"sports": ["Snowmobile"],
 				"url": "https://www.igdb.com/games/ski-doo-snowmobile-challenge",
 				"created_at": 1391916182580,
 				"updated_at": 1516086229959,
@@ -10795,6 +10790,7 @@
 			"data": [{
 				"id": 7091,
 				"name": "MX vs. ATV Reflex",
+				"sports": ["ATV", "MX"],
 				"slug": "mx-vs-atv-reflex",
 				"url": "https://www.igdb.com/games/mx-vs-atv-reflex",
 				"created_at": 1401329264932,
@@ -11001,6 +10997,7 @@
 				"slug": "whiteout",
 				"url": "https://www.igdb.com/games/whiteout",
 				"created_at": 1499866084065,
+				"sports": ["Snowmobile"],
 				"updated_at": 1516159355051,
 				"summary": "Real winter racing at blinding speeds! Experience the thrills and chills of snowmobile racing action with Whiteout, the fastest racing game on one tread.",
 				"popularity": 1.333333333333333,
@@ -11022,6 +11019,7 @@
 				"id": 2182,
 				"name": "Wii Sports Resort",
 				"slug": "wii-sports-resort",
+				"sports": ["Jet Ski"],
 				"url": "https://www.igdb.com/games/wii-sports-resort",
 				"created_at": 1372227292043,
 				"updated_at": 1536420457688,
@@ -11677,6 +11675,7 @@
 			"data": [{
 				"id": 18048,
 				"name": "Air Trix",
+				"sports": ["Skateboarding"],
 				"slug": "air-trix",
 				"url": "https://www.igdb.com/games/air-trix",
 				"created_at": 1455884559225,
@@ -11739,6 +11738,7 @@
 			"data": [{
 				"id": 6215,
 				"name": "Toxic Grind",
+				"sports": ["BMX"],
 				"slug": "toxic-grind",
 				"url": "https://www.igdb.com/games/toxic-grind",
 				"created_at": 1398001002813,
@@ -11918,7 +11918,7 @@
 			"data": [{
 				"id": 73750,
 				"name": "Bikini Beach: Stunt Racer",
-				"sports": ["Beach buggy"],
+				"sports": ["ATV"],
 				"core_mechanics": "thps",
 				"slug": "bikini-beach-stunt-racer",
 				"url": "https://www.igdb.com/games/bikini-beach-stunt-racer",
@@ -11949,6 +11949,7 @@
 				"id": 5484,
 				"name": "Amped: Freestyle Snowboarding",
 				"slug": "amped-freestyle-snowboarding",
+				"sports": ["Snowboarding"],
 				"url": "https://www.igdb.com/games/amped-freestyle-snowboarding",
 				"created_at": 1393643891028,
 				"updated_at": 1517271056933,
@@ -11993,6 +11994,7 @@
 			"data": [{
 				"id": 72103,
 				"name": "Snowboard Kids Plus",
+				"sports": ["Snowboarding"],
 				"slug": "snowboard-kids-plus",
 				"url": "https://www.igdb.com/games/snowboard-kids-plus",
 				"created_at": 1506686227433,
@@ -12073,6 +12075,7 @@
 			"name": "TJ Lavin's Ultimate BMX",
 			"data": [{
 				"id": 49964,
+				"sports": ["BMX"],
 				"name": "MTV Sports: T.J. Lavin's Ultimate BMX",
 				"slug": "mtv-sports-tj-lavins-ultimate-bmx",
 				"url": "https://www.igdb.com/games/mtv-sports-tj-lavins-ultimate-bmx",
@@ -12157,6 +12160,7 @@
 			"data": [{
 				"id": 38526,
 				"name": "Alpine Racer",
+				"sports": ["Ski"],
 				"slug": "alpine-racer",
 				"url": "https://www.igdb.com/games/alpine-racer",
 				"created_at": 1497974715897,
@@ -12274,6 +12278,7 @@
 			"data": [{
 				"id": 6150,
 				"name": "Splashdown: Rides Gone Wild",
+				"sports": ["Jet Ski"],
 				"slug": "splashdown-rides-gone-wild",
 				"url": "https://www.igdb.com/games/splashdown-rides-gone-wild",
 				"created_at": 1397840307503,
@@ -12409,6 +12414,7 @@
 			"data": [{
 				"id": 5767,
 				"name": "Carve",
+				"sports": ["Jet Ski"],
 				"slug": "carve",
 				"url": "https://www.igdb.com/games/carve",
 				"created_at": 1396364136081,
@@ -12633,6 +12639,7 @@
 				"id": 4191,
 				"name": "Surf's Up",
 				"slug": "surf-s-up",
+				"sports": ["Surfing"],
 				"url": "https://www.igdb.com/games/surf-s-up",
 				"created_at": 1390692396791,
 				"updated_at": 1518013716643,
@@ -12800,6 +12807,7 @@
 			"data": [{
 				"id": 34974,
 				"name": "Shred! Downhill Mountain Biking",
+				"sports": ["Mountain bike"],
 				"slug": "shred-downhill-mountain-biking",
 				"url": "https://www.igdb.com/games/shred-downhill-mountain-biking",
 				"created_at": 1495818760325,
@@ -13041,6 +13049,7 @@
 			"name": "MX Nitro",
 			"data": [{
 				"id": 27112,
+				"sports": ["MX"],
 				"name": "MX Nitro",
 				"slug": "mx-nitro",
 				"url": "https://www.igdb.com/games/mx-nitro",
@@ -13121,6 +13130,7 @@
 				"id": 26224,
 				"name": "Aqua Moto Racing Utopia",
 				"slug": "aqua-moto-racing-utopia",
+				"sports": ["Jet Ski"],
 				"url": "https://www.igdb.com/games/aqua-moto-racing-utopia",
 				"created_at": 1480922827886,
 				"updated_at": 1534365577824,
@@ -13431,6 +13441,7 @@
 				"id": 44844,
 				"name": "X-Games: Pro Boarder",
 				"slug": "x-games-pro-boarder",
+				"sports": ["Snowboarding"],
 				"url": "https://www.igdb.com/games/x-games-pro-boarder",
 				"created_at": 1499442134479,
 				"updated_at": 1513023828991,
@@ -13457,6 +13468,7 @@
 			"data": [{
 				"id": 66566,
 				"name": "Soul Surfer",
+				"sports": ["Surfing"],
 				"slug": "soul-surfer",
 				"url": "https://www.igdb.com/games/soul-surfer",
 				"created_at": 1505334531448,
@@ -13686,6 +13698,7 @@
 			"name": "Wave Rally",
 			"data": [{
 				"id": 43304,
+				"sports": ["Jet Ski"],
 				"name": "Wave Rally",
 				"slug": "wave-rally",
 				"url": "https://www.igdb.com/games/wave-rally",
@@ -14083,6 +14096,7 @@
 			"data": [{
 				"id": 3703,
 				"name": "Arctic Thunder",
+				"sports": ["Snowmobile"],
 				"slug": "arctic-thunder",
 				"url": "https://www.igdb.com/games/arctic-thunder",
 				"created_at": 1389469806320,
@@ -14250,6 +14264,7 @@
 			"data": [{
 				"id": 6398,
 				"name": "ESPN X Games Skateboarding",
+				"sports": ["Skateboarding"],
 				"slug": "espn-x-games-skateboarding",
 				"url": "https://www.igdb.com/games/espn-x-games-skateboarding",
 				"created_at": 1398210953068,
@@ -14300,6 +14315,7 @@
 			"data": [{
 				"id": 44766,
 				"name": "BursTrick WakeBoarding",
+				"sports": ["Wakeboarding"],
 				"slug": "burstrick-wakeboarding",
 				"url": "https://www.igdb.com/games/burstrick-wakeboarding",
 				"created_at": 1499436146584,
@@ -14474,6 +14490,7 @@
 				"id": 18047,
 				"name": "Top Skater",
 				"slug": "top-skater",
+				"sports": ["Skateboarding"],
 				"url": "https://www.igdb.com/games/top-skater",
 				"created_at": 1455884262924,
 				"updated_at": 1517270814482,
@@ -14574,6 +14591,7 @@
 				"id": 52200,
 				"name": "Descenders",
 				"slug": "descenders",
+				"sports": ["Mountain bike"],
 				"url": "https://www.igdb.com/games/descenders",
 				"created_at": 1501193788870,
 				"updated_at": 1526310108073,
@@ -15126,6 +15144,7 @@
 			"name": "Hydro Thunder Hurricane",
 			"data": [{
 				"id": 3704,
+				"sports": ["Boat racing"],
 				"name": "Hydro Thunder Hurricane",
 				"slug": "hydro-thunder-hurricane",
 				"url": "https://www.igdb.com/games/hydro-thunder-hurricane",
@@ -15583,6 +15602,7 @@
 			"name": "Winter X Games SnoCross",
 			"data": [{
 				"id": 3575,
+				"sports": ["Snowmobile"],
 				"name": "Polaris SnoCross",
 				"slug": "polaris-snocross",
 				"url": "https://www.igdb.com/games/polaris-snocross",
@@ -15647,6 +15667,7 @@
 				"id": 3370,
 				"name": "Hydro Thunder",
 				"slug": "hydro-thunder",
+				"sports": ["Boat racing"],
 				"url": "https://www.igdb.com/games/hydro-thunder",
 				"created_at": 1388903245372,
 				"updated_at": 1536372739730,
@@ -15850,6 +15871,7 @@
 			"name": "riptide gp renegade",
 			"data": [{
 				"id": 21606,
+				"sports": ["Jet Ski"],
 				"name": "Riptide GP: Renegade",
 				"slug": "riptide-gp-renegade",
 				"url": "https://www.igdb.com/games/riptide-gp-renegade",
@@ -16099,7 +16121,7 @@
 					"platform": 24,
 					"date": 1037577600000,
 					"region": 2,
-					"human": "2002-Nov-18",
+					"human": "2002-Nov-18","sports": ["Jet Ski"],
 					"y": 2002,
 					"m": 11
 				}],
@@ -16114,10 +16136,11 @@
 				}
 			}]
 		}, {
-			"name": "riptide gp 2",
+			"name": "riptide gp",
 			"data": [{
 				"id": 21607,
 				"name": "Riptide GP",
+				"sports": ["Jet Ski"],
 				"slug": "riptide-gp",
 				"url": "https://www.igdb.com/games/riptide-gp",
 				"created_at": 1469566902140,
@@ -16189,6 +16212,7 @@
 			"data": [{
 				"id": 68269,
 				"name": "Alpine Racer 3",
+				"sports": ["Ski"],
 				"slug": "alpine-racer-3",
 				"url": "https://www.igdb.com/games/alpine-racer-3",
 				"created_at": 1505745346676,
@@ -16239,6 +16263,7 @@
 			"name": "Chill",
 			"data": [{
 				"id": 79608,
+				"sports": ["Snowboarding"],
 				"name": "Chill",
 				"slug": "chill",
 				"url": "https://www.igdb.com/games/chill",
@@ -16456,6 +16481,7 @@
 				"id": 16735,
 				"name": "Riptide GP2",
 				"slug": "riptide-gp2",
+				"sports": ["Jet Ski"],
 				"url": "https://www.igdb.com/games/riptide-gp2",
 				"created_at": 1453371224797,
 				"updated_at": 1537878770869,
@@ -17731,6 +17757,7 @@
 				"id": 29574,
 				"name": "King Of Dirt",
 				"slug": "king-of-dirt",
+				"sports": ["BMX"],
 				"url": "https://www.igdb.com/games/king-of-dirt",
 				"created_at": 1495352207540,
 				"updated_at": 1523358120347,
@@ -17965,6 +17992,7 @@
 			"data": [{
 				"id": 20955,
 				"name": "Pumped BMX+",
+				"sports": ["BMX"],
 				"slug": "pumped-bmx-plus",
 				"url": "https://www.igdb.com/games/pumped-bmx-plus",
 				"created_at": 1469142834787,
@@ -18202,6 +18230,7 @@
 			"data": [{
 				"id": 20587,
 				"name": "ESPN Extreme Games",
+				"sports": ["Skateboarding", "Mountain bike", "Inline skates"],
 				"slug": "espn-extreme-games",
 				"url": "https://www.igdb.com/games/espn-extreme-games",
 				"created_at": 1468843065953,
@@ -18248,6 +18277,7 @@
 			"data": [{
 				"id": 86849,
 				"name": "Touchgrind BMX",
+				"sports": ["BMX"],
 				"slug": "touchgrind-bmx",
 				"url": "https://www.igdb.com/games/touchgrind-bmx",
 				"created_at": 1518608653555,
@@ -18682,6 +18712,7 @@
 			"name": "MX Unleashed",
 			"data": [{
 				"id": 5939,
+				"sports": ["MX"],
 				"name": "MX Unleashed",
 				"slug": "mx-unleashed",
 				"url": "https://www.igdb.com/games/mx-unleashed",
@@ -19095,6 +19126,7 @@
 				"id": 45106,
 				"name": "3Xtreme",
 				"slug": "3xtreme",
+				"sports": ["Skateboarding", "BMX", "Inline skates"],
 				"url": "https://www.igdb.com/games/3xtreme",
 				"created_at": 1499448675967,
 				"updated_at": 1535126053703,
@@ -19218,6 +19250,7 @@
 			"name": "MX vs. ATV All Out",
 			"data": [{
 				"id": 67625,
+				"sports": ["ATV", "MX"],
 				"name": "MX vs. ATV All Out",
 				"slug": "mx-vs-atv-all-out",
 				"url": "https://www.igdb.com/games/mx-vs-atv-all-out",
@@ -19441,6 +19474,7 @@
 			"data": [{
 				"id": 24306,
 				"name": "MX vs. ATV Supercross",
+				"sports": ["ATV", "MX"],
 				"slug": "mx-vs-atv-supercross",
 				"url": "https://www.igdb.com/games/mx-vs-atv-supercross",
 				"created_at": 1474574451860,
@@ -19525,6 +19559,7 @@
 			"data": [{
 				"id": 21104,
 				"name": "MotorStorm: Arctic Edge",
+				"sports": ["Snowmobile"],
 				"slug": "motorstorm-arctic-edge",
 				"url": "https://www.igdb.com/games/motorstorm-arctic-edge",
 				"created_at": 1469283291515,
@@ -19674,6 +19709,7 @@
 			"data": [{
 				"id": 54766,
 				"name": "Downhill Bikers",
+				"sports": ["Mountain bike"],
 				"slug": "downhill-bikers",
 				"url": "https://www.igdb.com/games/downhill-bikers",
 				"created_at": 1502991287651,
@@ -19708,6 +19744,7 @@
 			"data": [{
 				"id": 110806,
 				"name": "Pepsi Max Extreme Sports",
+				"sports": ["ATV", "Mountain biking", "Snowboarding"],
 				"slug": "pepsi-max-extreme-sports",
 				"url": "https://www.igdb.com/games/pepsi-max-extreme-sports",
 				"created_at": 1539018847973,
@@ -19924,6 +19961,7 @@
 			"data": [{
 				"id": 4654,
 				"name": "No Fear Downhill Mountain Biking",
+				"sports": ["Mountain bike"],
 				"slug": "no-fear-downhill-mountain-biking",
 				"url": "https://www.igdb.com/games/no-fear-downhill-mountain-biking",
 				"created_at": 1390997312019,

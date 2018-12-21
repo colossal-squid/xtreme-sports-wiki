@@ -3,7 +3,7 @@ title: Sled Storm
 platforms: PSOne
 mechanics: n/a
 date: August 1998
-sports: 
+sports: Snowmobile
 ---
 #Sled Storm
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ouritklwzocshze55jie.jpg "Logo Title Text 1")

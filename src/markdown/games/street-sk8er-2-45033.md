@@ -3,7 +3,7 @@ title: Street Sk8er 2
 platforms: PSOne
 mechanics: n/a
 date: March 2000
-sports: 
+sports: Skateboarding
 ---
 #Street Sk8er 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/v2wnhpmzske2fs5tll3r.jpg "Logo Title Text 1")

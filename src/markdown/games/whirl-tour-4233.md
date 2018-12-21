@@ -3,7 +3,7 @@ title: Whirl Tour
 platforms: Nintendo Gamecube, PS2
 mechanics: n/a
 date: November 2002
-sports: 
+sports: Scooter
 ---
 #Whirl Tour
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/bpziytbrzyqlxguobzq8.jpg "Logo Title Text 1")

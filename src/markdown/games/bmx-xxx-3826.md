@@ -3,7 +3,7 @@ title: BMX XXX
 platforms: Xbox, Nintendo Gamecube, PS2
 mechanics: n/a
 date: November 2002
-sports: 
+sports: BMX
 ---
 #BMX XXX
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/xhah4uhzsqrooicujsn7.jpg "Logo Title Text 1")

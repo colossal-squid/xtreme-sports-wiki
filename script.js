@@ -1,25 +1,45 @@
-var fs = require('fs');
-var moment = require('moment');
+const fs = require('fs');
+const moment = require('moment');
+const igdb = require('igdb-api-node').default;
 
-fs.readFile('./cooldump.json', 'utf8', (err, bin)=>{
-    if (err) {
-        throw err;
-    }
-    const allRecords = JSON.parse(bin.substring(1));
-    let allFilePromises = allRecords.data.map((record)=>{
-        const game = record.data[0];
-        const fileName = `${game.slug}-${game.id}.md`;
-        const dataToWrite = recToMd(game, allRecords.data);
-        return new Promise((res, rej)=>{
-            fs.writeFile(`./src/markdown/games/${fileName}`, dataToWrite, (err) => {
-                if (err) rej(err);
-                console.log(`The file ${fileName} has been saved!`);
-                res();
-            });
-        })
-        
+// const igdb_api_key = process.argv[2];
+// const ids = [process.argv[3]];
+// console.log('reading params...');
+// console.log(igdb_api_key);
+// const client = igdb(igdb_api_key);
+
+// client.games({
+//     fields: '*',
+//     limit: 1,
+//     ids: ids
+// }).then(res=>{
+//     console.log(res.body);
+// }).catch(err=>{
+//     console.log(err);
+// });
+regen();
+/** re-generating the markdown stuff */
+function regen() {
+    fs.readFile('./cooldump.json', 'utf8', (err, bin)=>{
+        if (err) {
+            throw err;
+        }
+        const allRecords = JSON.parse(bin.substring(1));
+        let allFilePromises = allRecords.data.map((record)=>{
+            const game = record.data[0];
+            const fileName = `${game.slug}-${game.id}.md`;
+            const dataToWrite = recToMd(game, allRecords.data);
+            return new Promise((res, rej)=>{
+                fs.writeFile(`./src/markdown/games/${fileName}`, dataToWrite, (err) => {
+                    if (err) rej(err);
+                    console.log(`The file ${fileName} has been saved!`);
+                    res();
+                });
+            })
+            
+        });
     });
-});
+}
 
 function recToMd(game, allRecords) {
 const gamesList = (game.games || [])

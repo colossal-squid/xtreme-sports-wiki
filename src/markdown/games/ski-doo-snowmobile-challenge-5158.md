@@ -3,7 +3,7 @@ title: Ski-Doo&#x3a; Snowmobile Challenge
 platforms: PS3, Xbox 360, Nintendo Wii
 mechanics: n/a
 date: March 2009
-sports: 
+sports: Snowmobile
 ---
 #Ski-Doo: Snowmobile Challenge
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/z5g8hxbkqgbh67pmv2we.jpg "Logo Title Text 1")

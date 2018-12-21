@@ -3,7 +3,7 @@ title: MTV Sports&#x3a; T.J. Lavin's Ultimate BMX
 platforms: Game Boy Color
 mechanics: n/a
 date: January 2001
-sports: 
+sports: BMX
 ---
 #MTV Sports: T.J. Lavin's Ultimate BMX
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/xhrytelazx0uxfebtid6.jpg "Logo Title Text 1")

@@ -3,7 +3,7 @@ title: Whiteout
 platforms: n/a
 mechanics: n/a
 date: n/a
-sports: 
+sports: Snowmobile
 ---
 #Whiteout
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/wsdk1iynhdyv3wltnzxx.jpg "Logo Title Text 1")
