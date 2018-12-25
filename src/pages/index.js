@@ -13,6 +13,9 @@ export default ({data}) => (
       <li><Link to="/games-abc/">Extreme games alphabetically</Link></li>
       <li><a href="/games-mechanics/">Extreme games by mechanics</a></li>
    </ul>
+   <h2>XTREME links and resources (shoutout to my boyz!)</h2>
+   Please visit <Link to="/additional-resources/">this page</Link> for list of similar resources, forums and all sorts of things that are worth mentioning.
+   The list is WIP (as rest of the website), it has some letsplayer dedicated to ssx/thps, people modding the games and so on.
    <section>
        <h2> EXTREME news!</h2>
        <span> Here i'll be posting all the updates, new info i've stumbled upon and more</span>
