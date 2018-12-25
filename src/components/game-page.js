@@ -1,13 +1,17 @@
 import React from "react"
 import { graphql } from "gatsby"
+import Meta from "./meta";
 import Layout from "./layout"
 
 export default ({ data }) => {
     const post = data.markdownRemark
     return (
-      <Layout>
-          <div dangerouslySetInnerHTML={{ __html: post.html }} />
-      </Layout>
+      <React.Fragment>
+        <Meta title={post.frontmatter.title}></Meta>
+        <Layout>
+            <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        </Layout>
+      </React.Fragment>
     )
   }
   
