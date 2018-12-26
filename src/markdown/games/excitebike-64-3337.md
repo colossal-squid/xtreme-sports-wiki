@@ -3,12 +3,12 @@ title: Excitebike 64
 platforms: Nintendo 64, Virtual console
 mechanics: n/a
 date: April 2000
-sports: 
+sports: MX
 ---
 #Excitebike 64
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/r269xkd4en1ssbinmgrd.jpg "Logo Title Text 1")
 ####Alternative tiles:
-* エキサイトバイク 64 (undefined)
+* エキサイトバイク 64 
 ###Platforms
 Nintendo 64, Virtual console
 

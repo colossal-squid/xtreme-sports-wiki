@@ -3,7 +3,7 @@ title: MyTP 3 - Snowboard, Freeski and Skateboard
 platforms: n/a
 mechanics: n/a
 date: n/a
-sports: 
+sports: Skateboarding, Ski, Snowboarding
 ---
 #MyTP 3 - Snowboard, Freeski and Skateboard
 ![game cover art](- "Logo Title Text 1")

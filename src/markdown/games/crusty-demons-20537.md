@@ -3,7 +3,7 @@ title: Crusty Demons
 platforms: Xbox, PS2
 mechanics: n/a
 date: June 2006
-sports: 
+sports: MX 
 ---
 #Crusty Demons
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/djggmng04xowxfw5afoj.jpg "Logo Title Text 1")
@@ -13,7 +13,7 @@ sports:
 Xbox, PS2
 
 ###Description:
-he Crusty Demons are a gang of bikers who tour the world performing outrageous bike stunts and participating in all manner of crazy skits with motorized vehicles. In a pact with the Devil, they are offered immortality - the ability to crash time and time again, yet still live to walk away - at the cost of signing over their souls.
+The Crusty Demons are a gang of bikers who tour the world performing outrageous bike stunts and participating in all manner of crazy skits with motorized vehicles. In a pact with the Devil, they are offered immortality - the ability to crash time and time again, yet still live to walk away - at the cost of signing over their souls.
 ###Screenshots
 <a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/wppviyp1utw2ym4grhqr.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/wppviyp1utw2ym4grhqr.jpg"/></a>
 

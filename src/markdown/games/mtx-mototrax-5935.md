@@ -3,7 +3,7 @@ title: MTX Mototrax
 platforms: PC (Microsoft Windows), Xbox, PSP, PS2
 mechanics: n/a
 date: March 2004
-sports: 
+sports: MX
 ---
 #MTX Mototrax
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/so6adokbqg2ld8puopqg.jpg "Logo Title Text 1")

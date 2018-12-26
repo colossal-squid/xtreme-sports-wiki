@@ -3,7 +3,7 @@ title: Epic Skater 2
 platforms: Android, PC (Microsoft Windows), iOS
 mechanics: n/a
 date: July 2018
-sports: 
+sports: Skateboarding
 ---
 #Epic Skater 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/bsg8ejp1wpfwrea1by9c.jpg "Logo Title Text 1")

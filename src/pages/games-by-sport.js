@@ -7,7 +7,7 @@ import { Grid, Row, Col } from 'react-material-responsive-grid';
 export default function ({data}) {
 
   const SPORTS = [
-    'Skateboarding', 'BMX', 'Inline skates', 'Snowboarding', 'Mountain bike', 'Ski', 'Surfing', "Snowmobile", "Jet Ski", "Wakeboarding", "ATV", "MTX", "Scooter", "Boat racing", 'Other'
+    'Skateboarding', 'BMX', 'Inline skates', 'Snowboarding', 'Mountain bike', 'Ski', 'Surfing', "Snowmobile", "Jet Ski", "Wakeboarding", "ATV", "MX", "Scooter", "Boat racing", 'Other'
   ];
 
   const SCREENSHOTS = [

@@ -3,7 +3,7 @@ title: Nail'd
 platforms: PC (Microsoft Windows), Steam OS, PS3, Xbox 360
 mechanics: n/a
 date: November 2010
-sports: 
+sports: ATV
 ---
 #Nail'd
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/prn2hym8l6hrv6omgjjz.jpg "Logo Title Text 1")

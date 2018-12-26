@@ -3,7 +3,7 @@ title: Disney Sports Skateboarding
 platforms: GBA, Nintendo Gamecube
 mechanics: n/a
 date: July 2002
-sports: 
+sports: Skateboarding
 ---
 #Disney Sports Skateboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/zsavffhhqi3kml7qg9zm.jpg "Logo Title Text 1")

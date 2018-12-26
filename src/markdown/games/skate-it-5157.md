@@ -3,7 +3,7 @@ title: Skate It
 platforms: iOS, Nintendo DS, Nintendo Wii
 mechanics: n/a
 date: November 2008
-sports: 
+sports: Skating 
 ---
 #Skate It
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/vjanb27ukqtwge2rqyoe.jpg "Logo Title Text 1")

@@ -3,7 +3,7 @@ title: Wave Race 64
 platforms: Nintendo 64, Virtual console, Wii U, Nintendo Wii
 mechanics: n/a
 date: September 1996
-sports: 
+sports: Jet Ski
 ---
 #Wave Race 64
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gh08diansmcjd0da7p5l.jpg "Logo Title Text 1")

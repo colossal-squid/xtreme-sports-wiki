@@ -3,7 +3,7 @@ title: MotorStorm&#x3a; Apocalypse
 platforms: PS3
 mechanics: n/a
 date: March 2011
-sports: 
+sports: MX
 ---
 #MotorStorm: Apocalypse
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/xvghrnjjhtt5zpcvvaox.jpg "Logo Title Text 1")

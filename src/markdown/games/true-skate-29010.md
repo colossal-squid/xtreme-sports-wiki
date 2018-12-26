@@ -3,7 +3,7 @@ title: True Skate
 platforms: Android, iOS
 mechanics: n/a
 date: October 2012
-sports: 
+sports: Skateboarding
 ---
 #True Skate
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qyt2b5lfkldtoe1zojsw.jpg "Logo Title Text 1")

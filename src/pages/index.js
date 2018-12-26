@@ -18,7 +18,7 @@ export default ({data}) => (
    The list is WIP (as rest of the website), it has some letsplayer dedicated to ssx/thps, people modding the games and so on.
    <section>
        <h2> EXTREME news!</h2>
-       <span> Here i'll be posting all the updates, new info i've stumbled upon and more</span>
+       <span>Last update: 26.12.2018 - some metadata is fixed for games "by sports"</span>
    </section>
   </Layout>
 )

@@ -3,7 +3,7 @@ title: Mat Hoffman's Pro BMX 2
 platforms: Xbox, GBA, Nintendo Gamecube, PS2
 mechanics: n/a
 date: August 2002
-sports: 
+sports: BMX
 ---
 #Mat Hoffman's Pro BMX 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/lfhwjhbzevy5yhwijo1u.jpg "Logo Title Text 1")

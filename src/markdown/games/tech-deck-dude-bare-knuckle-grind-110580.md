@@ -1,9 +1,9 @@
 ---
 title: Tech Deck Dude Bare Knuckle Grind
 platforms: PC (Microsoft Windows)
-mechanics: n/a
+mechanics: thps
 date: March 2004
-sports: 
+sports: Skateboarding
 ---
 #Tech Deck Dude Bare Knuckle Grind
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gsot4qpvx1iop6d5ijdx.jpg "Logo Title Text 1")
@@ -23,9 +23,10 @@ Tech Deck Dude Bare Knuckle Grind Freak-Town
 Tech Deck Dude Bare Knuckle Grind Space-Town
 ###Screenshots
 <a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/cj5efcyuu1wejvr7hysf.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/cj5efcyuu1wejvr7hysf.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/azrvdjfp8deywyj62ubr.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/azrvdjfp8deywyj62ubr.jpg"/></a>
+
 ###Video
-[no videos yet...]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NbYhSVRnHwU" frameborder="0" allowfullscreen></iframe>
+
 ###Related games
 
 ###Websites
-

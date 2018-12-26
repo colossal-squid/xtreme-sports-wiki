@@ -3,7 +3,7 @@ title: Shaun White Snowboarding
 platforms: PC (Microsoft Windows), iOS, Mac, PS3, PSP, Xbox 360, Nintendo DS, Nintendo Wii, PS2
 mechanics: n/a
 date: November 2008
-sports: 
+sports: Snowboarding
 ---
 #Shaun White Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/wmkbjoaklex6kuuffpnk.jpg "Logo Title Text 1")

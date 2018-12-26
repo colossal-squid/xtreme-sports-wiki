@@ -3,7 +3,7 @@ title: Epic Skater
 platforms: n/a
 mechanics: n/a
 date: n/a
-sports: 
+sports: Skateboarding
 ---
 #Epic Skater
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/icpynypaod72thtodmvg.jpg "Logo Title Text 1")

@@ -3,7 +3,7 @@ title: Mat Hoffman's Pro BMX
 platforms: PC (Microsoft Windows), Game Boy Color, PSOne, GBA, Sega Dreamcast
 mechanics: n/a
 date: May 2001
-sports: 
+sports: BMX
 ---
 #Mat Hoffman's Pro BMX
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/eomd6jjlfzykhik0hsk7.jpg "Logo Title Text 1")

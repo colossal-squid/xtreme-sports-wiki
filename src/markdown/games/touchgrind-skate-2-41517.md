@@ -3,7 +3,7 @@ title: Touchgrind Skate 2
 platforms: iOS
 mechanics: n/a
 date: November 2013
-sports: 
+sports: Skateboarding
 ---
 #Touchgrind Skate 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qhjidthulm8q2rvrdos8.jpg "Logo Title Text 1")

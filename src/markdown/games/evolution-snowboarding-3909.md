@@ -3,7 +3,7 @@ title: Evolution Snowboarding
 platforms: Nintendo Gamecube, PS2
 mechanics: n/a
 date: February 2002
-sports: 
+sports: Skateboarding
 ---
 #Evolution Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/fxvfnvaa6ibg00rt5wp8.jpg "Logo Title Text 1")

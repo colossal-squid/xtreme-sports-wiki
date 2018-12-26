@@ -3,13 +3,13 @@ title: Tony Hawk&#x3a; Ride
 platforms: PS3, Xbox 360, Nintendo Wii
 mechanics: n/a
 date: November 2009
-sports: 
+sports: Skateboarding
 ---
 #Tony Hawk: Ride
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/dy0d0rrvty37agn2fg1m.jpg "Logo Title Text 1")
 ####Alternative tiles:
-* Tony Hawk 10Tony Hawk XTony Hawk's Adrenaline (Other)
-* Tony Hawk: Ride (undefined)
+* Tony Hawk 10, Tony Hawk X, Tony Hawk's Adrenaline (Other)
+* Tony Hawk: Ride
 ###Platforms
 PS3, Xbox 360, Nintendo Wii
 

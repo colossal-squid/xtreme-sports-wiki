@@ -1,12 +1,12 @@
 ---
 title: Skate Attack
 platforms: PS2
-mechanics: n/a
+mechanics: thps
 date: April 2007
-sports: 
+sports: Skateboarding
 ---
 #Skate Attack
-![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ktcsa0dciy2tbicighl0.jpg "Logo Title Text 1")
+![game cover art](/covers/skate-attack.jpg "Logo Title Text 1")
 ####Alternative tiles:
 
 ###Platforms
@@ -17,7 +17,8 @@ Skate Attack is a Sports game, developed by Play It and published by Midas Inter
 ###Screenshots
 [no screenshots yet ...]
 ###Video
-[no videos yet...]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OjS9kW00NFE" frameborder="0" allowfullscreen></iframe>
+
 ###Related games
 
 ###Websites

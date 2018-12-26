@@ -3,7 +3,7 @@ title: Tech Deck Skateboarding
 platforms: Game Boy Color
 mechanics: thps
 date: April 2001
-sports: 
+sports: Skateboarding
 ---
 #Tech Deck Skateboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/yitblx0vrs4285xrv8k8.jpg "Logo Title Text 1")

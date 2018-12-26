@@ -3,7 +3,7 @@ title: Skateboard Party 2
 platforms: n/a
 mechanics: n/a
 date: n/a
-sports: 
+sports: Skateboarding
 ---
 #Skateboard Party 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/pwliknsq5qggu4tcrwlg.jpg "Logo Title Text 1")

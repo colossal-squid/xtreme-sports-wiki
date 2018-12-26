@@ -3,7 +3,7 @@ title: Shaun White Snowboarding&#x3a; World Stage
 platforms: Nintendo Wii
 mechanics: n/a
 date: November 2009
-sports: 
+sports: Snowboarding
 ---
 #Shaun White Snowboarding: World Stage
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ayuwlozlj0wgjnekb0yj.jpg "Logo Title Text 1")
