@@ -7,7 +7,9 @@ import { Grid, Row, Col } from 'react-material-responsive-grid';
 export default function ({data}) {
 
   const SPORTS = [
-    'Skateboarding', 'BMX', 'Inline skates', 'Snowboarding', 'Mountain bike', 'Ski', 'Surfing', "Snowmobile", "Jet Ski", "Wakeboarding", "ATV", "MX", "Scooter", "Boat racing", 'Other'
+    'Skateboarding', 'BMX', 'Inline skates', 'Snowboarding', 
+    'Mountain bike', 'Ski', 'Surfing', "Snowmobile", 
+    "Jet Ski", "Wakeboarding", "ATV", "MX", "Scooter", "Boat racing", 'Other'
   ];
 
   const SCREENSHOTS = [
@@ -20,7 +22,7 @@ export default function ({data}) {
     'https://images.igdb.com/igdb/image/upload/t_cover_big/ltlpnn3ftoqyzjiuim5x.jpg',
     'https://images.igdb.com/igdb/image/upload/t_cover_big/j8drjcsohfdnca73yqdv.jpg',
     'https://images.igdb.com/igdb/image/upload/t_cover_big/envlnwsuhrbl95grlabo.jpg',
-    'https://www.ggmania.com/pics/bawakeboarding/bawakeboarding09.jpg',
+    '/images/wakeboarding-unleashed.jpg',
     'https://images.igdb.com/igdb/image/upload/t_cover_big/g1enchzzkxcwcwk5swsy.jpg',
     'https://images.igdb.com/igdb/image/upload/t_cover_big/jx6egu1wvmfihmhbtz4c.jpg',
     'http://coolrom.com/screenshots/psx/Razor%20Racing%20(2).jpg',

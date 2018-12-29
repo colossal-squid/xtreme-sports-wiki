@@ -3,7 +3,7 @@ title: Snowboarding
 platforms: PSOne
 mechanics: n/a
 date: February 2000
-sports: 
+sports: Snowboarding
 ---
 #Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/b8iqsidnuz9pec8fjoqu.jpg "Logo Title Text 1")
@@ -19,7 +19,6 @@ Agetec's Snowboarding consists of racing downhill and performing death-defying s
 ###Video
 [no videos yet...]
 ###Related games
-* [Chill](/games/chill-79608/)
 * [Alpine Racer 3](/games/alpine-racer-3-68269/)
 ###Websites
 
