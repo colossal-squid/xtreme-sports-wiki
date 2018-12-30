@@ -1,7 +1,7 @@
 ---
 title: Session
 platforms: Xbox One
-mechanics: n/a
+mechanics: skate
 date: n/a
 sports: 
 ---

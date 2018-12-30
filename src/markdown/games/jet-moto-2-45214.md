@@ -3,7 +3,7 @@ title: Jet Moto 2
 platforms: PSOne
 mechanics: n/a
 date: October 1997
-sports: 
+sports: Futuristic
 ---
 #Jet Moto 2
 ![game cover art](- "Logo Title Text 1")

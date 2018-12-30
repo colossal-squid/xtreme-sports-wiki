@@ -1,9 +1,9 @@
 ---
 title: Skate
 platforms: PC (Microsoft Windows), PS3, Xbox 360
-mechanics: n/a
+mechanics: skate
 date: July 2007
-sports: 
+sports: Skateboarding
 ---
 #Skate
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/t1xdmprs3jpiu7plohch.jpg "Logo Title Text 1")

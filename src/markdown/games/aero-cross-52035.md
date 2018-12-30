@@ -3,7 +3,7 @@ title: Aero-Cross
 platforms: n/a
 mechanics: n/a
 date: n/a
-sports: 
+sports: Futuristic
 ---
 #Aero-Cross
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ysvtunyi7g9wnieguqec.jpg "Logo Title Text 1")

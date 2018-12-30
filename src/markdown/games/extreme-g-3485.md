@@ -3,7 +3,7 @@ title: Extreme-G
 platforms: Nintendo 64
 mechanics: n/a
 date: September 1997
-sports: 
+sports: Futuristic 
 ---
 #Extreme-G
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qfxarza3turtmviqwuev.jpg "Logo Title Text 1")

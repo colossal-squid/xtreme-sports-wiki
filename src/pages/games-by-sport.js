@@ -9,7 +9,8 @@ export default function ({data}) {
   const SPORTS = [
     'Skateboarding', 'BMX', 'Inline skates', 'Snowboarding', 
     'Mountain bike', 'Ski', 'Surfing', "Snowmobile", 
-    "Jet Ski", "Wakeboarding", "ATV", "MX", "Scooter", "Boat racing", 'Other'
+    "Jet Ski", "Wakeboarding", "ATV", "MX", "Scooter", "Boat racing", 'Futuristic',
+    'Parkour', 'Other'
   ];
 
   const SCREENSHOTS = [
@@ -27,6 +28,8 @@ export default function ({data}) {
     'https://images.igdb.com/igdb/image/upload/t_cover_big/jx6egu1wvmfihmhbtz4c.jpg',
     'http://coolrom.com/screenshots/psx/Razor%20Racing%20(2).jpg',
     'http://images.igdb.com/igdb/image/upload/t_cover_big/crz2fazzh9vun4o86scy.jpg',
+    '/images/slus-21642-game-ss-7.jpg',
+    '/images/free-running.jpg',
     'https://images.igdb.com/igdb/image/upload/t_cover_big/l1fj2ineznf2iw8cfzzt.jpg'
   ];
   return (
@@ -35,7 +38,11 @@ export default function ({data}) {
    <Grid>
     <Row>
         {SPORTS.map(sport=>(<Col xs4={4} sm={6} md={4} lg={2}>
-                              <a className={style.blocky} href={'#'+sport}>[{sport}]
+                              <a className={style.blocky} href={'#'+sport}>{sport} [{
+                                 data.allMarkdownRemark.edges.filter(edge=>(
+                                  (edge.node.frontmatter.sports||"").split(',').map(s=>s.trim()).includes(sport) || (sport==='Other' && !edge.node.frontmatter.sports)
+                                )).length
+                              }]
                                 <img className={style.img} alt={"screenshot-" + sport} src={SCREENSHOTS[ SPORTS.indexOf(sport) ]} />
                               </a>
                             </Col>))}
@@ -45,7 +52,7 @@ export default function ({data}) {
      <section id={sport}>
       <h2>{sport}</h2>
         { data.allMarkdownRemark.edges.filter(edge=>(
-          (edge.node.frontmatter.sports||"").split(',').includes(sport) || (sport==='Other' && !edge.node.frontmatter.sports)
+          (edge.node.frontmatter.sports||"").split(',').map(s=>s.trim()).includes(sport) || (sport==='Other' && !edge.node.frontmatter.sports)
         )).map(edge=>(
           <li><Link to={edge.node.fields.slug} dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></Link></li>
         )) }

@@ -3,7 +3,7 @@ title: Skate or Die!
 platforms: Nintendo Wii
 mechanics: n/a
 date: December 2007
-sports: 
+sports: Skateboarding
 ---
 #Skate or Die!
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gmblophalrtjtypkkyrw.jpg "Logo Title Text 1")

@@ -3,7 +3,7 @@ title: Extreme-G 3
 platforms: Nintendo Gamecube, PS2
 mechanics: n/a
 date: August 2001
-sports: 
+sports: Futuristic
 ---
 #Extreme-G 3
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ma90ozuusygqkrceeuqm.jpg "Logo Title Text 1")

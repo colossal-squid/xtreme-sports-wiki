@@ -3,7 +3,7 @@ title: Jet Moto 3
 platforms: PSOne
 mechanics: n/a
 date: October 1999
-sports: 
+sports: Futuristic
 ---
 #Jet Moto 3
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/p2uwcbh6j0vqlzjm5zow.jpg "Logo Title Text 1")

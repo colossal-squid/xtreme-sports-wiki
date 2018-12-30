@@ -3,7 +3,7 @@ title: Free Running
 platforms: PC (Microsoft Windows), PSP, Nintendo DS, Nintendo Wii, PS2
 mechanics: n/a
 date: April 2007
-sports: 
+sports: Parkour 
 ---
 #Free Running
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ynzxqkjklltvucsc01la.jpg "Logo Title Text 1")

@@ -3,7 +3,7 @@ title: Running High
 platforms: PSOne
 mechanics: n/a
 date: May 1997
-sports: 
+sports: Parkour
 ---
 #Running High
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/blbhvtwgrmg9dkdwmkni.jpg "Logo Title Text 1")

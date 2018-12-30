@@ -11,6 +11,9 @@ export default ({data}) => (
    <ul><h2>SSX "inspired" games</h2>
       { formatGames(data, 'ssx') }
    </ul>
+   <ul><h2>EA Skate "inspired" games</h2>
+      { formatGames(data, 'skate') }
+   </ul>
    {/* <ul><h2>Games with rather unique mechanics</h2>
        { formatGames(data, 'other') }
    </ul>

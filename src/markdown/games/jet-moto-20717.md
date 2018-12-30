@@ -3,7 +3,7 @@ title: Jet Moto
 platforms: PSOne
 mechanics: n/a
 date: December 1996
-sports: 
+sports: Futuristic
 ---
 #Jet Moto
 ![game cover art](- "Logo Title Text 1")

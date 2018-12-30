@@ -18,7 +18,9 @@ export default ({data}) => (
    The list is WIP (as rest of the website), it has some letsplayer dedicated to ssx/thps, people modding the games and so on.
    <section>
        <h2> EXTREME news!</h2>
-       <span>Last update: 26.12.2018 - some metadata is fixed for games "by sports"</span>
+       <p>30.12.2018 - suggestions from r/ssx thread added</p>
+       <p>29.12.2018 - r/thps snowboarding games collector shared his list</p>
+       <p>26.12.2018 - some metadata is fixed for games "by sports"</p>
    </section>
   </Layout>
 )

@@ -3,7 +3,7 @@ title: SnoCross 2&#x3a; Featuring Blair Morgan
 platforms: n/a
 mechanics: n/a
 date: n/a
-sports: 
+sports: Snowmobile
 ---
 #SnoCross 2: Featuring Blair Morgan
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/rxz4suymjycgtpfwghuy.jpg "Logo Title Text 1")
