@@ -1,4 +1,7 @@
 module.exports = {
+    siteMetadata: {
+        url: "http://extreme-wiki.roman-guivan.online"
+    },
     plugins: [
         'gatsby-plugin-react-helmet',
         {
