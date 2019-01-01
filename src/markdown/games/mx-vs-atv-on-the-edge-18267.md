@@ -15,7 +15,7 @@ PSP
 ###Description:
 undefined
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/mtyhwbbetmiozrmf7qbh.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/mtyhwbbetmiozrmf7qbh.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/mtyhwbbetmiozrmf7qbh.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/mtyhwbbetmiozrmf7qbh.jpg"/></a>
 ###Video
 ####Trailer
 

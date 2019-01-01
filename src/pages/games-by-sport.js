@@ -37,7 +37,7 @@ export default function ({data}) {
    <h1> Extreme games by sport</h1>
    <Grid>
     <Row>
-        {SPORTS.map(sport=>(<Col xs4={4} sm={6} md={4} lg={2}>
+        {SPORTS.map(sport=>(<Col key={sport} xs4={4} sm={6} md={4} lg={2}>
                               <a className={style.blocky} href={'#'+sport}>{sport} [{
                                  data.allMarkdownRemark.edges.filter(edge=>(
                                   (edge.node.frontmatter.sports||"").split(',').map(s=>s.trim()).includes(sport) || (sport==='Other' && !edge.node.frontmatter.sports)
@@ -49,12 +49,12 @@ export default function ({data}) {
     </Row>
    </Grid>
    {SPORTS.map(sport=>(
-     <section id={sport}>
+     <section key={sport} id={sport}>
       <h2>{sport}</h2>
         { data.allMarkdownRemark.edges.filter(edge=>(
           (edge.node.frontmatter.sports||"").split(',').map(s=>s.trim()).includes(sport) || (sport==='Other' && !edge.node.frontmatter.sports)
-        )).map(edge=>(
-          <li><Link to={edge.node.fields.slug} dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></Link></li>
+        )).sort().map(edge=>(
+          <li key={edge.node.fields.slug}><Link to={edge.node.fields.slug} dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></Link></li>
         )) }
      </section>
    ))}

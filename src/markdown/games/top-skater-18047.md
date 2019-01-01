@@ -22,7 +22,7 @@ The soundtrack of the game consisted entirely of these songs by the punk rock ba
 
 The game's style is like that of the later and more known Sega game Crazy Taxi, noticeably the character art design and music type. Top Skater was also directed by Kenji Kanno. A lesser known sequel called Air Trix was made in 2001.
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/ux0g2ydrw4wkblwcn87s.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/ux0g2ydrw4wkblwcn87s.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/keoqnqeqndht9xj7qvaf.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/keoqnqeqndht9xj7qvaf.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/iarw8cp4qzinj8ufmyzn.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/iarw8cp4qzinj8ufmyzn.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/ux0g2ydrw4wkblwcn87s.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/ux0g2ydrw4wkblwcn87s.jpg"/></a><a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/keoqnqeqndht9xj7qvaf.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/keoqnqeqndht9xj7qvaf.jpg"/></a><a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/iarw8cp4qzinj8ufmyzn.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/iarw8cp4qzinj8ufmyzn.jpg"/></a>
 ###Video
 [no videos yet...]
 ###Related games

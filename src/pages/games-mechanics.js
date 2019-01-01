@@ -24,8 +24,9 @@ export default ({data}) => (
 )
 
 function formatGames(data, mechanic) {
-    return data.allMarkdownRemark.edges.filter(edge=>(mechanic && edge.node.frontmatter.mechanics === mechanic) || (!mechanic && !edge.node.frontmatter.mechanics )).map(edge=>(
-        <li><Link to={edge.node.fields.slug} dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></Link></li>
+    return data.allMarkdownRemark.edges.filter(edge=>(mechanic && edge.node.frontmatter.mechanics === mechanic) || (!mechanic && !edge.node.frontmatter.mechanics ))
+    .sort().map(edge=>(
+        <li key={edge.node.fields.slug}><Link to={edge.node.fields.slug} dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></Link></li>
     ))
 }
 

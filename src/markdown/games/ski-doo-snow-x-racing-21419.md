@@ -15,7 +15,7 @@ PS2
 ###Description:
 A Ski-Doo branded snow machine racing game.
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/fvdfzfiv0dx3xlxewe5e.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/fvdfzfiv0dx3xlxewe5e.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/fvdfzfiv0dx3xlxewe5e.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/fvdfzfiv0dx3xlxewe5e.jpg"/></a>
 ###Video
 [no videos yet...]
 ###Related games

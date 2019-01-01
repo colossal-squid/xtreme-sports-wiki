@@ -19,7 +19,7 @@ There are over 30 new courses spread out over five authentic mountains that are 
  
 Cool Boarders 4 features big names like Jim Rippey, Ross Powers, Michele Taggart, J.P. Walker, Andrew Crawford, Shaun White and others; big boards like Burton, Fourm, K2, MLY, M3, Salomon, Ride, Morrow, Santa Cruz; big mountains and big features; big customization; a big trickmaster mode; big events; a big multiplayer tournament mode; big tricks; and big brawls.
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/ec3tnmwsjwmmtz5ydtlp.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/ec3tnmwsjwmmtz5ydtlp.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/ec3tnmwsjwmmtz5ydtlp.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/ec3tnmwsjwmmtz5ydtlp.jpg"/></a>
 ###Video
 ####Trailer
 

@@ -23,7 +23,7 @@ Features:
 - Replay sharing 
 - Global leaderboards.
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/evl4bj0ej9nioxrduwfp.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/evl4bj0ej9nioxrduwfp.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/yg3r1sfuj5esnzxkqlza.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/yg3r1sfuj5esnzxkqlza.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/kixc4mnlicxwwjl80xhm.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/kixc4mnlicxwwjl80xhm.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/evl4bj0ej9nioxrduwfp.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/evl4bj0ej9nioxrduwfp.jpg"/></a><a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/yg3r1sfuj5esnzxkqlza.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/yg3r1sfuj5esnzxkqlza.jpg"/></a><a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/kixc4mnlicxwwjl80xhm.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/kixc4mnlicxwwjl80xhm.jpg"/></a>
 ###Video
 ####Trailer
 

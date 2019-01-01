@@ -17,7 +17,7 @@ The game uses a motion-sensing peripheral called the "Motion Pack", which is ins
 
 Hue Pixel Painter is a little known puzzle/platforming hybrid where the game was controlled by moton controls. Hue Pixel Painter was the other game in a two-pack of games commonly refered to as just Tony Hawk's Motion for the Nintendo DS.
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/rm3poyigrxc87lzyfwa2.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/rm3poyigrxc87lzyfwa2.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/rm3poyigrxc87lzyfwa2.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/rm3poyigrxc87lzyfwa2.jpg"/></a>
 ###Video
 ####Trailer
 

@@ -21,7 +21,7 @@ Old features were also kept like Create-a-park, which dates back to the Pro Skat
  
 The game also includes a multiplayer mode and co-op for up to 2 players for added replay value.
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/mbq73k6cy2pdbgwcsq9r.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/mbq73k6cy2pdbgwcsq9r.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/mbq73k6cy2pdbgwcsq9r.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/mbq73k6cy2pdbgwcsq9r.jpg"/></a>
 ###Video
 [no videos yet...]
 ###Related games

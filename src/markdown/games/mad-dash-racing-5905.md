@@ -17,7 +17,7 @@ Mad Dash Racing combines high-speed combat and 3D adventure action with a crew o
  
 Music by Moby, Fatboy Slim, Propellorheads & More!
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/cuqanwd3uuybnqi4w6o2.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/cuqanwd3uuybnqi4w6o2.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/cuqanwd3uuybnqi4w6o2.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/cuqanwd3uuybnqi4w6o2.jpg"/></a>
 ###Video
 [no videos yet...]
 ###Related games

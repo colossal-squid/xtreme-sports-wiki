@@ -19,7 +19,7 @@ You have to help them by by going around Ocean Shores to get answers about the p
  
 Use your Hockey Stick to fight robots and destroy the robot panels and collect items like smoke bombs, by riding your skateboard and grinding rails as well.
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/tjbumjpwfdv5qn3jelui.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/tjbumjpwfdv5qn3jelui.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/qv3vruiyrgbx3qbn198x.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/qv3vruiyrgbx3qbn198x.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/u18ugyqhxcqcwbyxojhr.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/u18ugyqhxcqcwbyxojhr.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/tjbumjpwfdv5qn3jelui.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/tjbumjpwfdv5qn3jelui.jpg"/></a><a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/qv3vruiyrgbx3qbn198x.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/qv3vruiyrgbx3qbn198x.jpg"/></a><a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/u18ugyqhxcqcwbyxojhr.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/u18ugyqhxcqcwbyxojhr.jpg"/></a>
 ###Video
 [no videos yet...]
 ###Related games

@@ -21,7 +21,7 @@ Your friends are always around: Play in a world where your friends are always ar
 More than just snowboarding: Have fun with your friends on and off the board: Throw snowballs, hike to access secret spots, film your friends doing crazy tricks. You can also upload your videos online to share with the world. 
 Ride your way: Express yourself through tricks, riding styles, and highly customizable avatars both in single-player and in the online world. Use the intuitive dual analog control to pull off a huge variety of tricks that express your style.
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/y8wclcojrmislgb0h0yw.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/y8wclcojrmislgb0h0yw.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/y8wclcojrmislgb0h0yw.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/y8wclcojrmislgb0h0yw.jpg"/></a>
 ###Video
 [no videos yet...]
 ###Related games

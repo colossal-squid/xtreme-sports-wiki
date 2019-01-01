@@ -15,7 +15,7 @@ n/a
 ###Description:
 undefined
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5j28.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5j28.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5j27.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5j27.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5j28.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5j28.jpg"/></a><a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5j27.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5j27.jpg"/></a>
 ###Video
 [no videos yet...]
 ###Related games

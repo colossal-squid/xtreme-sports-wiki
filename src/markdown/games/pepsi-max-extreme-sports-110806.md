@@ -23,7 +23,7 @@ Perform awesome tricks and gain extra kudos and speed benefits
 Attack the other competitors to help you gain places in the races 
 12 multi-environment tracks in 5 exotic locations with various weather conditions and lighting conditions
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5hxk.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5hxk.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5hxj.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5hxj.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5hxi.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5hxi.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5hxk.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5hxk.jpg"/></a><a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5hxj.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5hxj.jpg"/></a><a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5hxi.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5hxi.jpg"/></a>
 ###Video
 [no videos yet...]
 ###Related games

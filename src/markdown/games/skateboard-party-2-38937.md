@@ -54,7 +54,7 @@ LOADED WITH FEATURES
 •Ability to purchase experience points using in-app purchases. 
 •Available in the following languages: English, French, German, Italian, Spanish, Russian, Japanese, Korean, Portuguese and Chinese
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sh10wywdomhsblrc5nt6.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sh10wywdomhsblrc5nt6.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/sh10wywdomhsblrc5nt6.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sh10wywdomhsblrc5nt6.jpg"/></a>
 ###Video
 [no videos yet...]
 ###Related games

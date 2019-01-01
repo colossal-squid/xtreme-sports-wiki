@@ -22,7 +22,7 @@ Tech Deck Dude Bare Knuckle Grind Down-Town
 Tech Deck Dude Bare Knuckle Grind Freak-Town 
 Tech Deck Dude Bare Knuckle Grind Space-Town
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/cj5efcyuu1wejvr7hysf.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/cj5efcyuu1wejvr7hysf.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/azrvdjfp8deywyj62ubr.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/azrvdjfp8deywyj62ubr.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/cj5efcyuu1wejvr7hysf.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/cj5efcyuu1wejvr7hysf.jpg"/></a><a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/azrvdjfp8deywyj62ubr.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/azrvdjfp8deywyj62ubr.jpg"/></a>
 
 ###Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NbYhSVRnHwU" frameborder="0" allowfullscreen></iframe>

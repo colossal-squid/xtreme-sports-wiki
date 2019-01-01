@@ -23,7 +23,7 @@ There were new additions and changes to the Items and Shots. All of them were re
  
 The special tricks (which were different for each character and required the player to perform a combo to do them) were replaced by the ability of doing multiple tricks while in the air. It also added the ability to repel Weapon attacks by performing a Trick or Board Grab in the imminence of the hit. The player can also look behind by pressing the R button.
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/rsi6bpuhafnm4mslmyb5.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/rsi6bpuhafnm4mslmyb5.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/rsi6bpuhafnm4mslmyb5.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/rsi6bpuhafnm4mslmyb5.jpg"/></a>
 ###Video
 [no videos yet...]
 ###Related games

@@ -24,7 +24,7 @@ Great Britain
 USA 
 Sweden
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/efhsujoxv9bjofhlqxcn.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/efhsujoxv9bjofhlqxcn.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/efhsujoxv9bjofhlqxcn.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/efhsujoxv9bjofhlqxcn.jpg"/></a>
 ###Video
 [no videos yet...]
 ###Related games

@@ -17,8 +17,8 @@ Big Air Wakeboarding is probably the first wakeboarding game for PC :) But WTF i
 Big Air Wakeboarding features over eight distinct characters, hundreds of different mind-bending trick combos, multiple jumps and obstacles, real wakeboards from O'Brien, and Darin Shapiro - the 2000 X Games and Pro Wakeboard Tour Champion. In the game you can choose from Career, Competition and Quick Start. In Career mode you have to collect Gas cans, to improve your character over time.These Gas cans unlock new board graphics and improve on the quality of all boards. Gas can also unlock better boats with bigger wakes and more advanced tie-ins. In Competition you got three runs out in the open water to try and rack up the most points - any medal in a competition will unlock the next course. If you like skateboarding and snowboarding games, maybe this game could be quite interesting for you
 
 ###Screenshots
-<a target="_blank" href="https://www.ggmania.com/pics/bawakeboarding/bawakeboarding11.jpg"><img src="https://www.ggmania.com/pics/bawakeboarding/bawakeboarding11.jpg"/></a>
-<a target="_blank" href="https://www.ggmania.com/pics/bawakeboarding/bawakeboarding13.jpg"><img src="https://www.ggmania.com/pics/bawakeboarding/bawakeboarding13.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.ggmania.com/pics/bawakeboarding/bawakeboarding11.jpg"><img src="https://www.ggmania.com/pics/bawakeboarding/bawakeboarding11.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.ggmania.com/pics/bawakeboarding/bawakeboarding13.jpg"><img src="https://www.ggmania.com/pics/bawakeboarding/bawakeboarding13.jpg"/></a>
 
 
 ###Video

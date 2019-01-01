@@ -17,7 +17,7 @@ Rev up your supercharged hydro jet and take a wild ride through twisting canals 
 
 Designed from the ground up to take full advantage the latest mobile hardware, Riptide GP features super-realistic water physics, real-time reflections, and gorgeous high-detail vehicles and environments.
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sdfxpdsbo8iqcmzozji8.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sdfxpdsbo8iqcmzozji8.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/tpctbny3clbje6ypaqza.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/tpctbny3clbje6ypaqza.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/sdfxpdsbo8iqcmzozji8.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sdfxpdsbo8iqcmzozji8.jpg"/></a><a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/tpctbny3clbje6ypaqza.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/tpctbny3clbje6ypaqza.jpg"/></a>
 ###Video
 ####Trailer
 

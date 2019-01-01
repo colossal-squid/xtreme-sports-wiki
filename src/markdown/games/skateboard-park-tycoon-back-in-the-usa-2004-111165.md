@@ -15,7 +15,7 @@ PC (Microsoft Windows)
 ###Description:
 undefined
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5j26.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5j26.jpg"/></a><a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5j25.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5j25.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5j26.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5j26.jpg"/></a><a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/sc5j25.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/sc5j25.jpg"/></a>
 ###Video
 [no videos yet...]
 ###Related games

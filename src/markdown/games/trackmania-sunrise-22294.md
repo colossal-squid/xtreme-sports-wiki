@@ -15,7 +15,7 @@ PC (Microsoft Windows)
 ###Description:
 TrackMania Sunrise is the sequel to TrackMania and featured 3 new environments and new game modes.
 ###Screenshots
-<a target="_blank" href="//images.igdb.com/igdb/image/upload/t_cover_big/orqukrlvj6tqmtyoa68u.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/orqukrlvj6tqmtyoa68u.jpg"/></a>
+<a target="_blank" rel="noopener noreferrer" href="//images.igdb.com/igdb/image/upload/t_cover_big/orqukrlvj6tqmtyoa68u.jpg"><img src="//images.igdb.com/igdb/image/upload/t_thumb/orqukrlvj6tqmtyoa68u.jpg"/></a>
 ###Video
 ####Trailer
 
