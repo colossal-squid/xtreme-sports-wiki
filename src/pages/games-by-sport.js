@@ -53,7 +53,9 @@ export default function ({data}) {
       <h2>{sport}</h2>
         { data.allMarkdownRemark.edges.filter(edge=>(
           (edge.node.frontmatter.sports||"").split(',').map(s=>s.trim()).includes(sport) || (sport==='Other' && !edge.node.frontmatter.sports)
-        )).sort().map(edge=>(
+        )).sort((edge1, edge2)=>{
+          return edge1.node.frontmatter.title > edge2.node.frontmatter.title ? 1 : -1;
+        }).map(edge=>(
           <li key={edge.node.fields.slug}><Link to={edge.node.fields.slug} dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></Link></li>
         )) }
      </section>

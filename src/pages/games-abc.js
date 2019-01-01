@@ -13,7 +13,9 @@ export default function ({data}) {
       <h2>{letter}</h2>
         { data.allMarkdownRemark.edges
         .filter(edge=>edge.node.frontmatter.title.toUpperCase().charAt(0) === letter || (!/[A-Z]/.test(edge.node.frontmatter.title.toUpperCase().charAt(0))) && letter === '#')
-        .sort()
+        .sort((edge1, edge2)=>{
+          return edge1.node.frontmatter.title > edge2.node.frontmatter.title ? 1 : -1;
+        })
         .map(edge=>(
           <li key={edge.node.fields.slug}><Link to={edge.node.fields.slug} dangerouslySetInnerHTML={{ __html: edge.node.frontmatter.title}}></Link></li>
         ))
