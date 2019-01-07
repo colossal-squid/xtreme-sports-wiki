@@ -33,7 +33,10 @@ export default function ({data}) {
     'https://images.igdb.com/igdb/image/upload/t_cover_big/l1fj2ineznf2iw8cfzzt.jpg'
   ];
   return (
-  <Layout>
+  <Layout nav={ {
+    title: 'Extreme Games By Sport',
+    url: '/games-by-sport/',
+  } }>
    <h1> Extreme games by sport</h1>
    <Grid>
     <Row>
@@ -66,7 +69,13 @@ export default function ({data}) {
 
 export const query = graphql`
   query {
-    allMarkdownRemark {
+    allMarkdownRemark(filter: {
+      fields : {
+        folder: {
+          eq: "/games"
+        }
+      }
+    }) {
       totalCount
       edges {
         node {

@@ -10,6 +10,11 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       name: `slug`,
       value: slug,
     })
+    createNodeField({
+      node,
+      name: `folder`,
+      value: slug.substring(0, slug.substring(1).indexOf('/')+1),
+    })
   }
 }
 

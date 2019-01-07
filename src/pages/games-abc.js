@@ -5,7 +5,10 @@ import Layout from "../components/layout";
 export default function ({data}) {
   const LETTERS = "#abcdefghijklmnopqrstuvwxyz".toUpperCase().split('');
   return (
-  <Layout>
+    <Layout nav={ {
+      title: 'Extreme games alphabetically',
+      url: '/games-abc/',
+    } }>
    <h1> Extreme games alphabetically</h1>
    <p>{LETTERS.map(letter=>(<a key={letter} href={'#'+letter}>[{letter}]</a>))}</p>
    {LETTERS.map(letter=>(
@@ -28,7 +31,13 @@ export default function ({data}) {
 
 export const query = graphql`
   query {
-    allMarkdownRemark {
+    allMarkdownRemark(filter: {
+      fields : {
+        folder: {
+          eq: "/games"
+        }
+      }
+    }) {
       totalCount
       edges {
         node {

@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout";
+import RecentNews from "../components/recent-news"
 
 export default ({data}) => (
   <Layout>
@@ -17,25 +18,22 @@ export default ({data}) => (
    Please visit <Link to="/additional-resources/">this page</Link> for list of similar resources, forums and all sorts of things that are worth mentioning.
    The list is WIP (as rest of the website), it has some letsplayer dedicated to ssx/thps, people modding the games and so on.
    <section>
-       <h2> EXTREME news!</h2>
-       <p>01.01.2019 - Happy new year! New games added (Shout out to @UnitedMovieMakers!): 
-         <ul>
-           <li> <a href="/games/atv-offroad-fury-3-8271/">ATV Offroad Fury 3 </a> </li> 
-           <li> <a href="/games/atv-offroad-fury-4-8273/">ATV Offroad Fury 4 </a> </li> 
-           <li> <a href="/games/boarder_zone/">Boarder Zone </a> </li> 
-           <li> <a href="/games/extreme-sports-with-the-berenstain-bears-49932/">Extreme Sports with the Berenstain Bears</a> </li> 
-          </ul>
-          Also I've fixed the images for <a href="/games/darin-shapiro-big-air-wakeboarding/">Darin Shapiro's Big Air Wakeboarding</a>, and started a thread looking it on old-games.ru. And sorting works!</p>
-       <p>30.12.2018 - suggestions from r/ssx thread added</p>
-       <p>29.12.2018 - r/thps snowboarding games collector shared his list</p>
-       <p>26.12.2018 - some metadata is fixed for games "by sports"</p>
+   <h2>Recent XTREME news!</h2>
+   <RecentNews></RecentNews>
+   <Link to="/">See older news..</Link>
    </section>
   </Layout>
 )
 
 export const query = graphql`
   query {
-    allMarkdownRemark {
+    allMarkdownRemark(filter: {
+      fields : {
+        folder: {
+          eq: "/games"
+        }
+      }
+    }) {
       totalCount
       edges {
         node {

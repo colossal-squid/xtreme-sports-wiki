@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Meta from "./meta";
 import Layout from "./layout"
 import FacebookComments from "./fb-comments-box"
@@ -10,7 +10,11 @@ export default ({data}) => {
     return (
       <React.Fragment>
         <Meta title={post.frontmatter.title}></Meta>
-        <Layout>
+        <Layout nav={ {
+          title: post.frontmatter.title,
+          url: post.fields.slug,
+        } }>
+            <h3>{post.frontmatter.title}</h3>
             <div dangerouslySetInnerHTML={{ __html: post.html }} />
             <h3>Comments</h3>
             <FacebookComments enabled={true} url={url}>

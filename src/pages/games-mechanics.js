@@ -3,7 +3,10 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout";
 
 export default ({data}) => (
-  <Layout>
+  <Layout nav={ {
+    title: 'Extreme games by mechanics',
+    url: '/games-mechanics/',
+  } }>
    <h1> Extreme games by mechanics</h1>
    <ul><h2>Tony Hawks Pro Skater / Underground "inspired" games</h2>
        { formatGames(data, 'thps') }
@@ -32,7 +35,13 @@ function formatGames(data, mechanic) {
 
 export const query = graphql`
   query {
-    allMarkdownRemark {
+    allMarkdownRemark(filter: {
+      fields : {
+        folder: {
+          eq: "/games"
+        }
+      }
+    }) {
       totalCount
       edges {
         node {

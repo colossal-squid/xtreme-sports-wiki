@@ -2,7 +2,7 @@
 title: Darin Shapiro's Big Air Wakeboarding
 platforms: PC
 mechanics: n/a
-date: 2001
+date: June 2001
 sports: Wakeboarding
 ---
 #Darin Shapiro's Big Air Wakeboarding
