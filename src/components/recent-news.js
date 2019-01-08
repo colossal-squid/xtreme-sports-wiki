@@ -1,6 +1,5 @@
 
 import React from "react"
-import Helmet from 'react-helmet'
 import {StaticQuery, graphql, Link} from "gatsby";
 
 export default function RecentNews() {

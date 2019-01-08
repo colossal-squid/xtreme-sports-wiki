@@ -4,6 +4,7 @@ import Layout from "../components/layout";
 
 export default function ({data}) {
   const LETTERS = "#abcdefghijklmnopqrstuvwxyz".toUpperCase().split('');
+  const isNonChar = (edge, letter)=>(!/[A-Z]/.test(edge.node.frontmatter.title.toUpperCase().charAt(0))) && letter === '#';
   return (
     <Layout nav={ {
       title: 'Extreme games alphabetically',
@@ -15,7 +16,7 @@ export default function ({data}) {
      <section id={letter}>
       <h2>{letter}</h2>
         { data.allMarkdownRemark.edges
-        .filter(edge=>edge.node.frontmatter.title.toUpperCase().charAt(0) === letter || (!/[A-Z]/.test(edge.node.frontmatter.title.toUpperCase().charAt(0))) && letter === '#')
+        .filter(edge=>(edge.node.frontmatter.title.toUpperCase().charAt(0) === letter || isNonChar(edge, letter)))
         .sort((edge1, edge2)=>{
           return edge1.node.frontmatter.title > edge2.node.frontmatter.title ? 1 : -1;
         })

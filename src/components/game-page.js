@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 import Meta from "./meta";
 import Layout from "./layout"
 import FacebookComments from "./fb-comments-box"
