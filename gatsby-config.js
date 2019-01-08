@@ -17,6 +17,8 @@ module.exports = {
               path: `${__dirname}/src/markdown`,
             },
         },
-        `gatsby-transformer-remark`
+        `gatsby-transformer-remark`,
+        // make sure to put last in the array
+        {resolve: `gatsby-plugin-netlify`}
     ],
 }
