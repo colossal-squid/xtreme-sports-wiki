@@ -18,7 +18,14 @@ module.exports = {
             },
         },
         `gatsby-transformer-remark`,
+        {
+            resolve: 'gatsby-plugin-copy-files',
+            options: {
+                source: `${__dirname}/src/markdown/static`,
+                destination: '/'
+            }
+        },
         // make sure to put last in the array
         {resolve: `gatsby-plugin-netlify`}
-    ],
+    ]
 }
