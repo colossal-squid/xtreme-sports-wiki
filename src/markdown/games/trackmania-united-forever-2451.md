@@ -5,7 +5,6 @@ mechanics: n/a
 date: April 2008
 sports: 
 ---
-#TrackMania United Forever
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/x0fofrs1x00nexgbwr7y.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * TrackMania United Forever: Star Edition (Other)

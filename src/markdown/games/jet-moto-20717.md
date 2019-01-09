@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 1996
 sports: Futuristic
 ---
-#Jet Moto
 ![game cover art](- "Logo Title Text 1")
 ####Alternative tiles:
 * Jet Rider (European title)

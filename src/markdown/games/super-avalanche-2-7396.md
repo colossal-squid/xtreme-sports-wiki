@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2013
 sports: Snowboarding
 ---
-#Super Avalanche 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/jrjycyq9l9a8qdqsokdu.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

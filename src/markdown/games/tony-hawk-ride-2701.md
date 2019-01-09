@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2009
 sports: Skateboarding
 ---
-#Tony Hawk: Ride
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/dy0d0rrvty37agn2fg1m.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Tony Hawk 10, Tony Hawk X, Tony Hawk's Adrenaline (Other)

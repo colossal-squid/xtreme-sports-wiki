@@ -5,7 +5,6 @@ mechanics: n/a
 date: April 2002
 sports: Inline skates
 ---
-#X-Bladez: Inline Skater
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/fjppfgsnd6smne6jqpss.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

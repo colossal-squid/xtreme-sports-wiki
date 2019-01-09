@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2004
 sports: 
 ---
-#EyeToy: AntiGrav
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/mnpunpbubrmbujoto4bl.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 1999
 sports: Skateboarding
 ---
-#Street Sk8er
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/hugo5tvcyskld5bmloqf.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Simple 1500 Series Vol. 47: The Skateboard (Other)

@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: Surfing
 ---
-#Soul Surfer
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/syceuky8oyqdupfmxecu.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

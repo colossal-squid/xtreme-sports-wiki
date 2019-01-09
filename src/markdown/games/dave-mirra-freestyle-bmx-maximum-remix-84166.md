@@ -5,7 +5,6 @@ mechanics: thps
 date: n/a
 sports: BMX
 ---
-#Dave Mirra Freestyle BMX - Maximum Remix
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/x2fnsjfxk4ouhpelh0ji.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: September 1997
 sports: Futuristic 
 ---
-#Extreme-G
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qfxarza3turtmviqwuev.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

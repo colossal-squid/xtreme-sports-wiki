@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 2003
 sports: Snowboarding
 ---
-#Disney Sports Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/jl0he4zjkzyn07alenc7.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

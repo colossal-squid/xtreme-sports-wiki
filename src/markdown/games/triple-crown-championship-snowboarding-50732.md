@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 2010
 sports: Snowboarding
 ---
-#Triple Crown Championship Snowboarding
 ![game cover art](- "Logo Title Text 1")
 ####Alternative tiles:
 

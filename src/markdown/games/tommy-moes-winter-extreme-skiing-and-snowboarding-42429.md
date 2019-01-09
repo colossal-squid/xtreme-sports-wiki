@@ -5,7 +5,6 @@ mechanics: n/a
 date: July 1994
 sports: Snowboarding
 ---
-#Tommy Moe's Winter Extreme: Skiing & Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/v1gwlebccru1qgm9khur.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Ski Paradise with Snowboard (Other)

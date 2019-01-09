@@ -5,7 +5,6 @@ mechanics: n/a
 date: May 2002
 sports: Jet Ski
 ---
-#Wave Race: Blue Storm
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qm97mjuzzw0tzsno1xmm.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Uēbu Rēsu Burū Sutōmu (undefined)

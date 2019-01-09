@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2018
 sports: 
 ---
-#FutureGrind
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/mujtnc9cbhsf45n33pob.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

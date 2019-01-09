@@ -5,7 +5,6 @@ mechanics: n/a
 date: August 2001
 sports: Skateboarding
 ---
-#Yanya Caballista City Skater
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/if8isy6b4ryzpdylvzuf.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Yanya Caballista Featuring Gawoo (Other)

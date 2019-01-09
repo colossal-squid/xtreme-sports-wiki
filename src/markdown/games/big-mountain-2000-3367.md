@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 2000
 sports: Snowboarding
 ---
-#Big Mountain 2000
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/jx4bcokxh7btu6rlt8re.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Snow Speeder (undefined)

@@ -5,7 +5,6 @@ mechanics: n/a
 date: May 2000
 sports: MX
 ---
-#Motocross Madness 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/q9p7izot9wblns1zqref.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * MCM2 (Other)

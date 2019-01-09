@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2006
 sports: MX
 ---
-#MotorStorm
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/tnk2ktla9yfsjuyzobwq.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: June 2005
 sports: 
 ---
-#Outlaw Volleyball: Remixed
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nebf5oyyvlbdneivqqlr.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: June 1998
 sports: 
 ---
-#Radikal Bikers
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ohkyvndysaamfuovsxle.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

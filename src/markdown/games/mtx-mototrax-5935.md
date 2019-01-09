@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 2004
 sports: MX
 ---
-#MTX Mototrax
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/so6adokbqg2ld8puopqg.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

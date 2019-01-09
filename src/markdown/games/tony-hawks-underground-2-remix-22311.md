@@ -5,7 +5,6 @@ mechanics: thps
 date: April 2005
 sports: Skateboarding
 ---
-#Tony Hawk's Underground 2 Remix
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qocr7hwltlvqypoekbuo.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

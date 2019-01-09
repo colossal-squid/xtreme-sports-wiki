@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 2000
 sports: ATV,Mountain biking,Snowboarding
 ---
-#Pepsi Max Extreme Sports
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/co1h25.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Xtreme Sports  (Gbc)

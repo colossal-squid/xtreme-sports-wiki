@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2001
 sports: Snowboarding
 ---
-#Dark Summit
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/tjdfsfnqlauxrumopcbv.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

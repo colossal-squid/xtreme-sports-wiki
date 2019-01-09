@@ -5,7 +5,6 @@ mechanics: skate
 date: July 2007
 sports: Skateboarding
 ---
-#Skate
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/t1xdmprs3jpiu7plohch.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Skate 1 (undefined)

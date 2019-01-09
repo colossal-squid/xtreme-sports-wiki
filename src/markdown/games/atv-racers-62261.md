@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: ATV
 ---
-#ATV Racers
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/vzag1fq3bhllbqjqegur.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

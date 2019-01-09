@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: Snowboarding
 ---
-#Winter Sports
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/z7sxdykxvlyjrjo6be8j.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

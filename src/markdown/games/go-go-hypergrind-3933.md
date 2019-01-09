@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2003
 sports: 
 ---
-#Go! Go! Hypergrind
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/isozgtokvwzm126lstxu.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

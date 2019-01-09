@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 2008
 sports: Parkour
 ---
-#Iridium Runners
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/smtcl9xi4zfjcgi0yzar.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

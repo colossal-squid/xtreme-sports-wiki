@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2000
 sports: 
 ---
-#Smashing Drive
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gkkjlhbeet8w5mj43ioh.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Smashing Drive (undefined)

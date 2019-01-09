@@ -5,7 +5,6 @@ mechanics: thps
 date: August 2001
 sports: BMX
 ---
-#Dave Mirra Freestyle BMX 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ttle7nbivqle5fybulbn.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: June 2002
 sports: BMX
 ---
-#Gravity Games Bike: Street Vert Dirt
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/u0rvt27xrykgaejhsstr.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: thps
 date: October 2001
 sports: Skateboarding
 ---
-#Tony Hawk's Pro Skater 3
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ckvrca62rzyaemovjk5k.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * THPS3 (Other)

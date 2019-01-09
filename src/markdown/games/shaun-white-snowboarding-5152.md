@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2008
 sports: Snowboarding
 ---
-#Shaun White Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/wmkbjoaklex6kuuffpnk.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Shawn White Snowboarding (Other)

@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2008
 sports: Skateboarding
 ---
-#Tony Hawk's Motion
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/jq0zneiktvzqmze7yqga.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Tony Hawk's Motion / Hue Pixel Painter (undefined)

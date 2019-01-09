@@ -5,7 +5,6 @@ mechanics: n/a
 date: July 2000
 sports: Inline skates,Surfing,Skateboarding
 ---
-#Xtreme Sports
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/u8tgjrbzzhjkkuaxhpms.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Sega Extreme Sports (Other)

@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 2000
 sports: Snowboarding
 ---
-#Boarder Zone
 ![game cover art](/images/boarder_zone/cover.jpg "Logo Title Text 1")
 
 ###Platforms

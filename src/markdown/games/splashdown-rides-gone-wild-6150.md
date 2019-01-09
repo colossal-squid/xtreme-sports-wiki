@@ -5,7 +5,6 @@ mechanics: n/a
 date: August 2003
 sports: Jet Ski
 ---
-#Splashdown: Rides Gone Wild
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/dqqo9hvgrecxengfiiop.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Splashdown 2: Rides Gone Wild (undefined)

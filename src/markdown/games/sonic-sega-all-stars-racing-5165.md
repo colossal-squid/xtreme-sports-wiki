@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2010
 sports: 
 ---
-#Sonic & Sega All-Stars Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/shsjhpgfjqydrla8gc36.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Sonic & Sega All-Stars Racing with Banjo-Kazooie (undefined)

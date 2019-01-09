@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: Snowmobile
 ---
-#SnoCross 2: Featuring Blair Morgan
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/rxz4suymjycgtpfwghuy.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Sno Cross 2 (Other)

@@ -5,7 +5,6 @@ mechanics: n/a
 date: July 2000
 sports: Snowboarding
 ---
-#Trick Boarder
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/d8p6wtwajym3ulngyuxc.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

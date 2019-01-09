@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2018
 sports: 
 ---
-#Monster Energy Supercross - The Official Videogame
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/xr8ffbrddqkninrgxym0.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

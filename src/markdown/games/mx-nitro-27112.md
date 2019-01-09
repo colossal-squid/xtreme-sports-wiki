@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2017
 sports: MX
 ---
-#MX Nitro
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/uuftnnjcp435kplqc75t.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

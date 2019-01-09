@@ -5,7 +5,6 @@ mechanics: n/a
 date: August 1998
 sports: Snowmobile
 ---
-#Sled Storm
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ouritklwzocshze55jie.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

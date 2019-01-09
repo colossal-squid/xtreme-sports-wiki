@@ -5,7 +5,6 @@ mechanics: n/a
 date: January 1999
 sports: Boat racing
 ---
-#Hydro Thunder
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/lfcqi6ehpf6gt952ahyq.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

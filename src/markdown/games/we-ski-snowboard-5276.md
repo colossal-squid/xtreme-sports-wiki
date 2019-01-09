@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2008
 sports: Snowboarding
 ---
-#We Ski & Snowboard
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/clduvvnpqvue4qsrccoz.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Family Ski & Snowboard (undefined)

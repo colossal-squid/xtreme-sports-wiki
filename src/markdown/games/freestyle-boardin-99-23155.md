@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 1999
 sports: Snowboarding
 ---
-#Freestyle Boardin' '99
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/s2vvpfwdm2ybiw3tzhnr.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: skate
 date: n/a
 sports: BMX
 ---
-#PIPE by BMX Streets
 ![game cover art](- "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 2008
 sports: 
 ---
-#TrackMania Nations Forever
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/fpb8v1ed1ip3dbsmns44.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * TMNF (Other)

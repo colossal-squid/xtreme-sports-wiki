@@ -5,7 +5,6 @@ mechanics: n/a
 date: April 2014
 sports: 
 ---
-#Trials Fusion
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/feub5xjec67ekvofwnmy.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

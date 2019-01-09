@@ -5,7 +5,6 @@ mechanics: n/a
 date: May 2005
 sports: 
 ---
-#NBA Street Showdown
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ahiejudw2s4axkabr7xf.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

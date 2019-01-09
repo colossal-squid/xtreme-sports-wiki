@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2006
 sports: 
 ---
-#Sonic Riders
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/lzilfr80swpvivtc1hm9.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Sonikku Raidāzu ソニックライダーズ (Japanese title)

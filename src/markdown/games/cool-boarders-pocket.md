@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2000
 sports: Snowboarding
 ---
-#Cool Boarders Pocket
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/di1vobjepgrae6szyugr.jpg "Logo Title Text 1")
 
 ###Platforms

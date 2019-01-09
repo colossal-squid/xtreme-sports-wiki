@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2017
 sports: BMX
 ---
-#King Of Dirt
 ![game cover art](- "Logo Title Text 1")
 ####Alternative tiles:
 

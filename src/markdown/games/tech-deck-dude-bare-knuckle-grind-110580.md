@@ -5,7 +5,6 @@ mechanics: thps
 date: March 2004
 sports: Skateboarding
 ---
-#Tech Deck Dude Bare Knuckle Grind
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gsot4qpvx1iop6d5ijdx.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

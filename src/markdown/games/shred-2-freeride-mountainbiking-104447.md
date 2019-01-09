@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: Mountain bike
 ---
-#Shred! 2 - Freeride Mountainbiking
 ![game cover art](- "Logo Title Text 1")
 ####Alternative tiles:
 

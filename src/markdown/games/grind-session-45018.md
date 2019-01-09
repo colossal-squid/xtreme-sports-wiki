@@ -5,7 +5,6 @@ mechanics: n/a
 date: May 2000
 sports: Skateboarding
 ---
-#Grind Session
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/yeslbtp1rv2dxk4qguw0.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

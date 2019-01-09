@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2000
 sports: Scooter
 ---
-#Razor Freestyle Scooter
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/g8kcrkjmitljmhaf9vsm.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Freestyle Scooter (undefined)

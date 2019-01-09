@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2000
 sports: Snowmobile
 ---
-#Polaris SnoCross
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/tj17kdfpyzmkz5rlg7r3.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

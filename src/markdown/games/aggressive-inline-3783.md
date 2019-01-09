@@ -5,7 +5,6 @@ mechanics: thps
 date: May 2002
 sports: Inline skates
 ---
-#Aggressive Inline
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/pyenuak5kbjnzpxpg2bo.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

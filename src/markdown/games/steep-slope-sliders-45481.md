@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 1997
 sports: Snowboarding
 ---
-#Steep Slope Sliders
 ![game cover art](- "Logo Title Text 1")
 ####Alternative tiles:
 

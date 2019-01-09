@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2011
 sports: 
 ---
-#AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/fvssqphzqkmw9tujvqso.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * AaaaaAAaaaAAA aaAAAAaAAAAA!!! (Force = Mass x Acceleration) (Other)

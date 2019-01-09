@@ -5,7 +5,6 @@ mechanics: n/a
 date: April 1999
 sports: 
 ---
-#R: Rock'n Riders
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/cv3nlccfbjumzwspwzm1.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

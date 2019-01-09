@@ -5,7 +5,6 @@ mechanics: thps
 date: October 2005
 sports: Skateboarding,Parkour,BMX
 ---
-#Tony Hawk's American Wasteland
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/pys7dln1gif4xrcsw34g.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * THAWTony Hawk's Pro Skater 7Tony Hawks American Wasteland (Other)

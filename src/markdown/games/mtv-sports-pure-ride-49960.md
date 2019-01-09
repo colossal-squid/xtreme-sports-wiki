@@ -5,7 +5,6 @@ mechanics: n/a
 date: January 2001
 sports: Snowboarding
 ---
-#MTV Sports: Pure Ride
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/iplksghz96pvryxdg446.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

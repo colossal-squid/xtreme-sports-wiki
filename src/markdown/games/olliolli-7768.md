@@ -5,7 +5,6 @@ mechanics: n/a
 date: January 2014
 sports: Skateboarding
 ---
-#OlliOlli
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/fx6dnaonowvihsga11jx.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

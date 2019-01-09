@@ -5,7 +5,6 @@ mechanics: n/a
 date: August 1999
 sports: Snowboarding
 ---
-#Rippin' Riders Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/k2fngesfj01glts695ec.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Cool Boarders Burrrn (Japanese title)

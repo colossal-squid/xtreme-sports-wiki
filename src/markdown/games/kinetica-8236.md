@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 2001
 sports: Futuristic
 ---
-#Kinetica
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ymkcyf26rheihf8ftjuj.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

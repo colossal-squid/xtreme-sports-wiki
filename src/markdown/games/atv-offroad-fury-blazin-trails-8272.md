@@ -5,7 +5,6 @@ mechanics: n/a
 date: April 2005
 sports: ATV
 ---
-#ATV Offroad Fury: Blazin' Trails
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ajxjhxgx582ycxji4obn.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: June 2006
 sports: MX 
 ---
-#Crusty Demons
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/djggmng04xowxfw5afoj.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

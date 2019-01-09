@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 2010
 sports: Skateboarding 
 ---
-#Tony Hawk: Shred
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/x3pza2gkhufjqaawkkck.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

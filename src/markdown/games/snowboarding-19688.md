@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2000
 sports: Snowboarding
 ---
-#Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/b8iqsidnuz9pec8fjoqu.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

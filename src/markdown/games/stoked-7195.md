@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2009
 sports: Snowboarding
 ---
-#Stoked
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/d4fjonmfsyjx68po4890.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

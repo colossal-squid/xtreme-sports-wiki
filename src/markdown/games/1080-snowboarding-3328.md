@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 1998
 sports: Snowboarding
 ---
-#1080° Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/htqdgazsmupb3mwpcuip.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

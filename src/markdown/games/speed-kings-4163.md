@@ -5,7 +5,6 @@ mechanics: n/a
 date: May 2003
 sports: 
 ---
-#Speed Kings
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/kygiorfclngunqoh6nkh.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

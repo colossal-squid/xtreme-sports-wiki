@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: Snowboarding
 ---
-#X Games Snowboarder (Arcade)
 ![game cover art](- "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: January 2007
 sports: ATV
 ---
-#ATV Quad Power Racing 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/n0nkblpukhsyxzocnnfq.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

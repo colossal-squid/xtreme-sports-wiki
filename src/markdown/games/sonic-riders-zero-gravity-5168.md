@@ -5,7 +5,6 @@ mechanics: n/a
 date: January 2008
 sports: 
 ---
-#Sonic Riders: Zero Gravity
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nmbfv94rkqpbnpmns4ud.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Sonic Riders: Shooting Star Story (Other)

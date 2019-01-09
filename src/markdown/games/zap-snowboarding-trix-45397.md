@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 1997
 sports: Snowboarding
 ---
-#Zap! Snowboarding Trix
 ![game cover art](- "Logo Title Text 1")
 ####Alternative tiles:
 

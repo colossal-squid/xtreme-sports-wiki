@@ -5,7 +5,6 @@ mechanics: n/a
 date: April 2003
 sports: 
 ---
-#NBA Street Vol. 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ulwgzuoxpmbjsjsrveck.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

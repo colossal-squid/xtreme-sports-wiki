@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: 
 ---
-#Snowboarding+
 ![game cover art](- "Logo Title Text 1")
 ####Alternative tiles:
 

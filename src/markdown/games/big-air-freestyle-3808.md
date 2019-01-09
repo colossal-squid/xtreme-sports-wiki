@@ -5,7 +5,6 @@ mechanics: n/a
 date: September 2002
 sports: MX
 ---
-#Big Air Freestyle
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nsfpgnkjtjkqalk6yigt.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

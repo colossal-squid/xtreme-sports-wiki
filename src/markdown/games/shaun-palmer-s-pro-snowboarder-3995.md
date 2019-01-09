@@ -5,7 +5,6 @@ mechanics: thps
 date: November 2001
 sports: Snowboarding
 ---
-#Shaun Palmer's Pro Snowboarder
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/tu2opvfibuuhe7a4qayw.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

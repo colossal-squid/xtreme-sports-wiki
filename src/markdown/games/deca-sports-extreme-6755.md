@@ -5,7 +5,6 @@ mechanics: n/a
 date: April 2011
 sports: Soccer, Tennis, Basketball, Ice Hockey, Bowling, Snowball Fight, Sumo Wrestling, Snowmobile Racing, Blowguns, Trampoline
 ---
-#Deca Sports Extreme
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/bqticqicegnoe1vbgkjk.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Sports Island 3D (EU), Deca Sporta: 3D Sports (JPN) (Other)

@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 1998
 sports: 
 ---
-#Running Wild
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gtzvs0ikqbq5ujm04ilp.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

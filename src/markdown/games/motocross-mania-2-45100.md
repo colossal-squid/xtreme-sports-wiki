@@ -5,7 +5,6 @@ mechanics: n/a
 date: July 2003
 sports: MX
 ---
-#Motocross Mania 2
 ![game cover art](- "Logo Title Text 1")
 ####Alternative tiles:
 

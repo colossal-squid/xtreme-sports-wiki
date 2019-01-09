@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 2001
 sports: Skateboarding
 ---
-#Skateboard Park Tycoon
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/cwytvsd4bkw1da6ohola.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Skate Park Tycoon (Other)

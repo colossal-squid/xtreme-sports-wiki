@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 2002
 sports: 
 ---
-#Jonny Moseley: Mad Trix
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/r3wk2y2k98uffajgfuxf.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

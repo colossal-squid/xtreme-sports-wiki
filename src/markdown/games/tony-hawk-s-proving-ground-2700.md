@@ -5,7 +5,6 @@ mechanics: thps
 date: October 2007
 sports: Skateboarding
 ---
-#Tony Hawk's Proving Ground
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/b9igl17wr89ejepjquuj.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Tony Hawk 9 (Other)

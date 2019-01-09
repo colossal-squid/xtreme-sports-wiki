@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2006
 sports: ATV,MX
 ---
-#MX vs. ATV: On the Edge
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qjh9vovd8qi5rrsdq4e0.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

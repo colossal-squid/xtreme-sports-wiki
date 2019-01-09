@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 1999
 sports: Snowboarding
 ---
-#MTV Sports: Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/tzrluep7h1p3cghtdiql.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

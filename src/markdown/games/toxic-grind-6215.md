@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 2002
 sports: BMX
 ---
-#Toxic Grind
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/fgafy9zctqs7bcmalq0p.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

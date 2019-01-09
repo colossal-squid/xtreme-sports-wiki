@@ -5,7 +5,6 @@ mechanics: n/a
 date: July 2003
 sports: Mountain bike
 ---
-#Downhill Domination
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/splocr3qlcdzgx2sre92.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

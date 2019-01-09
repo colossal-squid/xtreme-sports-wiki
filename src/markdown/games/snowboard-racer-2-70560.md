@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: Snowboarding
 ---
-#Snowboard Racer 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/rdsfv21fmumbj0is8iyj.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

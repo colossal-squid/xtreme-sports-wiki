@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2007
 sports: ATV,MX
 ---
-#MX vs. ATV: Untamed
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/jsvapkk9myz6xnu2ltsv.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2016
 sports: Jet Ski
 ---
-#Aqua Moto Racing Utopia
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/iyk2ajgvnuzvatjzsxqf.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

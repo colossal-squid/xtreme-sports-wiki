@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 2016
 sports: MX
 ---
-#Mark McMorris Infinite Air
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/bj3ibtubpbtigvja00at.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Infinite Air with Mark McMorris (Other)

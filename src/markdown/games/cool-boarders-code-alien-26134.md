@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2000
 sports: Snowboarding
 ---
-#Cool Boarders: Code Alien
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/txpoxyawugy24hg7xsj9.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

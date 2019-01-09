@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2000
 sports: Snowmobile
 ---
-#Sno-Cross Championship Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/c8pc5ywlcjxklhcq6mkf.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

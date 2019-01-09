@@ -5,7 +5,6 @@ mechanics: n/a
 date: May 2012
 sports: 
 ---
-#Joy Ride Turbo
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/myxytg5grqkqixrtbxzf.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Joyride Turbo (Other)

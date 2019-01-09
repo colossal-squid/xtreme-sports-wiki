@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2003
 sports: Skateboarding
 ---
-#SKATEBOARD PARK TYCOON: BACK IN THE USA 2004
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/co1h78.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

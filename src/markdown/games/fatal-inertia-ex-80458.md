@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: Futuristic
 ---
-#Fatal Inertia EX
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nwqxdnajthuzmloqrteg.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

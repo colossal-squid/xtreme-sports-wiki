@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: Snowboarding
 ---
-#Drop Point: Alaska
 ![game cover art](- "Logo Title Text 1")
 ####Alternative tiles:
 

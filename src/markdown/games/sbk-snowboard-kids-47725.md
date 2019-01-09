@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2005
 sports: Snowboarding
 ---
-#SBK: Snowboard Kids
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/iqlqwsfog1xg6rzwqgts.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

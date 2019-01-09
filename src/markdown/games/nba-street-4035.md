@@ -5,7 +5,6 @@ mechanics: n/a
 date: June 2001
 sports: 
 ---
-#NBA Street
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/jvtndnzcc6nozg4wch94.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

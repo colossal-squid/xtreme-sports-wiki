@@ -5,7 +5,6 @@ mechanics: n/a
 date: June 2010
 sports: 
 ---
-#Joe Danger
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/idbau5y73m83rsb6k9ci.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Joe Danger: Special Edition (Other)

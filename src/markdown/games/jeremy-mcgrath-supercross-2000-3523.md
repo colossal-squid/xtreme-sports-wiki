@@ -5,7 +5,6 @@ mechanics: n/a
 date: July 2000
 sports: Snowboarding
 ---
-#Jeremy McGrath Supercross 2000
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/y150tsiyeyz1sbgm7jdt.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

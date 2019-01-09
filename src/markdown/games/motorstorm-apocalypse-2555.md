@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 2011
 sports: MX
 ---
-#MotorStorm: Apocalypse
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/xvghrnjjhtt5zpcvvaox.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Motorstorm 3 (Other)

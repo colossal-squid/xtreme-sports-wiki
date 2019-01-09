@@ -5,7 +5,6 @@ mechanics: n/a
 date: September 2015
 sports: BMX
 ---
-#Pumped BMX+
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/guijjbkgurvc8doy2y1p.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

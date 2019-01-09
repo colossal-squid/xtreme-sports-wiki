@@ -5,7 +5,6 @@ mechanics: n/a
 date: September 2001
 sports: Snowmobile
 ---
-#Arctic Thunder
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/gvka6j6y7wblrji5q818.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

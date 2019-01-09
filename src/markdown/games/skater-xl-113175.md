@@ -5,7 +5,6 @@ mechanics: skate
 date: December 2018
 sports: Skateboarding
 ---
-#Skater XL
 ![game cover art](- "Logo Title Text 1")
 ####Alternative tiles:
 

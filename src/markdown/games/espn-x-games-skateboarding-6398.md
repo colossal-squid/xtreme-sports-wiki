@@ -5,7 +5,6 @@ mechanics: n/a
 date: September 2001
 sports: Skateboarding
 ---
-#ESPN X Games Skateboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/zqzlxuoqtfiuig4kovou.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: Snowboarding
 ---
-#Pixel Boarder
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ji1obk2ghxnciouiidrk.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

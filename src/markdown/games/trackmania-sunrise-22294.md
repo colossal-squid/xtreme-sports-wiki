@@ -5,7 +5,6 @@ mechanics: n/a
 date: April 2005
 sports: 
 ---
-#TrackMania Sunrise
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/j0gtova0bg0qemzimjad.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

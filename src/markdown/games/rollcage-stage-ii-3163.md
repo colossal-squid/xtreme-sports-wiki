@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 1999
 sports: 
 ---
-#Rollcage Stage II
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/kpo1wy2wcmn8nurugot4.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Rollcage Stage 2

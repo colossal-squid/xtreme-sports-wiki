@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2013
 sports: Mountain bike
 ---
-#Urban Trial Freestyle
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/x5giubolvuc6fnwpjuca.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Urban Trials (Other)

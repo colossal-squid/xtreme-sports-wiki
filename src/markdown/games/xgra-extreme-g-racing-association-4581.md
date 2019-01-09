@@ -5,7 +5,6 @@ mechanics: n/a
 date: September 2003
 sports: Futuristic
 ---
-#XGRA: Extreme G Racing Association
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/hxgff8pznlrbk3cyogro.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

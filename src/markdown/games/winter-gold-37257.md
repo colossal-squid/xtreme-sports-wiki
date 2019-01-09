@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 1996
 sports: Snowboarding
 ---
-#Winter Gold
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/czuqnmkgvvamf20biueu.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

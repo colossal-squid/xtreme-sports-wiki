@@ -5,7 +5,6 @@ mechanics: ssx
 date: February 2007
 sports: Snowboarding
 ---
-#SSX Blur
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/o4qfckad1hp5do13zzad.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * SSX 5 (Working Title) (Other)

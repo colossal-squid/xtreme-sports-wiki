@@ -5,7 +5,6 @@ mechanics: thps
 date: November 2006
 sports: Skateboarding
 ---
-#Tony Hawk's Project 8
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/l9wezjeh66l6ltjbsxer.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * THP8 (Other)

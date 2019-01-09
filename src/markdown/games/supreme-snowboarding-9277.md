@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 1999
 sports: Snowboarding
 ---
-#Supreme Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/uhtmhqsy8epn8zawppnm.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Boarder Zone (Other)

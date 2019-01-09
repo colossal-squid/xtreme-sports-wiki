@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2009
 sports: Snowboarding
 ---
-#Snowboard Riot
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/hbrd0hj9teke2j6fyrgp.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: Snowboarding
 ---
-#Project Powder
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/slkcxwyg68bot4knjcub.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

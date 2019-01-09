@@ -5,7 +5,6 @@ mechanics: thps
 date: August 2002
 sports: Surfing
 ---
-#Kelly Slater's Pro Surfer
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/hofecvy4ggyoes9cotun.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Kelly Slater Pro Surfer 2003 (undefined)

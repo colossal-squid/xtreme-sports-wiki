@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2000
 sports: 
 ---
-#Extreme Sports with the Berenstain Bears
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/vf5avgldle3gqzmf7ivp.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

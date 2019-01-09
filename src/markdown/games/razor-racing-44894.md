@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2001
 sports: Scooter
 ---
-#Razor Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/fbzpi2vmufnua3qwsbf9.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

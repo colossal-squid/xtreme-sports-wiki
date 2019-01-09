@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2009
 sports: Snowboarding
 ---
-#Shaun White Snowboarding: World Stage
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ayuwlozlj0wgjnekb0yj.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * SWSWS (Other)

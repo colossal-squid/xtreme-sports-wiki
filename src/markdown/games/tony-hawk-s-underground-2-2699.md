@@ -5,7 +5,6 @@ mechanics: thps
 date: October 2004
 sports: Skateboarding
 ---
-#Tony Hawk's Underground 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/oy9ytaclgoe0i52ukmtk.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * THUG 2 (Other)

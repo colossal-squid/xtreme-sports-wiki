@@ -20,6 +20,20 @@ iOS
 “The fingerboard sensation is back with an improved feeling!” - AppAdvice
 
 ---
+![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qhjidthulm8q2rvrdos8.jpg "Logo Title Text 1")
+####Alternative tiles:
+
+###Platforms
+iOS
+
+###Description:
+“Touchgrind Skate 2 is one of the best touch gaming experiences around that is a must buy for hours of action packed fun.” - Apple'N'Apps
+
+“Touchgrind Skate 2 blossoms into a world of enjoyment [..] Illusion Labs does it again!” - TouchArcade 
+
+“The fingerboard sensation is back with an improved feeling!” - AppAdvice
+
+---
 
 Skate like a pro in the most realistic multi-touch skateboarding game ever!
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: 
 ---
-#Digital Extreme Sport Games
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/lzwlul0dulrcufwkazet.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

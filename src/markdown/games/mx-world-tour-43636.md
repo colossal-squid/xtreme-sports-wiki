@@ -5,7 +5,6 @@ mechanics: n/a
 date: May 2005
 sports: MX
 ---
-#MX World Tour
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/uyldpqgfrm3aggwtqzit.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

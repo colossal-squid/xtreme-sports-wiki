@@ -5,7 +5,6 @@ mechanics: n/a
 date: June 2001
 sports: Wakeboarding
 ---
-#Darin Shapiro's Big Air Wakeboarding
 ![game cover art](/images/darin_shapiros/cover.jpg "Logo Title Text 1")
 
 ###Platforms

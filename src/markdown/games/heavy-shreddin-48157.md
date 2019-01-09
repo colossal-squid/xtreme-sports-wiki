@@ -5,7 +5,6 @@ mechanics: n/a
 date: July 1990
 sports: Snowboarding
 ---
-#Heavy Shreddin'
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/vk3jraapuplkxac3vvxw.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

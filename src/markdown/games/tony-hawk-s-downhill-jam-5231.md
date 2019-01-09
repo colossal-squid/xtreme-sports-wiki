@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 2006
 sports: Skateboarding
 ---
-#Tony Hawk's Downhill Jam
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/dy0hdfvncra4xnwicaui.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

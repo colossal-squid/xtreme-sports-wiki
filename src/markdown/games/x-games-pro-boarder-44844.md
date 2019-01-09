@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: Snowboarding
 ---
-#X-Games: Pro Boarder
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/co2yujzyckoq8ue0vjou.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

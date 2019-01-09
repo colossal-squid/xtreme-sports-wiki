@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2001
 sports: Wakeboarding
 ---
-#BursTrick WakeBoarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/fcasbqrz3zpnzosjqhdf.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

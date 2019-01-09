@@ -5,7 +5,6 @@ mechanics: n/a
 date: May 2000
 sports: Snowboarding
 ---
-#Millennium Winter Sports
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/krduzdl8bnvdzj8zfloh.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

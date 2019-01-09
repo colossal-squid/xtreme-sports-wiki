@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 2011
 sports: Jet Ski
 ---
-#Riptide GP
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/iplbyzm2dcxmcvjkx6s4.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

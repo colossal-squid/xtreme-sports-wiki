@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 1999
 sports: Snowboarding
 ---
-#Big Air
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/eg8hotplsb7ew1pownm2.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2001
 sports: ATV
 ---
-#ATV Offroad Fury
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/sdoejdddzw7upgubno5r.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: February 2004
 sports: MX
 ---
-#MX Unleashed
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/dcpgdrtes21ldtbjzmei.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

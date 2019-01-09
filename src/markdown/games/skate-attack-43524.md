@@ -5,7 +5,6 @@ mechanics: thps
 date: April 2007
 sports: Skateboarding
 ---
-#Skate Attack
 ![game cover art](/covers/skate-attack.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

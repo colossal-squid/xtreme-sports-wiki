@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 1998
 sports: Futuristic
 ---
-#Extreme-G 2
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/qedx7zjcccfvo6jcm1kz.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Extreme-G: XG2 (Other)

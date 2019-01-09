@@ -18,6 +18,18 @@ iOS
 - Awarded Best Sports Game at the International Mobile Gaming Awards 2012
 
 ---------------------------------------------------
+![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/irpyfnsxrezr12jmikun.jpg "Logo Title Text 1")
+####Alternative tiles:
+
+###Platforms
+iOS
+
+###Description:
+- Chosen by Apple as one of the three best iPhone games of 2011 
+
+- Awarded Best Sports Game at the International Mobile Gaming Awards 2012
+
+---------------------------------------------------
 
 Become a BMX pro and perform spectacular tricks in breathtaking locations all over the world. Your skill and imagination are the only limits to the tricks you can pull off! Impress your friends by uploading your best runs to YouTube and Facebook.
 

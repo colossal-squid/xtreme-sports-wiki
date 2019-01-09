@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 2014
 sports: 
 ---
-#Skyline Skaters
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/c1ti7skmnjjetxripfgj.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

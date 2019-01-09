@@ -5,7 +5,6 @@ mechanics: n/a
 date: September 2002
 sports: 
 ---
-#Rocket Power: Beach Bandits
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/jwj3lvszszoiq1zwv9ss.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Nickelodeon: Rocket Power - Beach Bandits (Other)

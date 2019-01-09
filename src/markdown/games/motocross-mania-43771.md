@@ -5,7 +5,6 @@ mechanics: n/a
 date: August 2001
 sports: MX
 ---
-#Motocross Mania
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/sr4sbgcya9qx9qkz2xhf.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

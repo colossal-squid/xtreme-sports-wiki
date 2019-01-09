@@ -5,7 +5,6 @@ mechanics: n/a
 date: July 2009
 sports: Jet Ski
 ---
-#Wii Sports Resort
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/vyihkhcjmdgwjmpxuem1.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Wii Sports 2 (Other)

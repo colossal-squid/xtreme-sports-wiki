@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2000
 sports: Surfing
 ---
-#Surfing H3O
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/smozc5jnwypcembz99ln.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

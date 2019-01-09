@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 2007
 sports: Snowmobile
 ---
-#Ski-Doo: Snow X Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/rian3dyq9ajne1i2msxi.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

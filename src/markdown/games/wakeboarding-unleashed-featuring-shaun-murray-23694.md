@@ -5,7 +5,6 @@ mechanics: n/a
 date: July 2003
 sports: Wakeboarding,Boat racing
 ---
-#Wakeboarding Unleashed Featuring Shaun Murray
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/crbew3s5prrww1rnejjf.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

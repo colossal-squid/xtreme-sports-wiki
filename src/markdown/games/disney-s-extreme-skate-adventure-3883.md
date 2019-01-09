@@ -5,7 +5,6 @@ mechanics: thps
 date: September 2003
 sports: Skateboarding
 ---
-#Disney's Extreme Skate Adventure
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/c3idp1u4mfbgqsxzsxzo.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

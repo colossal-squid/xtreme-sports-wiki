@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 2004
 sports: Skateboarding
 ---
-#Ollie King
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/kykimrexl79decglqjuv.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

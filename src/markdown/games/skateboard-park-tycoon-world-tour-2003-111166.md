@@ -5,7 +5,6 @@ mechanics: n/a
 date: n/a
 sports: Skateboarding
 ---
-#Skateboard Park Tycoon: World Tour 2003
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/co1h77.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

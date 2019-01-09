@@ -5,7 +5,6 @@ mechanics: n/a
 date: May 1997
 sports: Skateboarding
 ---
-#Top Skater
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/jayn0saz3xfmrjcg7uvg.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

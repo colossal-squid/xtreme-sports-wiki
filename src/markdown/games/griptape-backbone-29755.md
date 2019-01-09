@@ -5,7 +5,6 @@ mechanics: n/a
 date: May 2017
 sports: Skateboarding
 ---
-#Griptape Backbone
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/xl2xr1ckz6s9bcoywhfh.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: thps
 date: December 2001
 sports: Skateboarding
 ---
-#Tony Hawk's Pro Skater 2X
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ovv7t3mh8jhhglxwgc4j.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * THPS2x (Other)

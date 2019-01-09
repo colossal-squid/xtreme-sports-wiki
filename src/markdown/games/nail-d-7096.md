@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2010
 sports: ATV
 ---
-#Nail'd
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/prn2hym8l6hrv6omgjjz.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2001
 sports: Jet Ski
 ---
-#Splashdown
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/lxghp7sklbxsjxucpvs3.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

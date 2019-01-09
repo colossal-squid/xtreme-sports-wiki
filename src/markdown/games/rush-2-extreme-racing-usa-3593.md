@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 1998
 sports: 
 ---
-#Rush 2: Extreme Racing USA
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/orw7dk3zlmaslkixy2ms.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

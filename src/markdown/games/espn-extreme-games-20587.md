@@ -5,7 +5,6 @@ mechanics: n/a
 date: June 1995
 sports: Skateboarding,Mountain bike,Inline skates
 ---
-#ESPN Extreme Games
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/mjma1vnpoywp2tpxrmhd.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * 1Xtreme (Other)

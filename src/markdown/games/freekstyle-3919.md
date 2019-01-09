@@ -5,7 +5,6 @@ mechanics: n/a
 date: June 2002
 sports: MX
 ---
-#Freekstyle
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/l2z5fcy1a6levsxphbgs.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

@@ -5,7 +5,6 @@ mechanics: n/a
 date: March 2015
 sports: 
 ---
-#OlliOlli2: Welcome to Olliwood
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/hk2teln855cw5bgjwcpz.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

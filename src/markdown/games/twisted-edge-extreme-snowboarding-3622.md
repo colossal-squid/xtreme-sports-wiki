@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 1998
 sports: Snowboarding
 ---
-#Twisted Edge Extreme Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/oj5mevb2laefgkvxohlx.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

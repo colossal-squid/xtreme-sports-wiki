@@ -5,7 +5,6 @@ mechanics: thps
 date: October 2005
 sports: Skateboarding
 ---
-#Tony Hawk's American Sk8land
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/eeq4sjbaildexl0kshh8.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

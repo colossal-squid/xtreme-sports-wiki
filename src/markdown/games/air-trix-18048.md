@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2001
 sports: Skateboarding
 ---
-#Air Trix
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/exwpjwin5k0jgasfalqi.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Air Trix - Japanese Title (Japanese title)

@@ -5,7 +5,6 @@ mechanics: n/a
 date: November 2001
 sports: Surfing
 ---
-#TransWorld Surf
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/wwnuftld6rhtasy1wpzk.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * TransWorld Surf: Next Wave (undefined)

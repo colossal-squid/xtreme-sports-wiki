@@ -5,7 +5,6 @@ mechanics: n/a
 date: August 1999
 sports: 
 ---
-#Hot Wheels Turbo Racing
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/cgnfgftuotvpw8asa1ku.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

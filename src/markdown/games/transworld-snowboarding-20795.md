@@ -5,7 +5,6 @@ mechanics: n/a
 date: October 2002
 sports: Snowboarding
 ---
-#TransWorld Snowboarding
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/t1i9syslizdfvldcho6o.jpg "Logo Title Text 1")
 ####Alternative tiles:
 

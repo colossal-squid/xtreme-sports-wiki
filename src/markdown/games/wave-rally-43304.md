@@ -5,7 +5,6 @@ mechanics: n/a
 date: December 2001
 sports: Jet Ski
 ---
-#Wave Rally
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/pxgzp1qoswewoskj3skz.jpg "Logo Title Text 1")
 ####Alternative tiles:
 * Jet Ski Riders (Other)
