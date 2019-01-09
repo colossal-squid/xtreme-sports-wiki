@@ -1,6 +1,7 @@
 module.exports = {
     siteMetadata: {
-        url: "http://extreme-wiki.roman-guivan.online"
+        url: "http://extreme-wiki.roman-guivan.online",
+        siteUrl: "http://extreme-wiki.roman-guivan.online"
     },
     plugins: [
         'gatsby-plugin-react-helmet',
@@ -25,6 +26,7 @@ module.exports = {
                 destination: '/'
             }
         },
+        `gatsby-plugin-sitemap`,
         // make sure to put last in the array
         {resolve: `gatsby-plugin-netlify`}
     ]
