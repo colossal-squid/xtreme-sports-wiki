@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout";
 import style from "./games-by-sport.module.css"
 import { Grid, Row, Col } from 'react-material-responsive-grid';
+import Meta from "../components/meta"
 
 export default function ({data}) {
 
@@ -33,6 +34,8 @@ export default function ({data}) {
     'https://images.igdb.com/igdb/image/upload/t_cover_big/l1fj2ineznf2iw8cfzzt.jpg'
   ];
   return (
+    <React.Fragment>
+    <Meta title={"Extreme sports games wiki: Games grouped by sport"}></Meta>
   <Layout nav={ {
     title: 'Extreme Games By Sport',
     url: '/games-by-sport/',
@@ -64,6 +67,7 @@ export default function ({data}) {
      </section>
    ))}
   </Layout>
+  </React.Fragment>
 )
 }
 

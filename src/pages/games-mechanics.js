@@ -1,8 +1,11 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout";
+import Meta from "../components/meta"
 
 export default ({data}) => (
+  <React.Fragment>
+  <Meta title={"Extreme sports games wiki: Games grouped by their mechanics"}></Meta>
   <Layout nav={ {
     title: 'Extreme games by mechanics',
     url: '/games-mechanics/',
@@ -24,6 +27,7 @@ export default ({data}) => (
        { formatGames(data, undefined) }
    </ul> */}
   </Layout>
+  </React.Fragment>
 )
 
 function formatGames(data, mechanic) {

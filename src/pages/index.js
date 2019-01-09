@@ -2,10 +2,13 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout";
 import RecentNews from "../components/recent-news"
+import Meta from "../components/meta"
 
 export default ({data}) => (
+  <React.Fragment>
+  <Meta title={"Extreme sports games wiki"}></Meta>
   <Layout>
-   <img src="logo.png" style={{ "display" : "flex", "margin" : "auto", "paddingBottom": "10px" }} alt="Extreme sports wiki!"/>
+   <img src="logo.png" style={{ "display" : "flex", "margin" : "auto", "paddingBottom": "10px" }} alt="Extreme sports games wiki!"/>
    <p>Not really a wiki since i'm not using mediawiki engine or a similar alternative </p>
    <p>I had this urge to document some of the games "inspired" by Tony Hawk's Pro Skater, SSX, Wave Race and other "EXTREME" games. Some of the tiles listed have literally nothing to do with extreme sports, yet their mechanics sort of are. Feel free to put my XTREME criteria into question.</p>
    <p> So far I have {data.allMarkdownRemark.totalCount} poorly listed, slowly moderating the content myself</p>
@@ -23,6 +26,7 @@ export default ({data}) => (
    <Link to="/">See older news..</Link>
    </section>
   </Layout>
+  </React.Fragment>
 )
 
 export const query = graphql`

@@ -1,11 +1,14 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout";
+import Meta from "../components/meta"
 
 export default function ({data}) {
   const LETTERS = "#abcdefghijklmnopqrstuvwxyz".toUpperCase().split('');
   const isNonChar = (edge, letter)=>(!/[A-Z]/.test(edge.node.frontmatter.title.toUpperCase().charAt(0))) && letter === '#';
   return (
+    <React.Fragment>
+    <Meta title={"Extreme sports games wiki: Games grouped alphabetically"}></Meta>
     <Layout nav={ {
       title: 'Extreme games alphabetically',
       url: '/games-abc/',
@@ -27,6 +30,7 @@ export default function ({data}) {
      </section>
    ))}
   </Layout>
+  </React.Fragment>
 )
 }
 
