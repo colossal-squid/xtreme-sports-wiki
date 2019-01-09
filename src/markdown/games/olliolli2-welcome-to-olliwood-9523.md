@@ -3,7 +3,7 @@ title: OlliOlli2&#x3a; Welcome to Olliwood
 platforms: PSVita, PS3, PS4, Xbox One
 mechanics: n/a
 date: March 2015
-sports: 
+sports: Skateboarding
 ---
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/hk2teln855cw5bgjwcpz.jpg "Logo Title Text 1")
 ####Alternative tiles:

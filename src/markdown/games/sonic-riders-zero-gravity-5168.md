@@ -3,7 +3,7 @@ title: Sonic Riders&#x3a; Zero Gravity
 platforms: Nintendo Wii, PS2
 mechanics: n/a
 date: January 2008
-sports: 
+sports: Futuristic
 ---
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/nmbfv94rkqpbnpmns4ud.jpg "Logo Title Text 1")
 ####Alternative tiles:

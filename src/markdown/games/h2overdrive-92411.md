@@ -3,7 +3,7 @@ title: H2Overdrive
 platforms: n/a
 mechanics: n/a
 date: n/a
-sports: 
+sports: Boat racing
 ---
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/t1vn9szxlzx2l3hwoo8o.jpg "Logo Title Text 1")
 ####Alternative tiles:

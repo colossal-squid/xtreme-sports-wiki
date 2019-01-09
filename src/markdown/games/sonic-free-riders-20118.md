@@ -3,7 +3,7 @@ title: Sonic Free Riders
 platforms: Xbox 360
 mechanics: n/a
 date: November 2010
-sports: 
+sports: Futuristic
 ---
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ctjd7exqsbj6nzplhak5.jpg "Logo Title Text 1")
 ####Alternative tiles:

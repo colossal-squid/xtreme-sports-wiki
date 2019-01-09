@@ -3,7 +3,7 @@ title: Sonic Riders
 platforms: PC (Microsoft Windows), Xbox, Nintendo Gamecube, PS2
 mechanics: n/a
 date: February 2006
-sports: 
+sports: Futuristic
 ---
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/lzilfr80swpvivtc1hm9.jpg "Logo Title Text 1")
 ####Alternative tiles:

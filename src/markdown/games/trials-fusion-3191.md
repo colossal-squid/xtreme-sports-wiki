@@ -3,7 +3,7 @@ title: Trials Fusion
 platforms: PlayStation Network, PC (Microsoft Windows), PS4, Xbox 360, Xbox One
 mechanics: n/a
 date: April 2014
-sports: 
+sports: MX
 ---
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/feub5xjec67ekvofwnmy.jpg "Logo Title Text 1")
 ####Alternative tiles:

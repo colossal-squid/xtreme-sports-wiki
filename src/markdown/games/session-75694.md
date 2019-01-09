@@ -3,7 +3,7 @@ title: Session
 platforms: Xbox One
 mechanics: skate
 date: n/a
-sports: 
+sports: Skateboarding
 ---
 ![game cover art](//images.igdb.com/igdb/image/upload/t_cover_big/ki1ojhvkgcvppomzmj2q.jpg "Logo Title Text 1")
 ####Alternative tiles:
