@@ -1,7 +1,7 @@
 ---
 title: Interview with creator of SSX Steven Rechtschaffner
 tags: ssx, steven rechtschaffner, interview, ssx3, ea big
-date: January 8 2019
+date: 01.08.2019
 ---
 One of the better reads i had in 2018 - didn't want it to go missing:
 [https://www.usgamer.net/articles/the-rise-and-fall-of-ea-sports-big-told-by-the-creator-of-ssx](https://www.usgamer.net/articles/the-rise-and-fall-of-ea-sports-big-told-by-the-creator-of-ssx)
