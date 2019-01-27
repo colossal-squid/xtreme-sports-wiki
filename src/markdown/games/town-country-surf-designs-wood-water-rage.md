@@ -1,0 +1,24 @@
+---
+title: Town & Country Surf Designs&#x3a; Wood & Water Rage
+platforms: NES
+mechanics: n/a
+date: 1987  
+sports: 
+---
+![game cover art](https://www.mobygames.com/images/covers/s/48292-town-country-surf-designs-wood-water-rage-nes-front-cover.jpg "Logo")
+####Alternative tiles:
+"T&C Surf Designs" -- Abbreviated Title
+###Platforms
+NES
+
+###Description: 
+T&C Surf Designs features both skateboarding and surfing games. The skating section (called Street Skate Session) is a side scrolling action game where you need to navigate through an obstacle course within the given time limit. Ideally you want to earn as many points as possible by performing tricks, jumping over items, and collecting bonuses. If you crash too many times (or fall into a hole, run out of time, etc...) then the game will be over. In the surfing section (called Big Wave Encounter) you need to surf a giant wave all the way to the beach. As with skating, you can earn points by performing tricks and collecting bonuses; likewise the game ends if you crash too many times. You can choose to play either game individually, or alternate between the two (the Wood & Water Rage option). You can select several T&C Surf Designs characters to play as, including Thrilla Gorilla, Kool Kat, Joe Cool, and Tiki Man.
+
+
+###Screenshots
+<a target="_blank" href="https://www.mobygames.com/images/shots/s/118337-town-country-surf-designs-wood-water-rage-nes-screenshot-select.jpg"><img src="https://www.mobygames.com/images/shots/s/118337-town-country-surf-designs-wood-water-rage-nes-screenshot-select.jpg"/></a>
+<a target="_blank" href="https://www.mobygames.com/images/shots/s/118344-town-country-surf-designs-wood-water-rage-nes-screenshot-look.jpg"><img src="https://www.mobygames.com/images/shots/s/118344-town-country-surf-designs-wood-water-rage-nes-screenshot-look.jpg"/></a>
+<a target="_blank" href="https://www.mobygames.com/images/shots/s/118339-town-country-surf-designs-wood-water-rage-nes-screenshot-yikes.jpg"><img src="https://www.mobygames.com/images/shots/s/118339-town-country-surf-designs-wood-water-rage-nes-screenshot-yikes.jpg"/></a>
+<a target="_blank" href="https://www.mobygames.com/images/shots/s/118340-town-country-surf-designs-wood-water-rage-nes-screenshot-jumping.jpg"><img src="https://www.mobygames.com/images/shots/s/118340-town-country-surf-designs-wood-water-rage-nes-screenshot-jumping.jpg"/></a>
+###Websites
+* [https://www.mobygames.com/game/town-country-surf-designs-wood-water-rage](https://www.mobygames.com/game/town-country-surf-designs-wood-water-rage)

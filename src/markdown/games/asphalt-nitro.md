@@ -1,0 +1,32 @@
+---
+title: Asphalt&#x3a; Nitro
+platforms: Android
+mechanics: n/a
+date: May 12, 2015  
+sports: 
+---
+![game cover art](https://www.mobygames.com/images/covers/s/316597-asphalt-nitro-android-front-cover.jpg "Logo")
+####Alternative tiles:
+
+###Platforms
+Android
+
+###Description: 
+Asphalt: Nitro is a spin-off of the Asphalt racing series like the previous game Asphalt: Overdrive. Players race in single-player and multiplayer games with different types of game modes and locations such as Brazil, China, Iceland, the Alps and the USA. Much like Overdrive it takes an arcade approach with an emphasis on the use of boosts, drifting, jumps with mid-air tricks and takedowns (knockdowns) on other cars. Races often have a small amount of traffic, forking paths, shortcuts and sometimes a vertical design with multiple levels of driving road stacked on top of each other, accessed through jumps. Cars are divided into five tiers and are licensed from manufacturers with the brands and designs of cars such as a Bugatti, Chrysler, Dodge, Ferrari, Lamborghini, Lotus, McLaren, Mitsubishi etc.
+
+The single-player career mode consists of six seasons where up to five stars can be earned based on the results. Stars are needed to keep unlocking new events and eventually the next season. Optionally all seasons can be unlocked right away through an in-app purchase. Race types are Classic (race for first place), Versus (compete against one other racer), Elimination (the last racer is eliminated after a certain time), Gate Drift (drift through gates beating a target score with a time limit), Knockdown (the racer with the most knockdowns with a time limit wins), Infected (the last racer receives an infection and can infect other cars; after some time the infection wears off, but wrecks the car; infected races can infect others by bumping into them; infected racers have unlimited nitro and can gain additional time for the infection to wear off by taking out opponents or collecting nitro power-ups), Escape (time based checkpoint race), and Catch (drive a cop car and eliminate opponents by taking them out or using an EMP; opponents can drop mines). For single-player there are also quick races with no rewards. Online multiplayer is available for the racing types Classic, Elimination and Infected. There are also time-limited multiplayer events for special rewards. These require fuel as a currency to enter and it is refilled slowly over time. Only this part of the game has an energy/stamina system. Multiplayer has matchmaking based on a global ranking that is changed with each race.
+
+The game supports four types of control schemes: three based on auto-acceleration (tilt to steer, tap to steer, on-screen controls) and one based on manual acceleration with icons and tilting the device. Reckless and aggressive driving and performing stunts is encouraged to earn rewards. In addition to collecting icons while racing it is also the most important way to acquire nitro, shown in a horizontal meter near the top of the screen. Nitro boost is activated through a tap and it can be hit up to three times with different power levels, but draining faster. There is also a perfect nitro system based on timing a red section in the nitro bar. When approaching a sharp turn, drifting is activated through a tap on the left side of the screen and tapping again ends the drift. Tricks such as a flat spin are performed by entering drift before jumping.
+
+Next to stars to unlock new races and increase the inventory, credits are the most important currency to buy new cars and upgrades. They are provided based on the performances in races with many types of goals. Next to painting a car it can be upgraded four parameters: Acceleration, Handling, Nitro and Top Speed, with seven upgrade levels for each parameter. Credits can also be used to buy kit boxes. They contain common, rare or legendary cards for three main areas (Engines, Parts and Tools) with several sub types. Kit boxes also contain boosters and fuel. Complete sets of cards are used to access upgrades and they can be exchanged with other players. Asphalt tokens are the premium currency to unlock content right away such as premium items, the full racing season, exclusive cars, kit boxes, bundles, additional fuel, boosters, more card inventory slots etc. Boosters that can be bought and are activated prior to a race are double credits, nitro starter, tuning kit (one additional level for each of the four parameters) and extra tank (more nitro capacity). When players buy items with real money they earn VIP points that provide access to up to six VIP levels. VIP levels provides free kits, a reduction of the refresh time for kits, additional fuel cells and a quicker refill, more basic credits, additional upgrade levels and more inventory slots.
+
+The game was initially released as a commercial title and only available directly from Gameloft. The later Google Play release is an updated version of the game, turned into a free-to-play title with an emphasis on in-app purchases and the introduction of the VIP system, more types of cars (21 instead of 10) and Pro Kits with cards as a new type of upgrade system.
+
+
+###Screenshots
+<a target="_blank" href="https://www.mobygames.com/images/shots/s/814052-asphalt-nitro-android-screenshot-approaching-the-finish-line.jpg"><img src="https://www.mobygames.com/images/shots/s/814052-asphalt-nitro-android-screenshot-approaching-the-finish-line.jpg"/></a>
+<a target="_blank" href="https://www.mobygames.com/images/shots/s/814051-asphalt-nitro-android-screenshot-progress-through-the-events.jpg"><img src="https://www.mobygames.com/images/shots/s/814051-asphalt-nitro-android-screenshot-progress-through-the-events.jpg"/></a>
+<a target="_blank" href="https://www.mobygames.com/images/shots/s/814046-asphalt-nitro-android-screenshot-the-rewards-of-the-highest.jpg"><img src="https://www.mobygames.com/images/shots/s/814046-asphalt-nitro-android-screenshot-the-rewards-of-the-highest.jpg"/></a>
+<a target="_blank" href="https://www.mobygames.com/images/shots/s/814032-asphalt-nitro-android-screenshot-an-interactive-tutorial-race.jpg"><img src="https://www.mobygames.com/images/shots/s/814032-asphalt-nitro-android-screenshot-an-interactive-tutorial-race.jpg"/></a>
+###Websites
+* [https://www.mobygames.com/game/asphalt-nitro](https://www.mobygames.com/game/asphalt-nitro)

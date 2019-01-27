@@ -1,0 +1,27 @@
+---
+title: Cabela's Adventure Camp
+platforms: PlayStation 3
+mechanics: n/a
+date: Nov 01, 2011  
+sports: 
+---
+![game cover art](https://www.mobygames.com/images/covers/s/320935-cabela-s-adventure-camp-xbox-360-front-cover.jpg "Logo")
+####Alternative tiles:
+
+###Platforms
+PlayStation 3
+
+###Description: 
+Cabela's Adventure Camp is essentially a Cabela's-themed mini-game collection where the focus is on motion-based gameplay in various outdoor sporting events.
+
+Crafted to be a party game, Cabela's Adventure Camp, like Cabela's Survival: Shadows of Katmai, appears as a rather unconventional Cabela's-themed title. Rather than the typical heavy emphasis on hunting, firearms, and dangerous animal species, Adventure Camp focuses on the more "outdoorsy sportsman" and camping aspects of the Cabela's brand. Here, the only hunting is with a bow and arrow, and the targets are merely cardboard shapes of animals like deer--when the targets aren't simple round concentric circles.
+
+There are six playable characters, all children or young teens who are "attending" a Cabela's-themed camp. Hair and clothing colors can be changed, and stats are recorded. Another child, known as Greg, exists to grief the player during some points in certain events, which includes things like dropping boulders into the river during a kayaking event. Greg takes no active role in the gameplay, rather, unusual challenges or obstacles are "blamed" on the character.
+
+Events in the game include kayaking, skeet shooting, archery, bicycling, and others. Two somewhat more "unusual" games also exist, one of which is a form of Whack-a-Mole combined with the memorization of the classic electronic game Simon. The other is a variation on Rock-Paper-Scissors called "Bear-Hunter-Ninja" and requires the players to stand in predefined stances to pose as a Bear, a Hunter, or a Ninja. Aside from the Whack-a-Mole and Bear-Hunter-Ninja games, all the other games have at least two variations, typically a different course or set of challenges, and can be played by two to four players. Coins/Emblems can be collected in many events, along with large gems for extra points.
+
+
+###Screenshots
+
+###Websites
+* [https://www.mobygames.com/game/cabelas-adventure-camp](https://www.mobygames.com/game/cabelas-adventure-camp)

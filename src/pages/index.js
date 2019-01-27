@@ -16,6 +16,7 @@ export default ({data}) => (
       <li><a href="/games-by-sport/">Extreme games by sport</a></li>
       <li><Link to="/games-abc/">Extreme games alphabetically</Link></li>
       <li><a href="/games-mechanics/">Extreme games by mechanics</a></li>
+      {/* <li><a href="/developers-and-publishers/">Developers and Publishers</a></li> */}
    </ul>
    <h2>XTREME links and resources (shoutout to my boyz!)</h2>
    Please visit <Link to="/additional-resources/">this page</Link> for list of similar resources, forums and all sorts of things that are worth mentioning.

@@ -1,6 +1,6 @@
 ---
 title: Jonny Moseley&#x3a; Mad Trix
-platforms: GBA
+platforms: Playstation 2
 mechanics: n/a
 date: March 2002
 sports: 
@@ -9,7 +9,7 @@ sports:
 ####Alternative tiles:
 
 ###Platforms
-GBA
+Playstation 2
 
 ###Description:
 Jonny Moseley's bringin' new-school skills to the world's first trick-based skiing game! Rack up big points with tons of tricks including the Tai Pan, Illegal, and Moseley's signature move, the Dinner Roll. Get heli-dropped onto a mountain to huck yourself off every object that you can find. Take new school skiing to the max!

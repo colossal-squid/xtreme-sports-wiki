@@ -1,0 +1,23 @@
+---
+title: NBA Street V3
+platforms: GameCube
+mechanics: n/a
+date: Feb 08, 2005  
+sports: 
+---
+![game cover art](https://www.mobygames.com/images/covers/s/76694-nba-street-v3-gamecube-front-cover.jpg "Logo")
+####Alternative tiles:
+"NBA Street V3 featuring Nintendo Allstars" -- GameCube tag-lined title
+###Platforms
+GameCube
+
+###Description: 
+Bring your game to the street in EA's third installment of the NBA Street franchise. NBA Street V3 includes a new trick stick control mechanic, in-depth single-player career mode, improved gameplay mechanics and online play. Watch today’s biggest NBA stars go head to head in 3-on-3 match-ups against the legends of yesterday. Create your own character using the Create Baller feature and play in familiar venues such as The Cage and Rucker Park or create your own using the Court Creator.
+
+The main game modes include quick matches (Play Now), Street Challenge (the career mode), and Dunk Contest where you can win over the judges by performing gravity defying dunks combined with impossible mid-air tricks. The career mode adds new goals in this version, based on scoring only with 3-point baskets, dunks, or gamebreakers. You can build up your gamebreaker by performing a complicated series of jukes, passes, or dunks. DJ Bobbito provides the commentary along with a mix of new and old school hip-hop.
+
+
+###Screenshots
+
+###Websites
+* [https://www.mobygames.com/game/nba-street-v3](https://www.mobygames.com/game/nba-street-v3)
