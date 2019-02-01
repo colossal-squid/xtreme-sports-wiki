@@ -20,7 +20,7 @@ export default ({data}) => (
    </ul>
    <h2>XTREME links and resources (shoutout to my boyz!)</h2>
    Please visit <Link to="/additional-resources/">this page</Link> for list of similar resources, forums and all sorts of things that are worth mentioning.
-   The list is WIP (as rest of the website), it has some letsplayer dedicated to ssx/thps, people modding the games and so on.
+   The list is WIP (as rest of the website), it has some letsplayers dedicated to ssx/thps, people modding the games, relevant blogs and more.
    <section>
    <h2>Recent XTREME news!</h2>
    <RecentNews></RecentNews>
