@@ -1,4 +1,4 @@
-const PATH = 'C:/dev/js/gatsby/xtreme-static/src/markdown/games/'
+const PATH = 'src/markdown/games/'
 const fs = require('fs');
 
 (async function(){
