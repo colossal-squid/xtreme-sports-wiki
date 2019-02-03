@@ -1,4 +1,5 @@
-const PATH = 'C:/dev/js/gatsby/xtreme-static/src/markdown/games/'
+const PATH = 'C:/dev/js/gatsby/xtreme-static/src/markdown/games/';
+const MOBYGAMES_JSONS = 'C:/dev/node/mobigames/json/';
 const fs = require('fs');
 
 (async function(){
@@ -9,6 +10,29 @@ const fs = require('fs');
         obj.filePath = key;
         return obj;
     } );
+
+    const extraPaths = await getFileList(MOBYGAMES_JSONS);
+    const mobiFiles = await readFilesToMap(extraPaths);
+
+    Array.from(mobiFiles.values()).forEach(v => {
+        v = JSON.parse(v);
+        const found = mapped.find( m => (m.title.trim() == v.name.trim()) );
+        if (!!found) {
+            found.websites.push(`[Page on mobygames](${v.url})`);
+            let key, values = [];
+            v.attributes.forEach((attr)=>{
+                if (typeof attr === 'string') {
+                    if (!!key) {
+                        found[key.replace(/\s/g, '_').toLowerCase()] = [...values];
+                        values = [];
+                    }
+                    key = attr;
+                } else {
+                    values.push(attr)
+                }
+            });
+        }
+    });
     console.log(JSON.stringify(mapped, null, 2));
 }())
 
@@ -32,7 +56,7 @@ function markdownToJson(markdown) {
         markdown.lastIndexOf('---') + 5
     );
     partial = partial.substring(0, partial.indexOf('####Alternative tiles') );
-    obj.cover = partial;
+    obj.cover = partial === '![game cover art](- \"Logo Title Text 1\")\r\n' ? '' : partial;
     obj.altTitles = markdown.substring(
         markdown.indexOf('####Alternative tiles') + 22,
         markdown.indexOf('###Platforms'),
@@ -43,13 +67,13 @@ function markdownToJson(markdown) {
     .map(t=>t.replace('(undefined)', '').trim())
 
     obj.description = markdown.substring(
-        markdown.indexOf('###Description') + 17,
+        markdown.indexOf('###Description') + 16,
         markdown.indexOf('###Screenshots')
     ).replace('undefined', '').replace(/\r/g,'')
     .replace(/\n/g, '');
 
     const scrPartial = markdown.substring(
-        markdown.indexOf('###Screenshots') + 16,
+        markdown.indexOf('###Screenshots') + 15,
         markdown.indexOf('###Video')
     );
     obj.screenshots = scrPartial.includes('no screenshots') ? [] : scrPartial;
@@ -61,15 +85,17 @@ function markdownToJson(markdown) {
         );
         obj.video = videoPartial.includes('no videos yet') ? '' : videoPartial;
     }
+    if (markdown.indexOf('###Related games') !== -1) {
+        obj.relatedGames = markdown.substring(
+            markdown.indexOf('###Related games') + 16,
+            markdown.indexOf('###Websites')
+        ).replace(/\r/g,'')
+        .replace(/\n/g, '')
+        .split('*')
+        .filter(t=>!!t)
+        .map(t=>t.trim());
+    }
 
-    obj.relatedGames = markdown.substring(
-        markdown.indexOf('###Related games') + 16,
-        markdown.indexOf('###Websites')
-    ).replace(/\r/g,'')
-    .replace(/\n/g, '')
-    .split('*')
-    .filter(t=>!!t)
-    .map(t=>t.trim());
 
     obj.websites = markdown.substring(
         markdown.indexOf('###Websites') + 11
