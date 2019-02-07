@@ -1,0 +1,67 @@
+{
+  "title": "OlliOlli",
+  "platforms": "Android, PlayStation Network, PC (Microsoft Windows), Mac, Virtual console, PSVita, PS3, PS4, Xbox One, Linux, Nintendo 3DS",
+  "mechanics": "n/a",
+  "date": "January 2014",
+  "sports": "Skateboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/fx6dnaonowvihsga11jx.jpg",
+  "altTitles": [],
+  "description": "\nOlliOlli is a 2D side-scrolling street skateboarding game with a pixel visual style. The player guides a skateboarder through different levels with many objectives to complete, such as reaching a certain score, performing a specific trick, catching air, pushing a limited amount of times, grinding specific objects, or getting certain landings. There are no enemies in the environment, so the focus is entirely on solo play performing tricks by jumping, doing spins, grabs, slides, flips, kicks, etc. The skater moves forward automatically and the player uses keys or buttons to spin left or right, jump, perform tricks, and also a key or button to control the landing. The amount of buttons is limited, but timing is important. Tricks can be linked together into combos.\n\nThe game has a minimalist look reminiscent of Canabalt. Messages in coloured boxes appear at the bottom screen for each trick or objective completed. Tracks have a limited distance and objectives need to be completed in the provided distance, but multiple objectives can be split over multiple sessions. There are five different environments (urban, junkyard, port, base, and neon city) with ten levels each. These are split up in five amateur and five pro levels, each with five objectives. Pro levels have more difficult objectives, for instance grabbing a certain item along the way. Later levels have more obstacles and hazards. Next to the career mode there is a spots mode. A spot is unlocked each time a level is completed. The spots mode is similar to the career mode, but requires a single, huge, uninterrupted combo to complete the challenge in a confined area. A third RAD Mode is initially locked. This mode offer challenges that can only be completed with perfect landings and grinds.\n\nThe game keeps track of the best times. There is a daily grind mode where players worldwide compete against each other on a new spot every day to get the highest score, but there is only one chance to compete per day. There are leaderboards (global and friends) and a tricktionary where all possible tricks are stored. The game also includes a tutorial.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/744066-olliolli-windows-screenshot-the-tricktionary-where-you-look.jpg",
+    "https://www.mobygames.com/images/shots/s/744069-olliolli-windows-screenshot-performing-a-grind.jpg",
+    "https://www.mobygames.com/images/shots/s/744070-olliolli-windows-screenshot-progress-in-the-career-mode.jpg",
+    "https://www.mobygames.com/images/shots/s/744071-olliolli-windows-screenshot-playing-one-of-the-daily-grinds.jpg"
+  ],
+  "video": "###Trailer\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2FcQVo8MPvY\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\n",
+  "relatedGames": [],
+  "websites": [
+    " [https://play.google.com/store/apps/details?id=com.roll7.olliolli](https://play.google.com/store/apps/details?id=com.roll7.olliolli)",
+    " [https://en.wikipedia.org/wiki/OlliOlli](https://en.wikipedia.org/wiki/OlliOlli)",
+    " [https://store.steampowered.com/app/274250](https://store.steampowered.com/app/274250)",
+    " [http://www.roll7.co.uk/](http://www.roll7.co.uk/)"
+  ],
+  "filePath": "src/markdown/games/olliolli-7768.md",
+  "handle": "olliolli-7768",
+  "name": "OlliOlli",
+  "icon": "https://www.mobygames.com/images/covers/s/287684-olliolli-ps-vita-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Roll7"
+    },
+    {
+      "name": "Developed by",
+      "value": "Roll7"
+    },
+    {
+      "name": "Released",
+      "value": "Jan 21, 2014"
+    },
+    {
+      "name": "Platforms",
+      "value": "Android,Linux,Macintosh,Nintendo 3DS,PlayStation 3,PlayStation 4,PS Vita,Wii U,Windows,Xbox One"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Side view"
+    },
+    {
+      "name": "Visual",
+      "value": "2D scrolling"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Platform"
+    },
+    {
+      "name": "Sport",
+      "value": "Skateboarding"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/olliolli"
+}

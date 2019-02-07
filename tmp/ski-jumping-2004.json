@@ -1,0 +1,60 @@
+{
+  "name": "Ski Jumping 2004",
+  "icon": "https://www.mobygames.com/images/covers/s/289502-ski-jumping-2004-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/fantastictv",
+        "text": "Fantastic.TV"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/lart",
+        "text": "L'Art"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/ski-jumping-2004/release-info",
+        "text": "2003"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSki Jumping 2004, as its name implies, is a game all about ski jumping. The action consists of pushing off from the ski jump, heading down the jump, launching properly, and most importantly, landing smoothly. In order to help you get the hang of these essential components, Ski Jumping 2004 features a tutorial mode which carefully explains everything and allows the player to practice through each move over and over again. From there, the player can move on to the Realistic mode which allows for customizing many parameters of the run, including the particular mountain and size, the weather, the type of snow, and wind direction and strength, and whether the jump occurs during day or night.\n\nFurther, the game features multiplayer network play and arcade mode.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/205230-ski-jumping-2004-windows-screenshot-speeding-towards-the-jump.jpg",
+    "https://www.mobygames.com/images/shots/s/205237-ski-jumping-2004-windows-screenshot-sliding-to-an-embarrassing.jpg",
+    "https://www.mobygames.com/images/shots/s/205220-ski-jumping-2004-windows-screenshot-title-screen-and-main.jpg",
+    "https://www.mobygames.com/images/shots/s/205238-ski-jumping-2004-windows-screenshot-still-standing-after-finishing.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/ski-jumping-2004",
+  "altTitles": [
+    "\"Skoki Narciarskie 2004\" -- Polish title",
+    "\"Skispringen Saison 2003/2004\" -- German title"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Mountain Bike Racer",
+  "icon": "https://www.mobygames.com/images/covers/s/49422-mountain-bike-racer-zx-spectrum-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/eutechnyx-limited",
+        "text": "Zeppelin Games Limited"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/mountain-bike-racer/release-info",
+        "text": "1989"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/atari-8-bit/mountain-bike-racer",
+        "text": "Atari 8-bit"
+      },
+      {
+        "link": "https://www.mobygames.com/game/c64/mountain-bike-racer",
+        "text": "Commodore 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/msx/mountain-bike-racer",
+        "text": "MSX"
+      },
+      {
+        "link": "https://www.mobygames.com/game/zx-spectrum/mountain-bike-racer",
+        "text": "ZX Spectrum"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ]
+  ],
+  "description": "\nThis budget game is essentially Kikstart without the engines. It's viewed from the side, with 12 courses to complete within their respective time limits. You control the bike by setting the speed and jumping at the right moments. Hazards to negotiate include hills, walls, rocks, spikes and ice. Some of these can be circumnavigated by buying the right add-ons from the shop after each race. The amount of money you have to spend is dependent upon how quickly you completed the previous race.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/131783-mountain-bike-racer-msx-screenshot-let-s-race.jpg",
+    "https://www.mobygames.com/images/shots/s/118599-mountain-bike-racer-zx-spectrum-screenshot-a-hill-to-take.jpg",
+    "https://www.mobygames.com/images/shots/s/131786-mountain-bike-racer-msx-screenshot-don-t-fall-behind.jpg",
+    "https://www.mobygames.com/images/shots/s/118605-mountain-bike-racer-zx-spectrum-screenshot-game-over.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/mountain-bike-racer",
+  "altTitles": []
+}

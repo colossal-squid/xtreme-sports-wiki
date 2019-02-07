@@ -1,0 +1,76 @@
+{
+  "title": "SSX 3",
+  "platforms": "Xbox, GBA, Nintendo Gamecube, PS2",
+  "mechanics": "ssx",
+  "date": "October 2003",
+  "sports": "Snowboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/k0jnhvj8zk3ungmorkwa.jpg",
+  "altTitles": [
+    "\"极限滑雪SSX 3\" -- Chinese spelling (simplified)"
+  ],
+  "description": "\nShred the slopes of the world's biggest mountain - at least in the SSX world - as you attempt to become the greatest snowboarder of all time. Unlike the previous two entries in the series, you must venture around the mountain, completely free to do what you wish, in order to find challenges and races to compete in.\n\nThere are a variety of events to compete in, from your usual all-on-all race through courses, scattered with obstacles and huge jumps to perform wacky tricks, plus there's a half pipe to bust tricks, and there's plenty of challenging tricks to master, and items to grind to gain bonuses. Plus, you can ride the entire mountain whenever you like, either to practice moves or learn all the bumps and corners for the big races.\n\nWith challenges and races comes rewards, and along with trophies and medals to fill up your gallery you can also win cash prizes to purchase new items, improving your board or improving your image. The more you race the more experience your chosen character receives, leveling up your abilities and improving your technique, plus even more wild tricks to perform.\n\n\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/110606-ssx-3-gamecube-screenshot-select-a-character.jpg",
+    "https://www.mobygames.com/images/shots/s/110617-ssx-3-gamecube-screenshot-a-crash-tap-b-to-try-to-recover.jpg",
+    "https://www.mobygames.com/images/shots/s/110604-ssx-3-gamecube-screenshot-part-of-the-introduction-sequence.jpg",
+    "https://www.mobygames.com/images/shots/s/110614-ssx-3-gamecube-screenshot-performing-tricks-on-one-of-many.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/RXOSia4T6vA",
+  "relatedGames": [
+    "[SSX Tricky](/games/ssx-tricky-4176/)",
+    "[SSX Blur](/games/ssx-blur-4178/)",
+    "[SSX on Tour](/games/ssx-on-tour-4177/)",
+    "[Steep](/games/steep-19554/)",
+    "[1080° Avalanche](/games/1080-avalanche-3774/)",
+    "[1080° Snowboarding](/games/1080-snowboarding-3328/)",
+    "[Amped: Freestyle Snowboarding](/games/amped-freestyle-snowboarding-5484/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/ssx-3-4174.md",
+  "handle": "ssx-3-4174",
+  "name": "SSX 3",
+  "icon": "https://www.mobygames.com/images/covers/s/26258-ssx-3-gamecube-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Electronic Arts, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Electronic Arts Canada"
+    },
+    {
+      "name": "Released",
+      "value": "Oct 21, 2003"
+    },
+    {
+      "name": "Official Site",
+      "value": "SSX 3"
+    },
+    {
+      "name": "Platforms",
+      "value": "GameCube,PlayStation 2,Xbox,Xbox 360,Xbox One"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Interface",
+      "value": "Direct Control"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/ssx-3"
+}

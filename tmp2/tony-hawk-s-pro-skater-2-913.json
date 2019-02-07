@@ -1,0 +1,77 @@
+{
+  "title": "Tony Hawk's Pro Skater 2",
+  "platforms": "Nintendo 64, PC (Microsoft Windows), iOS, Mac, Game Boy Color, Xbox, PSOne, GBA, Sega Dreamcast",
+  "mechanics": "thps",
+  "date": "September 2000",
+  "sports": "Skateboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/eksrjpbmz4kdlz6yxoqc.jpg",
+  "altTitles": [
+    "\"托尼霍克职业滑板2\" -- Chinese spelling (simplified)",
+    "\"THPS2\" -- Informal abbreviation",
+    "\"SK8: Tony Hawk's Pro Skater 2\" -- Japanese title"
+  ],
+  "description": "\nThe sequel to Tony Hawk's Pro Skater adds many new tricks, while retaining those from the original, and a complete roster of the greatest skaters worldwide. Among the new tricks is the \"manual\", which allows the player character to balance on two wheels. There are also more options for scoring high-trick combos. Trick combinations can also be edited and customized. It is possible to visit some of the most popular skate parks in the world, or create own areas and share them with other players. Players can also create their own skaters, with a choice of clothing and official skateboards.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/816726-tony-hawk-s-pro-skater-2-playstation-screenshot-you-ve-found.jpg",
+    "https://www.mobygames.com/images/shots/s/722243-tony-hawk-s-pro-skater-2-dreamcast-screenshot-new-mode-create.jpg",
+    "https://www.mobygames.com/images/shots/s/816727-tony-hawk-s-pro-skater-2-playstation-screenshot-free-skate.jpg",
+    "https://www.mobygames.com/images/shots/s/628220-tony-hawk-s-pro-skater-2-nintendo-64-screenshot-main-menu.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/-EjIJ7NVouk",
+  "relatedGames": [
+    "[Tony Hawk's Pro Skater 3](/games/tony-hawk-s-pro-skater-3-914/)",
+    "[Tony Hawk's Pro Skater 4](/games/tony-hawk-s-pro-skater-4-915/)",
+    "[Tony Hawk's Pro Skater 2X](/games/tony-hawks-pro-skater-2x-47325/)",
+    "[Tony Hawk's Proving Ground](/games/tony-hawk-s-proving-ground-2700/)",
+    "[Tony Hawk's Project 8](/games/tony-hawk-s-project-8-6204/)",
+    "[Tony Hawk's Underground](/games/tony-hawk-s-underground-2698/)",
+    "[Tony Hawk's American Wasteland](/games/tony-hawk-s-american-wasteland-7219/)",
+    "[Epic Skater 2](/games/epic-skater-2-71452/)"
+  ],
+  "websites": [
+    " [https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_2](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_2)"
+  ],
+  "filePath": "src/markdown/games/tony-hawk-s-pro-skater-2-913.md",
+  "handle": "tony-hawk-s-pro-skater-2-913",
+  "name": "Tony Hawk's Pro Skater 2",
+  "icon": "https://www.mobygames.com/images/covers/s/7621-tony-hawk-s-pro-skater-2-dreamcast-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Activision Publishing, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Neversoft Entertainment, Inc."
+    },
+    {
+      "name": "Released",
+      "value": "Sep 19, 2000"
+    },
+    {
+      "name": "Platforms",
+      "value": "Dreamcast,iPhone,Macintosh,Nintendo 64,PlayStation,Windows,Windows Mobile"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Skateboarding"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/tony-hawks-pro-skater-2"
+}

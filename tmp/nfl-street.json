@@ -1,0 +1,93 @@
+{
+  "name": "NFL Street",
+  "icon": "https://www.mobygames.com/images/covers/s/30439-nfl-street-playstation-2-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/electronic-arts-inc",
+        "text": "Electronic Arts, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/ea-tiburon",
+        "text": "EA Tiburon"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/nfl-street/release-info",
+        "text": "Jan 13, 2004"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gamecube/nfl-street",
+        "text": "GameCube"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps2/nfl-street",
+        "text": "PlayStation 2"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox/nfl-street",
+        "text": "Xbox"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/birds-eye-view/",
+        "text": "Bird's-eye view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/football-american/",
+        "text": "Football (American)"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nNFL Street is an arcade style football game that is based on pick up football. NFL Street is 7 on 7 with players playing both offense and defense. There are no helmets or stadiums in NFL Street, instead the games are played in parks, on the street and in the dirt lots.\n\nIn NFL Street, the player should strive not just to win but to look good doing it. The player can achieve this by performing style moves during a play. These might be a taunting run, a spectacular spin, or a crazy pass.\n\nNFL Street has Quick Game, Pickup Game, NFL Challenge and Online game modes.\n",
+  "screenshots": [],
+  "video": "https://www.youtube.com/embed/ObkFpWj__KM",
+  "url": "https://www.mobygames.com/game/nfl-street",
+  "altTitles": []
+}

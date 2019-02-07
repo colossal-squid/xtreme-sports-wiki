@@ -1,0 +1,73 @@
+{
+  "name": "Skier",
+  "icon": "https://www.mobygames.com/images/shots/s/868553-skier-dragon-32-64-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/crl-group-plc",
+        "text": "Computer Rentals Limited"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/dragon-3264/skier/release-info",
+        "text": "1983"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/dragon-3264/",
+        "text": "Dragon 32/64"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/birds-eye-view/",
+        "text": "Bird's-eye view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSkier is an alpine skiing game. The game is viewed from a bird's-eye perspective and scrolls from the top to the bottom. After starting out, the skier automatically descends down the slope and the player's control is limited to moving left and right with the joystick. The aim of the game is simply to earn points by skiing through the slalom gates that appear. The slope has two different obstacles that have to be avoided: tree trunks and rocks. A game can be played by one or two players who each make five runs. Hitting an obstacle causes the current run to be abandoned. At the end of the fifth run the player with the highest total score wins.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/868553-skier-dragon-32-64-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/868555-skier-dragon-32-64-screenshot-passing-a-gate.jpg",
+    "https://www.mobygames.com/images/shots/s/868559-skier-dragon-32-64-screenshot-reaching-the-final-gate.jpg",
+    "https://www.mobygames.com/images/shots/s/868558-skier-dragon-32-64-screenshot-starting-out.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/skier",
+  "altTitles": [
+    "\"The Bergen Run\" -- In-game title"
+  ]
+}

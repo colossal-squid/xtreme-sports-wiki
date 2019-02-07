@@ -1,0 +1,91 @@
+{
+  "name": "Iridium Runners",
+  "icon": "https://www.mobygames.com/images/covers/s/208599-iridium-runners-playstation-2-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/southpeak-interactive-corporation",
+        "text": "SouthPeak Interactive LLC"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/playstos-srl",
+        "text": "Playstos S.r.l."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ps2/iridium-runners/release-info",
+        "text": "Feb 20, 2008"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/ps2/",
+        "text": "PlayStation 2"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fighting/",
+        "text": "Fighting"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Setting",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sci-fi-futuristic/",
+        "text": "Sci-Fi / Futuristic"
+      }
+    ]
+  ],
+  "description": "\nIridium Runners is a futuristic running game that pits competitors against each other on hazard-riddled race tracks in foot races. Players can choose one of 20 characters that have unique running skills and techniques. Some of the characters and tracks can only be unlocked as the game progresses.\n\nAll of the runners will do just about anything to win, so the action can become down and dirty. Almost anything goes during the races including knocking opponents completely off the track with a well-placed kick, fist or weapon. Power-ups and booster items are scattered around the course for increasing performance, speed or providing a new method of attack. Strategy comes into play by knowing which character and which \"pod\" sidekick to choose.\n\nThere are three modes of play: Single Race, Cup and Championship. Each offers unique environments, different obstacles and challenges.\n\nThe Single Player game will put the player up against 5 CPU opponents. Multiplayer is offline and includes Deathmatch and Team modes (2 players on 2 teams) and up to 4 players in split screen.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/523384-iridium-runners-playstation-2-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/523385-iridium-runners-playstation-2-screenshot-menu-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/iridium-runners",
+  "altTitles": [
+    "\"IRR\" -- Official abbreviation"
+  ]
+}

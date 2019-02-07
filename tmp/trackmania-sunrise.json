@@ -1,0 +1,94 @@
+{
+  "name": "TrackMania Sunrise",
+  "icon": "https://www.mobygames.com/images/covers/s/56006-trackmania-sunrise-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/igs-software-publishing-inc",
+        "text": "Enlight Interactive Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nadeo-sas",
+        "text": "Nadeo SAS"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/trackmania-sunrise/release-info",
+        "text": "May 06, 2005"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/puzzle-elements/",
+        "text": "Puzzle elements"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nTrackMania Sunrise is the follow-up to TrackMania and is, as its predecessor, based on track building and insane stunts. With a pool of building blocks, players can build tracks in three different environments, Island, Bay, and Coast, at four times of the day, Sunrise, Day, Sunset and Night. The game features four single-player racing modes, Race, Platform, Puzzle, Crazy, and the options of saving replays and customizing cars with skins. Multiplay over the Internet allows players to share custom tracks with other players.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/223247-trackmania-sunrise-windows-screenshot-preparing-to-get-boosted.jpg",
+    "https://www.mobygames.com/images/shots/s/223249-trackmania-sunrise-windows-screenshot-up-and-away.jpg",
+    "https://www.mobygames.com/images/shots/s/223252-trackmania-sunrise-windows-screenshot-flying-over-the-road.jpg",
+    "https://www.mobygames.com/images/shots/s/223244-trackmania-sunrise-windows-screenshot-climbing.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/trackmania-sunrise",
+  "altTitles": [
+    "\"赛道狂飙：日出\" -- Chinese spelling (simplified)",
+    "\"ТрекМания Sunrise\" -- Russian spelling"
+  ]
+}

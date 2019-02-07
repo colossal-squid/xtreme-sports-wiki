@@ -1,0 +1,87 @@
+{
+  "name": "Salt Lake 2002",
+  "icon": "https://www.mobygames.com/images/covers/s/16507-salt-lake-2002-playstation-2-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/square-enix-limited",
+        "text": "Eidos Interactive Limited"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/attention-to-detail-limited",
+        "text": "Attention to Detail Limited"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/salt-lake-2002/release-info",
+        "text": "2002"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ps2/salt-lake-2002",
+        "text": "PlayStation 2"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/salt-lake-2002",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/olympiad/",
+        "text": "Olympiad / Mixed Sports"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nThe only official licensed game of the Salt Lake 2002 Olympic Winter games.\n\nTake part in Mens' Alpine Skiing Downhill, Ladies' Alpine Skiing Slalom, Mens' Two-man Bobsleigh, Womens' Freestyle Skiing Aerials, Mens' Ski Jumping K120 Individual and Mens' Snowboard Parallel Giant Slalom.\n\nMultiplayer action supporting up to four players including Head-to-head split screen snowboarding.\n\nMultiple modes of play : Olympic, Tournament, Classic and Freeform\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/619449-salt-lake-2002-windows-screenshot-game-options.jpg",
+    "https://www.mobygames.com/images/shots/s/619451-salt-lake-2002-windows-screenshot-mode-select.jpg",
+    "https://www.mobygames.com/images/shots/s/619455-salt-lake-2002-windows-screenshot-downhill-route-overview.jpg",
+    "https://www.mobygames.com/images/shots/s/619475-salt-lake-2002-windows-screenshot-replay.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/salt-lake-2002",
+  "altTitles": []
+}

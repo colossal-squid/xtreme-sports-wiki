@@ -1,0 +1,63 @@
+{
+  "title": "Sno-Cross Championship Racing",
+  "platforms": "Sega Dreamcast",
+  "mechanics": "n/a",
+  "date": "December 2000",
+  "sports": "Snowmobile",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/c8pc5ywlcjxklhcq6mkf.jpg",
+  "altTitles": [
+    "\"Sno-Cross Extreme\" -- PC title"
+  ],
+  "description": "\nStrap on your goggles and helmet, choose your favorite Yamaha sled, and hit the courses. Gain experience day and night, sun rain or snow, racing on the icy flats of Vladivostok, the slopes of Aspen, and the tunnels of Nagano.\n\nBut, the real challenge starts when you enter the race circuit. Start with the 500cc sleds, win races, upgrade your snowmobile, and unlock higher end sleds and new courses.. And, if you're looking for even more challenges, race head-to-head with your friends, go vertical on hill-climbing tracks, or create your own courses with the included track editor.\n\nThe PC conversion has a higher polygon count, higher resolution on the textures, and more accurate physics.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/518861-sno-cross-championship-racing-windows-screenshot-single-race.jpg",
+    "https://www.mobygames.com/images/shots/s/518869-sno-cross-championship-racing-windows-screenshot-championship.jpg",
+    "https://www.mobygames.com/images/shots/s/518848-sno-cross-championship-racing-windows-screenshot-the-time.jpg",
+    "https://www.mobygames.com/images/shots/s/518850-sno-cross-championship-racing-windows-screenshot-time-trial.jpg"
+  ],
+  "video": "",
+  "relatedGames": [
+    "[Sled Storm](/games/sled-storm-8264/)",
+    "[Polaris SnoCross](/games/polaris-snocross-3575/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/sno-cross-championship-racing-45839.md",
+  "handle": "sno-cross-championship-racing-45839",
+  "name": "Sno-Cross Championship Racing",
+  "icon": "https://www.mobygames.com/images/covers/s/209161-sno-cross-championship-racing-playstation-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Crave Entertainment, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Unique Development Studios AB"
+    },
+    {
+      "name": "Released",
+      "value": "Aug 01, 2000"
+    },
+    {
+      "name": "Platforms",
+      "value": "Dreamcast,PlayStation,PlayStation 3,PSP,Windows"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "1st-person,3rd-person (Other)"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/sno-cross-championship-racing"
+}

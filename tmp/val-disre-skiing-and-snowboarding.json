@@ -1,0 +1,79 @@
+{
+  "name": "Val d'Isère Skiing and Snowboarding",
+  "icon": "https://www.mobygames.com/images/covers/s/13164-val-d-isere-skiing-and-snowboarding-jaguar-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/atari-corporation",
+        "text": "Atari Corporation"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/virtual-studio",
+        "text": "Virtual Studio"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/jaguar/val-disre-skiing-and-snowboarding/release-info",
+        "text": "1994"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/jaguar/",
+        "text": "Jaguar"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,91/",
+        "text": "Kids to Adults"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nThis is a skiing and snowboarding game that takes place entirely at the French Val d'Isère resort. Both sports are represented equally. There are three events: downhill, slalom, and giant slalom. There are also three game modes, free ride, training, and competition. Competition mode provides a series of timed events in which to compete leading up to a final timed event. The other two modes are self-explanatory.\n\nGame play is presented with scaled 2D sprites that present a 3D effect, similar to many early racing games. Everything wooshes by at extremely high speed, and winning requires the player to have great reflexes.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/27437-val-d-isere-skiing-and-snowboarding-jaguar-screenshot-game.jpg",
+    "https://www.mobygames.com/images/shots/s/27442-val-d-isere-skiing-and-snowboarding-jaguar-screenshot-snowboarding.jpg",
+    "https://www.mobygames.com/images/shots/s/27444-val-d-isere-skiing-and-snowboarding-jaguar-screenshot-trees.jpg",
+    "https://www.mobygames.com/images/shots/s/27439-val-d-isere-skiing-and-snowboarding-jaguar-screenshot-starting.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/val-disre-skiing-and-snowboarding",
+  "altTitles": []
+}

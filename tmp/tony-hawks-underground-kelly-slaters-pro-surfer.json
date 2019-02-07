@@ -1,0 +1,65 @@
+{
+  "name": "Tony Hawk's Underground & Kelly Slater's Pro Surfer",
+  "icon": "https://www.mobygames.com/images/shots/s/187826-tony-hawk-s-underground-kelly-slater-s-pro-surfer-game-boy.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/activision-deutschland-gmbh",
+        "text": "Activision Deutschland GmbH"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gameboy-advance/tony-hawks-underground-kelly-slaters-pro-surfer/release-info",
+        "text": "Aug 25, 2005"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/gameboy-advance/",
+        "text": "Game Boy Advance"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/compilation-shovelware/",
+        "text": "Compilation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/surfing/",
+        "text": "Surfing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nThis compilation features Tony Hawk's Underground and Kelly Slater's Pro Surfer.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/188107-tony-hawk-s-underground-kelly-slater-s-pro-surfer-game-boy.jpg",
+    "https://www.mobygames.com/images/shots/s/188108-tony-hawk-s-underground-kelly-slater-s-pro-surfer-game-boy.jpg",
+    "https://www.mobygames.com/images/shots/s/188109-tony-hawk-s-underground-kelly-slater-s-pro-surfer-game-boy.jpg",
+    "https://www.mobygames.com/images/shots/s/187826-tony-hawk-s-underground-kelly-slater-s-pro-surfer-game-boy.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/tony-hawks-underground-kelly-slaters-pro-surfer",
+  "altTitles": []
+}

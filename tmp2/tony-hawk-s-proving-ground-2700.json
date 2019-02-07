@@ -1,0 +1,66 @@
+{
+  "title": "Tony Hawk's Proving Ground",
+  "platforms": "PS3, Xbox 360, Nintendo DS, Nintendo Wii, PS2",
+  "mechanics": "thps",
+  "date": "October 2007",
+  "sports": "Skateboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/b9igl17wr89ejepjquuj.jpg",
+  "altTitles": [
+    "\"Tony Hawk's Pro Skater 9\" -- Informal title"
+  ],
+  "description": "\nProving Ground is a sequel to Tony Hawk's Project 8, this time letting the player be able to choose their own storyline by making different choices during the game with the ability to skate in Philadelphia, Baltimore and Washington D.C. There are four different classes of skaters (Rigger, Hardcore, Career and Street), which influences the story's direction. It also features an expanded Nail-the-Trick system with moves such as Nail-the-Grab and Nail-the Manual, Bowl Carving, Aggro Push, Skate Checking, Climbing/Exploration, Environment Altering and Rig-a-Kit.\n\nDuring the game the player can get advice from professional skaters to help mold their own created skater and learn new moves and tricks and has the ability to create their own skate park.\n\nThe game features online play where they can invite other skaters into their own created skate parks and show off trophies and achievements and skate against each other as well. Players can also create their own skate videos using a full feature video editor, choosing from various viewpoints and speeds and post them online to show other players.\n",
+  "screenshots": [],
+  "video": "###Launch Trailer\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fMlr17jxMMk\" frameborder=\"0\" allowfullscreen></iframe>\r\n,####Gameplay video\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/l58zV44Cap0\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\n",
+  "relatedGames": [
+    "[Tony Hawk's Project 8](/games/tony-hawk-s-project-8-6204/)",
+    "[Skate](/games/skate-2585/)",
+    "[Tony Hawk's American Wasteland](/games/tony-hawk-s-american-wasteland-7219/)",
+    "[Skate 3](/games/skate-3-2587/)",
+    "[Tony Hawk's Underground 2](/games/tony-hawk-s-underground-2-2699/)",
+    "[Tony Hawk's Pro Skater 4](/games/tony-hawk-s-pro-skater-4-915/)",
+    "[Tony Hawk's Pro Skater 2](/games/tony-hawk-s-pro-skater-2-913/)",
+    "[Tony Hawk's Underground](/games/tony-hawk-s-underground-2698/)"
+  ],
+  "websites": [
+    " [https://en.wikipedia.org/wiki/Tony_Hawk%27s_Proving_Ground](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Proving_Ground)"
+  ],
+  "filePath": "src/markdown/games/tony-hawk-s-proving-ground-2700.md",
+  "handle": "tony-hawk-s-proving-ground-2700",
+  "name": "Tony Hawk's Proving Ground",
+  "icon": "https://www.mobygames.com/images/covers/s/126240-tony-hawk-s-proving-ground-xbox-360-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Activision Publishing, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Neversoft Entertainment, Inc."
+    },
+    {
+      "name": "Released",
+      "value": "Oct 16, 2007"
+    },
+    {
+      "name": "Platforms",
+      "value": "PlayStation 3,Xbox 360"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "3rd-person (Other)"
+    },
+    {
+      "name": "Sport",
+      "value": "Skateboarding"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/tony-hawks-proving-ground"
+}

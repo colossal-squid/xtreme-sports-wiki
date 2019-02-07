@@ -1,0 +1,90 @@
+{
+  "name": "Tony Hawk's American Wasteland",
+  "icon": "https://www.mobygames.com/images/covers/s/53764-tony-hawk-s-american-wasteland-xbox-360-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/activision-publishing-inc",
+        "text": "Activision Publishing, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/neversoft-entertainment-inc",
+        "text": "Neversoft Entertainment, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/tony-hawks-american-wasteland/release-info",
+        "text": "Oct 18, 2005"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gamecube/tony-hawks-american-wasteland",
+        "text": "GameCube"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps2/tony-hawks-american-wasteland",
+        "text": "PlayStation 2"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/tony-hawks-american-wasteland",
+        "text": "Windows"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox/tony-hawks-american-wasteland",
+        "text": "Xbox"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox360/tony-hawks-american-wasteland",
+        "text": "Xbox 360"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nYou are a new skater in the city of L.A.. The main drive of the game is that your hanging around with a skating group and its leader, who also happens to be a skating legend, at their skate park in Beverly Hills called Skate Ranch. Throughout the game you must help your friends by getting skate pieces for Skate Ranch.\n\nThe game marks the third reinvention of the series, with Pro Skater being the first, and Underground being the second. It comes with brand new features like the ability to change your personal appearance in game, as well as the ability to get off of the skateboard and use a BMX. For the first time all of levels are strung together into one big environment, which gets rid of loading times and menu selection.\n\nOld features were also kept like Create-a-park, which dates back to the Pro Skater series. Missions are still acquired by going up to random people or friends and accepting the mission they want you to run.\n\nThe game also includes a multiplayer mode and co-op for up to 2 players for added replay value.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/301548-tony-hawk-s-american-wasteland-windows-screenshot-player-skating.jpg",
+    "https://www.mobygames.com/images/shots/s/301545-tony-hawk-s-american-wasteland-windows-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/301553-tony-hawk-s-american-wasteland-windows-screenshot-paused-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/301564-tony-hawk-s-american-wasteland-windows-screenshot-player-skating.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/tony-hawks-american-wasteland",
+  "altTitles": [
+    "\"托尼霍克：美国荒野\" -- Chinese Title (Simplified)",
+    "\"THAW\" -- abbreviated title"
+  ]
+}

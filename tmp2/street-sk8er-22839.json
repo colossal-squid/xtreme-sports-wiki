@@ -1,0 +1,73 @@
+{
+  "title": "Street Sk8er",
+  "platforms": "PSOne",
+  "mechanics": "n/a",
+  "date": "February 1999",
+  "sports": "Skateboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/hugo5tvcyskld5bmloqf.jpg",
+  "altTitles": [
+    "\"Street Skater\" -- European Title",
+    "\"Street Boarders\" -- Japanese Title",
+    "\"Simple 1500 Series Vol. 47: The Skateboard\" -- Simple series re-release Title"
+  ],
+  "description": "\nStreet Sk8er was one of the first skateboarding games to hit the PlayStation. It is much simpler than its genre brother Tony Hawk's Pro Skater, with a simpler way of performing tricks and more linear stage design. What it does bring to the table though is a tailor made licensed soundtrack with artists such as H2O, Less Than Jake and I Against I, and some hidden characters and stages to unlock as the player progresses through the game. There are different characters to choose from, boards and stages.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/285745-street-sk8er-playstation-screenshot-selecting-a-course-to.jpg",
+    "https://www.mobygames.com/images/shots/s/285739-street-sk8er-playstation-screenshot-selecting-a-skater.jpg",
+    "https://www.mobygames.com/images/shots/s/285740-street-sk8er-playstation-screenshot-board-selection-the-only.jpg",
+    "https://www.mobygames.com/images/shots/s/285741-street-sk8er-playstation-screenshot-in-each-stage-you-have.jpg"
+  ],
+  "video": "",
+  "relatedGames": [
+    "[Tony Hawk's Pro Skater](/games/tony-hawk-s-pro-skater-6692/)",
+    "[Thrasher Presents: Skate and Destroy](/games/thrasher-presents-skate-and-destroy-44916/)",
+    "[Street Sk8er 2](/games/street-sk8er-2-45033/)",
+    "[Epic Skater 2](/games/epic-skater-2-71452/)"
+  ],
+  "websites": [
+    " [https://en.wikipedia.org/wiki/Street_Sk8er](https://en.wikipedia.org/wiki/Street_Sk8er)"
+  ],
+  "filePath": "src/markdown/games/street-sk8er-22839.md",
+  "handle": "street-sk8er-22839",
+  "name": "Street Sk8er",
+  "icon": "https://www.mobygames.com/images/covers/s/129758-street-sk8er-playstation-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Electronic Arts, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Atelier Double Co. Ltd."
+    },
+    {
+      "name": "Released",
+      "value": "1999"
+    },
+    {
+      "name": "Platform",
+      "value": "PlayStation"
+    },
+    {
+      "name": "ESRB Rating",
+      "value": "Everyone"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "3rd-person (Other)"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Skateboarding"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/street-sk8er"
+}

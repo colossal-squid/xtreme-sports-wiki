@@ -1,0 +1,76 @@
+{
+  "name": "Snow Wave: Avalanche",
+  "icon": "https://www.mobygames.com/images/covers/s/115831-snow-wave-avalanche-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/hammer-technologies",
+        "text": "Hammer Technologies"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/hammer-technologies",
+        "text": "Hammer Technologies"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/snow-wave-avalanche/release-info",
+        "text": "1998"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSnow Wave: Avalanche (also known as Snowboard Racer in other countries), is a 3D arcade snowboarding game with a rather cartoonish touch regarding looks.\n\nThere are 3 different competitions that all require the main ingredients of snowboarding: high downhill speed and acrobatic jump skills. The competition in which dominate speed and flexibility of the board control is represented by boarder-cross. The spectacle of jumping and acrobatics is indispensable in the competitions big jump and big jump races. The first of them takes place in a “multitrack” stadium where you have to try to get the highest possible score by showing your best acrobatics. The jumping races are a mixture between downhill race and acrobatics and you will have to demonstrate complete skills.\n\nYou will have to confront with 3 kinds of opponents. The first of them is your own ghost, a surfer that imitates your own movements, so that you’ll have to overcome yourself. Moreover, you can choose a direct confrontation with other surfers. Each of them will show you his own specific characteristics. Finally, you can select the race against time... but be careful: One sudden halt can make you run out of time without reaching the next checkpoint.\n\nYou can choose among 2 surfers each with 3 different clothes: two boys and two girls, all very skillful thanks to the 14 different types of acrobatics (everybody has their own characteristic movements) and to the 5 different kinds of turns in the air. They will be able to race in 3 tracks altogether. 1 track of boarder-cross with its slalom poles and its fast and wavy routes, canyons, tunnels, snow-covered meadow lands... Plus 1 jump track, with more than 15 ramps. Finally, there is the “multitrack” stadium with 3 ramps, each one of a different height.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/325877-snow-wave-avalanche-windows-screenshot-opponent-mode-selection.jpg",
+    "https://www.mobygames.com/images/shots/s/325861-snow-wave-avalanche-windows-screenshot-title-and-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/325870-snow-wave-avalanche-windows-screenshot-ready-to-perform-a.jpg",
+    "https://www.mobygames.com/images/shots/s/325878-snow-wave-avalanche-windows-screenshot-starting-the-xtreme.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/snow-wave-avalanche",
+  "altTitles": [
+    "\"Tignes Snow Wave\" -- French title",
+    "\"Tech Deck: Snowboarding\" -- US re-release title",
+    "\"Snowboard Racer\" -- Midas Interactive title"
+  ]
+}

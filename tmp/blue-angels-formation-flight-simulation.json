@@ -1,0 +1,94 @@
+{
+  "name": "Blue Angels: Formation Flight Simulation",
+  "icon": "https://www.mobygames.com/images/covers/s/13287-blue-angels-formation-flight-simulation-dos-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/accolade-inc",
+        "text": "Accolade, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/artech-studios-ltd",
+        "text": "Artech Digital Entertainments, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/blue-angels-formation-flight-simulation/release-info",
+        "text": "1989"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/blue-angels-formation-flight-simulation",
+        "text": "Amiga"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-st/blue-angels-formation-flight-simulation",
+        "text": "Atari ST"
+      },
+      {
+        "link": "https://www.mobygames.com/game/c64/blue-angels-formation-flight-simulation",
+        "text": "Commodore 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/dos/blue-angels-formation-flight-simulation",
+        "text": "DOS"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/vehicle-simulator/",
+        "text": "Vehicle Simulator"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/flight/",
+        "text": "Flight / Aviation"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nBlue Angels: Formation Flight Squadron is an F/A-18 flight simulator, with a focus on Air Shows. The Blue Angels are the United States' Navy Flight Demonstration Squadron, known for tight maneuvers and precision flying. The game attempts to replicate this by offering formation flying, having to react and coordinate with other Blue Angels in the air.\n\nThe player can practice any maneuver in the simulator: dozens of high, low and flat maneuvers, Diamond 360 passes, left rolls and 4-point rolls or an entire air show for example. Other than practice events, the player can perform an air show or just go for a free flight. In the air, players fly from a 1st person perspective inside the plane or a 3rd person perspective from a chase plane behind the player. Additionally there are 4 different camera views and 3 different gameplay speeds. After the flight, an analysis is displayed of the flight and the player's performance graded.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/27820-blue-angels-formation-flight-simulation-dos-screenshot-analyze.jpg",
+    "https://www.mobygames.com/images/shots/s/188644-blue-angels-formation-flight-simulation-atari-st-screenshot.jpg",
+    "https://www.mobygames.com/images/shots/s/258653-blue-angels-formation-flight-simulation-commodore-64-screenshot.jpg",
+    "https://www.mobygames.com/images/shots/s/258655-blue-angels-formation-flight-simulation-commodore-64-screenshot.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/blue-angels-formation-flight-simulation",
+  "altTitles": []
+}

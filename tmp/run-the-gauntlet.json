@@ -1,0 +1,106 @@
+{
+  "name": "Run the Gauntlet",
+  "icon": "https://www.mobygames.com/images/covers/s/41194-run-the-gauntlet-zx-spectrum-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/bandai-namco-entertainment-uk-ltd",
+        "text": "Ocean Software Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/impact-software-development-ltd",
+        "text": "Impact Software Development, Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/run-the-gauntlet/release-info",
+        "text": "1989"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/run-the-gauntlet",
+        "text": "Amiga"
+      },
+      {
+        "link": "https://www.mobygames.com/game/cpc/run-the-gauntlet",
+        "text": "Amstrad CPC"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-st/run-the-gauntlet",
+        "text": "Atari ST"
+      },
+      {
+        "link": "https://www.mobygames.com/game/c64/run-the-gauntlet",
+        "text": "Commodore 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/zx-spectrum/run-the-gauntlet",
+        "text": "ZX Spectrum"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/offroad/",
+        "text": "Off-roading"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nCompetitors in this ITV television game show had to show their prowess on a range of vehicles including Buggys, Speedboats, Quad Bikes, Jetskis and Inflatables. Players of this licensed version must do the same, on horizontally and vertically scrolling levels on land and water. Many levels include enemy droids as well as inbuilt hazards, all of which must be avoided. The main unique event is The Hill, an assault course which takes place on foot.\n\nUp to three human players can take turns to contest the various events. The exact sequence of events is randomized each time, which makes the loading from cassette potentially slow and frustrating\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/478767-run-the-gauntlet-zx-spectrum-screenshot-times-up.jpg",
+    "https://www.mobygames.com/images/shots/s/318790-run-the-gauntlet-commodore-64-screenshot-upcoming-events.jpg",
+    "https://www.mobygames.com/images/shots/s/100410-run-the-gauntlet-atari-st-screenshot-whoa-watch-out-for-those.jpg",
+    "https://www.mobygames.com/images/shots/s/478759-run-the-gauntlet-zx-spectrum-screenshot-buggys-hill-and-speedboats.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/run-the-gauntlet",
+  "altTitles": []
+}

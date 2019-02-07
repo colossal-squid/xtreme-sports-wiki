@@ -1,0 +1,100 @@
+{
+  "name": "EyeToy: Play Sports",
+  "icon": "https://www.mobygames.com/images/covers/s/498274-eyetoy-play-sports-playstation-2-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/sony-interactive-entertainment-europe-ltd",
+        "text": "Sony Computer Entertainment Europe Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/scee-studio-london",
+        "text": "SCEE Studio London"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ps2/eyetoy-play-sports/release-info",
+        "text": "Nov 03, 2006"
+      }
+    ],
+    "Official Site",
+    [
+      {
+        "link": "https://www.playstation.com/en-au/games/eyetoy-play-sports-ps2/",
+        "text": "EyeToy: Play Sports"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/ps2/",
+        "text": "PlayStation 2"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Art",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/augmented-reality/",
+        "text": "Augmented reality"
+      }
+    ],
+    "Pacing",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/real-time/",
+        "text": "Real-Time"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motion_control/",
+        "text": "Motion Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/athletics/",
+        "text": "Athletics"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/boxing/",
+        "text": "Boxing"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/golf/",
+        "text": "Golf"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/olympiad/",
+        "text": "Olympiad / Mixed Sports"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tennis/",
+        "text": "Tennis"
+      }
+    ]
+  ],
+  "description": "\nPlayers use the Eyetoy USB Camera to interact with the onscreen graphics in 101 mini games with a sports theme. As the title implies these mini games are sports themes and cover a wide range of activities, from Olympic sports like sprinting and swimming through to car racing and trampolining. Most games require four players but there are plenty that can be played with only two.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/eyetoy-play-sports",
+  "altTitles": []
+}

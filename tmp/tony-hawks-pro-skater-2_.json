@@ -1,0 +1,101 @@
+{
+  "name": "Tony Hawk's Pro Skater 2",
+  "icon": "https://www.mobygames.com/images/covers/s/61605-tony-hawk-s-pro-skater-2-game-boy-advance-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/activision-publishing-inc",
+        "text": "Activision Publishing, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/vicarious-visions-inc",
+        "text": "Vicarious Visions, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gameboy-advance/tony-hawks-pro-skater-2_/release-info",
+        "text": "May 31, 2001"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/gameboy-advance/",
+        "text": "Game Boy Advance"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/birds-eye-view/",
+        "text": "Bird's-eye view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/isometric/",
+        "text": "Isometric"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nThe Tony Hawk skateboarding series makes its debut on the Game Boy Advance with this adaptation of the second Pro Skater game.\n\nGameplay is similar to the original console game. The levels have been adapted from the console version for the two dimensional isometric perspective; one is even taken from the original Tony Hawk's Pro Skater.\n\nIn Career Mode, choose from one of 13 professional skaters and, in each level, complete various goals like collecting items, performing special tricks and of course breaking high scores by performing tricks and combos. Completing the goals earns money which unlocks new levels and can be spent on new boards, tricks and upgrading your skater's stats. In competition levels, you don't skate for money but compete for a medal.\n\nIn the Free Skate and Single Session modes, unlocked levels can be practiced and new high scores be established.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/159518-tony-hawk-s-pro-skater-2-game-boy-advance-screenshot-skater.jpg",
+    "https://www.mobygames.com/images/shots/s/159519-tony-hawk-s-pro-skater-2-game-boy-advance-screenshot-run-stats.jpg",
+    "https://www.mobygames.com/images/shots/s/159512-tony-hawk-s-pro-skater-2-game-boy-advance-screenshot-title.jpg",
+    "https://www.mobygames.com/images/shots/s/159520-tony-hawk-s-pro-skater-2-game-boy-advance-screenshot-wipeout.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/tony-hawks-pro-skater-2_",
+  "altTitles": [
+    "\"托尼霍克职业滑板2\" -- Chinese Title (Simplified)",
+    "\"THPS 2\" -- Official abbreviation",
+    "\"SK8: Tony Hawk no Pro Skater 2\" -- Japanese Title"
+  ]
+}

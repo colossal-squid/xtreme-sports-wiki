@@ -1,0 +1,90 @@
+{
+  "name": "California Games X",
+  "icon": "https://www.mobygames.com/images/shots/s/810531-california-games-x-j2me-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/eidos-mobile",
+        "text": "Eidos Mobile"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/rockpool-games-ltd",
+        "text": "Rockpool Games Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/j2me/california-games-x/release-info",
+        "text": "2008"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/j2me/",
+        "text": "J2ME"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/platform/",
+        "text": "Platform"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/olympiad/",
+        "text": "Olympiad / Mixed Sports"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/surfing/",
+        "text": "Surfing"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/bike-cycling/",
+        "text": "Bike / Bicycling"
+      }
+    ]
+  ],
+  "description": "\nCalifornia Games X is a mobile game based on Epyx' series of extreme sports games. The game consists of seven events that can be played on their own or as part of a tournament mode. The tournament mode involves competing against AI opponents and can be played in three different difficulties. There is also a practice mode for training. The available events are:\nSurfing\nFree Climbing\nBMX\nBreakdancing\nSkysurfing\nSkateboarding\nIn-Line Skating (has to be unlocked)\nAll game events are built around quick time events where a key or combination of keys on the numpad has to be pressed when the corresponding arrows appear or are highlighted on the screen. The gameplay thereby is similar to a rhythm game except with no music.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/810543-california-games-x-j2me-screenshot-surfing-balancing.jpg",
+    "https://www.mobygames.com/images/shots/s/810541-california-games-x-j2me-screenshot-skateboarding-hit-the-meter.jpg",
+    "https://www.mobygames.com/images/shots/s/810548-california-games-x-j2me-screenshot-break-dancing.jpg",
+    "https://www.mobygames.com/images/shots/s/810538-california-games-x-j2me-screenshot-results.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/california-games-x",
+  "altTitles": []
+}

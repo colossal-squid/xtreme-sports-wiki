@@ -1,0 +1,79 @@
+{
+  "name": "Supercross Freestyle",
+  "icon": "https://www.mobygames.com/images/shots/s/347807-supercross-freestyle-game-boy-color-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/atari-europe-sasu",
+        "text": "Infogrames Europe SA"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/velez-dubail",
+        "text": "Velez & Dubail"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gameboy-color/supercross-freestyle/release-info",
+        "text": "2000"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/gameboy-color/",
+        "text": "Game Boy Color"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ]
+  ],
+  "description": "\nSupercross Freestyle is a dirt bike racing game. The game features three game modes: Freestyle, Supercross and Arcade. Freestyle is all about making impressive jumps and tricks with your bike. Supercross and Arcade are racing modes, where Arcade has different courses and power-ups that can change the odds. The game features 24 different tracks and 16 different tricks.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/347819-supercross-freestyle-game-boy-color-screenshot-select-a-bike.jpg",
+    "https://www.mobygames.com/images/shots/s/347820-supercross-freestyle-game-boy-color-screenshot-starting-a.jpg",
+    "https://www.mobygames.com/images/shots/s/347817-supercross-freestyle-game-boy-color-screenshot-game-over.jpg",
+    "https://www.mobygames.com/images/shots/s/347810-supercross-freestyle-game-boy-color-screenshot-this-doesn.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/supercross-freestyle",
+  "altTitles": []
+}

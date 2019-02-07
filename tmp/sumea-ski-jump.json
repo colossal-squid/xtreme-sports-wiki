@@ -1,0 +1,71 @@
+{
+  "name": "Sumea Ski Jump",
+  "icon": "https://www.mobygames.com/images/shots/s/791707-sumea-ski-jump-j2me-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/digital-chocolate-inc",
+        "text": "Digital Chocolate, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/rovio-entertainment-ltd",
+        "text": "Relude Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/j2me/sumea-ski-jump/release-info",
+        "text": "2004"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/j2me/",
+        "text": "J2ME"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/birds-eye-view/",
+        "text": "Bird's-eye view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/isometric/",
+        "text": "Isometric"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSumea Ski Jump is a ski jumping game viewed from an isometric perspective. All action in the game is controlled with a single button which can be any of the phone's number keys. When starting out the player has ten seconds to begin and should attempt to the hit the button when the wind indicator shows green. To take off the player then has to hit it again when the jumper is as close to the edge as possible. Once in the air the button should be pressed to stop the jumper in an optimal leaning position (as close to horizontal as possible). When it is time to land the player can either hold the button for a telemark landing (which gives more style points) or a quick press for a normal landing (which gives more distance). The score given depends on the jump distance and the number of stars given in the jump (depending on how well each action has been done).\n\nThe game consists of six hills from real life ski jumping locations: Lahti, Oberstdorf, Garmisch-Partenkirchen, Innsbruck, Bischofshofen and Planica. Each hill is unlocked by winning the previous one in a competition against three AI jumpers. There is also a multiplayer mode where four players share the same device.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/791710-sumea-ski-jump-j2me-screenshot-hills.jpg",
+    "https://www.mobygames.com/images/shots/s/791707-sumea-ski-jump-j2me-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/791715-sumea-ski-jump-j2me-screenshot-you-get-a-star-rating-for-every.jpg",
+    "https://www.mobygames.com/images/shots/s/791720-sumea-ski-jump-j2me-screenshot-new-hill-unlocked.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/sumea-ski-jump",
+  "altTitles": []
+}

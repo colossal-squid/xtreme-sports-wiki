@@ -1,0 +1,96 @@
+{
+  "name": "Xtreme Sports",
+  "icon": "https://www.mobygames.com/images/covers/s/354764-xtreme-sports-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/sega-europe-ltd",
+        "text": "SEGA Europe Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/innerloop-studios",
+        "text": "Innerloop Studios"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/xtreme-sports/release-info",
+        "text": "Oct 27, 2000"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/dreamcast/xtreme-sports",
+        "text": "Dreamcast"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/xtreme-sports",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/bike-cycling/",
+        "text": "Bike / Bicycling"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ]
+  ],
+  "description": "\nXtreme Sports is a multi-trial sports game that combines different sports in one race. Snowboard, ATV, Delta-plane and Mountain Bike are available from the beginning; Base Jump and Bungee Jumping need to be unlocked.\n\nFour game modes are available: Championship, Race, Time Trial, and Practice. There are three tracks available right away, and six more to unlock. In all the modes, the gameplay is somewhat arcade-oriented, requiring the player to react quickly. A special boost gauge can be filled by doing specific actions, increasing the player's chances of victory.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/854624-xtreme-sports-windows-screenshot-the-start-of-a-time-trial.jpg",
+    "https://www.mobygames.com/images/shots/s/854623-xtreme-sports-windows-screenshot-in-a-time-trial-event-the.jpg",
+    "https://www.mobygames.com/images/shots/s/379637-xtreme-sports-dreamcast-screenshot-character-choice-4.jpg",
+    "https://www.mobygames.com/images/shots/s/854628-xtreme-sports-windows-screenshot-racing-downhill-on-a-championship.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/xtreme-sports",
+  "altTitles": [
+    "\"Sega Extreme Sports\" -- European title",
+    "\"Pepsi Max Extreme Sports\" -- European PC title",
+    "\"Off-Piste with Six Extreme Sports\" -- Scandinavian PC title",
+    "\"Maximum Sports Extreme\" -- US PC title",
+    "\"セガ エクストリーム スポーツ\" -- Japanese spelling"
+  ]
+}

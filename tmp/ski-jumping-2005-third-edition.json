@@ -1,0 +1,67 @@
+{
+  "name": "Ski Jumping 2005: Third Edition",
+  "icon": "https://www.mobygames.com/images/covers/s/174621-ski-jumping-2005-third-edition-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/axel-springer-polska",
+        "text": "Axel Springer Polska"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/lart",
+        "text": "L'Art"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/ski-jumping-2005-third-edition/release-info",
+        "text": "Nov 25, 2004"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSki Jumping 2005: Third Edition is a simulation of the ski jumping sport. The handling is quite simple: the player uses the mouse to hold a steady course and holding both mouse buttons to jumps respectively land. In the career mode the player creates his own athlete and starts at youth competitions. Good end results bring sponsors and money which is reinvested in better gear and training lessons. Every good training jump results in better abilities which in turn positively influence the following jumps.\n\nBesides the career the game also offers smaller competitions, e.g. the Four Hills Tournament, summer and female tournaments. Overall there are 12 competitions on 44 ramps. Less precision is needed when playing the arcade mode. In comparison to similar titles the multiplayer mode is not restricted to single tournaments but the players can participate in the career mode too. There all competitions are played together and the training part separately.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/790262-ski-jumping-2005-third-edition-windows-screenshot-harrachov.jpg",
+    "https://www.mobygames.com/images/shots/s/790263-ski-jumping-2005-third-edition-windows-screenshot-landing.jpg",
+    "https://www.mobygames.com/images/shots/s/790264-ski-jumping-2005-third-edition-windows-screenshot-create-a.jpg",
+    "https://www.mobygames.com/images/shots/s/790265-ski-jumping-2005-third-edition-windows-screenshot-on-start.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/ski-jumping-2005-third-edition",
+  "altTitles": [
+    "\"Skoki Narciarskie 2005\" -- Polish title",
+    "\"Skisprung Wintercup 2005\" -- German title"
+  ]
+}

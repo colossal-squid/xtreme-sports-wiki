@@ -1,0 +1,58 @@
+{
+  "title": "Skate of the Art",
+  "platforms": "Amiga",
+  "mechanics": "n/a",
+  "date": "1989",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/shots/s/800614-skate-of-the-art-amiga-screenshot-title-screen.jpg",
+  "altTitles": [],
+  "description": "\nSkate of the Art is a skateboarding game that is based on the Commodore 64 game Rollerboard. The two game have almost identical gameplay but have different level designs. The Amiga game also features completely remade graphics. The game is side scrolling and the player's task in each level is to get to the finishing line without crashing on the obstacles that lies in his path. When starting out there are five skateboards available and for every crash one is lost. When all out of skateboards the game will end. All action is controlled with the joystick. Pressing the button increases the speed while pulling the stick in different directions causes the skater to jump, brake or to climb. By combining button presses and stick pulling the player can also make various tricks such as normal and double flips.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/800620-skate-of-the-art-amiga-screenshot-climbing-an-obstacle.jpg",
+    "https://www.mobygames.com/images/shots/s/800622-skate-of-the-art-amiga-screenshot-jumping.jpg",
+    "https://www.mobygames.com/images/shots/s/800616-skate-of-the-art-amiga-screenshot-skater-picture.jpg",
+    "https://www.mobygames.com/images/shots/s/800619-skate-of-the-art-amiga-screenshot-getting-ready.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/skate-of-the-art](https://www.mobygames.com/game/skate-of-the-art)"
+  ],
+  "filePath": "src/markdown/games/skate-of-the-art.md",
+  "handle": "skate-of-the-art",
+  "name": "Skate of the Art",
+  "icon": "https://www.mobygames.com/images/shots/s/800614-skate-of-the-art-amiga-screenshot-title-screen.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Linel"
+    },
+    {
+      "name": "Developed by",
+      "value": "1001 Software Development "
+    },
+    {
+      "name": "Released",
+      "value": "1989"
+    },
+    {
+      "name": "Platform",
+      "value": "Amiga"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Side view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Skateboarding"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/skate-of-the-art"
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Freestyle MetalX",
+  "icon": "https://www.mobygames.com/images/covers/s/143070-freestyle-metalx-xbox-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/tradewest-games-ltd",
+        "text": "Midway Games Limited"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/deibus-studios-ltd",
+        "text": "Deibus Studios Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/freestyle-metalx/release-info",
+        "text": "2003"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gamecube/freestyle-metalx",
+        "text": "GameCube"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps2/freestyle-metalx",
+        "text": "PlayStation 2"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox/freestyle-metalx",
+        "text": "Xbox"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nFreestyle MetalX is, as the name implies, a motocross stunt game. It contains 9 pro riders and twelve licensed bikes to begin with, plus some secret ones. It is structured somewhat like the Tony Hawk series with a career mode that is a succession of levels, each one containing goals like doing specific tricks, finding gaps and finding things, which could take the form of breaking windows, running people over, etc. In this case, there are also racing goals. Each goal gives you money, which can be used to unlock new riders, bikes and levels.\n\nControls consist of an accelerator, brake and clutch along with jump, trick and trick modifier buttons. The modifier can be used to turn a superman into a nothing superman, for instance. Wheelies are controlled with the right analog stick.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/546383-freestyle-metalx-playstation-2-screenshot-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/freestyle-metalx",
+  "altTitles": []
+}

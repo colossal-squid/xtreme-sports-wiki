@@ -1,0 +1,68 @@
+{
+  "name": "Classic Collection: Vol 2",
+  "icon": "https://www.mobygames.com/images/shots/s/833516-classic-collection-vol-2-amstrad-pcw-screenshot-main-menu.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/microvalue-ltd",
+        "text": "MicroValue, Ltd"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/cirrus-software",
+        "text": "Cirrus Software"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amstrad-pcw/classic-collection-vol-2/release-info",
+        "text": "1987"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/amstrad-pcw/",
+        "text": "Amstrad PCW"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nLike the initial volume, Classic Collection: Vol 2 consists of three games. Two are based on arcade game while the third is a sports game.\n\nCaverns is a side scrolling shoot 'em up in the style of Scramble. The player flies over mountainous terrain and through various caves, shooting down enemies while avoiding getting hit. Unlike the arcade game there are no bombs and no ground installations more than launching rockets.\n\nClimb-It is a variant of Donkey Kong that consists of three different stages. In the first one the player has to climb up a scaffolding while avoiding rolling barrels and fireballs while in the second the ape throws barrels directly at the player. In the final stage the player has to remove all rivets from the scaffolding while avoiding the fireballs.\n\nSki-ing is a slalom game viewed from a top down perspective that scrolls from the top to the bottom. The player has to control the skier through each gate and avoid crashing into flags and trees. Controls are limited to steering left and right.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/833519-classic-collection-vol-2-amstrad-pcw-screenshot-caverns-shooting.jpg",
+    "https://www.mobygames.com/images/shots/s/833532-classic-collection-vol-2-amstrad-pcw-screenshot-ski-ing-steering.jpg",
+    "https://www.mobygames.com/images/shots/s/833523-classic-collection-vol-2-amstrad-pcw-screenshot-caverns-entering.jpg",
+    "https://www.mobygames.com/images/shots/s/833517-classic-collection-vol-2-amstrad-pcw-screenshot-loading-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/classic-collection-vol-2",
+  "altTitles": []
+}

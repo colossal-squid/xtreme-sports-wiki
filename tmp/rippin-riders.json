@@ -1,0 +1,82 @@
+{
+  "name": "Rippin' Riders",
+  "icon": "https://www.mobygames.com/images/covers/s/8060-rippin-riders-dreamcast-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/sega-games-co-ltd",
+        "text": "SEGA Corporation"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/uep-systems-inc",
+        "text": "UEP Systems Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/dreamcast/rippin-riders/release-info",
+        "text": "Oct 31, 1999"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/dreamcast/",
+        "text": "Dreamcast"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nRippin' Riders is a fun and \"extreme\" snowboarding game from Sega and UEP Systems, the developers of Cool Boarders 2. As in most snowboarding games, your objective here is to maneuver your snowboarder down a slippery slope. Rippin' Riders features 8 courses, 2 of which are hidden, with lots of picturesque scenery to look at. At several points on each course, there are huge jumps you can fly off of. While in the air you can perform numerous tricks.\n\nScoring in Rippin' Riders is based on both your elapsed time through the course, and the number and variety of tricks your successfully perform. Performing will on the single player game unlocks hidden characters, outfits, snow boards, and courses. In addition to the standard downhill mode, there is a half pipe mode in which you can practice your tricks. There is also a two player split screen mode so you can compete against a friend.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/17427-rippin-riders-dreamcast-screenshot-free-ride-mode.jpg",
+    "https://www.mobygames.com/images/shots/s/17429-rippin-riders-dreamcast-screenshot-match-race-mode.jpg",
+    "https://www.mobygames.com/images/shots/s/17428-rippin-riders-dreamcast-screenshot-super-pipe-mode.jpg",
+    "https://www.mobygames.com/images/shots/s/17425-rippin-riders-dreamcast-screenshot-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/rippin-riders",
+  "altTitles": [
+    "\"Snow Surfers\" -- European title",
+    "\"Cool Boarders Burrrn\" -- Japanese title"
+  ]
+}

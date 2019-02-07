@@ -1,0 +1,68 @@
+{
+  "name": "Scooter Pro",
+  "icon": "https://www.mobygames.com/images/covers/s/281403-scooter-pro-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/megaware-multimedia-bv",
+        "text": "Megaware Multimedia B.V."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/fusion-digital-games-ltd",
+        "text": "Fusion Digital Games Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/scooter-pro/release-info",
+        "text": "2003"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ]
+  ],
+  "description": "\nScooter Pro is a single player game in which the player races around a selection of urban courses collecting tokens. All runs are timed and the faster they courses are completed the higher the score. The game is entirely keyboard controlled, has a high score table and a choice of male and female characters.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/682662-scooter-pro-windows-screenshot-the-game-map-a-new-game-always.jpg",
+    "https://www.mobygames.com/images/shots/s/682663-scooter-pro-windows-screenshot-the-first-level-of-the-mall.jpg",
+    "https://www.mobygames.com/images/shots/s/682665-scooter-pro-windows-screenshot-this-run-around-the-mall-didn.jpg",
+    "https://www.mobygames.com/images/shots/s/682659-scooter-pro-windows-screenshot-there-is-a-puzzle-element-to.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/scooter-pro",
+  "altTitles": []
+}

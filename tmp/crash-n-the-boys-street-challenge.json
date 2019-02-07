@@ -1,0 +1,109 @@
+{
+  "name": "Crash 'n' the Boys: Street Challenge",
+  "icon": "https://www.mobygames.com/images/covers/s/260561-crash-n-the-boys-street-challenge-wii-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/american-technos-inc",
+        "text": "American Technos Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/technos-japan-corp",
+        "text": "Technos Japan Corp."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/crash-n-the-boys-street-challenge/release-info",
+        "text": "1992"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gameboy/crash-n-the-boys-street-challenge",
+        "text": "Game Boy"
+      },
+      {
+        "link": "https://www.mobygames.com/game/nes/crash-n-the-boys-street-challenge",
+        "text": "NES"
+      },
+      {
+        "link": "https://www.mobygames.com/game/3ds/crash-n-the-boys-street-challenge",
+        "text": "Nintendo 3DS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii/crash-n-the-boys-street-challenge",
+        "text": "Wii"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii-u/crash-n-the-boys-street-challenge",
+        "text": "Wii U"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Art",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/anime-manga/",
+        "text": "Anime / Manga"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/beatemup-brawler/",
+        "text": "Beat 'em up / Brawler"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fighting/",
+        "text": "Fighting"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ]
+  ],
+  "description": "\nAnother tournament composed of several different challenges rocks the streets near Nekketsu High and since the series hero Kunio isn't going to turn down a challenge anytime soon, every gang in the city sends its team hoping to come up on top.\n\nCrash 'n' the Boys: Street Challenge features the same basic gameplay engine and mechanics found in the rest of the Kunio/Nekketsu High games. The player controls a character in side-scrolling levels and try to defeat opponents using an arsenal of attacks and special moves. Unique to this game is that in order to clear the five stages, the player must also accomplish a series of sport-themed objectives. There is a throwing event, a golfing event, swimming, jumping, and all-out fighting events, all with unique twists inspired by the street/gangs theme of the game (e.g. the jumping event involves jumping across the rooftops in the city).\n\nDepending on the player's performance in each event they may earn medals that can be exchanged for power-ups and stat increases. The game supports two players co-op or vs. gameplay.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/374228-crash-n-the-boys-street-challenge-game-boy-screenshot-between.jpg",
+    "https://www.mobygames.com/images/shots/s/196844-crash-n-the-boys-street-challenge-nes-screenshot-intro.jpg",
+    "https://www.mobygames.com/images/shots/s/374233-crash-n-the-boys-street-challenge-game-boy-screenshot-lost.jpg",
+    "https://www.mobygames.com/images/shots/s/374226-crash-n-the-boys-street-challenge-game-boy-screenshot-400m.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/crash-n-the-boys-street-challenge",
+  "altTitles": [
+    "\"びっくり熱血新記録！はるかなる金メダル\" -- Japanese spelling",
+    "\"びっくり熱血新記録！ どこでも金メダル\" -- Japanese Game Boy spelling",
+    "\"Crash 'n the Boys: Street Challenge\" -- In-game US title",
+    "\"Bikkuri Nekketsu Shinkiroku! Haruka naru Kin-Medal\" -- Japanese title",
+    "\"Bikkuri Nekketsu Shinkiroku! Dokodemo Kin Medal\" -- Game Boy title"
+  ]
+}

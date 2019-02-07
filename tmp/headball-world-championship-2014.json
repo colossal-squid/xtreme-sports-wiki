@@ -1,0 +1,82 @@
+{
+  "name": "Headball: World Championship 2014",
+  "icon": "https://www.mobygames.com/images/covers/s/425774-headball-world-championship-2014-ipad-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/mg-desenvolvimento-de-games-ltda",
+        "text": "Mother Gaia Studio"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/mg-desenvolvimento-de-games-ltda",
+        "text": "Mother Gaia Studio"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/headball-world-championship-2014/release-info",
+        "text": "May 08, 2014"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/android/headball-world-championship-2014",
+        "text": "Android"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ipad/headball-world-championship-2014",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/headball-world-championship-2014",
+        "text": "iPhone"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows-phone/headball-world-championship-2014",
+        "text": "Windows Phone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fixed-flip-screen/",
+        "text": "Fixed / Flip-screen"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/soccer-football-european/",
+        "text": "Football (European) / Soccer"
+      }
+    ]
+  ],
+  "description": "\nHeadball: World Championship 2014 is a trick game similar to the circle kicking football players usually play before matches. The aim is to keep the ball in the air without letting it drop to the ground. To do so, the player has to tap the character on screen to make him jump and hit the ball with his head. As the game progresses, more characters join the game and the ball starts moving sideways. The direction the ball will take is random, and the player has to alternate between characters to keep the ball in the air. A simple score count is kept in the middle of the screen, showing how many hits the ball has taken without falling to the ground.\n\nThe game features pixelated graphics and chiptune soundtrack. The characters are modeled after famous football players (for instance, the one in the cover art is the Colombian midfielder Carlos Valderrama). There is also a leaderboard where players can submit and compare their scores with another players.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/headball-world-championship-2014",
+  "altTitles": []
+}

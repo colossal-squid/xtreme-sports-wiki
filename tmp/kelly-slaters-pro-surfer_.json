@@ -1,0 +1,90 @@
+{
+  "name": "Kelly Slater's Pro Surfer",
+  "icon": "https://www.mobygames.com/images/covers/s/15218-kelly-slater-s-pro-surfer-game-boy-advance-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/activision-publishing-inc",
+        "text": "Activision Publishing, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/hotgen-ltd",
+        "text": "HotGen Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gameboy-advance/kelly-slaters-pro-surfer_/release-info",
+        "text": "Sep 17, 2002"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/gameboy-advance/",
+        "text": "Game Boy Advance"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/surfing/",
+        "text": "Surfing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nKelly Slater's Pro Surfer takes the player around the world to surf some of the more famous beaches. With a control scheme similar to all the other Activision O2 brand games, it's easy to jump into the game and surf.\n\nSurf Modes:\nChampionship - Compete against eight other surfers. The player progresses by surfing in twelve stages, three heats per stage. The score is tallied from each heat and the top three surfers of the stage get to move on.\n\nChallenge - Pick a surfer and do challenges around the world.\n\nDrop In - Instant action surfing - go and just surf.\n\nMultiplayer - With a Link Cable and another copy of the game two players can link up to compete against each other.\n\nThe professionals in the game are: Kelly Slater, Lisa Andersen, Tom Carroll, Tom Curren, Nathan Fletcher, Donavon Frankenreiter, Bruce Irons, Rob Machado, Kalani Robb, and some other secret characters.\n\nThe beaches in the game: Sebastian, Trestles, Mavericks, Waimea Bay, Jaws, Pipeline, Teahupoo, Bells, Curren's Point, Kirra, G-Land, J-Bay, Mundaka, Cortez Bank, and perhaps some other tucked-away hide-aways.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/464916-kelly-slater-s-pro-surfer-game-boy-advance-screenshot-main.jpg",
+    "https://www.mobygames.com/images/shots/s/464920-kelly-slater-s-pro-surfer-game-boy-advance-screenshot-at-which.jpg",
+    "https://www.mobygames.com/images/shots/s/464926-kelly-slater-s-pro-surfer-game-boy-advance-screenshot-scores.jpg",
+    "https://www.mobygames.com/images/shots/s/464917-kelly-slater-s-pro-surfer-game-boy-advance-screenshot-tutorial.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/kelly-slaters-pro-surfer_",
+  "altTitles": []
+}

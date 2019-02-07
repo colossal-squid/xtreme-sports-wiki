@@ -1,0 +1,95 @@
+{
+  "name": "Metro Cross",
+  "icon": "https://www.mobygames.com/images/covers/s/180466-metro-cross-commodore-64-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/namco-limited",
+        "text": "Namco Limited"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/namco-limited",
+        "text": "Namco Limited"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/metro-cross/release-info",
+        "text": "1985"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/cpc/metro-cross",
+        "text": "Amstrad CPC"
+      },
+      {
+        "link": "https://www.mobygames.com/game/arcade/metro-cross",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-st/metro-cross",
+        "text": "Atari ST"
+      },
+      {
+        "link": "https://www.mobygames.com/game/c64/metro-cross",
+        "text": "Commodore 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/nes/metro-cross",
+        "text": "NES"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii-u/metro-cross",
+        "text": "Wii U"
+      },
+      {
+        "link": "https://www.mobygames.com/game/zx-spectrum/metro-cross",
+        "text": "ZX Spectrum"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\nSimple side-scrolling game, where you play a skater who has to pass a set of obstacles in order to reach the end of the level.\n\nYou can skate up or down in the screen, or even jump, to be safe from the pipes you encounter on the way. As the game progresses, obstacles are more frequent and more challenging, but the essence is the same. Timing is everything in this game.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/638116-metro-cross-zx-spectrum-screenshot-finished.jpg",
+    "https://www.mobygames.com/images/shots/s/682301-metro-cross-arcade-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/118751-metro-cross-atari-st-screenshot-game-start.jpg",
+    "https://www.mobygames.com/images/shots/s/638115-metro-cross-zx-spectrum-screenshot-flat-as-a-pancake-well.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/metro-cross",
+  "altTitles": [
+    "\"Metro-Cross\" -- Japanese title",
+    "\"メトロクロス\" -- Japanese spelling"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Twisted Edge: Extreme Snowboarding",
+  "icon": "https://www.mobygames.com/images/covers/s/227786-twisted-edge-extreme-snowboarding-nintendo-64-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/kotobuki-solution-co-ltd",
+        "text": "Kotobuki System Co., Ltd."
+      },
+      {
+        "link": "https://www.mobygames.com/company/midway-home-entertainment-inc_",
+        "text": "Midway Home Entertainment, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/boss-game-studios-inc",
+        "text": "Boss Game Studios Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/n64/twisted-edge-extreme-snowboarding/release-info",
+        "text": "Nov 10, 1998"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/n64/",
+        "text": "Nintendo 64"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nThis downhill snowboarding game includes seven tracks, multiple characters and boards, and many trick moves. It can be played in Competition Mode, Stunt Challenge, two-player VS. Race, and Practice Mode, which includes a ghost of your best race. Hidden features include new characters and boards, secret shortcuts on tracks, and mirrored mode.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/twisted-edge-extreme-snowboarding",
+  "altTitles": [
+    "\"Twisted Edge snowboarding\" -- European title",
+    "\"King Hill 64 Extreme Snowboarding \" -- Japanese title"
+  ]
+}

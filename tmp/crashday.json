@@ -1,0 +1,97 @@
+{
+  "name": "Crashday",
+  "icon": "https://www.mobygames.com/images/covers/s/210494-crashday-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/valusoft-inc",
+        "text": "ValuSoft, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/moonbyte-studios",
+        "text": "Moonbyte Studios"
+      },
+      {
+        "link": "https://www.mobygames.com/company/replay-studios-gmbh",
+        "text": "Replay Studios GmbH"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/crashday/release-info",
+        "text": "Dec, 2006"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,92/",
+        "text": "Teen"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/vehicle-simulator/",
+        "text": "Vehicle Simulator"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nThe debut title from Moonbyte Studios/Replay Studios, Crashday is a racing game, which takes you through street packed with many obstacles and other drivers. The game combines the features of Stunts, Deathtrack, Destruction Derby and other classic titles.\n\nThe game offers career mode, seven single events (Wrecking Match, Stunt Show, Hold the Flag, Race, Pass the Bomb, Bomb Run, Test Drive) and several mini-games (e.g. Long Jump, Vehicle Blast, Mass Destruction). Twelve cars are available to drive, each with different handling, maximum speed, acceleration and armor. A track editor is also included to allow players to design their own courses.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/200873-crashday-windows-screenshot-most-circuits-and-tracks-offer.jpg",
+    "https://www.mobygames.com/images/shots/s/200875-crashday-windows-screenshot-the-end-of-a-destruction-derby.jpg",
+    "https://www.mobygames.com/images/shots/s/154893-crashday-windows-screenshot-the-police-will-try-to-catch-you.jpg",
+    "https://www.mobygames.com/images/shots/s/155465-crashday-windows-screenshot-pick-up-the-flag-from-the-course.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/crashday",
+  "altTitles": [
+    "\"Crash Day\" -- Alternative spelling"
+  ]
+}

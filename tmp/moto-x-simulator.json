@@ -1,0 +1,85 @@
+{
+  "name": "Moto X Simulator",
+  "icon": "https://www.mobygames.com/images/covers/s/51739-moto-x-simulator-zx-spectrum-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/codemasters-software-company-limited",
+        "text": "Codemasters"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/supersonic-software-ltd",
+        "text": "Supersonic Software Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/moto-x-simulator/release-info",
+        "text": "1989"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/cpc/moto-x-simulator",
+        "text": "Amstrad CPC"
+      },
+      {
+        "link": "https://www.mobygames.com/game/c64/moto-x-simulator",
+        "text": "Commodore 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/zx-spectrum/moto-x-simulator",
+        "text": "ZX Spectrum"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ]
+  ],
+  "description": "Buy at \n Buy at \nNot an American user?\nDescription",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/565885-moto-x-simulator-commodore-64-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/128423-moto-x-simulator-zx-spectrum-screenshot-high-scores.jpg",
+    "https://www.mobygames.com/images/shots/s/128944-moto-x-simulator-zx-spectrum-screenshot-loading-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/565888-moto-x-simulator-commodore-64-screenshot-careful-now.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/moto-x-simulator",
+  "altTitles": [
+    "\"Moto Cross Simulator\" -- AKA"
+  ]
+}

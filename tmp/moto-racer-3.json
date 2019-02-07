@@ -1,0 +1,96 @@
+{
+  "name": "Moto Racer 3",
+  "icon": "https://www.mobygames.com/images/covers/s/87704-moto-racer-3-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/electronic-arts-inc",
+        "text": "Electronic Arts, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/delphine-software-international",
+        "text": "Delphine Software International"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/moto-racer-3/release-info",
+        "text": "Dec 06, 2001"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nMoto Racer 3 is the third incarnation of this already classic motocycling game by Delphine Software. This time, you don't only race on famous circuits around the globe or let the mud fly with your Motocross cycle - there are even more styles to play:\nRacing on famous race track\nMotocross/Supercross in really muddy arenas\nTrial - drive your special motocycle on a obstacle-littered parcours without touching the floor or driving off the track\nin Freestyle, you can perform insane stunts in an arena full of ramps\nin Traffic mode, you drive in the streets of Paris - with traffic\nEverything is shown in rich 3D graphics with high detail. There are more than 40 motocycles, you can choose from 15 tracks. Multiplayer exists for up to 8 players at once.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/21433-moto-racer-3-windows-screenshot-paris-city-of-love-and-flat.jpg",
+    "https://www.mobygames.com/images/shots/s/21408-moto-racer-3-windows-screenshot-intro.jpg",
+    "https://www.mobygames.com/images/shots/s/21423-moto-racer-3-windows-screenshot-ooooooohhhh-soooo-many-people.jpg",
+    "https://www.mobygames.com/images/shots/s/21409-moto-racer-3-windows-screenshot-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/moto-racer-3",
+  "altTitles": [
+    "\"摩托英豪3\" -- Chinese spelling (simplified)"
+  ]
+}

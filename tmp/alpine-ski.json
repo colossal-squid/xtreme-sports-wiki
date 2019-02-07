@@ -1,0 +1,78 @@
+{
+  "name": "Alpine Ski",
+  "icon": "https://www.mobygames.com/images/shots/s/907669-alpine-ski-arcade-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/taito-corporation",
+        "text": "Taito Corporation"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/taito-corporation",
+        "text": "Taito Corporation"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/arcade/alpine-ski/release-info",
+        "text": "1982"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/arcade/",
+        "text": "Arcade"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nAlpine Ski is an arcade skiing game that features three levels of different alpine events.\n\nThe first level is a downhill course in which the player must maneuver his skier around snowmobiles, trees, rocks, ice patches and other skiers while picking up bonus points along the way. The goal is to finish the course in the shortest amount of time possible.\n\nThe second level ratchets up the difficulty with a slalom course, which tests both the player's precision and speed. In addition to maneuvering around the same obstacles from the downhill course, the player must also navigate around a series of poles and through a number of flagged gates.\n\nThe final level represents an opportunity for bonus points on the ski jumping hill. Players must use the radar provided to maximize their jump distance, being careful not to land and crash into a tree.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/907675-alpine-ski-arcade-screenshot-game-over.jpg",
+    "https://www.mobygames.com/images/shots/s/907670-alpine-ski-arcade-screenshot-intro.jpg",
+    "https://www.mobygames.com/images/shots/s/907673-alpine-ski-arcade-screenshot-looking-for-points-to-collect.jpg",
+    "https://www.mobygames.com/images/shots/s/907672-alpine-ski-arcade-screenshot-crashed-into-another-skier.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/alpine-ski",
+  "altTitles": []
+}

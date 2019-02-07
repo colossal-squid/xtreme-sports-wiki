@@ -1,0 +1,57 @@
+{
+  "name": "Downhill Challenge",
+  "icon": "https://www.mobygames.com/images/shots/s/821069-downhill-challenge-amiga-screenshot-the-title-screen.jpg",
+  "attributes": [
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/deva-soft",
+        "text": "Deva Soft"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/downhill-challenge_/release-info",
+        "text": "1990"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/amiga/",
+        "text": "Amiga"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nDownhill Challenge is a single player, keyboard controlled game.\n\nThe player controls a skier who races downhill. The object is to race as far and as long as possible to achieve a high score. The game has no high score table and does not recall the player's score for when they play the next time\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/821071-downhill-challenge-amiga-screenshot-after-a-crash-the-player.jpg",
+    "https://www.mobygames.com/images/shots/s/821073-downhill-challenge-amiga-screenshot-the-game-s-instructions.jpg",
+    "https://www.mobygames.com/images/shots/s/821070-downhill-challenge-amiga-screenshot-the-start-of-a-game.jpg",
+    "https://www.mobygames.com/images/shots/s/821069-downhill-challenge-amiga-screenshot-the-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/downhill-challenge_",
+  "altTitles": []
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Pure",
+  "platforms": "PC (Microsoft Windows), PS3, Xbox 360",
+  "mechanics": "n/a",
+  "date": "September 2008",
+  "sports": "ATV",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/rbn9gkedlzawkvvkc8j3.jpg",
+  "altTitles": [],
+  "description": "\nPure puts the player behind the handlebars of an All Terrain Vehicle (ATV) - better known as a Quad Bike, but instead of just choosing one from a pre-existing ensemble, he has to build his Quad Bikes from scratch himself.\n\nFrom the suspension over the engine to the form and color of the handle bars, he has many options to choose from. By playing through the heart of the game, the World Tour single player campaign, he unlocks additional parts by winning the events and collecting the flag hidden on the track. Some parts are purely cosmetically and don't change the stats of the bike but others have a great impact and come in a freestyle or race version. Deciding on which to use greatly influences how the Quad Bike behaves in terms of speed or how easy the player can perform tricks on it. Since the player also unlocks additional room in his garage, he can build the perfect Quad Bike for every one of the available game modes (Race, Sprint, Freestyle). This is especially important once the race has started because of the way how boost is handled.\n\nEach trick the player makes gives him more or less boost, depending on how good it was and such factors. That boost can then be used to give your Quad Bike a temporary speed advantage. But at the same time the amount of boost the player has collected, defines which tricks can be performed. At the beginning of the race, only basic tricks are available to the driver and as he gains boost, he first unlocks advanced and then professional tricks. So the player hast to decide if he wants to be able to perform more difficult tricks, and gain more boost with one trick, or if he will sacrifice this ability for a short speed advantage.\n\nWhile the game modes race and sprint are just races where the one wins, who is on the first position at the end, in freestyle the place doesn't matter. Instead the player needs to perform tricks to gain points. Once a trick has been successfully pulled off, a timer starts and when the player performs another trick before it runs out, the multiplicator goes up. There are also power-ups scattered around the map which allow the player to perform a special trick, double his points or refuel him a little. Especially the last one is important since the race goes on until the player runs out of fuel. Once everyone is out of fuel, the one with the most points wins.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/327275-pure-windows-screenshot-very-nice-view.jpg",
+    "https://www.mobygames.com/images/shots/s/327274-pure-windows-screenshot-the-race-is-finished-and-i-won-of.jpg",
+    "https://www.mobygames.com/images/shots/s/327269-pure-windows-screenshot-choosing-a-character.jpg",
+    "https://www.mobygames.com/images/shots/s/327271-pure-windows-screenshot-loading-screen.jpg"
+  ],
+  "video": "",
+  "relatedGames": [],
+  "websites": [
+    " [https://en.wikipedia.org/wiki/Pure_(video_game)](https://en.wikipedia.org/wiki/Pure_(video_game))"
+  ],
+  "filePath": "src/markdown/games/pure-7137.md",
+  "handle": "pure-7137",
+  "name": "Pure",
+  "icon": "https://www.mobygames.com/images/covers/s/134648-pure-playstation-3-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Disney Interactive Studios, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Black Rock Studio"
+    },
+    {
+      "name": "Released",
+      "value": "2008"
+    },
+    {
+      "name": "Platforms",
+      "value": "PlayStation 3,Windows,Xbox 360"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Automobile,Off-roading"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/pure"
+}

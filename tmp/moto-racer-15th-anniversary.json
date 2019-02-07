@@ -1,0 +1,91 @@
+{
+  "name": "Moto Racer: 15th Anniversary",
+  "icon": "https://www.mobygames.com/images/covers/s/282925-moto-racer-15th-anniversary-ipad-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/anuman-interactive-sa",
+        "text": "Anuman Interactive SA"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/bigpoint-lyon",
+        "text": "Little Worlds Studio SARL"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/moto-racer-15th-anniversary/release-info",
+        "text": "Nov 18, 2011"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/android/moto-racer-15th-anniversary",
+        "text": "Android"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ipad/moto-racer-15th-anniversary",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/moto-racer-15th-anniversary",
+        "text": "iPhone"
+      },
+      {
+        "link": "https://www.mobygames.com/game/macintosh/moto-racer-15th-anniversary",
+        "text": "Macintosh"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ]
+  ],
+  "description": "\nMoto Racer: 15th Anniversary is a motorcycle racing title made in celebration of the fifteenth anniversary of the original game. It stays close to the concept of the original games, offering fast races on asphalt tracks as well as slower all-terrain races with more focus on technique and tricks. The main game modes are Moto GP (asphalt), Supercross (all-terrain), and Freestyle entirely based around performing tricks and stunts. Races can be done in a championship, a single race or a time attack, with three difficulty modes. The game supports up to eight AI opponents and also offers a first-person perspective, a first for the series. Each track has a different environment and there are different bikes with statistics based on acceleration, brakes, grip and speed.\n\nThe mobile version offers two types of control: either using the gyroscope to tilt the device with automatic acceleration, or a virtual pad to control the speed and direction while holding the device still. There is an optional button to reverse. In Moto GP races a turbo button is used to perform a wheelie, gaining more speed, but maker it harder to control the bike. In Supercross races this button gives a regular boost. In those races it is also possible to perform stunts while in the air by swiping up, down, left or right in a certain area on the screen. Optional driving assistance is offered through braking assistance, bend assistance and auto speed. In Supercross races the current position and speed is always shown. Moto GP races have additional information. The game shows how far the nearest opponent is ahead and displays a portion of the mini-map next to the bike with the player's and opponents' positions to better anticipate the corners.\n\nThe Windows PC version is not available separately, but only as a part of Moto Racer Collection. Both Android and iOS have a free version with advertisements in-app purchases. For Macintosh, as well as iOS, there is a commercial version with everything unlocked.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/691901-moto-racer-15th-anniversary-android-screenshot-bike-selection.jpg",
+    "https://www.mobygames.com/images/shots/s/691895-moto-racer-15th-anniversary-android-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/691903-moto-racer-15th-anniversary-android-screenshot-start-of-a.jpg",
+    "https://www.mobygames.com/images/shots/s/691908-moto-racer-15th-anniversary-android-screenshot-riding-with.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/moto-racer-15th-anniversary",
+  "altTitles": []
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Race Drivin'",
+  "icon": "https://www.mobygames.com/images/shots/s/22905-race-drivin-game-boy-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/midway-games-west-inc_",
+        "text": "Atari Games Corporation"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/midway-games-west-inc_",
+        "text": "Atari Games Corporation"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/race-drivin/release-info",
+        "text": "1990"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/race-drivin",
+        "text": "Amiga"
+      },
+      {
+        "link": "https://www.mobygames.com/game/arcade/race-drivin",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-st/race-drivin",
+        "text": "Atari ST"
+      },
+      {
+        "link": "https://www.mobygames.com/game/dos/race-drivin",
+        "text": "DOS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/gameboy/race-drivin",
+        "text": "Game Boy"
+      },
+      {
+        "link": "https://www.mobygames.com/game/genesis/race-drivin",
+        "text": "Genesis"
+      },
+      {
+        "link": "https://www.mobygames.com/game/snes/race-drivin",
+        "text": "SNES"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/vehicle-simulator/",
+        "text": "Vehicle Simulator"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nRace Drivin' is a sequel to the driving simulator Hard Drivin'. Game play is similar to the first game. The player must complete laps around the race track before a timer expires. There are several checkpoints around the track which increase player's time as he passes.\n\nRace Drivin' has three courses, one of which is the track from Hard Drivin'. There is a new super-stunt track, and an autocross course. The player also may choose from three types of cars.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/77421-race-drivin-amiga-screenshot-normal-track-overview.jpg",
+    "https://www.mobygames.com/images/shots/s/109875-race-drivin-genesis-screenshot-yeah-whatever-you-say.jpg",
+    "https://www.mobygames.com/images/shots/s/109888-race-drivin-genesis-screenshot-those-cars-disturb.jpg",
+    "https://www.mobygames.com/images/shots/s/77425-race-drivin-amiga-screenshot-select-type-of-the-car.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/race-drivin",
+  "altTitles": []
+}

@@ -1,0 +1,129 @@
+{
+  "name": "Goat Simulator",
+  "icon": "https://www.mobygames.com/images/covers/s/308998-goat-simulator-playstation-3-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/coffee-stain-studios-ab",
+        "text": "Coffee Stain Studios AB"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/coffee-stain-studios-ab",
+        "text": "Coffee Stain Studios AB"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/goat-simulator/release-info",
+        "text": "Apr 01, 2014"
+      }
+    ],
+    "Official Site",
+    [
+      {
+        "link": "http://www.goat-simulator.com/",
+        "text": "Goat Simulator"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/android/goat-simulator",
+        "text": "Android"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ipad/goat-simulator",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/goat-simulator",
+        "text": "iPhone"
+      },
+      {
+        "link": "https://www.mobygames.com/game/linux/goat-simulator",
+        "text": "Linux"
+      },
+      {
+        "link": "https://www.mobygames.com/game/macintosh/goat-simulator",
+        "text": "Macintosh"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps3/goat-simulator",
+        "text": "PlayStation 3"
+      },
+      {
+        "link": "https://www.mobygames.com/game/playstation-4/goat-simulator",
+        "text": "PlayStation 4"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/goat-simulator",
+        "text": "Windows"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox360/goat-simulator",
+        "text": "Xbox 360"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox-one/goat-simulator",
+        "text": "Xbox One"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sandbox/",
+        "text": "Sandbox / Open World"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Setting",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/contemporary/",
+        "text": "Contemporary"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fantasy/",
+        "text": "Fantasy"
+      }
+    ],
+    "Narrative",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/comedy/",
+        "text": "Comedy"
+      }
+    ]
+  ],
+  "description": "\nGoat Simulator is a parody game where you play as a goat. The gameplay is similar to sandbox games with no clear mission. The objective is to roam around the map and destroy various objects to earn points. The more \"stylish\" your destruction, the more bonus points you get. You can also lick objects in the game so that they get stuck to the goat's tongue and kill humans with those objects. The game's developers also left most of the bugs unfixed as long as they make the game more fun.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/701861-goat-simulator-windows-screenshot-crashing-a-party.jpg",
+    "https://www.mobygames.com/images/shots/s/701860-goat-simulator-windows-screenshot-collect-these-statues.jpg",
+    "https://www.mobygames.com/images/shots/s/701855-goat-simulator-windows-screenshot-jump-on-trampolines-to-get.jpg",
+    "https://www.mobygames.com/images/shots/s/701853-goat-simulator-windows-screenshot-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/goat-simulator",
+  "altTitles": []
+}

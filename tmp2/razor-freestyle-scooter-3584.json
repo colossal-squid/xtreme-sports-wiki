@@ -1,0 +1,60 @@
+{
+  "title": "Razor Freestyle Scooter",
+  "platforms": "Nintendo 64, Game Boy Color, PSOne, GBA, Sega Dreamcast",
+  "mechanics": "n/a",
+  "date": "December 2000",
+  "sports": "Scooter",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/g8kcrkjmitljmhaf9vsm.jpg",
+  "altTitles": [
+    "\"Freestyle Scooter\" -- European title"
+  ],
+  "description": "\nRazor Freestyle Scooter is an extreme-sports style action game modeled around small, nimble scooters. In contrast to most games of this type, there is a story. A crazed giant robot has kidnapped your skating buddies. By completing skating challenges at the robot's sky fortress, you must rescue your friends.\n\nYou skate around 3 large areas and attempt to perform wild tricks, collect scooter wheels, and earn bonus time. By completing an objective on all 3 areas, you unlock a sky fortress level in which you can rescue a new skater to control.\n\nGameplay is based heavily on the Tony Hawk series of games. Tricks consist of button and direction presses, and can be strung together with grinds to create high-scoring combos.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/26168-razor-freestyle-scooter-dreamcast-screenshot-hand-plant.jpg",
+    "https://www.mobygames.com/images/shots/s/695332-razor-freestyle-scooter-playstation-screenshot-the-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/695337-razor-freestyle-scooter-playstation-screenshot-playing-the.jpg",
+    "https://www.mobygames.com/images/shots/s/695339-razor-freestyle-scooter-playstation-screenshot-the-end-of.jpg"
+  ],
+  "video": "",
+  "relatedGames": [],
+  "websites": [],
+  "filePath": "src/markdown/games/razor-freestyle-scooter-3584.md",
+  "handle": "razor-freestyle-scooter-3584",
+  "name": "Razor Freestyle Scooter",
+  "icon": "https://www.mobygames.com/images/covers/s/12449-razor-freestyle-scooter-dreamcast-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Crave Entertainment, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Shaba Games LLC"
+    },
+    {
+      "name": "Released",
+      "value": "Dec 12, 2000"
+    },
+    {
+      "name": "Platforms",
+      "value": "Dreamcast,Nintendo 64,PlayStation"
+    },
+    {
+      "name": "Genre",
+      "value": "Action"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/razor-freestyle-scooter"
+}

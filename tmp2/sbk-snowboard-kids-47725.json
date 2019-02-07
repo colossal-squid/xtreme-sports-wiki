@@ -1,0 +1,63 @@
+{
+  "title": "SBK&#x3a; Snowboard Kids",
+  "platforms": "Nintendo DS",
+  "mechanics": "n/a",
+  "date": "December 2005",
+  "sports": "Snowboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/iqlqwsfog1xg6rzwqgts.jpg",
+  "altTitles": [],
+  "description": "\nSBK: Snowboards Kids is a handheld remake of the console versions, where players can select any of eight different characters, racing down ski slopes, collecting power-ups along the way and attacking their opponents by completing tricks, building up their SBK meter, once full unleashing their unique attack on their opponents.\n\nPlayers can also earn points by obtaining power-ups, being the fastest each lap, winning races and performing tricks. Players can use these points to buy and unlock more snowboards and racing gear to add to their collection. Four friends can also battle each other in multiplayer mode using single-card downloading.\n",
+  "screenshots": [],
+  "video": "",
+  "relatedGames": [
+    "[Steep](/games/steep-19554/)",
+    "[Snowboard Kids Plus](/games/snowboard-kids-plus-72103/)",
+    "[Snowboard Kids 2](/games/snowboard-kids-2-3343/)",
+    "[Snowboard Racer 2](/games/snowboard-racer-2-70560/)",
+    "[Dark Summit](/games/dark-summit-3869/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/sbk-snowboard-kids-47725.md",
+  "handle": "sbk-snowboard-kids-47725",
+  "name": "SBK: Snowboard Kids",
+  "icon": "https://www.mobygames.com/images/covers/s/128177-sbk-snowboard-kids-nintendo-ds-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Atlus U.S.A., Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "INGLOVE Co., Ltd."
+    },
+    {
+      "name": "Released",
+      "value": "Nov 22, 2006"
+    },
+    {
+      "name": "Platform",
+      "value": "Nintendo DS"
+    },
+    {
+      "name": "ESRB Rating",
+      "value": "Everyone"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Arcade"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/sbk-snowboard-kids"
+}

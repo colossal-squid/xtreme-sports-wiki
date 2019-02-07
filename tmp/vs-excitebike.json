@@ -1,0 +1,94 @@
+{
+  "name": "Vs. Excitebike",
+  "icon": "https://www.mobygames.com/images/covers/s/311748-vs-excitebike-wii-u-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nintendo-co-ltd",
+        "text": "Nintendo Co., Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nintendo-rd1",
+        "text": "Nintendo R&D1"
+      },
+      {
+        "link": "https://www.mobygames.com/company/pax-softnica",
+        "text": "Pax Softnica"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/vs-excitebike/release-info",
+        "text": "Dec 09, 1988"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/nes/vs-excitebike",
+        "text": "NES"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii-u/vs-excitebike",
+        "text": "Wii U"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ]
+  ],
+  "description": "\nVS. Excitebike, not to be confused with the Nintendo VS UniSystem arcade game of the same name, is an enhanced Famicom Disk System version of the Nintendo Entertainment System game Excitebike. The main difference is the addition of a new mode called Vs. Excite. In Vs. Excite, two players race against each other. There is another mode called Original Excite, which is based on the main mode of the arcade version of the game, with some color palette differences. Thanks to the rewritable disk format, players can also save their tracks internally, without the need of the Famicom Data Recorder. Finally, all the music has been replaced.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/858061-vs-excitebike-nes-screenshot-at-the-starting-line.jpg",
+    "https://www.mobygames.com/images/shots/s/858064-vs-excitebike-nes-screenshot-racing-against-other-players.jpg",
+    "https://www.mobygames.com/images/shots/s/858060-vs-excitebike-nes-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/858067-vs-excitebike-nes-screenshot-vs-edit-mode-selection-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/vs-excitebike",
+  "altTitles": []
+}

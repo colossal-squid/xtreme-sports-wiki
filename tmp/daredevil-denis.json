@@ -1,0 +1,81 @@
+{
+  "name": "Daredevil Denis",
+  "icon": "https://www.mobygames.com/images/shots/s/494971-daredevil-denis-bbc-micro-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/visions-software-factory-ltd",
+        "text": "Visions (Software Factory) Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/daredevil-denis/release-info",
+        "text": "1984"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/bbc-micro_/daredevil-denis",
+        "text": "BBC Micro"
+      },
+      {
+        "link": "https://www.mobygames.com/game/electron/daredevil-denis",
+        "text": "Electron"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fixed-flip-screen/",
+        "text": "Fixed / Flip-screen"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/platform/",
+        "text": "Platform"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ]
+  ],
+  "description": "\nDenis makes his debut as a stuntman. He has to impress the director and earn wages by performing stunts. Each screen consists of four platforms that cover the entire screen horizontally. Depending on the scene, Denis uses a motorbike, jet-ski or ski-doo to cross the area from left to right. Leaving the screen on the right, he reappears on the left of the platform below, maintaining his speed. A scene is completed if he manages to leave the screen on the lowest platform.\n\nDenis is controlled through three keys. He can accelerate, slow down and jump. The scenes are filled with hazards such as houses, trees, snowmen, spiders, ambulances, helicopters, boats, whales and policemen. Some of these are static, but others move around or up and down. Sometimes there are gaps that can be used to descend to a lower platform immediately, using a balloon. When Denis touches a hazard he is flung off the vehicle and has to restart. The director provides three takes. When they are used up, Denis is fired.\n\nFrom the main menu six difficulty levels are available. They offer variation in the amount of hazards. The vehicles cannot be chosen, they are provided at the start of each scene.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/494976-daredevil-denis-bbc-micro-screenshot-moving-on-to-the-second.jpg",
+    "https://www.mobygames.com/images/shots/s/494977-daredevil-denis-bbc-micro-screenshot-the-second-scene-with.jpg",
+    "https://www.mobygames.com/images/shots/s/494974-daredevil-denis-bbc-micro-screenshot-jumping-over-a-house.jpg",
+    "https://www.mobygames.com/images/shots/s/494975-daredevil-denis-bbc-micro-screenshot-i-made-it-to-the-third.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/daredevil-denis",
+  "altTitles": [
+    "\"Dare Devil Denis\" -- Title Screen title"
+  ]
+}

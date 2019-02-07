@@ -1,0 +1,58 @@
+{
+  "title": "FlatOut&#x3a; Head On",
+  "platforms": "PSP",
+  "mechanics": "n/a",
+  "date": "Mar 11, 2008",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/124253-flatout-head-on-psp-front-cover.jpg",
+  "altTitles": [],
+  "description": "\nFlatOut: Head On is a continuation of the FlatOut universe featuring the same set of drivers from FlatOut and FlatOut 2 along with the same game modes.\n\nThere is the tradition championship mode where players race in a series of events in a tournament style, completing races to earn points, at the end of the tournament points are tallied and if they player can finish in either first, second or third place overall, they can unlock the next event. There are also minigames as well such as hurling the driver in a game of basketball, bowling and baseball to name a few.\n\nThere are also a Party Mode where eight-players sharing a PSP can compete in a series of stunts to earn points to out do each other. There is also online capabilities utilizing Ad-hoc in a 4-way single race.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/376986-flatout-head-on-psp-screenshot-final-results-of-the-cup.jpg",
+    "https://www.mobygames.com/images/shots/s/376983-flatout-head-on-psp-screenshot-loading-menu-with-useful-information.jpg",
+    "https://www.mobygames.com/images/shots/s/376992-flatout-head-on-psp-screenshot-stunt-cars-are-really-fast.jpg",
+    "https://www.mobygames.com/images/shots/s/376977-flatout-head-on-psp-screenshot-nice-effects-when-using-the.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/flatout-head-on](https://www.mobygames.com/game/flatout-head-on)"
+  ],
+  "filePath": "src/markdown/games/flatout-head-on.md",
+  "handle": "flatout-head-on",
+  "name": "FlatOut: Head On",
+  "icon": "https://www.mobygames.com/images/covers/s/124253-flatout-head-on-psp-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Empire Interactive Entertainment"
+    },
+    {
+      "name": "Developed by",
+      "value": "Six by Nine Ltd"
+    },
+    {
+      "name": "Released",
+      "value": "Mar 11, 2008"
+    },
+    {
+      "name": "Platform",
+      "value": "PSP"
+    },
+    {
+      "name": "ESRB Rating",
+      "value": "Teen"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Racing / Driving"
+    },
+    {
+      "name": "Perspective",
+      "value": "1st-person,Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/flatout-head-on"
+}

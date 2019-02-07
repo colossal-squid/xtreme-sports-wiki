@@ -1,0 +1,60 @@
+{
+  "title": "Mike Stewart's Pro Bodyboarding",
+  "platforms": "Windows",
+  "mechanics": "n/a",
+  "date": "1999",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/165969-mike-stewart-s-pro-bodyboarding-windows-front-cover.jpg",
+  "altTitles": [
+    "\"Pro Bodyboarding\" -- German title",
+    "\"Mike Stewart's 360° Beach Bodyboarding\" -- Brazilian title"
+  ],
+  "description": "\nMike Stewart's Pro Bodyboarding is a sports game based on bodyboarding, a derivative of wave riding where players lie down on the board to perform tricks. The game is named after Mike Stewart, one of the pioneers of the sport and winner of nine world championship titles. Players can choose from different characters, including Stewart, to ride the waves.\n\nWhen starting a game, the player needs to ride the board inside a wave, rendered in 3D. The boarder can be moved around and perform tricks such as forward spins, reverse spins, air rolls, backflips, double barrel rolls, and more, for points. There are twelve types of tricks in total. The boarders also need to avoid rocks, buoys and swimmers in some modes. After a certain time limit, the session ends. When dropping off the board, the character will climb back on, losing a few seconds, and continue. In the Arcade mode however, the game stops when the board is damaged too heavily.\n\nThe six game modes are Contest, Arcade, Slalom, Practice, Training, and there is a hot-seat multiplayer mode for two players. The rides take place on locations all over the world, each with different types of waves, and the characters have different characteristics.\n",
+  "screenshots": [],
+  "websites": [
+    " [https://www.mobygames.com/game/mike-stewarts-pro-bodyboarding](https://www.mobygames.com/game/mike-stewarts-pro-bodyboarding)"
+  ],
+  "filePath": "src/markdown/games/mike-stewarts-pro-bodyboarding.md",
+  "handle": "mike-stewarts-pro-bodyboarding",
+  "name": "Mike Stewart's Pro Bodyboarding",
+  "icon": "https://www.mobygames.com/images/covers/s/165969-mike-stewart-s-pro-bodyboarding-windows-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Pacific Interactive Entertainment"
+    },
+    {
+      "name": "Developed by",
+      "value": "Gee Whiz! Entertainment"
+    },
+    {
+      "name": "Released",
+      "value": "1999"
+    },
+    {
+      "name": "Platform",
+      "value": "Windows"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "3rd-person (Other)"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Surfing"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/mike-stewarts-pro-bodyboarding"
+}

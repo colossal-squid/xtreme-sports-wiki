@@ -1,0 +1,49 @@
+{
+  "title": "Inline Race",
+  "platforms": "Windows",
+  "mechanics": "n/a",
+  "date": "1998",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/26172-inline-race-windows-front-cover.jpg",
+  "altTitles": [],
+  "description": "\nInline race brings inline skating to your pc. Pick one out of the eight skaters, each with their unique style and discover five locations: the city, the metro, a factory, the parking lot and a race course. You can perform stunts, such as Grap, Royal Shifty, Soul Grind and other on your own, or you can race friends in the multiplayer mode. Each track has a fitting music score as well.\n",
+  "screenshots": [],
+  "websites": [
+    " [https://www.mobygames.com/game/inline-race](https://www.mobygames.com/game/inline-race)"
+  ],
+  "filePath": "src/markdown/games/inline-race.md",
+  "handle": "inline-race",
+  "name": "Inline Race",
+  "icon": "https://www.mobygames.com/images/covers/s/26172-inline-race-windows-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "ARI Data CD GmbH"
+    },
+    {
+      "name": "Developed by",
+      "value": "Independent Arts Software GmbH"
+    },
+    {
+      "name": "Released",
+      "value": "1998"
+    },
+    {
+      "name": "Platform",
+      "value": "Windows"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/inline-race"
+}

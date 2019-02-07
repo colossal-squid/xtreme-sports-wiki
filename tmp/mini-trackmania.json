@@ -1,0 +1,89 @@
+{
+  "name": "Mini TrackMania",
+  "icon": "https://www.mobygames.com/images/shots/s/909379-mini-trackmania-browser-screenshot-start-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/digital-jesters-ltd",
+        "text": "Digital Jesters Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/inbox-digital-ltd",
+        "text": "Inbox Digital Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/browser/mini-trackmania/release-info",
+        "text": "Apr 08, 2005"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/browser/",
+        "text": "Browser"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      }
+    ]
+  ],
+  "description": "\nMini TrackMania is a free flash game created to promote TrackMania Sunrise. The goal of the game is to score as many points as possible by successfully jumping your car off of the oncoming ramps. In order to land a jump successfully you need to keep the speed of your car in-between two set points indicated on your speedometer. You accelerate using the right arrow key and decelerate using the left arrow key.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/909379-mini-trackmania-browser-screenshot-start-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/909381-mini-trackmania-browser-screenshot-game-start.jpg",
+    "https://www.mobygames.com/images/shots/s/909383-mini-trackmania-browser-screenshot-in-the-drink.jpg",
+    "https://www.mobygames.com/images/shots/s/909382-mini-trackmania-browser-screenshot-successful-jump.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/mini-trackmania",
+  "altTitles": []
+}

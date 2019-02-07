@@ -1,0 +1,60 @@
+{
+  "title": "Alpine Racer",
+  "platforms": "n/a",
+  "mechanics": "n/a",
+  "date": "n/a",
+  "sports": "Ski",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/kl9frfu5xb4dgmnrffl8.jpg",
+  "altTitles": [
+    "\"ar\" -- Official abbreviation"
+  ],
+  "description": "\nAlpine Racer is a downhill racing game. The player's goal is to win the King of the Mountain Tournament. There are three mountains to run down avoiding obstacles (each one of a different difficulty) in two gameplay modes: Story or Time Attack.\n\nIn Story mode, the player chooses one of two available characters: Shogo (a snowboarder) or Rina (a skier), each one with their own stats. Skill points gained in the races can be used to upgrade the characters. Two secret characters are also available, unlockable after finishing the three courses with one of the characters.\n\nIn Time Attack mode the goal is to make the best time in a specific track. The player can see his own ghost from previous tries as he runs downhill.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/512220-alpine-racer-iphone-screenshot-nostalgic-ex.jpg",
+    "https://www.mobygames.com/images/shots/s/578021-alpine-racer-zeebo-screenshot-after-jumps-it-is-important.jpg",
+    "https://www.mobygames.com/images/shots/s/512218-alpine-racer-iphone-screenshot-course-select.jpg",
+    "https://www.mobygames.com/images/shots/s/512223-alpine-racer-iphone-screenshot-story-mode.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/fRx8ZofGLqs",
+  "relatedGames": [],
+  "websites": [],
+  "filePath": "src/markdown/games/alpine-racer-38526.md",
+  "handle": "alpine-racer-38526",
+  "name": "Alpine Racer",
+  "icon": "https://www.mobygames.com/images/covers/s/166521-alpine-racer-zeebo-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Namco Networks America Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Namco Bandai Games Inc."
+    },
+    {
+      "name": "Released",
+      "value": "2008"
+    },
+    {
+      "name": "Platforms",
+      "value": "BREW,iPhone,Zeebo"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Arcade"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/alpine-racer"
+}

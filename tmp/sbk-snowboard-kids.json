@@ -1,0 +1,78 @@
+{
+  "name": "SBK: Snowboard Kids",
+  "icon": "https://www.mobygames.com/images/covers/s/128177-sbk-snowboard-kids-nintendo-ds-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/atlus-usa-inc",
+        "text": "Atlus U.S.A., Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/inglove-co-ltd",
+        "text": "INGLOVE Co., Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/nintendo-ds/sbk-snowboard-kids/release-info",
+        "text": "Nov 22, 2006"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/nintendo-ds/",
+        "text": "Nintendo DS"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSBK: Snowboards Kids is a handheld remake of the console versions, where players can select any of eight different characters, racing down ski slopes, collecting power-ups along the way and attacking their opponents by completing tricks, building up their SBK meter, once full unleashing their unique attack on their opponents.\n\nPlayers can also earn points by obtaining power-ups, being the fastest each lap, winning races and performing tricks. Players can use these points to buy and unlock more snowboards and racing gear to add to their collection. Four friends can also battle each other in multiplayer mode using single-card downloading.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/sbk-snowboard-kids",
+  "altTitles": []
+}

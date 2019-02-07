@@ -1,0 +1,62 @@
+{
+  "title": "Ski Crazed",
+  "platforms": "Apple II",
+  "mechanics": "n/a",
+  "date": "1987",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/shots/s/622541-ski-crazed-apple-ii-screenshot-title-screen.jpg",
+  "altTitles": [],
+  "description": "\nIn Ski Crazed the player gets to compete in the Kilimanjaro Annual International Skiing Tournament. The game is viewed from the side and the player has to control his skier down the slope without crashing into various hazards. The player has to make his way past moguls, flags, jumps and patches of ice. The game is played with a joystick and to pass moguls and flags it has to be moved up or down depending on which kind or obstacle it is. There are two kinds of jumps, small and large ones. The small ones are of little problem but the large jumps have ice after them that has to be avoided or the player will crash. To avoid the ice, the player can do a stunt, a back scratcher or a daffy, which extends how long he is in the air. Once one slope is completed the player moves on to a harder one.\n\nThe game also features an editor where the player can create his own slopes.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/622548-ski-crazed-apple-ii-screenshot-coming-across-a-mogul.jpg",
+    "https://www.mobygames.com/images/shots/s/622543-ski-crazed-apple-ii-screenshot-some-instructions.jpg",
+    "https://www.mobygames.com/images/shots/s/622542-ski-crazed-apple-ii-screenshot-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/622556-ski-crazed-apple-ii-screenshot-making-a-daffy.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/ski-crazed](https://www.mobygames.com/game/ski-crazed)"
+  ],
+  "filePath": "src/markdown/games/ski-crazed.md",
+  "handle": "ski-crazed",
+  "name": "Ski Crazed",
+  "icon": "https://www.mobygames.com/images/shots/s/622541-ski-crazed-apple-ii-screenshot-title-screen.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Baudville"
+    },
+    {
+      "name": "Developed by",
+      "value": "JAM software"
+    },
+    {
+      "name": "Released",
+      "value": "1987"
+    },
+    {
+      "name": "Platform",
+      "value": "Apple II"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Side view"
+    },
+    {
+      "name": "Visual",
+      "value": "2D scrolling"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/ski-crazed"
+}

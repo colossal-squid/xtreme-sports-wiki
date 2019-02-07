@@ -1,0 +1,64 @@
+{
+  "title": "Town & Country Surf Designs&#x3a; Wood & Water Rage",
+  "platforms": "NES",
+  "mechanics": "n/a",
+  "date": "1987",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/48292-town-country-surf-designs-wood-water-rage-nes-front-cover.jpg",
+  "altTitles": [
+    "\"T&C Surf Designs\" -- Abbreviated Title"
+  ],
+  "description": "\nT&C Surf Designs features both skateboarding and surfing games. The skating section (called Street Skate Session) is a side scrolling action game where you need to navigate through an obstacle course within the given time limit. Ideally you want to earn as many points as possible by performing tricks, jumping over items, and collecting bonuses. If you crash too many times (or fall into a hole, run out of time, etc...) then the game will be over. In the surfing section (called Big Wave Encounter) you need to surf a giant wave all the way to the beach. As with skating, you can earn points by performing tricks and collecting bonuses; likewise the game ends if you crash too many times. You can choose to play either game individually, or alternate between the two (the Wood & Water Rage option). You can select several T&C Surf Designs characters to play as, including Thrilla Gorilla, Kool Kat, Joe Cool, and Tiki Man.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/118336-town-country-surf-designs-wood-water-rage-nes-screenshot-title.jpg",
+    "https://www.mobygames.com/images/shots/s/118346-town-country-surf-designs-wood-water-rage-nes-screenshot-wipeout.jpg",
+    "https://www.mobygames.com/images/shots/s/118338-town-country-surf-designs-wood-water-rage-nes-screenshot-skateboarding.jpg",
+    "https://www.mobygames.com/images/shots/s/118344-town-country-surf-designs-wood-water-rage-nes-screenshot-look.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/town-country-surf-designs-wood-water-rage](https://www.mobygames.com/game/town-country-surf-designs-wood-water-rage)"
+  ],
+  "filePath": "src/markdown/games/town-country-surf-designs-wood-water-rage.md",
+  "handle": "town-country-surf-designs-wood-water-rage",
+  "name": "Town & Country Surf Designs: Wood & Water Rage",
+  "icon": "https://www.mobygames.com/images/covers/s/48292-town-country-surf-designs-wood-water-rage-nes-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "LJN Toys, Ltd."
+    },
+    {
+      "name": "Developed by",
+      "value": "Sanritsu Denki Co., Ltd."
+    },
+    {
+      "name": "Released",
+      "value": "1987"
+    },
+    {
+      "name": "Platform",
+      "value": "NES"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Side view"
+    },
+    {
+      "name": "Visual",
+      "value": "2D scrolling"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Arcade,Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Skateboarding,Surfing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/town-country-surf-designs-wood-water-rage"
+}

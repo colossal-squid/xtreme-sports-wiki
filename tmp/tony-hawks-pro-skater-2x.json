@@ -1,0 +1,89 @@
+{
+  "name": "Tony Hawk's Pro Skater 2x",
+  "icon": "https://www.mobygames.com/images/covers/s/12211-tony-hawk-s-pro-skater-2x-xbox-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/activision-publishing-inc",
+        "text": "Activision Publishing, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/treyarch-corporation",
+        "text": "Treyarch Corporation"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/xbox/tony-hawks-pro-skater-2x/release-info",
+        "text": "Nov 12, 2001"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/xbox/",
+        "text": "Xbox"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,92/",
+        "text": "Teen"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\n2x includes both Tony Hawk 1 and 2, together with improvements to backgrounds and player models, new Treyarch levels exclusive to the X Box, and the ability to use all your favorite Tony Hawk 2 tricks in the original Tony Hawk. Plus between 4 and 8 players can play simultaneously in the many multiplayer options including Trick Attack, Graffiti, Tag, HORSE and Free Skate.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/887629-tony-hawk-s-pro-skater-2x-xbox-screenshot-park-editor-mode.jpg",
+    "https://www.mobygames.com/images/shots/s/887626-tony-hawk-s-pro-skater-2x-xbox-screenshot-ouch-wipeout.jpg",
+    "https://www.mobygames.com/images/shots/s/887620-tony-hawk-s-pro-skater-2x-xbox-screenshot-opening-cinematic.jpg",
+    "https://www.mobygames.com/images/shots/s/887621-tony-hawk-s-pro-skater-2x-xbox-screenshot-main-menu.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/tony-hawks-pro-skater-2x",
+  "altTitles": [
+    "\"托尼霍克职业滑板2x\" -- Chinese Title (Simplified)",
+    "\"THPS2x\" -- Informal title"
+  ]
+}

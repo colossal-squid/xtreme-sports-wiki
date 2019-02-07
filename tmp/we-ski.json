@@ -1,0 +1,77 @@
+{
+  "name": "We Ski",
+  "icon": "https://www.mobygames.com/images/covers/s/116256-we-ski-wii-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/bandai-namco-entertainment-america-inc",
+        "text": "Namco Bandai Games America Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/bandai-namco-entertainment-inc",
+        "text": "Namco Bandai Games Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/wii/we-ski/release-info",
+        "text": "May 13, 2008"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/wii/",
+        "text": "Wii"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nWe Ski utilizes the Wii Balance Board as well as the Wii Remote to ski in a series of events including downhill racing, slaloms, freestyle, photography among others as well as a skiing school. The gameplay mostly consists of tilting the Wii Remote up and down or left to right along with flicking it certain motions to pull of tricks or using the Balance Board to move and pull of tricks as well.\n\nPlayers can use their Mii's or create entirely new characters and unlock more accessories as they complete missions in an RPG-style play in freestyle, letting you complete certain achievements. Supports up to four players.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/we-ski",
+  "altTitles": [
+    "\"Family Ski\" -- European/Japanese title",
+    "\"ファミリースキー\" -- Japanese spelling"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Snow Day: The GapKids Quest",
+  "icon": "https://www.mobygames.com/images/covers/s/77345-snow-day-the-gapkids-quest-macintosh-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/brandgames",
+        "text": "BrandGames"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/brandgames",
+        "text": "BrandGames"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/snow-day-the-gapkids-quest/release-info",
+        "text": "2000"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/macintosh/snow-day-the-gapkids-quest",
+        "text": "Macintosh"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/snow-day-the-gapkids-quest",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/puzzle-elements/",
+        "text": "Puzzle elements"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nThis game chronicles the activities that children clad in GapKids(TM) engage in when school is called off early due to inclement weather. This Gap-branded game is comprised of 5 individual games. 3 of the games are available by default. The other 2 games are unlockable by codes. Apparently, the codes were obtainable from GapKids stores at different intervals during the time that the promotion was active.\n\nOne of the unlocked games is Snowed In, a Pac-Man clone where your GapKid must clear all the snow in a maze while dodging killer snowmen. The mazes have snowblower powerups that can take out the snowmen and also accelerate the plowing job. The next unlocked game is Snowman Match where you must match 8 snowmen within a time limit. The game show you a snowman dressed in Gap clothing which quickly melts away to be replaced for 4 more snowmen. Match the right snowman (and sometimes, there are some very similar snowmen). The final unlocked game is Snowboard Slalom, a downhill snowboarding race where you need to dodge logs, trees, rocks, and ice patches on the way down in an effort to make it to the bottom before the time cutoff.\n\nThe first locked game is Skate Race. It is a variation of the Nibbles concept. The last locked game is Snowball Frenzy where you need to take out all the kids in the neighborhood by striking with an unlimited supply of snowballs.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/203060-snow-day-the-gapkids-quest-windows-screenshot-snowball-frenzy.jpg",
+    "https://www.mobygames.com/images/shots/s/203049-snow-day-the-gapkids-quest-windows-screenshot-snowed-in-a.jpg",
+    "https://www.mobygames.com/images/shots/s/203043-snow-day-the-gapkids-quest-windows-screenshot-bored-gapkids.jpg",
+    "https://www.mobygames.com/images/shots/s/203063-snow-day-the-gapkids-quest-windows-screenshot-taking-out-an.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/snow-day-the-gapkids-quest",
+  "altTitles": []
+}

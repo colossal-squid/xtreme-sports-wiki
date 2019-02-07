@@ -1,0 +1,101 @@
+{
+  "name": "Steeplechase",
+  "icon": "https://www.mobygames.com/images/shots/s/194682-steeplechase-atari-2600-screenshot-starting-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/atari-inc_",
+        "text": "Atari, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/atari-inc_",
+        "text": "Atari, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/steeplechase/release-info",
+        "text": "Oct, 1975"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/arcade/steeplechase",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-2600/steeplechase",
+        "text": "Atari 2600"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/horse-derby/",
+        "text": "Horse / Derby"
+      }
+    ]
+  ],
+  "description": "\nThis is a hurdles horse race.\n\nThe horse's names, from bottom to top, are: Lucky Devil, Absent Mind, Just Missed and Little Dictator. You play as one of the jockeys and must reach the right side of the screen first. The horse runs and hurdles come at you from the right. To jump these hurdles, you turn the paddle to set the height of the jump, as indicated by the marker on the right. You press the button to jump. The better you jump, the faster your horse goes. After 3 minutes, if no one has gotten all the way to the right, the race ends and whoever was in the lead wins.\n\nThere are 6 game variations. In games 1, 2 and 3, the distance between the hurdles is uniform with the computer-controlled horse's racing ability being poor, good and excellent, respectively.\nIn games 4, 5 and 6, the the distance between the hurdles is random with the computer-controlled horse's racing ability being poor, good and excellent, respectively.\nThe difficulty switches are not used.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/194685-steeplechase-atari-2600-screenshot-i-missed-a-hurdle-and-my.jpg",
+    "https://www.mobygames.com/images/shots/s/194684-steeplechase-atari-2600-screenshot-i-m-in-the-lead.jpg",
+    "https://www.mobygames.com/images/shots/s/751668-steeplechase-arcade-screenshot-me-yellow-jumping-over-a-hurdle.jpg",
+    "https://www.mobygames.com/images/shots/s/194686-steeplechase-atari-2600-screenshot-after-3-00-the-race-ends.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/steeplechase",
+  "altTitles": []
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Super Skateboardin'",
+  "icon": "https://www.mobygames.com/images/shots/s/60187-super-skateboardin-atari-7800-screenshot-atari-logo.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/absolute-entertainment-inc",
+        "text": "Absolute Entertainment, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/imagineering-inc",
+        "text": "Imagineering Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/atari-7800/super-skateboardin/release-info",
+        "text": "1988"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/atari-7800/",
+        "text": "Atari 7800"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fixed-flip-screen/",
+        "text": "Fixed / Flip-screen"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/platform/",
+        "text": "Platform"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\nSuper Skateboardin' is a game where a young skateboarder is hired by his dad's company to do what he does best, Skateboard. Your job is to navigate the many rooms of the factory and turn off all the electrical equipment in 15 minutes, or else the electricity bill will skyrocket. Your wage is based on how fast you complete the task, and you need that money to enter the Skateboarding Championship. Super Skateboardin' is a straightforward game from the designer of Pitfall!, David Crane.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/60188-super-skateboardin-atari-7800-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/60187-super-skateboardin-atari-7800-screenshot-atari-logo.jpg",
+    "https://www.mobygames.com/images/shots/s/60189-super-skateboardin-atari-7800-screenshot-some-skateboardin.jpg",
+    "https://www.mobygames.com/images/shots/s/60191-super-skateboardin-atari-7800-screenshot-reached-the-end-of.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/super-skateboardin",
+  "altTitles": []
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Downhill Skiing",
+  "icon": "https://www.mobygames.com/images/covers/s/126243-downhill-skiing-browser-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/donut-games",
+        "text": "Donut Games"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/donut-games",
+        "text": "Donut Games"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/browser/downhill-skiing/release-info",
+        "text": "Nov 01, 2006"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/browser/",
+        "text": "Browser"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nIn this slalom skiing game you race down the slippery slopes of Donut Mountain. It's a short game that takes less than a minute to finish, but if you want to get a good time you have to practice over and over again to memorize the stage and learn how fast you can go without losing control and miss the gates or crash into a tree. The skier is controlled with the arrow keys while another key is used to gain speed. Gates can be missed but are punished with extra time. When an obstacle is touched, the game is over.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/332489-downhill-skiing-browser-screenshot-starting-at-the-top-of.jpg",
+    "https://www.mobygames.com/images/shots/s/332488-downhill-skiing-browser-screenshot-if-you-miss-a-port-you.jpg",
+    "https://www.mobygames.com/images/shots/s/332490-downhill-skiing-browser-screenshot-oops-i-crashed.jpg",
+    "https://www.mobygames.com/images/shots/s/332487-downhill-skiing-browser-screenshot-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/downhill-skiing",
+  "altTitles": []
+}

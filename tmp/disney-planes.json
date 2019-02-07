@@ -1,0 +1,105 @@
+{
+  "name": "Disney Planes",
+  "icon": "https://www.mobygames.com/images/covers/s/438461-disney-planes-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/disney-interactive",
+        "text": "Disney Interactive"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/behaviour-interactive-inc",
+        "text": "Behaviour Interactive, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/disney-planes/release-info",
+        "text": "Aug 06, 2013"
+      }
+    ],
+    "Official Site",
+    [
+      {
+        "link": "http://games.disney.com/planes-video-game",
+        "text": "Disney Planes"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/wii/disney-planes",
+        "text": "Wii"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii-u/disney-planes",
+        "text": "Wii U"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/disney-planes",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Pacing",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/real-time/",
+        "text": "Real-Time"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/vehicle-simulator/",
+        "text": "Vehicle Simulator"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/flight/",
+        "text": "Flight / Aviation"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "Buy at \n Buy at \nNot an American user?\nDescription",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/disney-planes",
+  "altTitles": [
+    "\"Самолёты\" -- Russian spelling"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "name": "Monster Jam: Battlegrounds",
+  "icon": "https://www.mobygames.com/images/covers/s/424302-monster-jam-battlegrounds-playstation-3-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/gamemill-entertainment-llc",
+        "text": "GameMill Entertainment LLC"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/team6-game-studios-bv",
+        "text": "Team6 Game Studios B.V."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/monster-jam-battlegrounds/release-info",
+        "text": "Jun 10, 2015"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ps3/monster-jam-battlegrounds",
+        "text": "PlayStation 3"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/monster-jam-battlegrounds",
+        "text": "Windows"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox360/monster-jam-battlegrounds",
+        "text": "Xbox 360"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/offroad/",
+        "text": "Off-roading"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "Buy at \n Buy at \nNot an American user?\nDescription",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/monster-jam-battlegrounds",
+  "altTitles": []
+}

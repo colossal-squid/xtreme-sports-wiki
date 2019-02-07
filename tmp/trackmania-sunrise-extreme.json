@@ -1,0 +1,88 @@
+{
+  "name": "TrackMania Sunrise eXtreme",
+  "icon": "https://www.mobygames.com/images/covers/s/102614-trackmania-sunrise-extreme-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/deep-silver",
+        "text": "Deep Silver"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nadeo-sas",
+        "text": "Nadeo SAS"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/trackmania-sunrise-extreme/release-info",
+        "text": "Apr 29, 2005"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/compilation-shovelware/",
+        "text": "Compilation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/puzzle-elements/",
+        "text": "Puzzle elements"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nTrackMania Sunrise eXtreme is a re-release of TrackMania Sunrise bundled with the eXtreme expansion, which owners of the original game can download for free. The updated version adds new building blocks and settings, much longer circuits, a stunt mode, new courses, 50 new challenges, support for dedicated servers and various refinements and enhancements.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/170131-trackmania-sunrise-extreme-windows-screenshot-the-campaign.jpg",
+    "https://www.mobygames.com/images/shots/s/170132-trackmania-sunrise-extreme-windows-screenshot-jump-with-ghost.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/trackmania-sunrise-extreme",
+  "altTitles": [
+    "\"赛道狂飙：日出 极限版\" -- Chinese spelling (simplified)",
+    "\"TMX\" -- Common abbreviation"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Xtreme Sports Arcade: Summer Edition",
+  "icon": "https://www.mobygames.com/images/covers/s/367398-xtreme-sports-arcade-summer-edition-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/wizardworks-group-inc",
+        "text": "WizardWorks Group, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/wayforward-technologies-inc",
+        "text": "WayForward Technologies, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/xtreme-sports-arcade-summer-edition/release-info",
+        "text": "1999"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\nIn this game you can play one of five \"xtreme\" sports: half-pipe skateboarding, sky boarding, in-line street skating, rock climbing, and street luge. Each sport has a different character to play as. There are ways to earn points, like doing tricks and passing through goals, as well as power-ups and obstacles, from oil slicks and traffic cones to snakes and scorpions. This game led to the more popular game Xtreme Sports for Game Boy Color.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/855402-xtreme-sports-arcade-summer-edition-windows-screenshot-in.jpg",
+    "https://www.mobygames.com/images/shots/s/855398-xtreme-sports-arcade-summer-edition-windows-screenshot-main.jpg",
+    "https://www.mobygames.com/images/shots/s/855403-xtreme-sports-arcade-summer-edition-windows-screenshot-rock.jpg",
+    "https://www.mobygames.com/images/shots/s/855400-xtreme-sports-arcade-summer-edition-windows-screenshot-skyboarding.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/xtreme-sports-arcade-summer-edition",
+  "altTitles": []
+}

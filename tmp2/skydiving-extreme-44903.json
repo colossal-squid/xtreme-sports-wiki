@@ -1,0 +1,57 @@
+{
+  "title": "Skydiving Extreme",
+  "platforms": "PSOne",
+  "mechanics": "n/a",
+  "date": "September 2001",
+  "sports": "",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/zytgxew6wjwsrws0wm23.jpg",
+  "altTitles": [
+    "\"Aero Dive\" -- Japanese title",
+    "\"エアロダイブ\" -- Japanese spelling"
+  ],
+  "description": "\nIn Skydiving Extreme you try to maneuver your team of skydivers into different formations in an odd mix of skydiving simulation and rhythm gameplay. You can practice your moves or compete against another player or computer.\n\nWhen beginning a game, your chosen team of four skydivers will jump and then you have a limited time to complete more four-person formations than your opponent. Doing a correct formation will slow your descent, giving you more time to execute more tricks. To perform a formation correctly you must correctly enter the button sequence displayed on the screen within a short period of time. If you do this correctly your four skydivers will move into the formation. Formations are performed in sequence; if you miss one you must return to the beginning of the sequence and start over. You try to do as many tricks as possible before your team falls too low and they must pull their parachutes.\n\nYou can also \"attack\" your opponent - by performing tricks successfully you fill up your attack meter. When it is full you can execute an attack and force the other team to defend itself by performing a defensive formation. If the other team fails in its defense, it will fall at a higher rate of speed.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/760181-skydiving-extreme-playstation-screenshot-versus-aero-dancer.jpg",
+    "https://www.mobygames.com/images/shots/s/760150-skydiving-extreme-playstation-screenshot-stage-5-last-one.jpg",
+    "https://www.mobygames.com/images/shots/s/760148-skydiving-extreme-playstation-screenshot-england-stage-formation.jpg",
+    "https://www.mobygames.com/images/shots/s/760185-skydiving-extreme-playstation-screenshot-nevermind-anchor.jpg"
+  ],
+  "video": "",
+  "relatedGames": [],
+  "websites": [],
+  "filePath": "src/markdown/games/skydiving-extreme-44903.md",
+  "handle": "skydiving-extreme-44903",
+  "name": "Skydiving Extreme",
+  "icon": "https://www.mobygames.com/images/covers/s/205434-skydiving-extreme-playstation-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Natsume, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Metro Corporation"
+    },
+    {
+      "name": "Released",
+      "value": "2001"
+    },
+    {
+      "name": "Platforms",
+      "value": "PlayStation,PlayStation 3,PSP,PS Vita"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "3rd-person (Other)"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/skydiving-extreme"
+}

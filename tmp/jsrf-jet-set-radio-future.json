@@ -1,0 +1,87 @@
+{
+  "name": "JSRF: Jet Set Radio Future",
+  "icon": "https://www.mobygames.com/images/covers/s/15136-jsrf-jet-set-radio-future-xbox-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/sega-of-america-inc",
+        "text": "SEGA of America, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/sega-sports-japan",
+        "text": "Smilebit"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/xbox/jsrf-jet-set-radio-future/release-info",
+        "text": "Feb 26, 2002"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/xbox/",
+        "text": "Xbox"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,92/",
+        "text": "Teen"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Art",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/anime-manga/",
+        "text": "Anime / Manga"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Setting",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/cyberpunk-dark-sci-fi/",
+        "text": "Cyberpunk / Dark Sci-Fi"
+      }
+    ]
+  ],
+  "description": "\nA follow up to the Dreamcast title Jet Grind Radio. The setting is Tokyo in the year 2024. Freedom is a valuable commodity and freedom of expression even more so. Gangs of misbehaving teens strap on rocket-powered roller blades and skate, grind, and mark their territory with graffiti tags.\n\nPlayers take the role of the GGs, and can choose between any member of the gang, each with different stats, while in gang HQ. The city of Tokyo can be leisurely explored without a time limit, but the heat will be turned up when story missions are activated and the GGs find themselves being challenged by rival gangs or under attack from the cops. This time around spraying no longer requires thumbstick inputs; just roll up and start spraying away, although large tags still require more cans than smaller tags. Each section of the city has hidden objectives that are revealed by finding a hidden tape, and once completed these challenges will unlock new graffiti patterns.\n\nIn multiplayer modes players can challenge each other to races, point battles, and other competitions both in zones from the single player game as well as in special arenas.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/41565-jsrf-jet-set-radio-future-xbox-screenshot-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/41566-jsrf-jet-set-radio-future-xbox-screenshot-most-of-the-times.jpg",
+    "https://www.mobygames.com/images/shots/s/41568-jsrf-jet-set-radio-future-xbox-screenshot-doing-stunts-like.jpg",
+    "https://www.mobygames.com/images/shots/s/41572-jsrf-jet-set-radio-future-xbox-screenshot-making-some-twists.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/Rf6naKIIuf0",
+  "url": "https://www.mobygames.com/game/jsrf-jet-set-radio-future",
+  "altTitles": []
+}

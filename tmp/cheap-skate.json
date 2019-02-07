@@ -1,0 +1,70 @@
+{
+  "name": "Cheap Skate",
+  "icon": "https://www.mobygames.com/images/shots/s/698712-cheap-skate-commodore-64-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/silverbird-software-ltd",
+        "text": "Silverbird Software Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/hardware-software",
+        "text": "Hardware Software"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/c64/cheap-skate/release-info",
+        "text": "1989"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/c64/",
+        "text": "Commodore 64"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/isometric/",
+        "text": "Isometric"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\nYour the new kid in town but you have been making friends with your skateboarding skills which has impressed the local skateboarding gang. The leader of the Street Hawks has offered you membership by giving you various tests to prove your worth. The game is viewed from a isometric perspective with the screen scrolling constantly as you ride your board along the streets. You must avoid all obstacles that appear in your path and these include manholes, signs, boxes, fireballs and other skaters with poles having to be ducked under. Each test is being timed and you must reach the finish line before the clock reaches zero. If you touch any obstacle or run out of time then you lose one of three lives. You are also able to control your speed shown by a speed meter.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/698712-cheap-skate-commodore-64-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/698714-cheap-skate-commodore-64-screenshot-avoid-the-sign.jpg",
+    "https://www.mobygames.com/images/shots/s/698715-cheap-skate-commodore-64-screenshot-fireballs-need-avoiding.jpg",
+    "https://www.mobygames.com/images/shots/s/698713-cheap-skate-commodore-64-screenshot-duck.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/cheap-skate",
+  "altTitles": [
+    "\"Cheapskate\" -- In-game title"
+  ]
+}

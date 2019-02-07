@@ -1,0 +1,70 @@
+{
+  "name": "Team DK BMX",
+  "icon": "https://www.mobygames.com/images/covers/s/161054-team-dk-bmx-windows-front-cover.jpg",
+  "attributes": [
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/gaucho-games",
+        "text": "Gaucho Games"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/team-dk-bmx/release-info",
+        "text": "2003"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/bike-cycling/",
+        "text": "Bike / Bicycling"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nTeam DK BMX is a freestyle BMX game similar to Mat Hoffman's Pro BMX. Players participate in different competitions of BMX circuits and can choose from different bikes based on the license of manufacturer DK. Players need to score points by performing tricks, based on jumps, grinds and a wide range of possible moves. The game features both indoor and outdoor locations and they are unlocked gradually by performing well in the competition mode.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/team-dk-bmx",
+  "altTitles": []
+}

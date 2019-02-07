@@ -1,0 +1,58 @@
+{
+  "title": "BMX Air Master",
+  "platforms": "Atari 2600",
+  "mechanics": "n/a",
+  "date": "1989",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/260907-bmx-air-master-atari-2600-front-cover.jpg",
+  "altTitles": [],
+  "description": "\nIn this game, you ride your BMX doing various tricks.\n\nThe tricks are done in events of half-pipe, quarter pipe and ramps. Some of the tricks you can do are loops, rotate, flip, and bounce. In practice mode, you can select which event to do. In arcade mode, you do the events in a set order.\n\nIn advanced mode and later levels, you have to hit the ramp/pipe at more precise angles coming down and gravity and pedaling get harder.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/168109-bmx-air-master-atari-2600-screenshot-coming-up-to-the-ramp.jpg",
+    "https://www.mobygames.com/images/shots/s/168110-bmx-air-master-atari-2600-screenshot-i-finished-the-ramp.jpg",
+    "https://www.mobygames.com/images/shots/s/168108-bmx-air-master-atari-2600-screenshot-i-crashed-on-the-half.jpg",
+    "https://www.mobygames.com/images/shots/s/168276-bmx-air-master-atari-2600-screenshot-title-screen-main-menu.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/bmx-air-master](https://www.mobygames.com/game/bmx-air-master)"
+  ],
+  "filePath": "src/markdown/games/bmx-air-master.md",
+  "handle": "bmx-air-master",
+  "name": "BMX Air Master",
+  "icon": "https://www.mobygames.com/images/covers/s/260907-bmx-air-master-atari-2600-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "TNT Games"
+    },
+    {
+      "name": "Developed by",
+      "value": "Sculptured Software, Inc."
+    },
+    {
+      "name": "Released",
+      "value": "1989"
+    },
+    {
+      "name": "Platform",
+      "value": "Atari 2600"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Side view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Bike / Bicycling"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/bmx-air-master"
+}

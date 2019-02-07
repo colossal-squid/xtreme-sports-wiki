@@ -1,0 +1,61 @@
+{
+  "name": "Winter Sports",
+  "icon": "https://www.mobygames.com/images/shots/s/149603-winter-sports-exen-screenshot-game-splashscreen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/in-fusio",
+        "text": "In-Fusio"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/in-fusio",
+        "text": "In-Fusio"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/exen/winter-sports_/release-info",
+        "text": "Feb 01, 2002"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/exen/",
+        "text": "ExEn"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/olympiad/",
+        "text": "Olympiad / Mixed Sports"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nThis game is a set of various winter sports games like Snowboarding, Ski jumping, Cross country skiing, Alpine Ski and Biathlon. Follow the instructions during each event by pressing correct buttons when progressing. For instance, for Cross-Country you will have to press 5 button when the speed gauge is reaching the maximum and regularly when the path is normal, press 2 when the path is going up and 8 when it is going down. For ski jumping, press 5 when the gauge is at the maximum before starting, then maintain the player in a correct position so he doesn't fall using 4 and 6. For snowboarding and alpine skiing, press 2 to speed up and use 4 and 6 to turn.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/149603-winter-sports-exen-screenshot-game-splashscreen.jpg",
+    "https://www.mobygames.com/images/shots/s/149593-winter-sports-exen-screenshot-select-your-game-mode-you-can.jpg",
+    "https://www.mobygames.com/images/shots/s/149596-winter-sports-exen-screenshot-now-maintain-the-player-in-a.jpg",
+    "https://www.mobygames.com/images/shots/s/149604-winter-sports-exen-screenshot-main-menu.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/winter-sports_",
+  "altTitles": []
+}

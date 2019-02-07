@@ -1,0 +1,62 @@
+{
+  "title": "Stunt Island",
+  "platforms": "DOS",
+  "mechanics": "n/a",
+  "date": "1992",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/26522-stunt-island-dos-front-cover.jpg",
+  "altTitles": [
+    "\"Stunt Island: The Stunt Flying and Filming Simulation\" -- Tag-lined title",
+    "\"Stunt Island: La Simulation D'Acrobatie Aerienne et de Creation de Films\" -- French tag-lined title",
+    "\"Stunt Island: Filmregie und Stuntflugsimulation\" -- German tag-lined title"
+  ],
+  "description": "\nStunt Island was marketed as \"The Stunt Flying and Filming Simulation\". With over 50 aircraft (including the space shuttle) and over 1000 props, you could either fly around the island, make your own films, or fly stunts for money.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/316514-stunt-island-dos-screenshot-your-ledgers-tips-and-messages.jpg",
+    "https://www.mobygames.com/images/shots/s/316526-stunt-island-dos-screenshot-flying-under-the-golden-gate-bridge.jpg",
+    "https://www.mobygames.com/images/shots/s/316527-stunt-island-dos-screenshot-i-hope-the-screeners-like-the.jpg",
+    "https://www.mobygames.com/images/shots/s/96283-stunt-island-dos-screenshot-stunt-island-s-planes-choice.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/stunt-island](https://www.mobygames.com/game/stunt-island)"
+  ],
+  "filePath": "src/markdown/games/stunt-island.md",
+  "handle": "stunt-island",
+  "name": "Stunt Island",
+  "icon": "https://www.mobygames.com/images/covers/s/26522-stunt-island-dos-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Walt Disney Computer Software, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Assembly Line, The"
+    },
+    {
+      "name": "Released",
+      "value": "1992"
+    },
+    {
+      "name": "Platforms",
+      "value": "DOS,Linux,Macintosh,Windows"
+    },
+    {
+      "name": "Genre",
+      "value": "Simulation"
+    },
+    {
+      "name": "Perspective",
+      "value": "1st-person,3rd-person (Other)"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts,Vehicle Simulator"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Flight / Aviation"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/stunt-island"
+}

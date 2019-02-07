@@ -1,0 +1,111 @@
+{
+  "name": "Krashlander: Ski, Jump, Crash!",
+  "icon": "https://www.mobygames.com/images/covers/s/467757-krashlander-ski-jump-crash-ipad-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/farseer-games-llc",
+        "text": "Farseer Games LLC"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/farseer-games-llc",
+        "text": "Farseer Games LLC"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/krashlander-ski-jump-crash/release-info",
+        "text": "Feb 06, 2013"
+      }
+    ],
+    "Official Site",
+    [
+      {
+        "link": "http://www.farseergames.com/krashlander",
+        "text": "Krashlander: Ski, Jump, Crash!"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/android/krashlander-ski-jump-crash",
+        "text": "Android"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ipad/krashlander-ski-jump-crash",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/krashlander-ski-jump-crash",
+        "text": "iPhone"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows-phone/krashlander-ski-jump-crash",
+        "text": "Windows Phone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Setting",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sci-fi-futuristic/",
+        "text": "Sci-Fi / Futuristic"
+      }
+    ]
+  ],
+  "description": "Buy at \nNot an American user?\nDescription",
+  "screenshots": [],
+  "video": "https://www.youtube.com/embed/BGiN5vLbMh8",
+  "url": "https://www.mobygames.com/game/krashlander-ski-jump-crash",
+  "altTitles": []
+}

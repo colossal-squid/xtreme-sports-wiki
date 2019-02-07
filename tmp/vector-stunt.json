@@ -1,0 +1,91 @@
+{
+  "name": "Vector Stunt",
+  "icon": "https://www.mobygames.com/images/covers/s/308185-vector-stunt-blackberry-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/littlegrey-media",
+        "text": "Dig Your Own Grave Games"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/littlegrey-media",
+        "text": "Dig Your Own Grave Games"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/vector-stunt/release-info",
+        "text": "2011"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/android/vector-stunt",
+        "text": "Android"
+      },
+      {
+        "link": "https://www.mobygames.com/game/blackberry/vector-stunt",
+        "text": "BlackBerry"
+      },
+      {
+        "link": "https://www.mobygames.com/game/browser/vector-stunt",
+        "text": "Browser"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/rhythm-music/",
+        "text": "Music / Rhythm"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      }
+    ]
+  ],
+  "description": "\nVector Stunt is a driving game in which the player controls a stunt car on a track, as music chosen from the player's computer is played. This music affects track length and generation, a concept similar to what is used in Audiosurf.\n\nBasic gameplay involves collecting objects called notes, which appear as boxes of varying colors. Bell notes are white and worth only 100 points on their own, but many can be collected in a row to chain their score grant, up to 500 points. Mid notes and treble notes are orange and yellow, respectively, and while they are worth more points they can only be reached by jumping and performing stunts. Ruby notes are worth 10,000 points each, but require jumping off the rare red jump pads.\n\nThe track is dotted with blue, white, and red jump pads, which will boost the player's car into midair when driven over. Pressing one or more direction keys at the exact moment of hitting a jump pad will cause the car to perform a stunt, which grants a score multiplier. White jump pads are unique, in that they switch the camera view to first-person mode, and grant an additional x2 multiplier as long as the car stays in the air and chains jumps. Once the player hits the ground, the view switches back to third person. It is also possible to trick off of the track rails when coming down from a jump, but this comes with significant risk, as it can result in the player falling off the track, or losing their multiplier if they bounce off the rails more than once.\n\nOnce a track is finished, the player receives a star ranking based on notes collected, number of jumps, number and variety of stunts, and whether or not they ever fell off the track.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/792045-vector-stunt-browser-screenshot-now-in-first-person-view.jpg",
+    "https://www.mobygames.com/images/shots/s/792043-vector-stunt-browser-screenshot-approaching-a-blue-jump-pad.jpg",
+    "https://www.mobygames.com/images/shots/s/792044-vector-stunt-browser-screenshot-check-out-this-sweet-flip.jpg",
+    "https://www.mobygames.com/images/shots/s/792046-vector-stunt-browser-screenshot-my-final-rating.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/vector-stunt",
+  "altTitles": []
+}

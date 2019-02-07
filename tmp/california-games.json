@@ -1,0 +1,161 @@
+{
+  "name": "California Games",
+  "icon": "https://www.mobygames.com/images/covers/s/70855-california-games-commodore-64-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/us-gold-ltd",
+        "text": "U.S. Gold Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/epyx-inc",
+        "text": "Epyx, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/california-games/release-info",
+        "text": "1987"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/california-games",
+        "text": "Amiga"
+      },
+      {
+        "link": "https://www.mobygames.com/game/cpc/california-games",
+        "text": "Amstrad CPC"
+      },
+      {
+        "link": "https://www.mobygames.com/game/apple2/california-games",
+        "text": "Apple II"
+      },
+      {
+        "link": "https://www.mobygames.com/game/apple2gs/california-games",
+        "text": "Apple IIgs"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-2600/california-games",
+        "text": "Atari 2600"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-st/california-games",
+        "text": "Atari ST"
+      },
+      {
+        "link": "https://www.mobygames.com/game/c64/california-games",
+        "text": "Commodore 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/dos/california-games",
+        "text": "DOS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/genesis/california-games",
+        "text": "Genesis"
+      },
+      {
+        "link": "https://www.mobygames.com/game/j2me/california-games",
+        "text": "J2ME"
+      },
+      {
+        "link": "https://www.mobygames.com/game/lynx/california-games",
+        "text": "Lynx"
+      },
+      {
+        "link": "https://www.mobygames.com/game/msx/california-games",
+        "text": "MSX"
+      },
+      {
+        "link": "https://www.mobygames.com/game/nes/california-games",
+        "text": "NES"
+      },
+      {
+        "link": "https://www.mobygames.com/game/sega-master-system/california-games",
+        "text": "SEGA Master System"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii/california-games",
+        "text": "Wii"
+      },
+      {
+        "link": "https://www.mobygames.com/game/zx-spectrum/california-games",
+        "text": "ZX Spectrum"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fixed-flip-screen/",
+        "text": "Fixed / Flip-screen"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/olympiad/",
+        "text": "Olympiad / Mixed Sports"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/surfing/",
+        "text": "Surfing"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/bike-cycling/",
+        "text": "Bike / Bicycling"
+      }
+    ]
+  ],
+  "description": "\nCalifornia Games was the original \"Extreme Games\" – what today's generation might call \"X-Games in the sun\". Players can select sponsors (absent in some versions) and compete in events such as skateboarding, footbag, surfing, roller skating, flying disc (frisbee) and BMX. The surfing event is ranked by judges, which give a score to help the players improve their routine.\n\nThe Atari versions (2600 and Lynx) of the game omit the flying disc and roller skating events, while the Genesis version omits only the flying disc event.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/45934-california-games-nes-screenshot-hollywood.jpg",
+    "https://www.mobygames.com/images/shots/s/41064-california-games-amiga-screenshot-setting-up-the-players.jpg",
+    "https://www.mobygames.com/images/shots/s/41073-california-games-commodore-64-screenshot-the-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/41069-california-games-amiga-screenshot-running-for-the-flying-disc.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/california-games",
+  "altTitles": [
+    "\"Rad Games\" -- Working title",
+    "\"Jogos de Verão\" -- Brazilian SEGA Master System title",
+    "\"Calgames\" -- Informal title"
+  ]
+}

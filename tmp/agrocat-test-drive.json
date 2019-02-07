@@ -1,0 +1,78 @@
+{
+  "name": "Agrocat Test Drive",
+  "icon": "https://www.mobygames.com/images/covers/s/463396-agrocat-test-drive-ipad-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/carngun-private-limited",
+        "text": "CarNGun Private Limited"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/carngun-private-limited",
+        "text": "CarNGun Private Limited"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/agrocat-test-drive/release-info",
+        "text": "Apr 15, 2016"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ipad/agrocat-test-drive",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/agrocat-test-drive",
+        "text": "iPhone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/birds-eye-view/",
+        "text": "Bird's-eye view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      }
+    ]
+  ],
+  "description": "Description",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/agrocat-test-drive",
+  "altTitles": []
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Biathlon Champion 2007",
+  "icon": "https://www.mobygames.com/images/covers/s/189226-biathlon-champion-2007-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/emme-deutschland-gmbh",
+        "text": "EMME Deutschland GmbH"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/sowhat-sro",
+        "text": "\"SoWhat!\" s.r.o."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/biathlon-champion-2007/release-info",
+        "text": "2006"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nBiathlon Champion 2007 is a simulation of the biathlon sport which features the four most important variants: sprint, pursuit, mass start and team. The player controls the direction and effort of his athlete with the keyboard. A higher effort results in a fast draining stamina - if it reaches a low state the athlete gets slow or even stops. A special button is used to set the effort to zero which can be used to regain stamina. To help the player his coach screams commands regarding the power usage. During the shooting part the player needs to shoot targets with a wobbling rifle. The game automatically aims at the correct target and the player just has to shoot at the right moment. The wobbling is determined by the character stats and stamina but the player can hold his breath for a short time to reach a steady aim.\n\nIn the career mode the player creates his own athlete and divides character points to eight statistics which influence different aspects of the game, e.g. stamina drainage or targeting. Prize money can be reinvested into training lessons which improve the stats. Besides the career the game also features single races, a much faster arcade mode, training for running and shooting, a time-attack mode and the option to import ghost runs from other players. Multiplayer modes range from slalom to shooting or fastest round where the players compare their results. The unlicensed names of the athletes can be changed with the editor.\n\nAs bonus this game also includes Curling 2006.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/635171-biathlon-champion-2007-windows-screenshot-on-the-shooting.jpg",
+    "https://www.mobygames.com/images/shots/s/635172-biathlon-champion-2007-windows-screenshot-just-before-the.jpg",
+    "https://www.mobygames.com/images/shots/s/635168-biathlon-champion-2007-windows-screenshot-create-your-profile.jpg",
+    "https://www.mobygames.com/images/shots/s/635169-biathlon-champion-2007-windows-screenshot-single-race.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/biathlon-champion-2007",
+  "altTitles": []
+}

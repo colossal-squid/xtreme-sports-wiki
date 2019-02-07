@@ -1,0 +1,57 @@
+{
+  "name": "Atari Slalom",
+  "icon": "https://www.mobygames.com/images/shots/s/366178-atari-slalom-atari-st-screenshot-title-and-info-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/budgie-uk",
+        "text": "Budgie UK"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/atari-st/atari-slalom/release-info",
+        "text": "Aug, 1993"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/atari-st/",
+        "text": "Atari ST"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Pacing",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/real-time/",
+        "text": "Real-Time"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nAtari Slalom is a kind of slalom game where you steer an Atari mouse down a track on a colorful background. The mouse wont move by itself so you have to steer it all the time. Arrows on green blocks indicates on which side you must steer the mouse. If you pass a green block on the wrong side you have to start over. A timer measures how fast you complete a course and the record time is presented at the top right corner of the screen. The game comes with five different courses and is written in 68000 assembler.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/366180-atari-slalom-atari-st-screenshot-moving-down-the-path.jpg",
+    "https://www.mobygames.com/images/shots/s/366181-atari-slalom-atari-st-screenshot-route-4.jpg",
+    "https://www.mobygames.com/images/shots/s/366178-atari-slalom-atari-st-screenshot-title-and-info-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/366179-atari-slalom-atari-st-screenshot-the-start-of-route-1.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/atari-slalom",
+  "altTitles": []
+}

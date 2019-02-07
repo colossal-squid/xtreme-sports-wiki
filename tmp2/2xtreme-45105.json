@@ -1,0 +1,63 @@
+{
+  "title": "2Xtreme",
+  "platforms": "PSOne",
+  "mechanics": "n/a",
+  "date": "December 1996",
+  "sports": "Skateboarding,Snowboarding,Inline skates,Mountain bike",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/bom9igphpngu4wd9lzao.jpg",
+  "altTitles": [
+    "\"Street Games '97\" -- Japanese title"
+  ],
+  "description": "\n2Xtreme is the sequel to ESPN Extreme Games where the player takes part in a series of extreme races with only one goal: to win at any cost.\n\nThere are four different kinds of racing: snowboard, bike, inline skates and skateboards and four different locations to choose from: Japan, Africa, Las Vegas, and Los Angeles, each with three different tracks to master.\n\nThe main goal of the game is to advance through the level, punching and kicking opponents and avoiding obstacles scattered throughout the stage. The player can also perform mid-air tricks to earn extra money to add to their race winnings to buy better parts for their various means of transportation. Players can also play in a season mode, single race against computer opponents, or go head to head with a friend.\n",
+  "screenshots": [],
+  "video": "",
+  "relatedGames": [],
+  "websites": [],
+  "filePath": "src/markdown/games/2xtreme-45105.md",
+  "handle": "2xtreme-45105",
+  "name": "2Xtreme",
+  "icon": "https://www.mobygames.com/images/covers/s/183857-2xtreme-playstation-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Sony Computer Entertainment of America"
+    },
+    {
+      "name": "Developed by",
+      "value": "Sony Interactive Studios America"
+    },
+    {
+      "name": "Released",
+      "value": "1996"
+    },
+    {
+      "name": "Platforms",
+      "value": "PlayStation,PlayStation 3,PSP,PS Vita"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Skateboarding,Snowboarding / Skiing"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Bike / Bicycling"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/2xtreme"
+}

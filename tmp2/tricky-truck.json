@@ -1,0 +1,46 @@
+{
+  "title": "Tricky Truck",
+  "platforms": "iPad",
+  "mechanics": "n/a",
+  "date": "Jul 27, 2010",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/281678-tricky-truck-ipad-front-cover.jpg",
+  "altTitles": [],
+  "description": "\nJust like Peter Sotesz's previous game Sumotori Dreams, Tricky Truck is based around physics, but this time with a truck. It aims to test the player's parking skills with a long truck across a number of challenges. The controls are extremely sensitive, also because of the cargo, and the truck can easily topple over or lose a wheel. To complete a level the truck needs to be parked in a designated spot with all wheels. It is possible to lose a wheel along the way and sometimes the parking needs to be done in a specific direction. The courses include hills, fragile bridges and even jumps.\n\nThere are different viewpoints and those bring along two difficulty levels: easy (third-person) and hard (first-person). Each challenge comes with a demo where a successful attempt can be previewed.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/453452-tricky-truck-windows-screenshot-moving-over-a-fragile-bridge.jpg",
+    "https://www.mobygames.com/images/shots/s/453450-tricky-truck-windows-screenshot-corners-are-harder-than-they.jpg",
+    "https://www.mobygames.com/images/shots/s/453449-tricky-truck-windows-screenshot-using-the-left-mirror-you.jpg",
+    "https://www.mobygames.com/images/shots/s/453456-tricky-truck-windows-screenshot-some-corners-take-a-lot-of.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/tricky-truck](https://www.mobygames.com/game/tricky-truck)"
+  ],
+  "filePath": "src/markdown/games/tricky-truck.md",
+  "handle": "tricky-truck",
+  "name": "Tricky Truck",
+  "icon": "https://www.mobygames.com/images/covers/s/281678-tricky-truck-ipad-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Released",
+      "value": "Jul 27, 2010"
+    },
+    {
+      "name": "Platforms",
+      "value": "iPad,iPhone,Windows"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving"
+    },
+    {
+      "name": "Perspective",
+      "value": "1st-person,3rd-person (Other)"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/tricky-truck"
+}

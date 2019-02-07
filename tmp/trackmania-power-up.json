@@ -1,0 +1,82 @@
+{
+  "name": "TrackMania Power Up!",
+  "icon": "https://www.mobygames.com/images/covers/s/121207-trackmania-power-up-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/focus-home-interactive-sas",
+        "text": "Focus Home Interactive SAS"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nadeo-sas",
+        "text": "Nadeo SAS"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/trackmania-power-up/release-info",
+        "text": "2004"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/compilation-shovelware/",
+        "text": "Compilation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/puzzle-elements/",
+        "text": "Puzzle elements"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nTrackMania: Power Up! combines the original TrackMania with the Power Up! expansion. Owners of the original version can download the add-on for free, but Digital Jesters decided to re-release it in one package.\n\nPower Up! adds a new solo mode, visible opponents during solo races, an extended view-line, enhanced multiplayer modes, a video editing replay centre, improved multiplayer code, new interfaces, in-game videos, new construction blocks, bug fixes and tweaks.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/trackmania-power-up",
+  "altTitles": []
+}

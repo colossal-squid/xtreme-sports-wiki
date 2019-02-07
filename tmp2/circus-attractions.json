@@ -1,0 +1,58 @@
+{
+  "title": "Circus Attractions",
+  "platforms": "Amiga",
+  "mechanics": "n/a",
+  "date": "1989",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/shots/s/100144-circus-attractions-dos-screenshot-titlescreen-ega.jpg",
+  "altTitles": [],
+  "description": "\nThe famous Circus Morelli offers five exciting events: trampolining, tightrope-walking, juggling, knife-throwing and jumping clowns.\n\nYou control the artists during their sometimes dangerous stunts.\n\nEach attraction can be practiced on its own before all five have to be performed in order in the main performance of the evening.\n\nEach attraction also has a special two-player team mode.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/295735-circus-attractions-atari-st-screenshot-clown-jumping.jpg",
+    "https://www.mobygames.com/images/shots/s/103200-circus-attractions-dos-screenshot-knife-throwing-ega.jpg",
+    "https://www.mobygames.com/images/shots/s/100144-circus-attractions-dos-screenshot-titlescreen-ega.jpg",
+    "https://www.mobygames.com/images/shots/s/295733-circus-attractions-atari-st-screenshot-juggling.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/circus-attractions](https://www.mobygames.com/game/circus-attractions)"
+  ],
+  "filePath": "src/markdown/games/circus-attractions.md",
+  "handle": "circus-attractions",
+  "name": "Circus Attractions",
+  "icon": "https://www.mobygames.com/images/shots/s/100144-circus-attractions-dos-screenshot-titlescreen-ega.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Rainbow Arts Software GmbH"
+    },
+    {
+      "name": "Developed by",
+      "value": "Golden Goblins"
+    },
+    {
+      "name": "Released",
+      "value": "1989"
+    },
+    {
+      "name": "Platforms",
+      "value": "Amiga,Atari ST,Commodore 64,DOS"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view,Bird's-eye view,Side view"
+    },
+    {
+      "name": "Visual",
+      "value": "Fixed / Flip-screen"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Arcade,Tricks / Stunts"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/circus-attractions"
+}

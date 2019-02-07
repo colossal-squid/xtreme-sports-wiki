@@ -1,0 +1,75 @@
+{
+  "name": "BMX Air Master",
+  "icon": "https://www.mobygames.com/images/covers/s/260907-bmx-air-master-atari-2600-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/tnt-games",
+        "text": "TNT Games"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/acclaim-studios-salt-lake-city",
+        "text": "Sculptured Software, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/atari-2600/bmx-air-master/release-info",
+        "text": "1989"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/atari-2600/",
+        "text": "Atari 2600"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/bike-cycling/",
+        "text": "Bike / Bicycling"
+      }
+    ]
+  ],
+  "description": "\nIn this game, you ride your BMX doing various tricks.\n\nThe tricks are done in events of half-pipe, quarter pipe and ramps. Some of the tricks you can do are loops, rotate, flip, and bounce. In practice mode, you can select which event to do. In arcade mode, you do the events in a set order.\n\nIn advanced mode and later levels, you have to hit the ramp/pipe at more precise angles coming down and gravity and pedaling get harder.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/168109-bmx-air-master-atari-2600-screenshot-coming-up-to-the-ramp.jpg",
+    "https://www.mobygames.com/images/shots/s/168110-bmx-air-master-atari-2600-screenshot-i-finished-the-ramp.jpg",
+    "https://www.mobygames.com/images/shots/s/168108-bmx-air-master-atari-2600-screenshot-i-crashed-on-the-half.jpg",
+    "https://www.mobygames.com/images/shots/s/168276-bmx-air-master-atari-2600-screenshot-title-screen-main-menu.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/bmx-air-master",
+  "altTitles": []
+}

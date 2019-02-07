@@ -1,0 +1,103 @@
+{
+  "name": "Moto Racer 4",
+  "icon": "https://www.mobygames.com/images/covers/s/512294-moto-racer-4-nintendo-switch-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/microds_",
+        "text": "Microïds"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/artefacts-studio-sas",
+        "text": "Artefacts Studio S.A.S."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/moto-racer-4/release-info",
+        "text": "Nov 03, 2016"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/macintosh/moto-racer-4",
+        "text": "Macintosh"
+      },
+      {
+        "link": "https://www.mobygames.com/game/switch/moto-racer-4",
+        "text": "Nintendo Switch"
+      },
+      {
+        "link": "https://www.mobygames.com/game/playstation-4/moto-racer-4",
+        "text": "PlayStation 4"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/moto-racer-4",
+        "text": "Windows"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox-one/moto-racer-4",
+        "text": "Xbox One"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/offroad/",
+        "text": "Off-roading"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/street-racing/",
+        "text": "Street Racing"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nMoto Racer 4 is a title in the long-running arcade motorcycle racing series that was started in 1997. It keeps the core element of letting players race with heavy bikes on asphalt tracks, along with slower but more technically challenging dirt bike off-road races, but it also introduces a lot of new elements. Multiplayer is supported against another player locally through split-screen and online with up to ten players for multiple game modes. Quick races consist of a championship, hot lap, a single race, and time attack.\n\nProgressing through the game to unlock everything is done in the career mode. It has events such as Catch-up, Ghost Bike, Golden Helmet, King of the Road, Last Man Riding, Single Race, and Wolf Pack. In Catch-up opponents get a head start and the player needs to catch up and overtake them to reach the first place with a limited amount of time. Ghost Bike also starts at the back of a pack, but here the player has to reach a specific position without going off the track or bumping into other racers. In Golden Helmet the first racer to reach a checkpoint receives a golden helmet and needs to hold on to it as long as possible. It is taken away when crashing or being hit by other racers. In King of the Road all players start with the same amount of time on a clock. When in first place the clock counts down, but other players receive a speed boost. Then the first player to lose all time wins the event. Last Man Riding is a race where the last racer is eliminated after a certain amount of time until there is only one left. Wolf Pack is a chase event where one racer gets a head start. All other racers are behind, need to catch up and hold the lead.\n\nIn each event up to three stars can be earned based on the performance. Stars are needed to keep progressing and unlocking new events. There are ten riders to choose from, each with two types of bikes (street and dirt) with different statistics for acceleration, handling, max speed and the T.U.R.B.O boost module. Upgrade points can be earned to improve the statistics and there are different colour schemes for customization. Those points are earned by showing off and reaching a style objective in events. Style points are earned through moves such as tricks in the air (in dirt bike races), drifting, high speed, staying in a slipstream, brushing other riders or traffic and so on. There are also penalties for crashing or going off the track. Typically for the series wheelies can also be done, not only for style points but also for a speed boost with a cooldown period. It is a risky manoeuvre as it briefly makes the handling harder. Boosts are also earned by doing perfect landings on two wheels. Later on more advanced tricks can be unlocked such as a boost landing, return on the track, slipstream, start, and wheelie. It is possible to use a horn, provoke other riders, swerve to knock them off their bikes, and skid around corners by braking. Environments range from a sunny Bay Area to Asia and many of them have multiple routes and shortcuts.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/867968-moto-racer-4-windows-screenshot-it-is-possible-to-look-around.jpg",
+    "https://www.mobygames.com/images/shots/s/867967-moto-racer-4-windows-screenshot-events-have-multiple-races.jpg",
+    "https://www.mobygames.com/images/shots/s/867958-moto-racer-4-windows-screenshot-in-the-lead-at-the-start-of.jpg",
+    "https://www.mobygames.com/images/shots/s/867963-moto-racer-4-windows-screenshot-doing-a-big-jump-for-style.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/moto-racer-4",
+  "altTitles": []
+}

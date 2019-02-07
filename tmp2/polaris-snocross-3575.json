@@ -1,0 +1,60 @@
+{
+  "title": "Polaris SnoCross",
+  "platforms": "Nintendo 64, PC (Microsoft Windows), Game Boy Color, PSOne",
+  "mechanics": "n/a",
+  "date": "February 2000",
+  "sports": "Snowmobile",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/tj17kdfpyzmkz5rlg7r3.jpg",
+  "altTitles": [
+    "\"SnowCross\" -- European title"
+  ],
+  "description": "\nAs the title implies, Polaris SnoCross is a game based on the sport of snowmobile racing. It has 3 available modes (Single Event, Instant Action, and Tournament) and supports up to 4 players.\nIn Single Event, the player can select any of the 5 sleds available for racing. The player can also select the rider suit and the race’s difficulty. Tricks and stunts can also be performed while in-game. The current mode supports up to 4 human players.\n\n\nInstant Action instantly lets you in on the game by randomly selecting the sled, track, time of day and weather conditions.\n\n\nIn Tournament, the player can select to play in a new one or continue from a previously saved game. There are 7 events in the Tournament mode and each one consists of a 3 day race (3 races basically). Only one is available at first but each time the player successfully complete an event another of higher difficulty is unlocked.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/425273-polaris-snocross-windows-screenshot-performing-tricks-during.jpg",
+    "https://www.mobygames.com/images/shots/s/425278-polaris-snocross-windows-screenshot-inside-the-shortcut-tunnel.jpg",
+    "https://www.mobygames.com/images/shots/s/425270-polaris-snocross-windows-screenshot-flying-high.jpg",
+    "https://www.mobygames.com/images/shots/s/425268-polaris-snocross-windows-screenshot-inside-a-warehouse.jpg"
+  ],
+  "video": "",
+  "relatedGames": [],
+  "websites": [],
+  "filePath": "src/markdown/games/polaris-snocross-3575.md",
+  "handle": "polaris-snocross-3575",
+  "name": "Polaris SnoCross",
+  "icon": "https://www.mobygames.com/images/covers/s/233978-polaris-snocross-playstation-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Vatical Entertainment LLC"
+    },
+    {
+      "name": "Developed by",
+      "value": "Driver-Inter, Ltd.,Vicarious Visions, Inc."
+    },
+    {
+      "name": "Released",
+      "value": "Feb 18, 2000"
+    },
+    {
+      "name": "Platforms",
+      "value": "Nintendo 64,PlayStation,Windows"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "1st-person,3rd-person (Other)"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/polaris-snocross"
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Steep",
+  "platforms": "PC (Microsoft Windows), PS4, Xbox One",
+  "mechanics": "n/a",
+  "date": "December 2016",
+  "sports": "Snowboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/hwan8wag6ype4xpiu1gv.jpg",
+  "altTitles": [],
+  "description": "\nSteep is an open world winter sports game based around four extreme sports: paragliding, skiing, snowboarding and wingsuit flying. The game was launched with a mountain in the Alps to explore, but another set in Alaska was added for free at a later time. The player is free to explore and can walk around. At any moment it is possible to switch to one of the four sports and continue that way. There is no linear path to follow, but by unlocking base camps, spotting drop zones and accessing new challenges by leveling up, steady progress along an increased difficulty level is possible. At any moment the player can enter a top-down mountain view to quickly move between spots or challenges. Previous trails can be revisited, there are replays and it is possible to design and share challenges for other players. Players can also appear in each other's worlds to be invited to fly, ride of ski together.\n\nEach sport has different controls and possibilities. It is possible to perform a large amount of stunts, mainly while skiing and snowboarding. Different types of challenges focus on fast times, large points through tricks or exploration. During wingsuit flying the focus is on avoiding obstacles and staying close to the ground to score points. Paragliding is more about navigating the best course to reach checkpoints. Most of them are specific for a sport, such as Big Air, Forest Slaloms or Proximity Flying. While a character cannot die there is a health system based on sustained g-forces and recovering after a fall takes some time.\n\nIn most challenges up to three medals can be earned and they can retried infinitely. Next to overall player progress and new spots unlocked that way, a large amount of gear is made available gradually to customize the different characters. Overall progress is done in six categories based on the playing style: Bone Collector, Explorer, Extreme Rider, Freerider, Freestyler, and Pro Rider. Next to the challenges, drop zones and points of interest, the player can also experience mountain stories and events called memorable moments.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/872263-steep-windows-screenshot-approaching-a-challenge-during-a.jpg",
+    "https://www.mobygames.com/images/shots/s/872262-steep-windows-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/872275-steep-windows-screenshot-use-binoculars-to-spot-drop-zones.jpg",
+    "https://www.mobygames.com/images/shots/s/872265-steep-windows-screenshot-check-your-previous-rides-to-watch.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/TNhyWptLq_Y",
+  "relatedGames": [],
+  "websites": [
+    " [https://store.steampowered.com/app/460920](https://store.steampowered.com/app/460920)",
+    " [http://steepgame.com/](http://steepgame.com/)",
+    " [http://www.twitter.com/Steep_Game](http://www.twitter.com/Steep_Game)",
+    " [https://www.facebook.com/SteepGame](https://www.facebook.com/SteepGame)",
+    " [https://en.wikipedia.org/wiki/Steep_(video_game)](https://en.wikipedia.org/wiki/Steep_(video_game))"
+  ],
+  "filePath": "src/markdown/games/steep-19554.md",
+  "handle": "steep-19554",
+  "name": "Steep",
+  "icon": "https://www.mobygames.com/images/covers/s/371121-steep-playstation-4-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Ubisoft Entertainment SA"
+    },
+    {
+      "name": "Developed by",
+      "value": "Ubisoft Annecy SAS"
+    },
+    {
+      "name": "Released",
+      "value": "Dec 02, 2016"
+    },
+    {
+      "name": "Official Site",
+      "value": "Steep"
+    },
+    {
+      "name": "Platforms",
+      "value": "PlayStation 4,Windows,Xbox One"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    },
+    {
+      "name": "Setting",
+      "value": "Europe,North America"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/steep"
+}

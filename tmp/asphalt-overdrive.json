@@ -1,0 +1,94 @@
+{
+  "name": "Asphalt: Overdrive",
+  "icon": "https://www.mobygames.com/images/covers/s/293509-asphalt-overdrive-android-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/gameloft-se",
+        "text": "Gameloft S.E."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/gameloft-madrid-slu",
+        "text": "Gameloft Madrid S.L.U."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/asphalt-overdrive/release-info",
+        "text": "Sep 24, 2014"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/android/asphalt-overdrive",
+        "text": "Android"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ipad/asphalt-overdrive",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/asphalt-overdrive",
+        "text": "iPhone"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows-apps/asphalt-overdrive",
+        "text": "Windows Apps"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows-phone/asphalt-overdrive",
+        "text": "Windows Phone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      }
+    ]
+  ],
+  "description": "\nAsphalt: Overdrive is a spin-off of the Asphalt racing series. It has a simplified racing system closer to the endless runner games; acceleration is done automatically, there are no brakes, and steering is done through swipes left or right to switch lanes. The game is set in a 1980's version of Southern California. It consists of a series of short racing missions with a specific objective to complete. Missions are grouped in turfs; when a sufficient amount has been completed, you get to race the leader in a direct duel with a chance to take over the turf and then move on to the next one.\n\nMission types include getaway where you need to outrun the police for a certain distance, stunt runs where a number of stunts needs to be performed against a time limit, destruction where you need to takedown cars against a time limit, restricted runs where only a specific car can be used, and the duel against the turf leader. There is also a daily test drive where a high performance car can be loaned for a single race. Each race is rated with up to three stars and these are needed to unlock further races. The performance is rewarded with two types of currencies, cash or gold, and bonus power-ups such as full nitro, invincibility boost for five seconds, a combo extender, and more. Power-ups are selected prior to starting the race.\n\nAt the start of a race a boost can be timed to get a head start. Quick swipes left and right are needed to switch lanes and avoid obstacles. Additional speed is gained by staying in the slipstream of other cars in traffic for a short time. Cars can be taken down by ramming into them through a lane switch. When done quickly in succession, without losing the combo momentum through slipstreaming to tie it together, a high amount of additional speed is earned. Taking down cars needs to be timed carefully, because you can also rear-end them and then you lose speed. When running directly into an obstacle, you need to accelerate from zero. Tracks contain events such as swerving or crashing vehicles, and jumps. Jumps are used to avoid hazards, but in the air you can also swipe up, left or right to perform a stunt and earn boost. Boost is activated by double tapping.\n\nThe game contains 30 licensed vehicles divided over five tiers. They are unlocked gradually using one of the two currencies. As a free-to-play title, both currencies can also be bought in-game for real money. The currencies can also be used to upgrade cars several types for the engine, acceleration and nitro. Certain cars have sponsored perks such as a large amount of cash per race. Each car can also be customized through colour, decal, and a custom license plate. The currencies can also be used to buy power-ups. Each race costs a certain amount of energy. When no more energy is available, you need to wait until it is refilled or bypass the regeneration process by spending currencies.\n\nPlayers are divided into leagues with championships and optionally you can create or join gangs. When in a gang, next you league points you earn gang points. Being in a gang provides faster energy recovery and additional score bonuses. You can also participate in gang challenges and compete with other gangs. There is a large amount of social features.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/924867-asphalt-overdrive-windows-apps-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/737844-asphalt-overdrive-android-screenshot-using-the-invincibility.jpg",
+    "https://www.mobygames.com/images/shots/s/924870-asphalt-overdrive-windows-apps-screenshot-gotta-pass-that.jpg",
+    "https://www.mobygames.com/images/shots/s/737847-asphalt-overdrive-android-screenshot-upgrade-screen.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/pdpMo2nPS3Q",
+  "url": "https://www.mobygames.com/game/asphalt-overdrive",
+  "altTitles": [
+    "\"狂野飙车：超越\" -- Chinese spelling",
+    "\"アスファルト：Overdrive\" -- Japanese spelling",
+    "\"Asphalt: Погоня\" -- Russian spelling",
+    "\"Asphalt : القيادة المجنونة\" -- Arabic spelling",
+    "\"아스팔트 오버드라이브\" -- Korean spelling"
+  ]
+}

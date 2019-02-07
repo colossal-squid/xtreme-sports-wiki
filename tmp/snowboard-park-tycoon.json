@@ -1,0 +1,81 @@
+{
+  "name": "Snowboard Park Tycoon",
+  "icon": "https://www.mobygames.com/images/covers/s/77014-snowboard-park-tycoon-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/activision-value-publishing-inc",
+        "text": "Activision Value Publishing, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/cat-daddy-games-llc",
+        "text": "Cat Daddy Games, LLC"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/snowboard-park-tycoon/release-info",
+        "text": "Aug 09, 2002"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSnowboard Park Tycoon is more of a first-person snowboarding action game than a tycoon game. Players have the option to jump right into the action with the \"Action\" mode, or complete challenges on various unlockable slopes in the \"Career\" mode.\n\nIn the Action mode, players can either race down a pre-designated slope or else construct their own using an assortment of ramps, rails, mounds, natural forms, and bonus structures. After constructing a custom slope in the third-person slope editor, players can click the \"Try It!\" button to test their skills in first-person mode against their new creation.\n\nIn the Career mode, players can create a custom profile, choose their character model and board style, and complete various challenges. These challenges unlock additional levels, and include:\nJam Session Challenge: Get as many points as possible performing tricks down the mountain\nRace Challenge: Race other boarders down the mountain\nMaximum Coinage: Collect all the coins and reach the trophy before the time runs out\nSnowball Challenge: Throw snowballs at targets and perform tricks to obtain more snowballs\nFollow the leader: Keep up with your rival as you board down the mountain\nBone Crusher: Break all 206 bones in your body before the time is up\nImpress the Photographers: Place pieces on the mountain in such a way as to pull of as many tricks near the pre-positioned photographers as possible\nSlalom Challenge: Board through the slaloms before the time runs out. Each gate awards you more time.\nMonkey See, Monkey Do: Watch the tricks the monkey performs and then reproduce them.\nHoops Challenge: Make it through all of the flaming hoops placed on the mountain\nTycoon Challenge: Buy jumps in the third-person construction mode in order to attract snowboarders. They'll perform tricks on these jumps, each of which awards you cash for bigger and better jumps. Make enough cash before the time runs out.\nTricks are performed by pressing certain keyboard combinations while in the middle of a jump. The higher the jump, the better potential for higher-scoring tricks. Additionally, players can use the tilde (~) key to view the action in slow-motion.\n\nIn some levels, comical characters such as a roaring yeti or penguins jamming to boom boxes decorate the terrain.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/snowboard-park-tycoon",
+  "altTitles": [
+    "\"滑雪场大亨\" -- Chinese Title (Simplified)"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "name": "Sno-Cross Championship Racing",
+  "icon": "https://www.mobygames.com/images/covers/s/209161-sno-cross-championship-racing-playstation-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/crave-entertainment-inc",
+        "text": "Crave Entertainment, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/unique-development-studios-ab",
+        "text": "Unique Development Studios AB"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/sno-cross-championship-racing/release-info",
+        "text": "Aug 01, 2000"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/dreamcast/sno-cross-championship-racing",
+        "text": "Dreamcast"
+      },
+      {
+        "link": "https://www.mobygames.com/game/playstation/sno-cross-championship-racing",
+        "text": "PlayStation"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps3/sno-cross-championship-racing",
+        "text": "PlayStation 3"
+      },
+      {
+        "link": "https://www.mobygames.com/game/psp/sno-cross-championship-racing",
+        "text": "PSP"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/sno-cross-championship-racing",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nStrap on your goggles and helmet, choose your favorite Yamaha sled, and hit the courses. Gain experience day and night, sun rain or snow, racing on the icy flats of Vladivostok, the slopes of Aspen, and the tunnels of Nagano.\n\nBut, the real challenge starts when you enter the race circuit. Start with the 500cc sleds, win races, upgrade your snowmobile, and unlock higher end sleds and new courses.. And, if you're looking for even more challenges, race head-to-head with your friends, go vertical on hill-climbing tracks, or create your own courses with the included track editor.\n\nThe PC conversion has a higher polygon count, higher resolution on the textures, and more accurate physics.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/518861-sno-cross-championship-racing-windows-screenshot-single-race.jpg",
+    "https://www.mobygames.com/images/shots/s/518869-sno-cross-championship-racing-windows-screenshot-championship.jpg",
+    "https://www.mobygames.com/images/shots/s/518848-sno-cross-championship-racing-windows-screenshot-the-time.jpg",
+    "https://www.mobygames.com/images/shots/s/518850-sno-cross-championship-racing-windows-screenshot-time-trial.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/sno-cross-championship-racing",
+  "altTitles": [
+    "\"Sno-Cross Extreme\" -- PC title"
+  ]
+}

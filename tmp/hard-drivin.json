@@ -1,0 +1,118 @@
+{
+  "name": "Hard Drivin'",
+  "icon": "https://www.mobygames.com/images/covers/s/126853-hard-drivin-genesis-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/square-enix-limited",
+        "text": "Domark Limited"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/midway-games-west-inc_",
+        "text": "Atari Games Corporation"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/hard-drivin/release-info",
+        "text": "1989"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/hard-drivin",
+        "text": "Amiga"
+      },
+      {
+        "link": "https://www.mobygames.com/game/cpc/hard-drivin",
+        "text": "Amstrad CPC"
+      },
+      {
+        "link": "https://www.mobygames.com/game/arcade/hard-drivin",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-st/hard-drivin",
+        "text": "Atari ST"
+      },
+      {
+        "link": "https://www.mobygames.com/game/c64/hard-drivin",
+        "text": "Commodore 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/dos/hard-drivin",
+        "text": "DOS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/genesis/hard-drivin",
+        "text": "Genesis"
+      },
+      {
+        "link": "https://www.mobygames.com/game/lynx/hard-drivin",
+        "text": "Lynx"
+      },
+      {
+        "link": "https://www.mobygames.com/game/zx-spectrum/hard-drivin",
+        "text": "ZX Spectrum"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/vehicle-simulator/",
+        "text": "Vehicle Simulator"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nHard Drivin' is a 3D arcade hit from Atari Games. You are in control of a high-performance sports car. Your objective is to race around the course as fast as possible and hit as many checkpoints as possible. If you hit a checkpoint you gain extra time to go farther. You will see traffic on the road both in your direction and coming down the opposite direction, so be careful when you pass...\n\nThe course has two sections: speed track, and stunt track. Speed track is longer, but you can usually achieve higher speeds. Stunt track requires you to perform several stunts such as jumping bridges, driving through a loop, and so on.\n\nCrashing the car has no serious consequences and indeed shows a replay of your crash from a cinematic angle. Admire your crash head-on into the cement truck, or clipping the minivan, or flying off the bridge in the wrong angle... You lose several seconds as your car is \"reset\" and you get up to speed again.\n\nThe home conversions retain most of the then-advanced 3D graphics but lack the force-feedback that was in the arcade version.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/76704-hard-drivin-commodore-64-screenshot-a-loop-ahead-of-you.jpg",
+    "https://www.mobygames.com/images/shots/s/321918-hard-drivin-atari-st-screenshot-get-ready-to-race.jpg",
+    "https://www.mobygames.com/images/shots/s/484333-hard-drivin-zx-spectrum-screenshot-the-game-seems-to-class.jpg",
+    "https://www.mobygames.com/images/shots/s/484331-hard-drivin-zx-spectrum-screenshot-the-instant-replay-shows.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/hard-drivin",
+  "altTitles": [
+    "\"Hard Drivin' 1\" -- Informal name",
+    "\"ハードドライビン\" -- Japanese spelling"
+  ]
+}

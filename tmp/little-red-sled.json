@@ -1,0 +1,73 @@
+{
+  "name": "Little Red Sled",
+  "icon": "https://www.mobygames.com/images/covers/s/429479-little-red-sled-iphone-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/imangi-studios-llc",
+        "text": "Imangi Studios, LLC"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/imangi-studios-llc",
+        "text": "Imangi Studios, LLC"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/iphone/little-red-sled/release-info",
+        "text": "Feb 19, 2009"
+      }
+    ],
+    "Official Site",
+    [
+      {
+        "link": "http://www.imangistudios.com/littleredsled/index.html",
+        "text": "Little Red Sled"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/iphone/",
+        "text": "iPhone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motion_control/",
+        "text": "Motion Control"
+      }
+    ]
+  ],
+  "description": "Description",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/little-red-sled",
+  "altTitles": []
+}

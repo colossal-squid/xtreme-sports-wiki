@@ -1,0 +1,97 @@
+{
+  "name": "FIFA Street",
+  "icon": "https://www.mobygames.com/images/covers/s/103609-fifa-street-xbox-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/electronic-arts-inc",
+        "text": "Electronic Arts, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/electronic-arts-vancouver_",
+        "text": "Electronic Arts Canada"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/fifa-street/release-info",
+        "text": "Feb 02, 2005"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gamecube/fifa-street",
+        "text": "GameCube"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps2/fifa-street",
+        "text": "PlayStation 2"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox/fifa-street",
+        "text": "Xbox"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/birds-eye-view/",
+        "text": "Bird's-eye view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/soccer-football-european/",
+        "text": "Football (European) / Soccer"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nAs a spin-off of the FIFA lineage, FIFA Street combines arcade action with the culture of freestyle street soccer. By removing the rules from the simulation soccer experience, FIFA Street exposes the heart of the world's beautiful game, on-the-ball flair and individual style.\n\nLeading this movement are the worlds top professional players, showing off their skills and individual style in 4-on-4 match-ups against the backdrop of global venues that represent the true culture of street soccer. In the game's dynamic 1-on-1 encounters, beating your opponent will require skill, technique, and the careful selection of specific moves. Take on the best and earn their respect, gradually building your reputation and team into an unstoppable force that leads the tide of street soccer.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/545859-fifa-street-playstation-2-screenshot-menu-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/545861-fifa-street-playstation-2-screenshot-selecting-the-starting.jpg",
+    "https://www.mobygames.com/images/shots/s/545863-fifa-street-playstation-2-screenshot-rules-setup-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/545860-fifa-street-playstation-2-screenshot-team-selection.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/fifa-street",
+  "altTitles": [
+    "\"FIFA街头足球\" -- Chinese spelling (simplified)",
+    "\"FIFAストリート\" -- Japanese spelling",
+    "\"피파 스트리트\" -- Korean spelling"
+  ]
+}

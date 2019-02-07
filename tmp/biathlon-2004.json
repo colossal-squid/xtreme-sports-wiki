@@ -1,0 +1,74 @@
+{
+  "name": "Biathlon 2004",
+  "icon": "https://www.mobygames.com/images/covers/s/189220-biathlon-2004-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/ubisoft-entertainment-sa",
+        "text": "Ubisoft Entertainment SA"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/geronimo-entertainment",
+        "text": "Geronimo Entertainment"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/biathlon-2004/release-info",
+        "text": "Nov 28, 2003"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nBiathlon 2004 is the third installment of the Biathlon series. Like its predecessor it allows you to play the Biathlon on your PC.\n\nBiathlon consists of two elements: cross-country skiing and rifle shooting on a shooting range. The game features a unique mixture of racing and shooting. If you waste too much energy during the race, the shooting parts will become more difficult. The player can create his own avatar to play with. There's nine different statistics that can be tuned. Game modes include time trial against a ghost opponent and a career mode in which the player can try to win the World cup.\n\nThe game features commentary by German TV spokesman Wilfried Hark.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/836011-biathlon-2004-windows-screenshot-in-the-race.jpg",
+    "https://www.mobygames.com/images/shots/s/836008-biathlon-2004-windows-screenshot-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/836010-biathlon-2004-windows-screenshot-world-cup-in-antholz.jpg",
+    "https://www.mobygames.com/images/shots/s/836013-biathlon-2004-windows-screenshot-shooting-range.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/biathlon-2004",
+  "altTitles": [
+    "\"Biathlon 2004 powered by Frank Luck\" -- German tag-lined title"
+  ]
+}

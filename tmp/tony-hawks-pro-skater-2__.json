@@ -1,0 +1,85 @@
+{
+  "name": "Tony Hawk's Pro Skater 2",
+  "icon": "https://www.mobygames.com/images/covers/s/20572-tony-hawk-s-pro-skater-2-game-boy-color-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/activision-publishing-inc",
+        "text": "Activision Publishing, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/natsume-co-ltd",
+        "text": "Natsume Co., Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gameboy-color/tony-hawks-pro-skater-2__/release-info",
+        "text": "Nov 06, 2000"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/gameboy-color/",
+        "text": "Game Boy Color"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\nThe Game Boy Color version of Tony Hawk's Pro Skater 2 is based off the console game of the same name. Instead of exploring a 3D environment, however, players perform tricks in 2D side-scrolling levels.\n\nPlayers can select their skater and board, each of which has their own unique stats, allowing you to choose the combination that's perfect for you. Each of the thirteen different characters even has their own signature tricks to perform.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/816732-tony-hawk-s-pro-skater-2-game-boy-color-screenshot-jumping.jpg",
+    "https://www.mobygames.com/images/shots/s/142787-tony-hawk-s-pro-skater-2-game-boy-color-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/142788-tony-hawk-s-pro-skater-2-game-boy-color-screenshot-menu-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/816730-tony-hawk-s-pro-skater-2-game-boy-color-screenshot-grinding.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/tony-hawks-pro-skater-2__",
+  "altTitles": [
+    "\"THPS2\" -- Informal abbreviation"
+  ]
+}

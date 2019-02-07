@@ -1,0 +1,62 @@
+{
+  "title": "Vs. Excitebike",
+  "platforms": "NES",
+  "mechanics": "n/a",
+  "date": "Dec 09, 1988",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/311748-vs-excitebike-wii-u-front-cover.jpg",
+  "altTitles": [],
+  "description": "\nVS. Excitebike, not to be confused with the Nintendo VS UniSystem arcade game of the same name, is an enhanced Famicom Disk System version of the Nintendo Entertainment System game Excitebike. The main difference is the addition of a new mode called Vs. Excite. In Vs. Excite, two players race against each other. There is another mode called Original Excite, which is based on the main mode of the arcade version of the game, with some color palette differences. Thanks to the rewritable disk format, players can also save their tracks internally, without the need of the Famicom Data Recorder. Finally, all the music has been replaced.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/858061-vs-excitebike-nes-screenshot-at-the-starting-line.jpg",
+    "https://www.mobygames.com/images/shots/s/858064-vs-excitebike-nes-screenshot-racing-against-other-players.jpg",
+    "https://www.mobygames.com/images/shots/s/858060-vs-excitebike-nes-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/858067-vs-excitebike-nes-screenshot-vs-edit-mode-selection-screen.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/vs-excitebike](https://www.mobygames.com/game/vs-excitebike)"
+  ],
+  "filePath": "src/markdown/games/vs-excitebike.md",
+  "handle": "vs-excitebike",
+  "name": "Vs. Excitebike",
+  "icon": "https://www.mobygames.com/images/covers/s/311748-vs-excitebike-wii-u-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Nintendo Co., Ltd."
+    },
+    {
+      "name": "Developed by",
+      "value": "Nintendo R&D1,Pax Softnica"
+    },
+    {
+      "name": "Released",
+      "value": "Dec 09, 1988"
+    },
+    {
+      "name": "Platforms",
+      "value": "NES,Wii U"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Side view,Top-down"
+    },
+    {
+      "name": "Visual",
+      "value": "2D scrolling"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Motorcycle"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/vs-excitebike"
+}

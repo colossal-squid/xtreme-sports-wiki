@@ -1,0 +1,98 @@
+{
+  "name": "ClueFinders: Mystery Mansion Arcade",
+  "icon": "https://www.mobygames.com/images/covers/s/109951-cluefinders-mystery-mansion-arcade-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/learning-company",
+        "text": "Mattel Interactive"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/riverdeep-interactive-learning-limited",
+        "text": "Riverdeep Interactive Learning Limited"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/cluefinders-mystery-mansion-arcade/release-info",
+        "text": "2000"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/macintosh/cluefinders-mystery-mansion-arcade",
+        "text": "Macintosh"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/cluefinders-mystery-mansion-arcade",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/educational/",
+        "text": "Educational"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/pinball/",
+        "text": "Pinball"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/platform/",
+        "text": "Platform"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ],
+    "Educational",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/reading-writing/",
+        "text": "Reading / Writing"
+      }
+    ]
+  ],
+  "description": "\nThe members of the Clue Finders team -- including Owen, Leslie, Santiago, and Joni, along with their timid yet trusty talking laptop computer, LapTrap -- receive a distress signal from a remote mansion that was apparently sent by Joni's uncle. The gang cautiously investigates the signal only to learn that the mansion is an elaborate sequence of traps devised by a collaboration of their nemeses from previous games in the Clue Finders franchise.\n\nThere are four unique traps, each designed by one of the four villains, one designed for each of the four children. The traps/games are:\nOwen's Radical Pizza Race: the villain Fletcher Limburger designed a skateboard course to challenge Owen. The course consists of giant pizzas and the skateboard is a giant sub sandwich with wheels. Dodge or jump the pizza ingredients in your path, except for the anchovies, which can be picked up and used offensively in a later level.\n\n\nLeslie's Bookerang Library: Alistair Loveless concocted a special library for Leslie. Little demons drop large books into the room. In the back of the library is a theme, such as 'geometry', 'geography', or 'capital cities'. The dropped books each have a title and Leslie must jump on the books that have titles pertaining to the specified topic. Doing so results in that dropped book becoming permanent. Jumping on another book will crush the book. The goal is to stack enough books to escape. There are also special books that Leslie can pick up and store as weapons in a later stage.\n\n\nSantiago's Pinball Predicament: Pericles Lear, who is big on toys, creates several life size pinball tables in which Santiago is the pinball. The pinball is actually a small rocketship that Santiago can rotate and thrust. This is still tricky because of all the other things on a pinball table that can bump the ball. The goal is to light up all of the letters on the board (doing so entails solving some mini-puzzles) and then entering the hole that is Lear's mouth. There are also batteries that Santiago can collect to be used as weapons in a later stage.\n\n\nJoni's Last-Chance Labyrinth: Ms. Rose creates this deadly plant-filled cavern to doom Joni. However, when each of her friends escape their traps, they join Joni on her quest. Up to four of them journey through this side-scrolling platform adventure. Any of the characters that have joined Joni can take the lead. Whichever character takes the lead can use whichever weapon that have acquired: anchovies, books, batteries, or oranges (which are what Joni accumulates in this trap). Each weapon has unique advantages.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/938942-cluefinders-mystery-mansion-arcade-windows-screenshot-joni.jpg",
+    "https://www.mobygames.com/images/shots/s/938941-cluefinders-mystery-mansion-arcade-windows-screenshot-the.jpg",
+    "https://www.mobygames.com/images/shots/s/241249-cluefinders-mystery-mansion-arcade-windows-screenshot-the.jpg",
+    "https://www.mobygames.com/images/shots/s/241244-cluefinders-mystery-mansion-arcade-windows-screenshot-the.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/cluefinders-mystery-mansion-arcade",
+  "altTitles": []
+}

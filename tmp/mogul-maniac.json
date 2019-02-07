@@ -1,0 +1,76 @@
+{
+  "name": "Mogul Maniac",
+  "icon": "https://www.mobygames.com/images/shots/s/71116-mogul-maniac-atari-2600-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/amiga-corporation",
+        "text": "Amiga Corporation"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/amiga-corporation",
+        "text": "Amiga Corporation"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/mogul-maniac/release-info",
+        "text": "1983"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/atari-2600/mogul-maniac",
+        "text": "Atari 2600"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-8-bit/mogul-maniac",
+        "text": "Atari 8-bit"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nMogul Maniac is a 1st-person perspective (although you can see your ski's) skiing game where the objective is to get through the open and and closed gates as quickly as possible.\n\nThe gates consists of 2 poles of the same color: either red or blue of which the objective is to ski between those poles.\n\nThe game consists of 9 different courses as well as 2 different difficulty settings (novice and expert). In the novice setting you will be penalized 5 seconds for each gate you miss, the expert setting however automatically disqualifies you if you miss a gate (although you still can complete the run).\n\nThere also is no limit to the number of players that can play, but only the fastest time will be shown on the screen.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/71117-mogul-maniac-atari-2600-screenshot-skiing.jpg",
+    "https://www.mobygames.com/images/shots/s/539829-mogul-maniac-atari-8-bit-screenshot-at-the-finish-line.jpg",
+    "https://www.mobygames.com/images/shots/s/539826-mogul-maniac-atari-8-bit-screenshot-options-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/539828-mogul-maniac-atari-8-bit-screenshot-i-ran-into-a-flag.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/mogul-maniac",
+  "altTitles": []
+}

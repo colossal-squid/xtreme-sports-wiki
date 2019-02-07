@@ -1,0 +1,82 @@
+{
+  "name": "Shred It!",
+  "icon": "https://www.mobygames.com/images/covers/s/388578-shred-it-playstation-4-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/extra-mile-studios-ltd",
+        "text": "Extra Mile Studios Ltd"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/extra-mile-studios-ltd",
+        "text": "Extra Mile Studios Ltd"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/shred-it/release-info",
+        "text": "Mar 18, 2016"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/playstation-4/shred-it",
+        "text": "PlayStation 4"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox-one/shred-it",
+        "text": "Xbox One"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/platform/",
+        "text": "Platform"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Setting",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fantasy/",
+        "text": "Fantasy"
+      }
+    ]
+  ],
+  "description": "Buy at \n Buy at \nNot an American user?\nDescription",
+  "screenshots": [],
+  "video": "https://www.youtube.com/embed/8iexha6XTdE",
+  "url": "https://www.mobygames.com/game/shred-it",
+  "altTitles": []
+}

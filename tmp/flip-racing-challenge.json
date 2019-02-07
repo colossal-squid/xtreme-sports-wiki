@@ -1,0 +1,82 @@
+{
+  "name": "Flip Racing Challenge",
+  "icon": "https://www.mobygames.com/images/covers/s/463379-flip-racing-challenge-ipad-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/carngun-private-limited",
+        "text": "CarNGun Private Limited"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/carngun-private-limited",
+        "text": "CarNGun Private Limited"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/flip-racing-challenge/release-info",
+        "text": "Nov 08, 2016"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ipad/flip-racing-challenge",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/flip-racing-challenge",
+        "text": "iPhone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "Description",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/flip-racing-challenge",
+  "altTitles": []
+}

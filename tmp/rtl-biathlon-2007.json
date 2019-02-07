@@ -1,0 +1,76 @@
+{
+  "name": "RTL Biathlon 2007",
+  "icon": "https://www.mobygames.com/images/covers/s/138380-rtl-biathlon-2007-playstation-2-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/rtl-playtainment",
+        "text": "RTL Playtainment"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/49games-gmbh",
+        "text": "49Games GmbH"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/rtl-biathlon-2007/release-info",
+        "text": "Dec, 2006"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ps2/rtl-biathlon-2007",
+        "text": "PlayStation 2"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/rtl-biathlon-2007",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nRTL Biathlon 2007 is a simulation of the winter biathlon sport, combining two disciplines: cross-country skiing and rifle shooting. The competition takes place on nine skiing areas. The skier moves forward by keeping a button pressed, which consumes energy. The amount of energy varies in different sections of the level (more when going downhill, less when going up), and releasing the button allows for some generation, while the skier will move slower. When overexerting the athlete, the energy levels move into orange and red, and a large amount of stamina is consumed. Other techniques include gliding (crouching when going downhill) and sprinting in certain areas. The shooting sections are shown from a first-person perspective. The accuracy depends on the remaining stamina. Players can also hold their breath to steady the rifle, but this depletes the stamina levels further.\n\nThe different game modes include Practice, Career and Multiplayer. By competing in different leagues, players earn experience points that eventually open up power points to be distributed over a number of skills. At the start of the game, players can choose a preset skier or create a custom one, determining the name, outfit and skill level. Multiplayer is available for up to four players (hot seat mode) or two in split-screen.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/384813-rtl-biathlon-2007-playstation-2-screenshot-starting.jpg",
+    "https://www.mobygames.com/images/shots/s/384807-rtl-biathlon-2007-windows-screenshot-in-action.jpg",
+    "https://www.mobygames.com/images/shots/s/384811-rtl-biathlon-2007-windows-screenshot-new-character.jpg",
+    "https://www.mobygames.com/images/shots/s/384817-rtl-biathlon-2007-playstation-2-screenshot-menu.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/rtl-biathlon-2007",
+  "altTitles": []
+}

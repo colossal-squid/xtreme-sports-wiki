@@ -1,0 +1,111 @@
+{
+  "name": "Tony Hawk's Pro Skater 2",
+  "icon": "https://www.mobygames.com/images/covers/s/7621-tony-hawk-s-pro-skater-2-dreamcast-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/activision-publishing-inc",
+        "text": "Activision Publishing, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/neversoft-entertainment-inc",
+        "text": "Neversoft Entertainment, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/tony-hawks-pro-skater-2/release-info",
+        "text": "Sep 19, 2000"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/dreamcast/tony-hawks-pro-skater-2",
+        "text": "Dreamcast"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/tony-hawks-pro-skater-2",
+        "text": "iPhone"
+      },
+      {
+        "link": "https://www.mobygames.com/game/macintosh/tony-hawks-pro-skater-2",
+        "text": "Macintosh"
+      },
+      {
+        "link": "https://www.mobygames.com/game/n64/tony-hawks-pro-skater-2",
+        "text": "Nintendo 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/playstation/tony-hawks-pro-skater-2",
+        "text": "PlayStation"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/tony-hawks-pro-skater-2",
+        "text": "Windows"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windowsmobile/tony-hawks-pro-skater-2",
+        "text": "Windows Mobile"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nThe sequel to Tony Hawk's Pro Skater adds many new tricks, while retaining those from the original, and a complete roster of the greatest skaters worldwide. Among the new tricks is the \"manual\", which allows the player character to balance on two wheels. There are also more options for scoring high-trick combos. Trick combinations can also be edited and customized. It is possible to visit some of the most popular skate parks in the world, or create own areas and share them with other players. Players can also create their own skaters, with a choice of clothing and official skateboards.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/816726-tony-hawk-s-pro-skater-2-playstation-screenshot-you-ve-found.jpg",
+    "https://www.mobygames.com/images/shots/s/722243-tony-hawk-s-pro-skater-2-dreamcast-screenshot-new-mode-create.jpg",
+    "https://www.mobygames.com/images/shots/s/816727-tony-hawk-s-pro-skater-2-playstation-screenshot-free-skate.jpg",
+    "https://www.mobygames.com/images/shots/s/628220-tony-hawk-s-pro-skater-2-nintendo-64-screenshot-main-menu.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/-EjIJ7NVouk",
+  "url": "https://www.mobygames.com/game/tony-hawks-pro-skater-2",
+  "altTitles": [
+    "\"托尼霍克职业滑板2\" -- Chinese spelling (simplified)",
+    "\"THPS2\" -- Informal abbreviation",
+    "\"SK8: Tony Hawk's Pro Skater 2\" -- Japanese title"
+  ]
+}

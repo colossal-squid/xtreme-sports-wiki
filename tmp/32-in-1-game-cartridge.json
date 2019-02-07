@@ -1,0 +1,139 @@
+{
+  "name": "32 in 1 Game Cartridge",
+  "icon": "https://www.mobygames.com/images/shots/s/170519-32-in-1-game-cartridge-atari-2600-screenshot-freeway-rabbit.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/atari-corporation",
+        "text": "Atari Corporation"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/32-in-1-game-cartridge/release-info",
+        "text": "1988"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/atari-2600/32-in-1-game-cartridge",
+        "text": "Atari 2600"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-7800/32-in-1-game-cartridge",
+        "text": "Atari 7800"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/compilation-shovelware/",
+        "text": "Compilation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/educational/",
+        "text": "Educational"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/board_games/",
+        "text": "Board Game"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fighting/",
+        "text": "Fighting"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/shooter/",
+        "text": "Shooter"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/baseball/",
+        "text": "Baseball"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/basketball/",
+        "text": "Basketball"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/bowling/",
+        "text": "Bowling"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/boxing/",
+        "text": "Boxing"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fishing/",
+        "text": "Fishing"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/football-american/",
+        "text": "Football (American)"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/golf/",
+        "text": "Golf"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tennis/",
+        "text": "Tennis"
+      }
+    ],
+    "Educational",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/math-logic/",
+        "text": "Math / Logic"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tank/",
+        "text": "Tank"
+      }
+    ],
+    "Setting",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sci-fi-futuristic/",
+        "text": "Sci-Fi / Futuristic"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nThis was a cart that was released in PAL format in Europe, Australia and New Zealand. Most were the pack in game with the Atari 2600 in the UK and Atari 7800 in Australia and New Zealand but it was also released as a boxed separate game for the Atari 2600. A different game was selected every time the Atari 2600 or Atari 7800 was turned on.\n\nThe games were:\n\nUFO (a renaming of U. S. Game's Space Jockey)\nFlag Capture\nHuman Cannonball\nReversi (a renaming of Atari's Othello)\nActivision's Checkers\nSlot Racers\nBlackjack\nFishing (a graphic hack of Activision's Fishing Derby in which you are fishing for crabs)\nFreeway Rabbit (a graphic hack of Activision's Freeway in which you are a rabbit)\nSpace War\nFun with Numbers\nGolf\n3-D Tic-Tac-Toe\nSurround\nMiniature Golf\nActivision's Boxing\nFootball\nAir-Sea Battle\nFreeway Chicken (a renaming of Activision's Freeway)\nActivision's Tennis\nActivision's Skiing\nActivision's Fishing Derby\nSky Diver\nBowling\nCombat\nActivision's Stampede\nActivision's Laser Blast\nOutlaw\nSlot Machine\nBasketball\nHome Run\nAnt Party (a renaming of CommaVid's Cosmic Swarm)\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/170519-32-in-1-game-cartridge-atari-2600-screenshot-freeway-rabbit.jpg",
+    "https://www.mobygames.com/images/shots/s/170520-32-in-1-game-cartridge-atari-2600-screenshot-fishing-where.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/32-in-1-game-cartridge",
+  "altTitles": []
+}

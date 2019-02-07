@@ -1,0 +1,73 @@
+{
+  "name": "Line Rider 2: Unbound",
+  "icon": "https://www.mobygames.com/images/covers/s/164728-line-rider-2-unbound-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/genius-products-inc",
+        "text": "Genius Products Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/inxile-entertainment-inc",
+        "text": "inXile Entertainment, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/line-rider-2-unbound/release-info",
+        "text": "Sep 17, 2008"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/nintendo-ds/line-rider-2-unbound",
+        "text": "Nintendo DS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii/line-rider-2-unbound",
+        "text": "Wii"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/line-rider-2-unbound",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ]
+  ],
+  "description": "\nBased off of the original flash game, this version is revamped for the home consoles with colorful graphics. Once again the player must draw a line on the screen and patch in missing sections to get the rider around on the level (40 total) to collect coins and make it to the end of the level with three different modes to choose from: Story, Puzzle and Freestyle.\n\nThe player uses their respective console's control to draw these lines: the Wii utilizes the Wii-remote, the PC version uses the mouse while the DS uses the stylus pen and the dual-screen capabilities.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/line-rider-2-unbound",
+  "altTitles": [
+    "\"Line Rider: Freestyle\" -- European title"
+  ]
+}

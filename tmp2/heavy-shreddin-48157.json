@@ -1,0 +1,64 @@
+{
+  "title": "Heavy Shreddin'",
+  "platforms": "",
+  "mechanics": "n/a",
+  "date": "July 1990",
+  "sports": "Snowboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/vk3jraapuplkxac3vvxw.jpg",
+  "altTitles": [
+    "\"Snowboard Challenge\" -- European title"
+  ],
+  "description": "\nIn this snowboarding game, the player goes on various runs completing events on downhill mountains. There are five events in all: Downhill, Slalom, Half-pipe, Moguls and Backwoods. In Downhill the object is to get down the slope as fast as possible. In Slalom you have to guide the board between the gates. In halfpipe, you have to perform stunts on a half pipe. In Moguls, you have to jump over both small and large moguls. In Backwoods, you'll be given different obstacles to contend with and you'll have to find away to get around them.\n\nYou also earn points by executing various stunts along the way. Stunts you can pull off are a toe grab, hand-plant, mid-air 360, and a mule-kick.\n\nThere are three different peaks, each featuring a couple different runs. The mountain ranges consist of Poseur Peak, Scary Summit, and Mt. Mortified.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/294694-heavy-shreddin-nes-screenshot-all-the-different-levels-and.jpg",
+    "https://www.mobygames.com/images/shots/s/294703-heavy-shreddin-nes-screenshot-game-over.jpg",
+    "https://www.mobygames.com/images/shots/s/294697-heavy-shreddin-nes-screenshot-you-can-either-cross-the-bridge.jpg",
+    "https://www.mobygames.com/images/shots/s/294696-heavy-shreddin-nes-screenshot-getting-some-air.jpg"
+  ],
+  "video": "",
+  "relatedGames": [
+    "[Steep](/games/steep-19554/)",
+    "[MTV Sports: Pure Ride](/games/mtv-sports-pure-ride-49960/)",
+    "[Millennium Winter Sports](/games/millennium-winter-sports-49962/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/heavy-shreddin-48157.md",
+  "handle": "heavy-shreddin-48157",
+  "name": "Heavy Shreddin'",
+  "icon": "https://www.mobygames.com/images/covers/s/111027-heavy-shreddin-nes-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Parker Brothers"
+    },
+    {
+      "name": "Developed by",
+      "value": "Imagineering Inc."
+    },
+    {
+      "name": "Released",
+      "value": "Jun, 1990"
+    },
+    {
+      "name": "Platform",
+      "value": "NES"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Bird's-eye view"
+    },
+    {
+      "name": "Visual",
+      "value": "2D scrolling"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/heavy-shreddin"
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Urban Trial: Playground",
+  "icon": "https://www.mobygames.com/images/covers/s/468754-urban-trial-playground-nintendo-switch-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/tate-multimedia-sa",
+        "text": "Tate Multimedia S.A."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/teyon",
+        "text": "Teyon"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/switch/urban-trial-playground/release-info",
+        "text": "Apr 05, 2018"
+      }
+    ],
+    "Official Site",
+    [
+      {
+        "link": "http://urbantrialplayground.com/",
+        "text": "Urban Trial: Playground"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/switch/",
+        "text": "Nintendo Switch"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ],
+    "Setting",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/contemporary/",
+        "text": "Contemporary"
+      }
+    ]
+  ],
+  "description": "Description",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/urban-trial-playground",
+  "altTitles": [
+    "\"アーバントライアル プレイグラウンド\" -- Japanese spelling"
+  ]
+}

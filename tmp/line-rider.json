@@ -1,0 +1,70 @@
+{
+  "name": "Line Rider",
+  "icon": "https://www.mobygames.com/images/covers/s/121374-line-rider-symbian-front-cover.jpg",
+  "attributes": [
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/line-rider/release-info",
+        "text": "Sep 23, 2006"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/blackberry/line-rider",
+        "text": "BlackBerry"
+      },
+      {
+        "link": "https://www.mobygames.com/game/browser/line-rider",
+        "text": "Browser"
+      },
+      {
+        "link": "https://www.mobygames.com/game/j2me/line-rider",
+        "text": "J2ME"
+      },
+      {
+        "link": "https://www.mobygames.com/game/palmos/line-rider",
+        "text": "Palm OS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/symbian/line-rider",
+        "text": "Symbian"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windowsmobile/line-rider",
+        "text": "Windows Mobile"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ]
+  ],
+  "description": "\nSome penguins slide down icy slopes on their bellies -- Bosh the penguin prefers to ride a toboggan down. The feat in this web sensation is really for the player to draw the particulars of the 2D slope with their mouse, using three kinds of line (regular, intangible -- for scenery, and velocity-adding... even uphill!)... and the player can just sit back and watch as the simulated gravity and physics do the rest.\n\nCheer as Bosh careens at dangerous speeds, scarf flapping briskly! Thrill as Bosh flips and recovers when launched in mid-air! And, of course, turn away in disgust when his little form, separated from his sled by a jolting bump in the track, splays in tragical ragdoll starfish patterns before lurching to a final sickening thud against a line that you drew. Then clear the track and start again! (Or: load a user track drawn by a friend!)\n\nMobile versions, though limited by the display size, make up for it by incorporating some additional features as an intermediary warm-up for Line Rider 2: Unbound, including destructible line segments, sled choice options, and a multiplayer puzzle.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/324588-line-rider-browser-screenshot-a-sad-end.jpg",
+    "https://www.mobygames.com/images/shots/s/324586-line-rider-browser-screenshot-let-s-do-this-thing.jpg",
+    "https://www.mobygames.com/images/shots/s/324580-line-rider-browser-screenshot-yow-peeling-off-uphill-on-a.jpg",
+    "https://www.mobygames.com/images/shots/s/324574-line-rider-browser-screenshot-title-screen-flash-version.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/KaJJBSpqyqw",
+  "url": "https://www.mobygames.com/game/line-rider",
+  "altTitles": [
+    "\"Line Rider Mobile\" -- alternate title for mobile devices"
+  ]
+}

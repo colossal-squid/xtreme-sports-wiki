@@ -1,0 +1,68 @@
+{
+  "name": "Wax",
+  "icon": "https://www.mobygames.com/images/covers/s/303220-wax-j2me-front-cover.jpg",
+  "attributes": [
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/cheeky-wireless",
+        "text": "Cheeky Wireless"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/j2me/wax/release-info",
+        "text": "2004"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/j2me/",
+        "text": "J2ME"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nWax is a snowboarding game shown through a top-down perspective. There is only one slope, filled with trees, rocks, and other obstacles. While a timer counts down, you control the speed and move your rider left or right to pass through gates. If you miss one, five seconds are deducted from your time. You can also jump over certain obstacles. Even though there is only one course, the score keeps adding up game after game, as each game has the environment randomly generated, while the difficulty is increased by making the gates smaller.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/174892-wax-j2me-screenshot-preparing-for-the-race.jpg",
+    "https://www.mobygames.com/images/shots/s/174893-wax-j2me-screenshot-you-can-jump-over-this-river.jpg",
+    "https://www.mobygames.com/images/shots/s/174895-wax-j2me-screenshot-there-is-a-snow-truck-on-the-right.jpg",
+    "https://www.mobygames.com/images/shots/s/174891-wax-j2me-screenshot-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/wax",
+  "altTitles": []
+}

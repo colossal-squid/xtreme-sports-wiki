@@ -1,0 +1,57 @@
+{
+  "title": "TrackMania Original",
+  "platforms": "Windows",
+  "mechanics": "n/a",
+  "date": "Oct 12, 2005",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/197307-trackmania-original-windows-front-cover.jpg",
+  "altTitles": [],
+  "description": "\nTrackMania Original is a re-release of the original TrackMania, along with the Power Up! expansion (released for free), enhancements from the Speed Up! patches (never released) and improvements from the free Original add-on. Owners of the original game can upgrade to this version without an additional purchase, but all enhancements have been included with the full game in this budget-priced bundle.\n\nAside from new features such as ad-pannels, mediatracker effects, AI opponents, multiplayer options and new game modes, the entire game has been ported to the Sunrise engine, delivering a steep boost in graphical quality.\n",
+  "screenshots": [],
+  "websites": [
+    " [https://www.mobygames.com/game/trackmania-original](https://www.mobygames.com/game/trackmania-original)"
+  ],
+  "filePath": "src/markdown/games/trackmania-original.md",
+  "handle": "trackmania-original",
+  "name": "TrackMania Original",
+  "icon": "https://www.mobygames.com/images/covers/s/197307-trackmania-original-windows-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Focus Home Interactive SAS"
+    },
+    {
+      "name": "Developed by",
+      "value": "Nadeo SAS"
+    },
+    {
+      "name": "Released",
+      "value": "Oct 12, 2005"
+    },
+    {
+      "name": "Platform",
+      "value": "Windows"
+    },
+    {
+      "name": "Genre",
+      "value": "Compilation,Racing / Driving,Special Edition"
+    },
+    {
+      "name": "Perspective",
+      "value": "1st-person,Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Puzzle elements,Tricks / Stunts"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Automobile,Track Racing"
+    },
+    {
+      "name": "Special Edition",
+      "value": "Extra Content/Game"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/trackmania-original"
+}

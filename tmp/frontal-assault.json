@@ -1,0 +1,63 @@
+{
+  "name": "Frontal Assault",
+  "icon": "https://www.mobygames.com/images/shots/s/259159-frontal-assault-windows-screenshot-age-check.jpg",
+  "attributes": [
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/frontal-assault/release-info",
+        "text": "Jul 23, 2003"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Narrative",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/adult/",
+        "text": "Adult"
+      }
+    ]
+  ],
+  "description": "\nFrontal Assault is a game about doing special kind of moves on breasts by slapping them with hand. Floating move icons show what move should be performed. If the move is not performed on time, move icon will disappear and player will lose one life. There are four different moves: helicopter left, helicopter right, bouncer and swinger. The game was created for the Assembly'03 GameDev compo.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/259160-frontal-assault-windows-screenshot-trying-to-do-a-bouncer.jpg",
+    "https://www.mobygames.com/images/shots/s/259158-frontal-assault-windows-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/259159-frontal-assault-windows-screenshot-age-check.jpg",
+    "https://www.mobygames.com/images/shots/s/259161-frontal-assault-windows-screenshot-list-of-moves.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/frontal-assault",
+  "altTitles": [
+    "\"Frontal Assault: Eturintama\" -- Tag-lined title"
+  ]
+}

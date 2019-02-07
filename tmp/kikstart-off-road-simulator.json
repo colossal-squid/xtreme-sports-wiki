@@ -1,0 +1,95 @@
+{
+  "name": "Kikstart: Off-Road Simulator",
+  "icon": "https://www.mobygames.com/images/covers/s/61936-kikstart-off-road-simulator-commodore-64-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/mastertronic-ltd",
+        "text": "Mastertronic Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/magnetic-fields-software-design-ltd",
+        "text": "Mr Chip Software"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/kikstart-off-road-simulator/release-info",
+        "text": "1985"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/atari-8-bit/kikstart-off-road-simulator",
+        "text": "Atari 8-bit"
+      },
+      {
+        "link": "https://www.mobygames.com/game/commodore-16-plus4/kikstart-off-road-simulator",
+        "text": "Commodore 16, Plus/4"
+      },
+      {
+        "link": "https://www.mobygames.com/game/c64/kikstart-off-road-simulator",
+        "text": "Commodore 64"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nThis motorcycling stunt game is complete with simultaneous split screen two player action (C16 version has one player only). You also have the option to test your skills in a one player game against the clock. The object of the game is to guide your rider as quickly and carefully as possible through three out of the eight courses you get to choose from before each race. The C16 version has 16 courses that have to be done in order with five lives. Every course has its own level of difficulty and a unique layout of trees, car's, bus's and pools of water for you to avoid by jumping your bike over. You can use your joystick or keyboard to accelerate, decelerate, wheelie and jump your bike from start to finish.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/679288-kikstart-off-road-simulator-commodore-16-plus-4-screenshot.jpg",
+    "https://www.mobygames.com/images/shots/s/319380-kikstart-off-road-simulator-commodore-64-screenshot-loading.jpg",
+    "https://www.mobygames.com/images/shots/s/189863-kikstart-off-road-simulator-atari-8-bit-screenshot-think-fast.jpg",
+    "https://www.mobygames.com/images/shots/s/189861-kikstart-off-road-simulator-atari-8-bit-screenshot-first-race.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/kikstart-off-road-simulator",
+  "altTitles": [
+    "\"Kik-Start\" -- In-game title"
+  ]
+}

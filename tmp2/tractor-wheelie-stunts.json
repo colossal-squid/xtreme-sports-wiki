@@ -1,0 +1,53 @@
+{
+  "title": "Tractor Wheelie Stunts",
+  "platforms": "iPad",
+  "mechanics": "n/a",
+  "date": "Mar 08, 2017",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/463243-tractor-wheelie-stunts-ipad-front-cover.jpg",
+  "altTitles": [],
+  "description": "Description",
+  "screenshots": [],
+  "websites": [
+    " [https://www.mobygames.com/game/tractor-wheelie-stunts](https://www.mobygames.com/game/tractor-wheelie-stunts)"
+  ],
+  "filePath": "src/markdown/games/tractor-wheelie-stunts.md",
+  "handle": "tractor-wheelie-stunts",
+  "name": "Tractor Wheelie Stunts",
+  "icon": "https://www.mobygames.com/images/covers/s/463243-tractor-wheelie-stunts-ipad-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "CarNGun Private Limited"
+    },
+    {
+      "name": "Developed by",
+      "value": "CarNGun Private Limited"
+    },
+    {
+      "name": "Released",
+      "value": "Mar 08, 2017"
+    },
+    {
+      "name": "Platforms",
+      "value": "iPad,iPhone"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Racing / Driving"
+    },
+    {
+      "name": "Perspective",
+      "value": "Side view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Arcade,Tricks / Stunts"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Agricultural / Industrial"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/tractor-wheelie-stunts"
+}

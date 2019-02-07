@@ -1,0 +1,111 @@
+{
+  "name": "Downhill Challenge",
+  "icon": "https://www.mobygames.com/images/covers/s/179621-downhill-challenge-dos-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/loriciel-sa",
+        "text": "Loriciels"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/mc2-microds",
+        "text": "Microïds"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/downhill-challenge/release-info",
+        "text": "1987"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/downhill-challenge",
+        "text": "Amiga"
+      },
+      {
+        "link": "https://www.mobygames.com/game/cpc/downhill-challenge",
+        "text": "Amstrad CPC"
+      },
+      {
+        "link": "https://www.mobygames.com/game/apple2gs/downhill-challenge",
+        "text": "Apple IIgs"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-st/downhill-challenge",
+        "text": "Atari ST"
+      },
+      {
+        "link": "https://www.mobygames.com/game/c64/downhill-challenge",
+        "text": "Commodore 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/dos/downhill-challenge",
+        "text": "DOS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/thomson-mo/downhill-challenge",
+        "text": "Thomson MO"
+      },
+      {
+        "link": "https://www.mobygames.com/game/thomson-to/downhill-challenge",
+        "text": "Thomson TO"
+      },
+      {
+        "link": "https://www.mobygames.com/game/zx-spectrum/downhill-challenge",
+        "text": "ZX Spectrum"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nThis skiing game is viewed from behind the player in 3D. There are four different events available – Slalom, Giant Slalom, Downhill and Ski Jump. These can be practiced in Training mode, or taken on in a sequence of 2 of each in Competition mode. You must pass through the pairs of gates and hit the single ones, remain on the course, and avoid trees and spectators. Offences such as these will cause you to accrue penalty points, which will detract from your score. Up to 5 players can attempt these, with their results compared at the end.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/163801-downhill-challenge-atari-st-screenshot-title-screen-with-scrolling.jpg",
+    "https://www.mobygames.com/images/shots/s/163808-downhill-challenge-atari-st-screenshot-go-through-the-gates.jpg",
+    "https://www.mobygames.com/images/shots/s/274891-downhill-challenge-dos-screenshot-could-you-stand.jpg",
+    "https://www.mobygames.com/images/shots/s/163805-downhill-challenge-atari-st-screenshot-the-three-courses-vary.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/downhill-challenge",
+  "altTitles": [
+    "\"Superski Challenge\" -- UK Re-release Title",
+    "\"Super Ski\" -- European Title",
+    "\"Eddie Edwards Super Ski\" -- UK Title"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Skate of the Art",
+  "icon": "https://www.mobygames.com/images/shots/s/800614-skate-of-the-art-amiga-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/linel",
+        "text": "Linel"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/1001-software-development-",
+        "text": "1001 Software Development "
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/skate-of-the-art/release-info",
+        "text": "1989"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/amiga/",
+        "text": "Amiga"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\nSkate of the Art is a skateboarding game that is based on the Commodore 64 game Rollerboard. The two game have almost identical gameplay but have different level designs. The Amiga game also features completely remade graphics. The game is side scrolling and the player's task in each level is to get to the finishing line without crashing on the obstacles that lies in his path. When starting out there are five skateboards available and for every crash one is lost. When all out of skateboards the game will end. All action is controlled with the joystick. Pressing the button increases the speed while pulling the stick in different directions causes the skater to jump, brake or to climb. By combining button presses and stick pulling the player can also make various tricks such as normal and double flips.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/800620-skate-of-the-art-amiga-screenshot-climbing-an-obstacle.jpg",
+    "https://www.mobygames.com/images/shots/s/800622-skate-of-the-art-amiga-screenshot-jumping.jpg",
+    "https://www.mobygames.com/images/shots/s/800616-skate-of-the-art-amiga-screenshot-skater-picture.jpg",
+    "https://www.mobygames.com/images/shots/s/800619-skate-of-the-art-amiga-screenshot-getting-ready.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/skate-of-the-art",
+  "altTitles": []
+}

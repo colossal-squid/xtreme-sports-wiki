@@ -1,0 +1,86 @@
+{
+  "name": "Hard Drivin' II",
+  "icon": "https://www.mobygames.com/images/covers/s/16538-hard-drivin-ii-dos-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/domark-software-ltd",
+        "text": "Domark Software Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/hard-drivin-ii/release-info",
+        "text": "1990"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/hard-drivin-ii",
+        "text": "Amiga"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-st/hard-drivin-ii",
+        "text": "Atari ST"
+      },
+      {
+        "link": "https://www.mobygames.com/game/dos/hard-drivin-ii",
+        "text": "DOS"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/vehicle-simulator/",
+        "text": "Vehicle Simulator"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nHard Drivin' II is the sequel to Hard Drivin' which featured bold 3D polygon graphics and a chaotic feeling of speed.\n\nMany of the bugs in the original, such as cars appearing through the hills, are gone in this game. The frame rate of the game increases slightly, with the controls being more reliable. A 2-player mode has been added. There are also 4 new tracks and a course designer.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/30760-hard-drivin-ii-dos-screenshot-starting-a-race-hercules-monochrome.jpg",
+    "https://www.mobygames.com/images/shots/s/22043-hard-drivin-ii-dos-screenshot-racing-vga.jpg",
+    "https://www.mobygames.com/images/shots/s/22049-hard-drivin-ii-dos-screenshot-loop-ahead-ega.jpg",
+    "https://www.mobygames.com/images/shots/s/22041-hard-drivin-ii-dos-screenshot-title-screen-vga.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/hard-drivin-ii",
+  "altTitles": [
+    "\"Hard Drivin' II: Drive Harder\" -- Tag-lined title"
+  ]
+}

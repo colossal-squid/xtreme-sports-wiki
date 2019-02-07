@@ -1,0 +1,58 @@
+{
+  "title": "Amped 2",
+  "platforms": "Xbox",
+  "mechanics": "n/a",
+  "date": "October 2003",
+  "sports": "Snowboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/ngenigkwraomixcw6rzu.jpg",
+  "altTitles": [
+    "\"Tenku 2\" -- Japanese title"
+  ],
+  "description": "\nAmped 2 is the sequel to Microsoft's first snowboarding game, Amped: Freestyle Snowboarding.The mountains are larger, there are more goals to accomplish, and there is more diversity to the graphics. Many real snowboarding tricks are including, from Indy's and Mute's to Stalefish's and Tailgrabs. Specific to the sequel are kick flips and shove it's, as well as the ability to link tricks together via \"butter\", similar to Tony Hawk's manual.\n\nThe career mode has you starting out as a level 250 nobody. It's your job to rise the ranks and fight your way to number one in the world. Challenges consist of beating a high score, beating media challenges, performing certain tricks in one run, finding and clearing all the gaps, and knocking down eight snowmen, who taunt you and laugh at you. When you're done with the normal goals, and your player is high enough, you can attempt Sponsor Goals and Photo Shoots, to earn new equipment and further unlock the mountain. Some sponsors may like rails, so you'll have to use just rails to impress them. The photo shoot has you performing tricks to get a set score while going through various rings on a set area of the mountain.\n\nOnce you're finished with single player, you can go online via Xbox Live to play with other people. Your stats will be tracked and you can view your ranking, other player rankings, and where you stand at XSNSports.com. Compete in races, stunt events, or just cruise the mountain.\n",
+  "screenshots": [],
+  "video": "",
+  "relatedGames": [
+    "[Session](/games/session-75694/)",
+    "[Rippin' Riders Snowboarding](/games/rippin-riders-snowboarding-26132/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/amped-2-5725.md",
+  "handle": "amped-2-5725",
+  "name": "Amped 2",
+  "icon": "https://www.mobygames.com/images/covers/s/26629-amped-2-xbox-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Microsoft Game Studios"
+    },
+    {
+      "name": "Developed by",
+      "value": "Access Software, Inc."
+    },
+    {
+      "name": "Released",
+      "value": "Oct 28, 2003"
+    },
+    {
+      "name": "Platform",
+      "value": "Xbox"
+    },
+    {
+      "name": "ESRB Rating",
+      "value": "Everyone"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Bird's-eye view"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/amped-2"
+}

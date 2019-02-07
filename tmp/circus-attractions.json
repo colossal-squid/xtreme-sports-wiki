@@ -1,0 +1,99 @@
+{
+  "name": "Circus Attractions",
+  "icon": "https://www.mobygames.com/images/shots/s/100144-circus-attractions-dos-screenshot-titlescreen-ega.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/rainbow-arts-software-gmbh",
+        "text": "Rainbow Arts Software GmbH"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/golden-goblins",
+        "text": "Golden Goblins"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/circus-attractions/release-info",
+        "text": "1989"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/circus-attractions",
+        "text": "Amiga"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-st/circus-attractions",
+        "text": "Atari ST"
+      },
+      {
+        "link": "https://www.mobygames.com/game/c64/circus-attractions",
+        "text": "Commodore 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/dos/circus-attractions",
+        "text": "DOS"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/birds-eye-view/",
+        "text": "Bird's-eye view"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fixed-flip-screen/",
+        "text": "Fixed / Flip-screen"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ]
+  ],
+  "description": "\nThe famous Circus Morelli offers five exciting events: trampolining, tightrope-walking, juggling, knife-throwing and jumping clowns.\n\nYou control the artists during their sometimes dangerous stunts.\n\nEach attraction can be practiced on its own before all five have to be performed in order in the main performance of the evening.\n\nEach attraction also has a special two-player team mode.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/295735-circus-attractions-atari-st-screenshot-clown-jumping.jpg",
+    "https://www.mobygames.com/images/shots/s/103200-circus-attractions-dos-screenshot-knife-throwing-ega.jpg",
+    "https://www.mobygames.com/images/shots/s/100144-circus-attractions-dos-screenshot-titlescreen-ega.jpg",
+    "https://www.mobygames.com/images/shots/s/295733-circus-attractions-atari-st-screenshot-juggling.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/circus-attractions",
+  "altTitles": []
+}

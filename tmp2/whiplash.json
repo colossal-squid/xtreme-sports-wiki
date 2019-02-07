@@ -1,0 +1,68 @@
+{
+  "title": "Whiplash",
+  "platforms": "DOS",
+  "mechanics": "n/a",
+  "date": "1996",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/4556-whiplash-dos-front-cover.jpg",
+  "altTitles": [
+    "\"Fatal Racing\" -- European title"
+  ],
+  "description": "\nWhiplash is a fast-paced racing game where you choose from eight different cars and race on over sixteen different tracks to brave death-defying loops and corkscrews in stunt racing. The different players are organized in teams of two cars each. The aim is of course to reach the finish line first, but on harder difficulty levels opponents can also be killed by repeatedly bumping into them. The damage is visible, with dents and smoke. Each track has a pit stop where cars stand still to be repaired, but they can be pushed out of the area. When going for kills, team members will not engage each other.\n\nThere are different camera angles, a replay function, and both automatic and manual transmission. Next to quick races, the main portion of the game are the cups, unlocked one after another.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/424100-whiplash-dos-screenshot-european-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/8598-whiplash-dos-screenshot-in-the-tunnel.jpg",
+    "https://www.mobygames.com/images/shots/s/8594-whiplash-dos-screenshot-introduction.jpg",
+    "https://www.mobygames.com/images/shots/s/8599-whiplash-dos-screenshot-you-have-problems.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/whiplash](https://www.mobygames.com/game/whiplash)"
+  ],
+  "filePath": "src/markdown/games/whiplash.md",
+  "handle": "whiplash",
+  "name": "Whiplash",
+  "icon": "https://www.mobygames.com/images/covers/s/4556-whiplash-dos-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Interplay Entertainment Corp."
+    },
+    {
+      "name": "Developed by",
+      "value": "Gremlin Interactive Limited"
+    },
+    {
+      "name": "Released",
+      "value": "1996"
+    },
+    {
+      "name": "Platform",
+      "value": "DOS"
+    },
+    {
+      "name": "ESRB Rating",
+      "value": "Kids to Adults"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Racing / Driving"
+    },
+    {
+      "name": "Perspective",
+      "value": "1st-person,Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Interface",
+      "value": "Direct Control"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Automobile,Track Racing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/whiplash"
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Yamaha Supercross",
+  "icon": "https://www.mobygames.com/images/covers/s/298114-yamaha-supercross-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/zoo-publishing-inc",
+        "text": "Destination Software, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/clockwork-games-ltd",
+        "text": "Beyond Reality Games Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/yamaha-supercross/release-info",
+        "text": "Mar 05, 2009"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/wii/yamaha-supercross",
+        "text": "Wii"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/yamaha-supercross",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nYamaha Supercross is a motocross racing game carrying an official license from the Japanese motorcycle manufacturer. The player can choose from six different Yamaha bikes and can race them in nine different locations with a total of eighteen races. Like in other games of its kinds, it's not just about reaching the finish line first but also doing various tricks and stunts.\n\nThere are four different game modes: tournament, arcade, practice and challenge. In the tournament the aim is to be crowned the King of Yamaha Supercross and for that to happen the player needs to progress through four championship classes. As progress is made, opponents get more skilful and the bikes get more powerful and less forgiving. The arcade mode features single races where the player can race on any track that has been unlocked. In the practice mode the player races against a ghost racer which represents a replay of the latest lap. Challenge mode is all about stunts and to progress the player has to succeed with a certain number of stunts.\n\nThe game also features multiplayer where two players can compete locally in an arcade mode race.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/757849-yamaha-supercross-windows-screenshot-doing-a-switch-blade.jpg",
+    "https://www.mobygames.com/images/shots/s/757836-yamaha-supercross-windows-screenshot-track-selection.jpg",
+    "https://www.mobygames.com/images/shots/s/757850-yamaha-supercross-windows-screenshot-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/757844-yamaha-supercross-windows-screenshot-replay.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/yamaha-supercross",
+  "altTitles": []
+}

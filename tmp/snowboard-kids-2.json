@@ -1,0 +1,85 @@
+{
+  "name": "Snowboard Kids 2",
+  "icon": "https://www.mobygames.com/images/shots/s/192826-snowboard-kids-2-nintendo-64-screenshot-main-menu.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/atlus-co-ltd",
+        "text": "Atlus Co., Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/racjin-co-ltd",
+        "text": "Racdym"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/n64/snowboard-kids-2/release-info",
+        "text": "1999"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/n64/",
+        "text": "Nintendo 64"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nThe sequel to the famous snowboard simulation Snowboard Kids is a fun family sports game. It combines a trick-oriented snowboard simulator with shooting/arcade elements.\n\nPlayer can choose from various characters with different look and skills. There are different gaming modes, including a story mode with very light and entertaining plot. The storyline is actually quite basic, sometimes similar to the Kirby series concepts. Hence, there is no rush for saving the world, just some funny little fellas entertaining themselves.\n\nWinning a race or performing tricks provides the player with some credit which can be spent on improved equipment. Shooting elements are based on but not limited to throwing strange objects (like parachutes or snow-men) against other snowboard kids in order to slow them down. There are great power-ups during the gameplay. Courses are rarely covered with snow - most of the races are held in freakish regions like jungles, space stations, castles etc.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/192834-snowboard-kids-2-nintendo-64-screenshot-linda-s-castle-course.jpg",
+    "https://www.mobygames.com/images/shots/s/192827-snowboard-kids-2-nintendo-64-screenshot-level-select-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/192832-snowboard-kids-2-nintendo-64-screenshot-linda-s-castle-course.jpg",
+    "https://www.mobygames.com/images/shots/s/192835-snowboard-kids-2-nintendo-64-screenshot-wendy-s-house-course.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/snowboard-kids-2",
+  "altTitles": [
+    "\"Chou Snowbo Kids\" -- Japanese title"
+  ]
+}

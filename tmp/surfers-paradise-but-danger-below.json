@@ -1,0 +1,70 @@
+{
+  "name": "Surfer's Paradise But Danger Below!",
+  "icon": "https://www.mobygames.com/images/shots/s/375147-surfer-s-paradise-but-danger-below-atari-2600-screenshot-starting.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/video-gems",
+        "text": "Video Gems"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/atari-2600/surfers-paradise-but-danger-below/release-info",
+        "text": "1983"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/atari-2600/",
+        "text": "Atari 2600"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fixed-flip-screen/",
+        "text": "Fixed / Flip-screen"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/surfing/",
+        "text": "Surfing"
+      }
+    ]
+  ],
+  "description": "\nIn Surfer's Paradise, the player's objective is to stay on top of a wave as long as possible. From time to time, a shark will approach the player who can in turn jump to try to avoid the shark. If they fail or if they don't manage to stay on top of the wave, they will drop into the water.\n\nThe underwater sequence makes up the second part of the game. Here, the player has to get from the left side of the screen to the right side and back onto their surf board. However, there's a sunken galleon in their way. The player has to navigate a maze of walls in a limited amount of time while also avoiding oncoming jellyfish.\n\nOnce the player reaches the top of the board, a new and more difficult round starts. Scoring is achieved by staying on top of the wave as long as possible. Extra lives are awarded for every 1000 points.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/375148-surfer-s-paradise-but-danger-below-atari-2600-screenshot-uh.jpg",
+    "https://www.mobygames.com/images/shots/s/375147-surfer-s-paradise-but-danger-below-atari-2600-screenshot-starting.jpg",
+    "https://www.mobygames.com/images/shots/s/375149-surfer-s-paradise-but-danger-below-atari-2600-screenshot-underwater.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/surfers-paradise-but-danger-below",
+  "altTitles": []
+}

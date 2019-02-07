@@ -1,0 +1,54 @@
+{
+  "title": "Scooter Pro",
+  "platforms": "Windows",
+  "mechanics": "n/a",
+  "date": "2003",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/281403-scooter-pro-windows-front-cover.jpg",
+  "altTitles": [],
+  "description": "\nScooter Pro is a single player game in which the player races around a selection of urban courses collecting tokens. All runs are timed and the faster they courses are completed the higher the score. The game is entirely keyboard controlled, has a high score table and a choice of male and female characters.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/682662-scooter-pro-windows-screenshot-the-game-map-a-new-game-always.jpg",
+    "https://www.mobygames.com/images/shots/s/682663-scooter-pro-windows-screenshot-the-first-level-of-the-mall.jpg",
+    "https://www.mobygames.com/images/shots/s/682665-scooter-pro-windows-screenshot-this-run-around-the-mall-didn.jpg",
+    "https://www.mobygames.com/images/shots/s/682659-scooter-pro-windows-screenshot-there-is-a-puzzle-element-to.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/scooter-pro](https://www.mobygames.com/game/scooter-pro)"
+  ],
+  "filePath": "src/markdown/games/scooter-pro.md",
+  "handle": "scooter-pro",
+  "name": "Scooter Pro",
+  "icon": "https://www.mobygames.com/images/covers/s/281403-scooter-pro-windows-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Megaware Multimedia B.V."
+    },
+    {
+      "name": "Developed by",
+      "value": "Fusion Digital Games Ltd."
+    },
+    {
+      "name": "Released",
+      "value": "2003"
+    },
+    {
+      "name": "Platform",
+      "value": "Windows"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/scooter-pro"
+}

@@ -1,0 +1,86 @@
+{
+  "name": "MotoRodeo",
+  "icon": "https://www.mobygames.com/images/covers/s/258811-motorodeo-atari-2600-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/atari-corporation",
+        "text": "Atari Corporation"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/axlon",
+        "text": "Axlon"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/atari-2600/motorodeo/release-info",
+        "text": "1990"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/atari-2600/",
+        "text": "Atari 2600"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nThis is a monster truck race that features true split screen action on an Atari 2600.\n\nFirst, you move the joystick(s) up or down to select if this opponent will be a human player or computer, a blazer or a truck and whether it will have tires or trax. Tires allow you to go over obstacles easier, trax make you bounce higher. Then on the next screen, you select weather you are going to do a competition at hard, medium or easy or whether you are going to practice one of the obstacles in the game.\n\nPress the joystick button to accelerate. Move the joystick down to do a wheelie when on the ground. Move the joystick left and right when in the air to control your spin. Move the joystick left and right quickly to escape mud bogs. Press the joystick button and push forward to use a nitro burst if you collected them.\n\nDifficulty switches\nOnly the left switch is used.\nSet it to A for a scoring game in which the player with the most points at the end of the race wins.\nSet it to B for a timing race in which the first player across the finish line wins.\n\nScoring\nIf the difficulty switch is set to A, the scoring is as follows:\nLanding upright and flat from a jump=5 points\nHit a wall=10 points\nCrush a car=20 points\nBounce on truck tires on the platform=25 points\nJump to a collapsed ramp=25 points\nTouching 50 on the screen=50 points\nFinish the race first=100 points\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/175281-motorodeo-atari-2600-screenshot-racing-against-the-computer.jpg",
+    "https://www.mobygames.com/images/shots/s/175283-motorodeo-atari-2600-screenshot-final-stadings-in-point-mode.jpg",
+    "https://www.mobygames.com/images/shots/s/175282-motorodeo-atari-2600-screenshot-you-can-crush-cars.jpg",
+    "https://www.mobygames.com/images/shots/s/175280-motorodeo-atari-2600-screenshot-options.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/motorodeo",
+  "altTitles": []
+}

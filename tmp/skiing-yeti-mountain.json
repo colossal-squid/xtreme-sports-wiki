@@ -1,0 +1,90 @@
+{
+  "name": "Skiing: Yeti Mountain",
+  "icon": "https://www.mobygames.com/images/covers/s/315036-skiing-yeti-mountain-ipad-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/featherweight-games-pty-limited",
+        "text": "Featherweight Games Pty Limited"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/featherweight-games-pty-limited",
+        "text": "Featherweight Games Pty Limited"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/skiing-yeti-mountain/release-info",
+        "text": "May 20, 2015"
+      }
+    ],
+    "Official Site",
+    [
+      {
+        "link": "http://www.featherweightgames.com/skiing/",
+        "text": "Skiing: Yeti Mountain"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/android/skiing-yeti-mountain",
+        "text": "Android"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ipad/skiing-yeti-mountain",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/skiing-yeti-mountain",
+        "text": "iPhone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSkiing: Yeti Mountain is a downhill skiing game with gameplay similar to SkiFree or the contemporary Dudeski. The player controls a character who skies down a mountain in search for a Yeti. Movement is done by tapping and holding near the bottom of the screen and then moving left or right to control the direction of the skier. The game's main Story mode is split up into a large amount of levels. The character has to complete a section, slaloming past the right side of gates, jumping over gaps and avoiding crashing into trees. There are different types of surfaces with snow and ice that influence the speed.\n\nMost levels have a timer. Completing a section in time is not required to progress, but it influences the amount of experience earned to level up. With each new level a different type of gear (hat, suit and skies) is provided for the player to customize the character. Along the way various characters are met who contribute to the story. Next to the Story mode there is a Challenge mode with much harder levels and a third mode where sections need to be completed in a set amount of time.\n\nThe game is free-to-play and only has an in-app purchase to remove advertisements. These ads are integrated into the game world through billboards and the salesman Larry Pine, Chief Marketing Officer of Yeti Mountain, who sometimes appears with an offer. Fifty percent of the profits of the in-app purchases are donated to the Nepal relief effort following the April 2015 earthquake. The developer Tim Kaldor lived and worked there, and the village of his girlfriend and her family there was flattened.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/810519-skiing-yeti-mountain-android-screenshot-cross-the-finish-line.jpg",
+    "https://www.mobygames.com/images/shots/s/810517-skiing-yeti-mountain-android-screenshot-my-inventory-so-far.jpg",
+    "https://www.mobygames.com/images/shots/s/810504-skiing-yeti-mountain-android-screenshot-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/810520-skiing-yeti-mountain-android-screenshot-here-s-larry-again.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/skiing-yeti-mountain",
+  "altTitles": []
+}

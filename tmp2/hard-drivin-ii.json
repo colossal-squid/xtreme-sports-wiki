@@ -1,0 +1,56 @@
+{
+  "title": "Hard Drivin' II",
+  "platforms": "Amiga",
+  "mechanics": "n/a",
+  "date": "1990",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/16538-hard-drivin-ii-dos-front-cover.jpg",
+  "altTitles": [
+    "\"Hard Drivin' II: Drive Harder\" -- Tag-lined title"
+  ],
+  "description": "\nHard Drivin' II is the sequel to Hard Drivin' which featured bold 3D polygon graphics and a chaotic feeling of speed.\n\nMany of the bugs in the original, such as cars appearing through the hills, are gone in this game. The frame rate of the game increases slightly, with the controls being more reliable. A 2-player mode has been added. There are also 4 new tracks and a course designer.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/30760-hard-drivin-ii-dos-screenshot-starting-a-race-hercules-monochrome.jpg",
+    "https://www.mobygames.com/images/shots/s/22043-hard-drivin-ii-dos-screenshot-racing-vga.jpg",
+    "https://www.mobygames.com/images/shots/s/22049-hard-drivin-ii-dos-screenshot-loop-ahead-ega.jpg",
+    "https://www.mobygames.com/images/shots/s/22041-hard-drivin-ii-dos-screenshot-title-screen-vga.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/hard-drivin-ii](https://www.mobygames.com/game/hard-drivin-ii)"
+  ],
+  "filePath": "src/markdown/games/hard-drivin-ii.md",
+  "handle": "hard-drivin-ii",
+  "name": "Hard Drivin' II",
+  "icon": "https://www.mobygames.com/images/covers/s/16538-hard-drivin-ii-dos-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Domark Software Ltd."
+    },
+    {
+      "name": "Released",
+      "value": "1990"
+    },
+    {
+      "name": "Platforms",
+      "value": "Amiga,Atari ST,DOS"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving"
+    },
+    {
+      "name": "Perspective",
+      "value": "1st-person"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Arcade,Tricks / Stunts,Vehicle Simulator"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Automobile,Track Racing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/hard-drivin-ii"
+}

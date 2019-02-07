@@ -1,0 +1,72 @@
+{
+  "name": "Hotdog",
+  "icon": "https://www.mobygames.com/images/shots/s/697829-hotdog-sharp-x1-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/bothtec-inc",
+        "text": "Bothtec, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/bothtec-inc",
+        "text": "Bothtec, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/hotdog/release-info",
+        "text": "1985"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/fm-7/hotdog",
+        "text": "FM-7"
+      },
+      {
+        "link": "https://www.mobygames.com/game/pc88/hotdog",
+        "text": "PC-88"
+      },
+      {
+        "link": "https://www.mobygames.com/game/sharp-x1/hotdog",
+        "text": "Sharp X1"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nHotdog is a simple skiing simulation game offering three events: slalom, mogul, and aerial. The player controls the skiier, and can move left and right as well as increase or decrease the speed. There is a single-player mode where the player is ranked against computer opponents, as well as a multiplayer mode for up to five players.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/697832-hotdog-sharp-x1-screenshot-slalom-results-hey-at-least-i-wasn.jpg",
+    "https://www.mobygames.com/images/shots/s/697833-hotdog-sharp-x1-screenshot-mogul.jpg",
+    "https://www.mobygames.com/images/shots/s/697831-hotdog-sharp-x1-screenshot-slalom-start.jpg",
+    "https://www.mobygames.com/images/shots/s/697830-hotdog-sharp-x1-screenshot-up-to-5-players-can-play-not-simultaneously.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/hotdog",
+  "altTitles": []
+}

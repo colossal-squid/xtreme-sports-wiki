@@ -1,0 +1,64 @@
+{
+  "name": "Alpine Racer",
+  "icon": "https://www.mobygames.com/images/shots/s/907650-alpine-racer-arcade-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/namco-limited",
+        "text": "Namco Limited"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/namco-limited",
+        "text": "Namco Limited"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/arcade/alpine-racer_/release-info",
+        "text": "Jun, 1995"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/arcade/",
+        "text": "Arcade"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nAlpine Racer is a downhill ski racing game. It is played on a large cabinet where the player stands on a set of ski-like foot stands that are moved with horizontal motions to steer and taking corners while holding onto two bars for stability. There is also an edging element when the pressure applied to the inside and outside edges of the foot stands are measured, as an additional means to control speed.\n\nThe game contains two game modes, either speed racing to reach the finish before computer-controlled opponents do or gate racing as a race against time. There are three environments to choose from, each representing a different difficulty level (novice, intermediate or expert) and each slope is split up into different sections separated by gates that extend time in the race mode. In the gate racing mode the skier has to pass as many gates as possible, but missing gates does not lead to disqualification. A replay of the run with different perspectives is shown after the game is over.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/907655-alpine-racer-arcade-screenshot-time-is-up.jpg",
+    "https://www.mobygames.com/images/shots/s/907650-alpine-racer-arcade-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/907651-alpine-racer-arcade-screenshot-select-game-mode.jpg",
+    "https://www.mobygames.com/images/shots/s/907653-alpine-racer-arcade-screenshot-game-start.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/alpine-racer_",
+  "altTitles": []
+}

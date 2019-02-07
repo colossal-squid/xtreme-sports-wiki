@@ -1,0 +1,60 @@
+{
+  "name": "3D Scooter Racing",
+  "icon": "https://www.mobygames.com/images/covers/s/9503-3d-scooter-racing-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/pantera-entertainment",
+        "text": "Pantera Entertainment"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/3d-scooter-racing/release-info",
+        "text": "2001"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\n3D Scooter Racing is an installment in Pantera Entertainment's 3D sports series. It allows players to participate in virtual scooter races. Take on four AI opponents in ten courses, performing stunts and avoiding obstacles and each other. Three difficulty settings are available.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/3d-scooter-racing",
+  "altTitles": []
+}

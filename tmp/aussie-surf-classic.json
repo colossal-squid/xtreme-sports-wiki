@@ -1,0 +1,66 @@
+{
+  "name": "Aussie Surf Classic",
+  "icon": "https://www.mobygames.com/images/covers/s/302452-aussie-surf-classic-browser-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/edis-brothers",
+        "text": "Ezone.com"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/edis-brothers",
+        "text": "Ezone.com"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/browser/aussie-surf-classic/release-info",
+        "text": "2000"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/browser/",
+        "text": "Browser"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/surfing/",
+        "text": "Surfing"
+      }
+    ]
+  ],
+  "description": "\nAussie Surf Classic is a single player, keyboard controlled, casual game.\n\nThere are three rounds to this game, the player must come top in each of the first two heats to have be in the final round of the championship. Each round sees the player take control of a surfer dude riding a big wave, the surfer is keyboard controlled and can move left/right either with the arrow keys or with the '<' and '>' keys. Points are scored for the length of the surfing run, collecting 'cool move' tokens and for performing special moves. The length of the run is affected by hitting/avoiding obstacles such as other surfers and rocks.\n\n\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/772172-aussie-surf-classic-browser-screenshot-the-game-has-begun.jpg",
+    "https://www.mobygames.com/images/shots/s/772171-aussie-surf-classic-browser-screenshot-when-the-game-starts.jpg",
+    "https://www.mobygames.com/images/shots/s/772178-aussie-surf-classic-browser-screenshot-the-high-score-table.jpg",
+    "https://www.mobygames.com/images/shots/s/772168-aussie-surf-classic-browser-screenshot-the-menu-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/aussie-surf-classic",
+  "altTitles": [
+    "\"Aussie Surfing\" -- Shortened in-game title"
+  ]
+}

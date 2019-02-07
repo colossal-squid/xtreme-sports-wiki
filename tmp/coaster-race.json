@@ -1,0 +1,78 @@
+{
+  "name": "Coaster Race",
+  "icon": "https://www.mobygames.com/images/covers/s/307050-coaster-race-msx-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/sony-corporation",
+        "text": "Sony Corporation"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/sony-corporation",
+        "text": "Sony Corporation"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/msx/coaster-race/release-info",
+        "text": "1986"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/msx/",
+        "text": "MSX"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nRace game on a coaster ramp. Use your driving skills to make it through the steeply banked turns and the great 360° loop. Your on your way to beat the current fastest time!\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/132939-coaster-race-msx-screenshot-watch-that-car.jpg",
+    "https://www.mobygames.com/images/shots/s/132938-coaster-race-msx-screenshot-pedal-to-the-metal.jpg",
+    "https://www.mobygames.com/images/shots/s/132937-coaster-race-msx-screenshot-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/coaster-race",
+  "altTitles": []
+}

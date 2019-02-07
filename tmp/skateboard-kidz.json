@@ -1,0 +1,78 @@
+{
+  "name": "Skateboard Kidz",
+  "icon": "https://www.mobygames.com/images/covers/s/56451-skateboard-kidz-zx-spectrum-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/silverbird-software-ltd",
+        "text": "Silverbird Software Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/skateboard-kidz/release-info",
+        "text": "1988"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/cpc/skateboard-kidz",
+        "text": "Amstrad CPC"
+      },
+      {
+        "link": "https://www.mobygames.com/game/zx-spectrum/skateboard-kidz",
+        "text": "ZX Spectrum"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/isometric/",
+        "text": "Isometric"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\nVertically scrolling action game with monochromatic graphics. Control your skating kid along zig-zagging paths, avoiding obstacles, jumping ramps, etc. Jump over the letters S, K, A, T and E to collect sections of bronze, silver and gold skateboards. Collect litter for extra points. Eventually you come head to head with another skater, whom you must race to the finish.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/skateboard-kidz",
+  "altTitles": []
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Stunt Cycle",
+  "icon": "https://www.mobygames.com/images/shots/s/761100-stunt-cycle-arcade-screenshot-starting-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/atari-inc_",
+        "text": "Atari, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/atari-inc_",
+        "text": "Atari, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/arcade/stunt-cycle/release-info",
+        "text": "Jan, 1976"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/arcade/",
+        "text": "Arcade"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fixed-flip-screen/",
+        "text": "Fixed / Flip-screen"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ]
+  ],
+  "description": "\nStunt Cycle is an arcade motorcycle stunt game. Players run through a track performing stunts. Using the throttle causes the player to perform a wheelie of varying levels, which affects their jumps when they go off the ramp.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/761101-stunt-cycle-arcade-screenshot-going-off-the-ramp.jpg",
+    "https://www.mobygames.com/images/shots/s/878469-stunt-cycle-arcade-screenshot-extended-play-lights-up-as-you.jpg",
+    "https://www.mobygames.com/images/shots/s/878470-stunt-cycle-arcade-screenshot-if-you-can-jump-over-27-buses.jpg",
+    "https://www.mobygames.com/images/shots/s/878468-stunt-cycle-arcade-screenshot-jumped-16-buses-and-now-going.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/stunt-cycle",
+  "altTitles": []
+}

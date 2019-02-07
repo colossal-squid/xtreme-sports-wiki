@@ -1,0 +1,87 @@
+{
+  "name": "Nitrobike",
+  "icon": "https://www.mobygames.com/images/covers/s/145693-nitrobike-wii-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/ubisoft-inc",
+        "text": "Ubisoft, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/left-field-productions",
+        "text": "Left Field Productions"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/nitrobike/release-info",
+        "text": "Jan 15, 2008"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ps2/nitrobike",
+        "text": "PlayStation 2"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii/nitrobike",
+        "text": "Wii"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ]
+  ],
+  "description": "\nNitrobike is a take on the classic game of Excitebike, where the player takes the helm of a motorbike equipped with a nitro rocket, racing in 20 different tracks and over 60+ different events. The player must avoid stationary obstacles and slower riders.\n\nThere is career mode where the player can unlock new characters and bikes by winning these events and a six-player online capability. The controls mostly consist of using the Wii remote to steer and accelerate as well as boosting with the nitro rocket. There is also a four-player bowling game where players can hurl their rider at a set of huge bowling pins.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/545866-nitrobike-playstation-2-screenshot-choosing-the-motorbike.jpg",
+    "https://www.mobygames.com/images/shots/s/545867-nitrobike-playstation-2-screenshot-race-selection-setup-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/545865-nitrobike-playstation-2-screenshot-rider-selection.jpg",
+    "https://www.mobygames.com/images/shots/s/545864-nitrobike-playstation-2-screenshot-menu-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/nitrobike",
+  "altTitles": []
+}

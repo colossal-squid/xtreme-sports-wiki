@@ -1,0 +1,84 @@
+{
+  "name": "OlliOlli: Epic Combo Edition",
+  "icon": "https://www.mobygames.com/images/covers/s/532289-olliolli-epic-combo-edition-playstation-4-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/roll7",
+        "text": "Roll7"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/playstation-4/olliolli-epic-combo-edition/release-info",
+        "text": "Oct 18, 2016"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/playstation-4/",
+        "text": "PlayStation 4"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,92/",
+        "text": "Teen"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/compilation-shovelware/",
+        "text": "Compilation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/platform/",
+        "text": "Platform"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\nThis game is a compilation of:\nOlliOlli.\nOlliOlli2: Welcome to Olliwood.\n\nThe Nintendo Switch version is the first release of both games on the consoles and includes further tricks, challenges and levels.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/olliolli-epic-combo-edition",
+  "altTitles": [
+    "\"OlliOlli: Switch Stance\" -- Nintendo Switch title"
+  ]
+}

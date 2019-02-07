@@ -1,0 +1,81 @@
+{
+  "name": "Tony Hawk's American Sk8land",
+  "icon": "https://www.mobygames.com/images/covers/s/147996-tony-hawk-s-american-sk8land-game-boy-advance-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/activision-publishing-inc",
+        "text": "Activision Publishing, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/vicarious-visions-inc",
+        "text": "Vicarious Visions, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gameboy-advance/tony-hawks-american-sk8land_/release-info",
+        "text": "Oct 15, 2005"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/gameboy-advance/",
+        "text": "Game Boy Advance"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/isometric/",
+        "text": "Isometric"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nTony Hawk's American Sk8land is the portable equivalent to Tony Hawk's American Wasteland. As always, the player skates around several parks (loosely based on American Wasteland's levels) and performs a variety of stunts. Those are executed by combining the environment with certain button combinations.\n\nDuring the main story mode, the player creates a new skater who gets caught up with a skater group which wants to revive a legendary skate park named SK8Land. In practice, the player walks around the park, talks to people and receives challenges to complete; usually in the form of chained stunts. Classic mode allows to take control over real skaters and freely roam the parks. In this mode, the goal is to accumulate as many points as possible by performing spectacular stunts within a time limit. Additionally there are various multiplayer modes, unchanged from the predecessors, for link-cable and hot seat.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/156719-tony-hawk-s-american-sk8land-game-boy-advance-screenshot-before.jpg",
+    "https://www.mobygames.com/images/shots/s/156716-tony-hawk-s-american-sk8land-game-boy-advance-screenshot-title.jpg",
+    "https://www.mobygames.com/images/shots/s/156721-tony-hawk-s-american-sk8land-game-boy-advance-screenshot-tony.jpg",
+    "https://www.mobygames.com/images/shots/s/156720-tony-hawk-s-american-sk8land-game-boy-advance-screenshot-talk.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/tony-hawks-american-sk8land_",
+  "altTitles": [
+    "\"Tony Hawk's American Skateland\" -- Common spelling"
+  ]
+}

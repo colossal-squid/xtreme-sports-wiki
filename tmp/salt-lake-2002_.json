@@ -1,0 +1,106 @@
+{
+  "name": "Salt Lake 2002",
+  "icon": "https://www.mobygames.com/images/covers/s/14263-salt-lake-2002-game-boy-advance-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/ubisoft-entertainment-sa",
+        "text": "Ubi Soft Entertainment Software"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/dc-studios-inc",
+        "text": "DC Studios, Inc."
+      },
+      {
+        "link": "https://www.mobygames.com/company/ubi-studios-uk",
+        "text": "Ubi Studios UK"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gameboy-advance/salt-lake-2002_/release-info",
+        "text": "Jan 31, 2002"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/gameboy-advance/",
+        "text": "Game Boy Advance"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/birds-eye-view/",
+        "text": "Bird's-eye view"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/olympiad/",
+        "text": "Olympiad / Mixed Sports"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nSalt Lake 2002 is the officially licensed game of the 2002 Winter Olympic Games. The Game Boy Advance version has its own selection of disciplines compared to the console version, with graphics and controls customized for the handheld.\n\nSix different disciplines are available: Ski Jumping, Curling, Downhill Skiing, Bobsleigh, Snowboarding and Downhill Slalom. Different competitions are available: in Tournament Mode, players select one event and compete through four rounds, trying to best the feats of an (unseen) opponent. Olympic Mode is a competition for medals, through one or more events. Getting gold requires exceeding a certain score. Classic Mode consists of all six events in order. All target scores must be met/won in order to unlock higher difficulty levels for the other modes, with three lives available. There is also a time trial/ghost mode, in which players can try to beat their previous records. There is also a multiplayer mode for up to four players, taking turns on the same GBA.\n\nEach discipline has its own perspective and controls: jumping requires keeping balance by keeping a red dot in a targeting reticle and then pushing a button for a good landing. Downhill, slalom and snowboard are all similar, seen from an overhead perspective and allowing the athlete to crouch for acceleration, break, and make hard turns. Acceleration for the bobsleigh is done from a side view, with the actual run then seen from an elevated view behind the bob, with a dot indicating the optimum position on the track. Curling is seen from a side view, with players controlling both the throw as well as the sweepers.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/156579-salt-lake-2002-game-boy-advance-screenshot-podium.jpg",
+    "https://www.mobygames.com/images/shots/s/156574-salt-lake-2002-game-boy-advance-screenshot-downhill.jpg",
+    "https://www.mobygames.com/images/shots/s/156566-salt-lake-2002-game-boy-advance-screenshot-take-off-ramp-in.jpg",
+    "https://www.mobygames.com/images/shots/s/156578-salt-lake-2002-game-boy-advance-screenshot-starting-in-snowboard.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/salt-lake-2002_",
+  "altTitles": []
+}

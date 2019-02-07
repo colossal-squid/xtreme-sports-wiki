@@ -1,0 +1,69 @@
+{
+  "title": "X-Games&#x3a; Pro Boarder",
+  "platforms": "n/a",
+  "mechanics": "n/a",
+  "date": "n/a",
+  "sports": "Snowboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/co2yujzyckoq8ue0vjou.jpg",
+  "altTitles": [],
+  "description": "\nX-Games: Pro Boarder is a snowboarding game with several game modes including downhill and half pipe.\n\nIn downhill mode the player's mission is to get down as quickly as possible, also grinding on several objects like cars and airplanes that have been placed in the scenery.\n\nIn half pipe mode the player must travel from the beginning to the end of the pipe doing stunts on the left and the right, finishing before the time reaches zero having as many points as possible.\n\nMultiplayer over Internet and Network is supported, as well as 3D acceleration cards.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/78905-x-games-pro-boarder-windows-screenshot-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/78911-x-games-pro-boarder-windows-screenshot-simple-trick.jpg",
+    "https://www.mobygames.com/images/shots/s/78913-x-games-pro-boarder-windows-screenshot-replay.jpg",
+    "https://www.mobygames.com/images/shots/s/78907-x-games-pro-boarder-windows-screenshot-beginning.jpg"
+  ],
+  "video": "",
+  "relatedGames": [
+    "[Snowboard Kids Plus](/games/snowboard-kids-plus-72103/)",
+    "[Steep](/games/steep-19554/)",
+    "[Dark Summit](/games/dark-summit-3869/)",
+    "[Twisted Edge Extreme Snowboarding](/games/twisted-edge-extreme-snowboarding-3622/)",
+    "[Snowboard Kids 2](/games/snowboard-kids-2-3343/)",
+    "[TransWorld Snowboarding](/games/transworld-snowboarding-20795/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/x-games-pro-boarder-44844.md",
+  "handle": "x-games-pro-boarder-44844",
+  "name": "X-Games: Pro Boarder",
+  "icon": "https://www.mobygames.com/images/covers/s/193378-x-games-pro-boarder-playstation-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Electronic Arts, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Team Beer"
+    },
+    {
+      "name": "Released",
+      "value": "1998"
+    },
+    {
+      "name": "Platforms",
+      "value": "PlayStation,Windows"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "3rd-person (Other)"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/x-games-pro-boarder"
+}

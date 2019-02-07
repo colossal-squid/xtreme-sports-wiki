@@ -1,0 +1,115 @@
+{
+  "name": "Riptide GP: Renegade",
+  "icon": "https://www.mobygames.com/images/covers/s/356328-riptide-gp-renegade-playstation-4-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/vector-unit-inc",
+        "text": "Vector Unit Inc"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/vector-unit-inc",
+        "text": "Vector Unit Inc"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/riptide-gp-renegade/release-info",
+        "text": "Jul 26, 2016"
+      }
+    ],
+    "Official Site",
+    [
+      {
+        "link": "http://www.vectorunit.com/riptide-gp-renegade",
+        "text": "Riptide GP: Renegade"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/android/riptide-gp-renegade",
+        "text": "Android"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ipad/riptide-gp-renegade",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/riptide-gp-renegade",
+        "text": "iPhone"
+      },
+      {
+        "link": "https://www.mobygames.com/game/switch/riptide-gp-renegade",
+        "text": "Nintendo Switch"
+      },
+      {
+        "link": "https://www.mobygames.com/game/playstation-4/riptide-gp-renegade",
+        "text": "PlayStation 4"
+      },
+      {
+        "link": "https://www.mobygames.com/game/tvos/riptide-gp-renegade",
+        "text": "tvOS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/riptide-gp-renegade",
+        "text": "Windows"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows-apps/riptide-gp-renegade",
+        "text": "Windows Apps"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox-one/riptide-gp-renegade",
+        "text": "Xbox One"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/naval/",
+        "text": "Naval / Watercraft"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nRiptide GP: Renegade is a hydrojet racing game. It is the sequel to Riptide GP 2 and the third game in the Riptide racing series as the spiritual successor to the Hydro Thunder titles. The game modes are a single-player career mode, a challenge mode to get the best times on leaderboards, quick races, a synchronous online multiplayer mode for up to eight players, and a local split-screen mode for two to four players. The Renegade part of the title hints at the introduction of a story to the career mode. At the start of the game the player chooses a male (Impact) or female (Poison) rider. In the interactive tutorial the devious Krex gets the player's character caught in an illegal race. Years later, the rider needs to return after being banned from the GP League and take revenge on Krex. There are often static story sequences between races, with conversations between characters and bosses.\n\nThe career mode consists of several events where up to three stars can be earned based on the result, needed to keep unlocking new races until there is a showdown with a boss character. Defeating such a character adds it to the roster, with a custom hydrojet as a new vehicle to race. Racing consists of controls for acceleration, braking and turning. At various parts of the tracks stunts can be performed and these fill a booster meter. There are regular ramps, but also huge waves or bridges as there is a lot of interactivity on the tracks with events that influence the environment. After crashing a separate button is used to recover and the same button is used to activate boost. There are eight tracks: Downtown Rush, Unicorn Base, Sky Mines, Grindhouse, Tropico, The Ruins, Alpha Station, and Firewater, each with their own theme. There are shortcuts, alternate paths that open up after certain events, and also other vehicles, dynamic elements and explosions, rain, storms or fire, influencing the racing conditions.\n\nEvent types include regular track races, slalom, elimination, stunts against a time limit, and mini championships where the results of different events are combined. Certain cups are much harder and are offered as a bonus challenge. Tracks often have signs that help with the general direction or to highlight parts where stunts can be performed. Each hydrojet has different statistics for acceleration, top speed, handling and boost. Money earned during races can be used to improve these a few times, until a more powerful hydrojet is unlocked where the process is repeated. Winning also provides experience for a global player level. With each new level skill points become available to unlock new stunts, or to improve the boost bonus or boost start. It is also possible to level up the drafting ability where trailing behind an opponent adds a visual effect and provides more speed to catch up. The hydrojet colours can be customized and different types of decals can be unlocked. Optionally an easter egg can be found on each track.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/855708-riptide-gp-renegade-windows-screenshot-here-custom-decals.jpg",
+    "https://www.mobygames.com/images/shots/s/855712-riptide-gp-renegade-windows-screenshot-after-defeating-a-boss.jpg",
+    "https://www.mobygames.com/images/shots/s/855731-riptide-gp-renegade-windows-screenshot-water-splashes-on-the.jpg",
+    "https://www.mobygames.com/images/shots/s/855709-riptide-gp-renegade-windows-screenshot-sliding-over-a-platform.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/Xv7EQmtU4qs",
+  "url": "https://www.mobygames.com/game/riptide-gp-renegade",
+  "altTitles": []
+}

@@ -1,0 +1,118 @@
+{
+  "name": "WarioWare, Inc.: Mega Party Game$!",
+  "icon": "https://www.mobygames.com/images/covers/s/31912-warioware-inc-mega-party-games-gamecube-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nintendo-of-america-inc",
+        "text": "Nintendo of America Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/intelligent-systems-co-ltd",
+        "text": "Intelligent Systems Co., Ltd."
+      },
+      {
+        "link": "https://www.mobygames.com/company/nintendo-rd1",
+        "text": "Nintendo R&D1"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gamecube/warioware-inc-mega-party-game/release-info",
+        "text": "Apr 06, 2004"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/gamecube/",
+        "text": "GameCube"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/board_games/",
+        "text": "Board Game"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/baseball/",
+        "text": "Baseball"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/basketball/",
+        "text": "Basketball"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/bowling/",
+        "text": "Bowling"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/boxing/",
+        "text": "Boxing"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/golf/",
+        "text": "Golf"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ]
+  ],
+  "description": "\nIn this sequel to the nutty GBA title Made In Wario, You can play all the classic, yet strange, games found in the original game, and more. The main focus in Atsumare is multiplayer gaming. This is accomplished in many ways, including, but not limited to:\nA mode where a doctor tells you stuff you have to do in real life as you play the game, and...\nNormal Made In Wario games, now in multiplayer.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/605733-warioware-inc-mega-party-games-gamecube-screenshot-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/warioware-inc-mega-party-game",
+  "altTitles": [
+    "\"Atsumare!! Made In Wario\" -- Japanese title",
+    "\"あつまれ！！メイド　イン　ワリオ\" -- Japanese spelling"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "US Ski Team Skiing",
+  "icon": "https://www.mobygames.com/images/covers/s/208099-us-ski-team-skiing-intellivision-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/mattel-electronics",
+        "text": "Mattel Electronics"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/aph-technological-consulting",
+        "text": "APh Technological Consulting"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/us-ski-team-skiing/release-info",
+        "text": "1980"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/intellivision/us-ski-team-skiing",
+        "text": "Intellivision"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/us-ski-team-skiing",
+        "text": "Windows"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox360/us-ski-team-skiing",
+        "text": "Xbox 360"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/birds-eye-view/",
+        "text": "Bird's-eye view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nIn U.S. Ski Team Skiing, players race down the hill, avoiding trees and jumping moguls in their path. The game features both slalom and downhill courses. 1 player may race against the clock, or 2 to 6 players can alternate turns and race to see who gets the fastest time, and each race has 3 heats.\n\nBoth downhill and slalom courses have 15 different slope grade settings to affect acceleration. 4 different settings for overall game speed are also available.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/613820-us-ski-team-skiing-intellivision-screenshot-jumping.jpg",
+    "https://www.mobygames.com/images/shots/s/368981-us-ski-team-skiing-intellivision-screenshot-ready-to-begin.jpg",
+    "https://www.mobygames.com/images/shots/s/368980-us-ski-team-skiing-intellivision-screenshot-setting-some-game.jpg",
+    "https://www.mobygames.com/images/shots/s/368982-us-ski-team-skiing-intellivision-screenshot-some-skiing.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/us-ski-team-skiing",
+  "altTitles": [
+    "\"Skiing\" -- In-game title"
+  ]
+}

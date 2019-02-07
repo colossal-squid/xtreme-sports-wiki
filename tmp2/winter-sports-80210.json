@@ -1,0 +1,54 @@
+{
+  "title": "Winter Sports",
+  "platforms": "n/a",
+  "mechanics": "n/a",
+  "date": "n/a",
+  "sports": "Snowboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/z7sxdykxvlyjrjo6be8j.jpg",
+  "altTitles": [],
+  "description": "\nEight winter sports events are recreated in this Epyx-style action game. Three variations on skiing are included - Downhill, Slalom and Giant Slalom, which involve setting the correct speed and direction change as you steam through the gates. These events have a split-screen view displaying different angles at once, as to the Bobsled, Speed Skating, Bobsled and Biathlon (all bar the latter are vertically-split). As it includes target shooting, the Biathlon is one of the more challenging events. The game also includes an Ice Hockey mode as something of a bonus.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/728023-winter-sports-zx-spectrum-screenshot-downhill.jpg",
+    "https://www.mobygames.com/images/shots/s/728025-winter-sports-zx-spectrum-screenshot-giant-slalom.jpg",
+    "https://www.mobygames.com/images/shots/s/728021-winter-sports-zx-spectrum-screenshot-loading-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/728029-winter-sports-zx-spectrum-screenshot-bobsled.jpg"
+  ],
+  "video": "",
+  "relatedGames": [],
+  "websites": [],
+  "filePath": "src/markdown/games/winter-sports-80210.md",
+  "handle": "winter-sports-80210",
+  "name": "Winter Sports",
+  "icon": "https://www.mobygames.com/images/covers/s/38965-winter-sports-zx-spectrum-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Electric Dreams Software"
+    },
+    {
+      "name": "Developed by",
+      "value": "Software Images"
+    },
+    {
+      "name": "Released",
+      "value": "1985"
+    },
+    {
+      "name": "Platforms",
+      "value": "Amstrad CPC,ZX Spectrum"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "1st-person,Side view,Top-down"
+    },
+    {
+      "name": "Sport",
+      "value": "Hockey,Snowboarding / Skiing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/winter-sports"
+}

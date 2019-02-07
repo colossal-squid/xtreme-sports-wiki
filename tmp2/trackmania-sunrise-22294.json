@@ -1,0 +1,69 @@
+{
+  "title": "TrackMania Sunrise",
+  "platforms": "PC (Microsoft Windows)",
+  "mechanics": "n/a",
+  "date": "April 2005",
+  "sports": "",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/j0gtova0bg0qemzimjad.jpg",
+  "altTitles": [
+    "\"赛道狂飙：日出\" -- Chinese spelling (simplified)",
+    "\"ТрекМания Sunrise\" -- Russian spelling"
+  ],
+  "description": "\nTrackMania Sunrise is the follow-up to TrackMania and is, as its predecessor, based on track building and insane stunts. With a pool of building blocks, players can build tracks in three different environments, Island, Bay, and Coast, at four times of the day, Sunrise, Day, Sunset and Night. The game features four single-player racing modes, Race, Platform, Puzzle, Crazy, and the options of saving replays and customizing cars with skins. Multiplay over the Internet allows players to share custom tracks with other players.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/223247-trackmania-sunrise-windows-screenshot-preparing-to-get-boosted.jpg",
+    "https://www.mobygames.com/images/shots/s/223249-trackmania-sunrise-windows-screenshot-up-and-away.jpg",
+    "https://www.mobygames.com/images/shots/s/223252-trackmania-sunrise-windows-screenshot-flying-over-the-road.jpg",
+    "https://www.mobygames.com/images/shots/s/223244-trackmania-sunrise-windows-screenshot-climbing.jpg"
+  ],
+  "video": "###Trailer\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GNFCT7HgPIo\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\n",
+  "relatedGames": [
+    "[TrackMania Nations Forever](/games/trackmania-nations-forever-15773/)"
+  ],
+  "websites": [
+    " [http://maniaplanet.com](http://maniaplanet.com)"
+  ],
+  "filePath": "src/markdown/games/trackmania-sunrise-22294.md",
+  "handle": "trackmania-sunrise-22294",
+  "name": "TrackMania Sunrise",
+  "icon": "https://www.mobygames.com/images/covers/s/56006-trackmania-sunrise-windows-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Enlight Interactive Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Nadeo SAS"
+    },
+    {
+      "name": "Released",
+      "value": "May 06, 2005"
+    },
+    {
+      "name": "Platform",
+      "value": "Windows"
+    },
+    {
+      "name": "ESRB Rating",
+      "value": "Everyone"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving"
+    },
+    {
+      "name": "Perspective",
+      "value": "1st-person,Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Puzzle elements,Tricks / Stunts"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Automobile,Track Racing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/trackmania-sunrise"
+}

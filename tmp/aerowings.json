@@ -1,0 +1,86 @@
+{
+  "name": "AeroWings",
+  "icon": "https://www.mobygames.com/images/covers/s/25527-aerowings-dreamcast-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/crave-entertainment-inc",
+        "text": "Crave Entertainment, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/cri-middleware-co-ltd",
+        "text": "CSK Research Institute Corp."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/dreamcast/aerowings/release-info",
+        "text": "Sep 07, 1999"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/dreamcast/",
+        "text": "Dreamcast"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/vehicle-simulator/",
+        "text": "Vehicle Simulator"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/flight/",
+        "text": "Flight / Aviation"
+      }
+    ]
+  ],
+  "description": "\nAeroWings is a simulation that allows the player to fly as a member of a jet aerobatics team. The game contains a variety of jet-powered aircraft that the player can fly in several game modes.\nBlue Impulse Mission: Learn 20 aerobatic maneuvers and become a member of the elite Blue Impulse team. Learn loops, rolls, and more while flying both solo and in formation.\nSky Mission Attack: Fly through a series of targets suspended in mid-air before time runs out.\nFree Flight: Fly around and freely explore the landscape.\nMulti Play: Up to 4 players can perform in formation simultaneously.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/51281-aerowings-dreamcast-screenshot-landing-approach.jpg",
+    "https://www.mobygames.com/images/shots/s/51283-aerowings-dreamcast-screenshot-free-flight-at-night.jpg",
+    "https://www.mobygames.com/images/shots/s/51280-aerowings-dreamcast-screenshot-formation-flying.jpg",
+    "https://www.mobygames.com/images/shots/s/51279-aerowings-dreamcast-screenshot-intro-video.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/aerowings",
+  "altTitles": [
+    "\"エアロダンシング featuring Blue Impulse\" -- Japanese Spelling",
+    "\"Aero Dancing featuring Blue Impulse\" -- Japanese title"
+  ]
+}

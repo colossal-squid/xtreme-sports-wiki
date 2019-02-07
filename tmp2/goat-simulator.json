@@ -1,0 +1,66 @@
+{
+  "title": "Goat Simulator",
+  "platforms": "Android",
+  "mechanics": "n/a",
+  "date": "Apr 01, 2014",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/308998-goat-simulator-playstation-3-front-cover.jpg",
+  "altTitles": [],
+  "description": "\nGoat Simulator is a parody game where you play as a goat. The gameplay is similar to sandbox games with no clear mission. The objective is to roam around the map and destroy various objects to earn points. The more \"stylish\" your destruction, the more bonus points you get. You can also lick objects in the game so that they get stuck to the goat's tongue and kill humans with those objects. The game's developers also left most of the bugs unfixed as long as they make the game more fun.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/701861-goat-simulator-windows-screenshot-crashing-a-party.jpg",
+    "https://www.mobygames.com/images/shots/s/701860-goat-simulator-windows-screenshot-collect-these-statues.jpg",
+    "https://www.mobygames.com/images/shots/s/701855-goat-simulator-windows-screenshot-jump-on-trampolines-to-get.jpg",
+    "https://www.mobygames.com/images/shots/s/701853-goat-simulator-windows-screenshot-title-screen.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/goat-simulator](https://www.mobygames.com/game/goat-simulator)"
+  ],
+  "filePath": "src/markdown/games/goat-simulator.md",
+  "handle": "goat-simulator",
+  "name": "Goat Simulator",
+  "icon": "https://www.mobygames.com/images/covers/s/308998-goat-simulator-playstation-3-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Coffee Stain Studios AB"
+    },
+    {
+      "name": "Developed by",
+      "value": "Coffee Stain Studios AB"
+    },
+    {
+      "name": "Released",
+      "value": "Apr 01, 2014"
+    },
+    {
+      "name": "Official Site",
+      "value": "Goat Simulator"
+    },
+    {
+      "name": "Platforms",
+      "value": "Android,iPad,iPhone,Linux,Macintosh,PlayStation 3,PlayStation 4,Windows,Xbox 360,Xbox One"
+    },
+    {
+      "name": "Genre",
+      "value": "Action"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Sandbox / Open World,Tricks / Stunts"
+    },
+    {
+      "name": "Setting",
+      "value": "Contemporary,Fantasy"
+    },
+    {
+      "name": "Narrative",
+      "value": "Comedy"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/goat-simulator"
+}

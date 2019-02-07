@@ -1,0 +1,76 @@
+{
+  "title": "Dave Mirra Freestyle BMX",
+  "platforms": "PC (Microsoft Windows), Game Boy Color, PSOne, Sega Dreamcast",
+  "mechanics": "thps",
+  "date": "September 2000",
+  "sports": "BMX",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/cunj7d2auluednhpano4.jpg",
+  "altTitles": [],
+  "description": "\nTony Hawk proved the skating games can work to great effect. Now Dave Mirra is here to prove that BMX is here to stay, thanks to the developers at Z-Axis.\n\nChoose from all of the current crop of BMX champs, including 10 times world champion Dave Mirra, Ryan Nyquist, Joey Garcia, Shaun Butler & heaps more, and ride your way through 12 highly detailed environments, with vert ramps, huge jumps and track racing. Multiplayer gaming is also thrown in, allowing two players to go head-to-head in a game of B-M-X (a unique variation of the HORSE basketball game).\n\nAll this plus official sponsors clothing, bikes and advertising boards plus a huge soundtrack featuring Cypress Hill, Deftones and more.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/867518-dave-mirra-freestyle-bmx-playstation-screenshot-demo-version.jpg",
+    "https://www.mobygames.com/images/shots/s/867529-dave-mirra-freestyle-bmx-playstation-screenshot-demo-version.jpg",
+    "https://www.mobygames.com/images/shots/s/867522-dave-mirra-freestyle-bmx-playstation-screenshot-demo-version.jpg",
+    "https://www.mobygames.com/images/shots/s/867527-dave-mirra-freestyle-bmx-playstation-screenshot-demo-version.jpg"
+  ],
+  "video": "###Gameplay video\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/n5QiSEFseOg\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\n",
+  "relatedGames": [
+    "[Mat Hoffman's Pro BMX](/games/mat-hoffman-s-pro-bmx-3994/)",
+    "[Tony Hawk's Pro Skater](/games/tony-hawk-s-pro-skater-6692/)",
+    "[Mat Hoffman's Pro BMX 2](/games/mat-hoffman-s-pro-bmx-2-3993/)",
+    "[Dave Mirra BMX Challenge](/games/dave-mirra-bmx-challenge-4794/)",
+    "[Dave Mirra Freestyle BMX 3](/games/dave-mirra-freestyle-bmx-3-6368/)",
+    "[Tony Hawk's Downhill Jam](/games/tony-hawk-s-downhill-jam-5231/)",
+    "[Dave Mirra Freestyle BMX 2](/games/dave-mirra-freestyle-bmx-2-3871/)",
+    "[Tony Hawk's Pro Skater 2](/games/tony-hawk-s-pro-skater-2-913/)",
+    "[Trials Fusion](/games/trials-fusion-3191/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/dave-mirra-freestyle-bmx-26012.md",
+  "handle": "dave-mirra-freestyle-bmx-26012",
+  "name": "Dave Mirra Freestyle BMX",
+  "icon": "https://www.mobygames.com/images/covers/s/54312-dave-mirra-freestyle-bmx-dreamcast-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Acclaim Entertainment, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Z-Axis, Ltd."
+    },
+    {
+      "name": "Released",
+      "value": "2000"
+    },
+    {
+      "name": "Official Site",
+      "value": "Dave Mirra Freestyle BMX"
+    },
+    {
+      "name": "Platforms",
+      "value": "Dreamcast,PlayStation,Windows"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Bike / Bicycling"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/dave-mirra-freestyle-bmx"
+}

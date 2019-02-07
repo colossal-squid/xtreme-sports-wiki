@@ -1,0 +1,58 @@
+{
+  "title": "Jump&#x3a; Free Running",
+  "platforms": "J2ME",
+  "mechanics": "n/a",
+  "date": "2007",
+  "sports": "Parkour",
+  "cover": "https://www.mobygames.com/images/shots/s/407439-jump-free-running-j2me-screenshot-title-screen.jpg",
+  "altTitles": [],
+  "description": "\nJump: Free Running is a mobile game where the player has to perform the art of free running. The runner is viewed from a top down isometric perspective and runs forward automatically. The gameplay involves pressing buttons with the right timing to perform different jumps and moves. The game takes place in three cities, each with its own scenario and story. These are San Francisco, London and Cairo. In the San Francisco scenario the city has been ravaged by an earthquake. In the London scenario strikes by utility workers has caused power outages and the rooftops are therefore full of burglars. In Cairo the dry season has caused problems with flash fires.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/407443-jump-free-running-j2me-screenshot-oh-no-that-didn-t-turn-out.jpg",
+    "https://www.mobygames.com/images/shots/s/407452-jump-free-running-j2me-screenshot-balancing-on-the-flagpole.jpg",
+    "https://www.mobygames.com/images/shots/s/407441-jump-free-running-j2me-screenshot-climbing-up-the-wall.jpg",
+    "https://www.mobygames.com/images/shots/s/407456-jump-free-running-j2me-screenshot-jumping-is-easy-landing.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/jump-free-running](https://www.mobygames.com/game/jump-free-running)"
+  ],
+  "filePath": "src/markdown/games/jump-free-running.md",
+  "handle": "jump-free-running",
+  "name": "Jump: Free Running",
+  "icon": "https://www.mobygames.com/images/shots/s/407439-jump-free-running-j2me-screenshot-title-screen.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Living Mobile GmbH"
+    },
+    {
+      "name": "Developed by",
+      "value": "Code Monkeys Ltd., The"
+    },
+    {
+      "name": "Released",
+      "value": "2007"
+    },
+    {
+      "name": "Platform",
+      "value": "J2ME"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Bird's-eye view"
+    },
+    {
+      "name": "Visual",
+      "value": "Isometric"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/jump-free-running"
+}

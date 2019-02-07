@@ -1,0 +1,68 @@
+{
+  "name": "Snow Rider",
+  "icon": "https://www.mobygames.com/images/covers/s/525210-snow-rider-playstation-2-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/phoenix-games-bv",
+        "text": "Phoenix Games B.V."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/tuna-technologies-ltd",
+        "text": "Tuna Technologies Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/snow-rider/release-info",
+        "text": "2006"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ps2/snow-rider",
+        "text": "PlayStation 2"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/snow-rider",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSnow Rider is a single-player, keyboard controlled snowboarding game, though a redefinable joystick is also supported. It was originally released on the PlayStation 2 platform but in 2006 the developers signed a deal to bring the title to the PC where it was published by Phoenix Games both as a standalone title and in at least two compilations.\n\nThe player can play as one of five characters, three of which are locked at the start of the game. There are three game modes:\nSlalom: here the player must complete a course as quickly as possible and correctly navigate all the gates on the way down.\n\n\nToken Dash: in this game mode the player must collect coins as they race downhill. This is more of an arcade mode than the other two as there are power-ups to be collected, speed boosts, magnets, extra grip etc.\n\n\nSprint: this is a straight race to the bottom, no gates, no coins, no power-ups.\nIf a player finishes in the top three they will receive a medal and unlock the next course but only for the game mode in which they medalled.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/852702-snow-rider-windows-screenshot-the-token-dash-game-mode-the.jpg",
+    "https://www.mobygames.com/images/shots/s/852693-snow-rider-windows-screenshot-the-slalom-game-mode-br-the.jpg",
+    "https://www.mobygames.com/images/shots/s/852703-snow-rider-windows-screenshot-the-token-dash-game-mode-the.jpg",
+    "https://www.mobygames.com/images/shots/s/852694-snow-rider-windows-screenshot-the-slalom-game-mode-br-the.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/snow-rider",
+  "altTitles": []
+}

@@ -1,0 +1,93 @@
+{
+  "name": "TrackMania Original",
+  "icon": "https://www.mobygames.com/images/covers/s/197307-trackmania-original-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/focus-home-interactive-sas",
+        "text": "Focus Home Interactive SAS"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nadeo-sas",
+        "text": "Nadeo SAS"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/trackmania-original/release-info",
+        "text": "Oct 12, 2005"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/compilation-shovelware/",
+        "text": "Compilation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/special_edition/",
+        "text": "Special Edition"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/puzzle-elements/",
+        "text": "Puzzle elements"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ],
+    "Special Edition",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/extra_content/",
+        "text": "Extra Content/Game"
+      }
+    ]
+  ],
+  "description": "\nTrackMania Original is a re-release of the original TrackMania, along with the Power Up! expansion (released for free), enhancements from the Speed Up! patches (never released) and improvements from the free Original add-on. Owners of the original game can upgrade to this version without an additional purchase, but all enhancements have been included with the full game in this budget-priced bundle.\n\nAside from new features such as ad-pannels, mediatracker effects, AI opponents, multiplayer options and new game modes, the entire game has been ported to the Sunrise engine, delivering a steep boost in graphical quality.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/trackmania-original",
+  "altTitles": []
+}

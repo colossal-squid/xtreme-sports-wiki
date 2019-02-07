@@ -1,0 +1,84 @@
+{
+  "name": "Skate Boardin'",
+  "icon": "https://www.mobygames.com/images/shots/s/169434-skate-boardin-atari-2600-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/absolute-entertainment-inc",
+        "text": "Absolute Entertainment, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/imagineering-inc",
+        "text": "Imagineering Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/atari-2600/skate-boardin/release-info",
+        "text": "1987"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/atari-2600/",
+        "text": "Atari 2600"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fixed-flip-screen/",
+        "text": "Fixed / Flip-screen"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\nIn this game, you have five minutes to get from your front steps to the steps of the school. You have to get through this maze and conquer 30 tubes and ramps AND get to the school.\n\nYou start at your front steps. To get on the board, move left or right and while moving, press fire. When you are on your board, just push the direction you want to turn. Press fire to jump and press and hold fire to jump and land in a crouched position. You will also see rails, walls and hurdles but these you must avoid as they will make you crash.\n\nTo jump a ramp, just ride towards it and be aligned with it. To clear a tube, ride through it while crouched. If you ride through grass, it will slow you down. To get back up to speed, either crash into something or ride through grass until you stop then get the skateboard going again.\n\nThe scoreboard at the top of the screen is not an obstacle. When you get to it, you just keep going.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/169435-skate-boardin-atari-2600-screenshot-awsome.jpg",
+    "https://www.mobygames.com/images/shots/s/169436-skate-boardin-atari-2600-screenshot-catching-some-air.jpg",
+    "https://www.mobygames.com/images/shots/s/169434-skate-boardin-atari-2600-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/170032-skate-boardin-atari-2600-screenshot-tubular.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/skate-boardin",
+  "altTitles": [
+    "\"Skateboardin\" -- In-game title"
+  ]
+}

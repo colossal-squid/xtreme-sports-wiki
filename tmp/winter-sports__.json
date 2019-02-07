@@ -1,0 +1,71 @@
+{
+  "name": "Winter Sports",
+  "icon": "https://www.mobygames.com/images/covers/s/370963-winter-sports-playstation-3-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/oxygen-interactive-software-ltd",
+        "text": "Oxygen Interactive Software Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nu-generation-games-ltd",
+        "text": "Nu Generation Games Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/winter-sports__/release-info",
+        "text": "Feb 09, 2007"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ps2/winter-sports__",
+        "text": "PlayStation 2"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps3/winter-sports__",
+        "text": "PlayStation 3"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/winter-sports__",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/olympiad/",
+        "text": "Olympiad / Mixed Sports"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nWinter Sports (no connection to the 49Games series) is a typical winter sports game, featuring 10 nations competiting in the usual events - downhill, cross country, slalom, ski jump, biathlon and snowboarding.\n\nGame mode include tournament (where the player is in a race for points in all events in sequential order), multiplayer (against up to 4 human opponents) and practice.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/winter-sports__",
+  "altTitles": []
+}

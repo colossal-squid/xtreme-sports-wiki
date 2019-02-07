@@ -1,0 +1,68 @@
+{
+  "title": "Amped&#x3a; Freestyle Snowboarding",
+  "platforms": "Xbox",
+  "mechanics": "n/a",
+  "date": "November 2001",
+  "sports": "Snowboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/ug7f0tbofaiqcjwt1dll.jpg",
+  "altTitles": [
+    "\"Tenku: Freestyle Snowboarding\" -- Japanese title",
+    "\"Amped\" -- Common name"
+  ],
+  "description": "\nAmped: Freestyle Snowboarding is a snowboarding game with a large variety of gear, from shirts and pants to jackets and goggles. Players can choose between many snowboards, each licensed from a different sponsor of the game. The goal of the career mode is two rack up as many points as possible and rise in the ranking. This also rewards skill points which can be used to improve the player character's abilities.\n\nThe basic idea is that players find themselves on descending (and branching) courses, overall 120 in three areas, with many possibilities to perform stunts. Of course those are needed to progress in the ranking, but the game takes track of two different scores: the overall course record and media stunts in front of the press. Special events are sponsor races, in which the sponsors have to impressed during the whole race, and duels, in which the course progression of another snowboarder has to emulated and the point result surpassed. The game features a soundtrack of 150 songs along with the possibility to incorporate own music tracks.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/124051-amped-freestyle-snowboarding-xbox-screenshot-notice-when-you.jpg",
+    "https://www.mobygames.com/images/shots/s/124052-amped-freestyle-snowboarding-xbox-screenshot-start-of-a-trick.jpg",
+    "https://www.mobygames.com/images/shots/s/124047-amped-freestyle-snowboarding-xbox-screenshot-this-is-your.jpg",
+    "https://www.mobygames.com/images/shots/s/124042-amped-freestyle-snowboarding-xbox-screenshot-from-cinematic.jpg"
+  ],
+  "video": "",
+  "relatedGames": [
+    "[1080° Snowboarding](/games/1080-snowboarding-3328/)",
+    "[Dark Summit](/games/dark-summit-3869/)",
+    "[Twisted Edge Extreme Snowboarding](/games/twisted-edge-extreme-snowboarding-3622/)",
+    "[Tony Hawk's Pro Skater 3](/games/tony-hawk-s-pro-skater-3-914/)",
+    "[Snowboard Kids 2](/games/snowboard-kids-2-3343/)",
+    "[TransWorld Snowboarding](/games/transworld-snowboarding-20795/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/amped-freestyle-snowboarding-5484.md",
+  "handle": "amped-freestyle-snowboarding-5484",
+  "name": "Amped: Freestyle Snowboarding",
+  "icon": "https://www.mobygames.com/images/covers/s/84755-amped-freestyle-snowboarding-xbox-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Microsoft Corporation"
+    },
+    {
+      "name": "Developed by",
+      "value": "Indie Built, Inc."
+    },
+    {
+      "name": "Released",
+      "value": "Nov 20, 2001"
+    },
+    {
+      "name": "Platform",
+      "value": "Xbox"
+    },
+    {
+      "name": "ESRB Rating",
+      "value": "Everyone"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/amped-freestyle-snowboarding"
+}

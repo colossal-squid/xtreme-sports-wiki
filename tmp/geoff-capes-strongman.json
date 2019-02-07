@@ -1,0 +1,107 @@
+{
+  "name": "Geoff Capes Strongman",
+  "icon": "https://www.mobygames.com/images/covers/s/404326-geoff-capes-strongman-zx-spectrum-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/martech-games-ltd",
+        "text": "Martech Games Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/software-communications-ltd",
+        "text": "Software Communications Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/geoff-capes-strongman/release-info",
+        "text": "1985"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/cpc/geoff-capes-strongman",
+        "text": "Amstrad CPC"
+      },
+      {
+        "link": "https://www.mobygames.com/game/bbc-micro_/geoff-capes-strongman",
+        "text": "BBC Micro"
+      },
+      {
+        "link": "https://www.mobygames.com/game/c64/geoff-capes-strongman",
+        "text": "Commodore 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/electron/geoff-capes-strongman",
+        "text": "Electron"
+      },
+      {
+        "link": "https://www.mobygames.com/game/zx-spectrum/geoff-capes-strongman",
+        "text": "ZX Spectrum"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fixed-flip-screen/",
+        "text": "Fixed / Flip-screen"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/wrestling/",
+        "text": "Wrestling"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nAt a time when multi-event sports simulations were all the rage, this one was licensed by the successful shot-putter and strongman Geoff Capes. There are six events on offer, which represent standard strongman tasks such as truck-pulling, a tug of war and wrestling. Each must be completed within a time limit; points are awarded based on how much time is left.\n\nThe game's control method and design philosophy distinguishes between each of the 8 main muscles Geoff uses. After a joystick-waggling challenge to raise as much strength as possible, you can choose which muscles to assign it to, which adds an element of strategy and memory-testing.\n\nDuring each event, the 8 muscles are displayed on either side of the screen, and as one comes into use it will flash. Controlling a cursor, you must click on this as quickly as possible to achieve maximum effect. Any energy unused on each muscle is kept over for future events.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/173249-geoff-capes-strongman-zx-spectrum-screenshot-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/234229-geoff-capes-strongman-amstrad-cpc-screenshot-truck-pull.jpg",
+    "https://www.mobygames.com/images/shots/s/234230-geoff-capes-strongman-amstrad-cpc-screenshot-geoff-is-exhausted.jpg",
+    "https://www.mobygames.com/images/shots/s/173248-geoff-capes-strongman-zx-spectrum-screenshot-loading-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/geoff-capes-strongman",
+  "altTitles": [
+    "\"Geoff Capes Strongman Challenge\" -- C64 in-game title"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Ice Trek",
+  "icon": "https://www.mobygames.com/images/shots/s/337166-ice-trek-intellivision-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/imagic",
+        "text": "Imagic"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/intellivision/ice-trek/release-info",
+        "text": "1983"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/intellivision/",
+        "text": "Intellivision"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nIn order to stop another Ice Age from occurring, Vail the Avenger must make a trek across the frozen lands in order to reach the Ice Palace of Kalktron the Terrible and put a stop to his evil plans to freeze the land. He will have to ski through a herd of Caribou, cross the frozen river, and then take on the many dangers of the Ice Palace in order to stop Kalktron. Can he stop another Ice Age?\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/337168-ice-trek-intellivision-screenshot-well-done-now-on-to-the.jpg",
+    "https://www.mobygames.com/images/shots/s/337166-ice-trek-intellivision-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/337167-ice-trek-intellivision-screenshot-need-to-get-through-this.jpg",
+    "https://www.mobygames.com/images/shots/s/337169-ice-trek-intellivision-screenshot-crossing-this-icy-river.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/ice-trek",
+  "altTitles": []
+}

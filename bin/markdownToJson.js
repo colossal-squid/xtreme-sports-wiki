@@ -8,31 +8,32 @@ const fs = require('fs');
     const mapped = Array.from(map.keys()).map( key => {
         const obj = markdownToJson(map.get(key));
         obj.filePath = key;
+        obj.handle = key.substring(key.lastIndexOf('/')+1).replace('.md', '');
         return obj;
     } );
 
-    const extraPaths = await getFileList(MOBYGAMES_JSONS);
-    const mobiFiles = await readFilesToMap(extraPaths);
+    // const extraPaths = await getFileList(MOBYGAMES_JSONS);
+    // const mobiFiles = await readFilesToMap(extraPaths);
 
-    Array.from(mobiFiles.values()).forEach(v => {
-        v = JSON.parse(v);
-        const found = mapped.find( m => (m.title.trim() == v.name.trim()) );
-        if (!!found) {
-            found.websites.push(`[Page on mobygames](${v.url})`);
-            let key, values = [];
-            v.attributes.forEach((attr)=>{
-                if (typeof attr === 'string') {
-                    if (!!key) {
-                        found[key.replace(/\s/g, '_').toLowerCase()] = [...values];
-                        values = [];
-                    }
-                    key = attr;
-                } else {
-                    values.push(attr)
-                }
-            });
-        }
-    });
+//     Array.from(mobiFiles.values()).forEach(v => {
+//         v = JSON.parse(v);
+//         const found = mapped.find( m => (m.title.trim() == v.name.trim()) );
+//         if (!!found) {
+//             found.websites.push(`[Page on mobygames](${v.url})`);
+//             let key, values = [];
+//             v.attributes.forEach((attr)=>{
+//                 if (typeof attr === 'string') {
+//                     if (!!key) {
+//                         found[key.replace(/\s/g, '_').toLowerCase()] = [...values];
+//                         values = [];
+//                     }
+//                     key = attr;
+//                 } else {
+//                     values.push(attr)
+//                 }
+//             });
+//         }
+//     });
     console.log(JSON.stringify(mapped, null, 2));
 }())
 
@@ -57,6 +58,12 @@ function markdownToJson(markdown) {
     );
     partial = partial.substring(0, partial.indexOf('####Alternative tiles') );
     obj.cover = partial === '![game cover art](- \"Logo Title Text 1\")\r\n' ? '' : partial;
+    if (obj.cover) {
+        obj.cover = obj.cover.substring( 
+            obj.cover.indexOf('(')+1, 
+            obj.cover.indexOf('\"L')-1
+        )
+    }
     obj.altTitles = markdown.substring(
         markdown.indexOf('####Alternative tiles') + 22,
         markdown.indexOf('###Platforms'),

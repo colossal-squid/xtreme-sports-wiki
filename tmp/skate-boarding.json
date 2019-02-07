@@ -1,0 +1,84 @@
+{
+  "name": "Skate Boarding",
+  "icon": "https://www.mobygames.com/images/shots/s/898582-skate-boarding-dos-screenshot-main-menu.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/apoky-software",
+        "text": "Apoky! Software"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/apoky-software",
+        "text": "Apoky! Software"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/dos/skate-boarding/release-info",
+        "text": "1998"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/dos/",
+        "text": "DOS"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fixed-flip-screen/",
+        "text": "Fixed / Flip-screen"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/platform/",
+        "text": "Platform"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\nSkate Boarding is a simple platform-style skateboarding game, similar to the newer OlliOlli, played only with the arrow keys. Ollie over obstacles and do impressive skateboard tricks in the air to score points. Crashing into an obstacle or failing to land a trick will send you back to the start of the screen and cost you five points as well as any points you have racked up in the current screen.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/898584-skate-boarding-dos-screenshot-skating-through-the-high-school.jpg",
+    "https://www.mobygames.com/images/shots/s/898583-skate-boarding-dos-screenshot-starting.jpg",
+    "https://www.mobygames.com/images/shots/s/898582-skate-boarding-dos-screenshot-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/898591-skate-boarding-dos-screenshot-going-up-a-ramp.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/skate-boarding",
+  "altTitles": [
+    "\"Skate\" -- Common title"
+  ]
+}

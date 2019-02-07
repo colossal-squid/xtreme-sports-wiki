@@ -1,0 +1,92 @@
+{
+  "name": "Skate or Die",
+  "icon": "https://www.mobygames.com/images/covers/s/47-skate-or-die-dos-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/ea-bright-light",
+        "text": "Electronic Arts UK Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/electronic-arts-inc",
+        "text": "Electronic Arts, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/skate-or-die/release-info",
+        "text": "1987"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/cpc/skate-or-die",
+        "text": "Amstrad CPC"
+      },
+      {
+        "link": "https://www.mobygames.com/game/apple2gs/skate-or-die",
+        "text": "Apple IIgs"
+      },
+      {
+        "link": "https://www.mobygames.com/game/c64/skate-or-die",
+        "text": "Commodore 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/dos/skate-or-die",
+        "text": "DOS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/nes/skate-or-die",
+        "text": "NES"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii/skate-or-die",
+        "text": "Wii"
+      },
+      {
+        "link": "https://www.mobygames.com/game/zx-spectrum/skate-or-die",
+        "text": "ZX Spectrum"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/birds-eye-view/",
+        "text": "Bird's-eye view"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/olympiad/",
+        "text": "Olympiad / Mixed Sports"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\nSkate or Die incorporates five distinct styles of skating, which can be attempted individually or in turn. You skate around a menu room to choose which one to attempt. Before taking off you can visit Rodney's skate shop to buy equipment.\n\nThe first event is freestyle, in which your aim is to score as many points as possible in 10 attempts. Judges determine how much style and skill you have shown. The High Jump uses the same equipment, only this time your task is to jump as high as possible at the end of the ramp.\n\nThe downhill events are overhead-view races. In the Downhill Race you simply try to complete the course within 90 seconds. In the Downhill Jam you try to outperform a human or computer opponent whilst dodging or jumping hazards. You can use attacking moves to either remove hazards or knock your opponent over.\n\nThe pool joust is more of a one-on-one beat em up using a stick, set within a pit to skate around.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/239696-skate-or-die-nes-screenshot-jumping-over-the-police-car-for.jpg",
+    "https://www.mobygames.com/images/shots/s/239698-skate-or-die-nes-screenshot-selecting-opponent-to-the-joust.jpg",
+    "https://www.mobygames.com/images/shots/s/501621-skate-or-die-zx-spectrum-screenshot-this-is-the-race-a-down.jpg",
+    "https://www.mobygames.com/images/shots/s/579642-skate-or-die-amstrad-cpc-screenshot-sign-in-and-compete.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/skate-or-die",
+  "altTitles": []
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Moto Racer 3",
+  "platforms": "PC (Microsoft Windows)",
+  "mechanics": "n/a",
+  "date": "December 2001",
+  "sports": "MX",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/uczhu9anrqcgtpbwzvs1.jpg",
+  "altTitles": [
+    "\"摩托英豪3\" -- Chinese spelling (simplified)"
+  ],
+  "description": "\nMoto Racer 3 is the third incarnation of this already classic motocycling game by Delphine Software. This time, you don't only race on famous circuits around the globe or let the mud fly with your Motocross cycle - there are even more styles to play:\nRacing on famous race track\nMotocross/Supercross in really muddy arenas\nTrial - drive your special motocycle on a obstacle-littered parcours without touching the floor or driving off the track\nin Freestyle, you can perform insane stunts in an arena full of ramps\nin Traffic mode, you drive in the streets of Paris - with traffic\nEverything is shown in rich 3D graphics with high detail. There are more than 40 motocycles, you can choose from 15 tracks. Multiplayer exists for up to 8 players at once.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/21433-moto-racer-3-windows-screenshot-paris-city-of-love-and-flat.jpg",
+    "https://www.mobygames.com/images/shots/s/21408-moto-racer-3-windows-screenshot-intro.jpg",
+    "https://www.mobygames.com/images/shots/s/21423-moto-racer-3-windows-screenshot-ooooooohhhh-soooo-many-people.jpg",
+    "https://www.mobygames.com/images/shots/s/21409-moto-racer-3-windows-screenshot-title-screen.jpg"
+  ],
+  "video": "###Trailer\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/tmlbid0iX1Q\" frameborder=\"0\" allowfullscreen></iframe>\r\n,####Gameplay video\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Ys4iBUn8030\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\n",
+  "relatedGames": [],
+  "websites": [],
+  "filePath": "src/markdown/games/moto-racer-3-10563.md",
+  "handle": "moto-racer-3-10563",
+  "name": "Moto Racer 3",
+  "icon": "https://www.mobygames.com/images/covers/s/87704-moto-racer-3-windows-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Electronic Arts, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Delphine Software International"
+    },
+    {
+      "name": "Released",
+      "value": "Dec 06, 2001"
+    },
+    {
+      "name": "Platform",
+      "value": "Windows"
+    },
+    {
+      "name": "ESRB Rating",
+      "value": "Everyone"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Interface",
+      "value": "Direct Control"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Motorcycle,Track Racing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/moto-racer-3"
+}

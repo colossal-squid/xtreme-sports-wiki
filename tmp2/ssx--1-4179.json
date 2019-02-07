@@ -1,0 +1,68 @@
+{
+  "title": "SSX",
+  "platforms": "PS3, Xbox 360",
+  "mechanics": "ssx",
+  "date": "February 2012",
+  "sports": "Snowboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/lgk0djlof6ju2pvgizcs.jpg",
+  "altTitles": [
+    "\"X-treme Racing SSX\" -- Japanese title"
+  ],
+  "description": "\nSSX is a racing game which allows (and encourages) slamming opponents out of the race, as well as performing various stunts. The courses in the game include Snowdream, Elysium Alps, Tokyo Megaplex, Mesablanca, Merqury City Meltdown, and others. Players can choose to control any of the eight available international racers, each featuring their own attitude and unique tricks. A career mode and two-player gameplay are available as well.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/689310-ssx-playstation-2-screenshot-all-the-lights-are-green-a-single.jpg",
+    "https://www.mobygames.com/images/shots/s/689309-ssx-playstation-2-screenshot-the-start-of-a-single-player.jpg",
+    "https://www.mobygames.com/images/shots/s/689313-ssx-playstation-2-screenshot-the-course-is-very-steep-and.jpg",
+    "https://www.mobygames.com/images/shots/s/689312-ssx-playstation-2-screenshot-the-boarder-has-just-pulled-of.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/__PjlECvhk8",
+  "relatedGames": [],
+  "websites": [],
+  "filePath": "src/markdown/games/ssx--1-4179.md",
+  "handle": "ssx--1-4179",
+  "name": "SSX",
+  "icon": "https://www.mobygames.com/images/covers/s/17423-ssx-playstation-2-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Electronic Arts, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Electronic Arts Canada"
+    },
+    {
+      "name": "Released",
+      "value": "Oct 26, 2000"
+    },
+    {
+      "name": "Platform",
+      "value": "PlayStation 2"
+    },
+    {
+      "name": "ESRB Rating",
+      "value": "Everyone"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Interface",
+      "value": "Direct Control"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/ssx"
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Snowboard Kids",
+  "platforms": "Nintendo 64, PSOne",
+  "mechanics": "n/a",
+  "date": "February 1998",
+  "sports": "Snowboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/owuujppkixli11l0hndz.jpg",
+  "altTitles": [
+    "\"Snobow Kids\" -- Japanese title"
+  ],
+  "description": "\nA racing game where you control one of five cutesy snowboarders competing against each other. Being a snowboarding game, each track is a downhill slalom with a ski lift at the bottom which takes you back to the start for however many laps a track has.\n\nThe tracks are varied, the first few taking place on snowy mountainsides, while the latter taking you to wackier locales such as grassy countryside, a desert and a theme park. The money collected on the course or won at the end of the race can be spent to buy better boards, which differ in stats, or to collect items/weapons while racing. There are also stunts that can be performed while racing which earn money as well, and certain parts of each course encourage the player to do so.\n\nOther modes include stunt mode, shoot mode and speed mode, all focusing on a particular part of the gameplay from the main game, and a multiplayer mode where up to 4 players can race each other. There are also unlockables for dedicated players.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/257202-snowboard-kids-nintendo-64-screenshot-slash-on-a-shot-game.jpg",
+    "https://www.mobygames.com/images/shots/s/255981-snowboard-kids-nintendo-64-screenshot-nancy-performing-her.jpg",
+    "https://www.mobygames.com/images/shots/s/257209-snowboard-kids-nintendo-64-screenshot-shinobin-on-the-last.jpg",
+    "https://www.mobygames.com/images/shots/s/257211-snowboard-kids-nintendo-64-screenshot-2-player-game-on-rookie.jpg"
+  ],
+  "video": "",
+  "relatedGames": [
+    "[Snowboard Kids 2](/games/snowboard-kids-2-3343/)",
+    "[SSX Tricky](/games/ssx-tricky-4176/)",
+    "[Snowboard Kids Plus](/games/snowboard-kids-plus-72103/)",
+    "[Steep](/games/steep-19554/)",
+    "[SBK: Snowboard Kids](/games/sbk-snowboard-kids-47725/)",
+    "[Amped: Freestyle Snowboarding](/games/amped-freestyle-snowboarding-5484/)",
+    "[1080° Snowboarding](/games/1080-snowboarding-3328/)",
+    "[SSX Blur](/games/ssx-blur-4178/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/snowboard-kids-3342.md",
+  "handle": "snowboard-kids-3342",
+  "name": "Snowboard Kids",
+  "icon": "https://www.mobygames.com/images/covers/s/94293-snowboard-kids-nintendo-64-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Atlus Co., Ltd."
+    },
+    {
+      "name": "Developed by",
+      "value": "Racdym"
+    },
+    {
+      "name": "Released",
+      "value": "Mar 15, 1998"
+    },
+    {
+      "name": "Platform",
+      "value": "Nintendo 64"
+    },
+    {
+      "name": "ESRB Rating",
+      "value": "Kids to Adults"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Interface",
+      "value": "Direct Control"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/snowboard-kids"
+}

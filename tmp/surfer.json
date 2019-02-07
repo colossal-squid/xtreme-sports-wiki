@@ -1,0 +1,66 @@
+{
+  "name": "The Surfer",
+  "icon": "https://www.mobygames.com/images/covers/s/442386-the-surfer-playstation-3-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/bungarra-software-pty-ltd",
+        "text": "Bungarra Software Pty Ltd"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/bungarra-software-pty-ltd",
+        "text": "Bungarra Software Pty Ltd"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ps3/surfer/release-info",
+        "text": "Dec 13, 2017"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/ps3/",
+        "text": "PlayStation 3"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/surfing/",
+        "text": "Surfing"
+      }
+    ]
+  ],
+  "description": "Buy at \n Buy at \nNot an American user?\nDescription",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/surfer",
+  "altTitles": []
+}

@@ -1,0 +1,145 @@
+{
+  "name": "WarioWare: Touched!",
+  "icon": "https://www.mobygames.com/images/covers/s/55361-warioware-touched-nintendo-ds-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nintendo-co-ltd",
+        "text": "Nintendo Co., Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/intelligent-systems-co-ltd",
+        "text": "Intelligent Systems Co., Ltd."
+      },
+      {
+        "link": "https://www.mobygames.com/company/nintendo-rd1",
+        "text": "Nintendo R&D1"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/warioware-touched/release-info",
+        "text": "Dec 02, 2004"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/3ds/warioware-touched",
+        "text": "Nintendo 3DS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/nintendo-ds/warioware-touched",
+        "text": "Nintendo DS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii-u/warioware-touched",
+        "text": "Wii U"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/isometric/",
+        "text": "Isometric"
+      }
+    ],
+    "Art",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/anime-manga/",
+        "text": "Anime / Manga"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/paddle-pong/",
+        "text": "Paddle / Pong"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/platform/",
+        "text": "Platform"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/boxing/",
+        "text": "Boxing"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fishing/",
+        "text": "Fishing"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/horse-derby/",
+        "text": "Horse / Derby"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sailing-boating/",
+        "text": "Sailing / Boating"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nWario's teeth may be rotten, and he may have a bit of cold, but that hasn't stopped him from stealing a shiny new Nintendo DS from an old man. With this new technology Wario assembles his \"diverse\" game designers to make use of the new system.\n\nLike other installments in the WarioWare/Made in Wario series, this is a collection of microgames each of which take seconds to complete. All games are operated either by the touch screen or by blowing into the microphone, or in some cases both.\n\nThese microgames are fired at you rapidly in various modes of play, the goal being either to clear a certain amount or to continue for an indefinite period as the game increases in speed.\n\nA good helping of retro Nintendo games make an appearance as microgames.\n\nA toy room is available where unlockable items and longer minigames are kept. These items include such things as a pudding one can poke and pull at, a yo-yo wind chimes that you can set a ringing with a breath across the microphone etc.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/414447-warioware-touched-nintendo-ds-screenshot-extinguish.jpg",
+    "https://www.mobygames.com/images/shots/s/414435-warioware-touched-nintendo-ds-screenshot-lead-him-home.jpg",
+    "https://www.mobygames.com/images/shots/s/414437-warioware-touched-nintendo-ds-screenshot-capture.jpg",
+    "https://www.mobygames.com/images/shots/s/414434-warioware-touched-nintendo-ds-screenshot-circle-answers.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/warioware-touched",
+  "altTitles": [
+    "\"摸摸瓦力欧制造\" -- Chinese spelling (simplified)",
+    "\"WarioWare, Inc. DS\" -- Working title",
+    "\"Sawaru Made in Wario\" -- Japanese title",
+    "\"Mō Mō Wǎlìōu Zhìzào\" -- Chinese title",
+    "\"Manjyeora Made in Wario\" -- Korean title",
+    "\"さわるメイドインワリオ\" -- Japanese spelling",
+    "\"만져라 메이드 인 와리오\" -- Korean spelling"
+  ]
+}

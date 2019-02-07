@@ -1,0 +1,100 @@
+{
+  "name": "Whiplash",
+  "icon": "https://www.mobygames.com/images/covers/s/4556-whiplash-dos-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/interplay-entertainment-corp",
+        "text": "Interplay Entertainment Corp."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/infogrames-studios-limited",
+        "text": "Gremlin Interactive Limited"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/dos/whiplash/release-info",
+        "text": "1996"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/dos/",
+        "text": "DOS"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,91/",
+        "text": "Kids to Adults"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nWhiplash is a fast-paced racing game where you choose from eight different cars and race on over sixteen different tracks to brave death-defying loops and corkscrews in stunt racing. The different players are organized in teams of two cars each. The aim is of course to reach the finish line first, but on harder difficulty levels opponents can also be killed by repeatedly bumping into them. The damage is visible, with dents and smoke. Each track has a pit stop where cars stand still to be repaired, but they can be pushed out of the area. When going for kills, team members will not engage each other.\n\nThere are different camera angles, a replay function, and both automatic and manual transmission. Next to quick races, the main portion of the game are the cups, unlocked one after another.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/424100-whiplash-dos-screenshot-european-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/8598-whiplash-dos-screenshot-in-the-tunnel.jpg",
+    "https://www.mobygames.com/images/shots/s/8594-whiplash-dos-screenshot-introduction.jpg",
+    "https://www.mobygames.com/images/shots/s/8599-whiplash-dos-screenshot-you-have-problems.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/whiplash",
+  "altTitles": [
+    "\"Fatal Racing\" -- European title"
+  ]
+}

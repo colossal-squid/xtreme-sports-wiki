@@ -1,0 +1,71 @@
+{
+  "title": "Xtreme Sports",
+  "platforms": "Game Boy Color, Nintendo 3DS",
+  "mechanics": "n/a",
+  "date": "July 2000",
+  "sports": "Inline skates,Surfing,Skateboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/u8tgjrbzzhjkkuaxhpms.jpg",
+  "altTitles": [
+    "\"Sega Extreme Sports\" -- European title",
+    "\"Pepsi Max Extreme Sports\" -- European PC title",
+    "\"Off-Piste with Six Extreme Sports\" -- Scandinavian PC title",
+    "\"Maximum Sports Extreme\" -- US PC title",
+    "\"セガ エクストリーム スポーツ\" -- Japanese spelling"
+  ],
+  "description": "\nXtreme Sports is a multi-trial sports game that combines different sports in one race. Snowboard, ATV, Delta-plane and Mountain Bike are available from the beginning; Base Jump and Bungee Jumping need to be unlocked.\n\nFour game modes are available: Championship, Race, Time Trial, and Practice. There are three tracks available right away, and six more to unlock. In all the modes, the gameplay is somewhat arcade-oriented, requiring the player to react quickly. A special boost gauge can be filled by doing specific actions, increasing the player's chances of victory.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/854624-xtreme-sports-windows-screenshot-the-start-of-a-time-trial.jpg",
+    "https://www.mobygames.com/images/shots/s/854623-xtreme-sports-windows-screenshot-in-a-time-trial-event-the.jpg",
+    "https://www.mobygames.com/images/shots/s/379637-xtreme-sports-dreamcast-screenshot-character-choice-4.jpg",
+    "https://www.mobygames.com/images/shots/s/854628-xtreme-sports-windows-screenshot-racing-downhill-on-a-championship.jpg"
+  ],
+  "video": "",
+  "relatedGames": [
+    "[Steep](/games/steep-19554/)",
+    "[MX vs. ATV All Out](/games/mx-vs-atv-all-out-67625/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/xtreme-sports-49869.md",
+  "handle": "xtreme-sports-49869",
+  "name": "Xtreme Sports",
+  "icon": "https://www.mobygames.com/images/covers/s/354764-xtreme-sports-windows-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "SEGA Europe Ltd."
+    },
+    {
+      "name": "Developed by",
+      "value": "Innerloop Studios"
+    },
+    {
+      "name": "Released",
+      "value": "Oct 27, 2000"
+    },
+    {
+      "name": "Platforms",
+      "value": "Dreamcast,Windows"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "3rd-person (Other)"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Bike / Bicycling,Motorcycle"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/xtreme-sports"
+}

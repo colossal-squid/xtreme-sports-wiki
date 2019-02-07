@@ -1,0 +1,82 @@
+{
+  "name": "Alpine Racer",
+  "icon": "https://www.mobygames.com/images/covers/s/166521-alpine-racer-zeebo-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/namco-networks-america-inc",
+        "text": "Namco Networks America Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/bandai-namco-entertainment-inc",
+        "text": "Namco Bandai Games Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/alpine-racer/release-info",
+        "text": "2008"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/brew/alpine-racer",
+        "text": "BREW"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/alpine-racer",
+        "text": "iPhone"
+      },
+      {
+        "link": "https://www.mobygames.com/game/zeebo/alpine-racer",
+        "text": "Zeebo"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nAlpine Racer is a downhill racing game. The player's goal is to win the King of the Mountain Tournament. There are three mountains to run down avoiding obstacles (each one of a different difficulty) in two gameplay modes: Story or Time Attack.\n\nIn Story mode, the player chooses one of two available characters: Shogo (a snowboarder) or Rina (a skier), each one with their own stats. Skill points gained in the races can be used to upgrade the characters. Two secret characters are also available, unlockable after finishing the three courses with one of the characters.\n\nIn Time Attack mode the goal is to make the best time in a specific track. The player can see his own ghost from previous tries as he runs downhill.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/512220-alpine-racer-iphone-screenshot-nostalgic-ex.jpg",
+    "https://www.mobygames.com/images/shots/s/578021-alpine-racer-zeebo-screenshot-after-jumps-it-is-important.jpg",
+    "https://www.mobygames.com/images/shots/s/512218-alpine-racer-iphone-screenshot-course-select.jpg",
+    "https://www.mobygames.com/images/shots/s/512223-alpine-racer-iphone-screenshot-story-mode.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/fRx8ZofGLqs",
+  "url": "https://www.mobygames.com/game/alpine-racer",
+  "altTitles": [
+    "\"ar\" -- Official abbreviation"
+  ]
+}

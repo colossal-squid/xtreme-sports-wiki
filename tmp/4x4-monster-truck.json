@@ -1,0 +1,78 @@
+{
+  "name": "4X4 Monster Truck",
+  "icon": "https://www.mobygames.com/images/covers/s/463633-4x4-monster-truck-ipad-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/carngun-private-limited",
+        "text": "CarNGun Private Limited"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/carngun-private-limited",
+        "text": "CarNGun Private Limited"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/4x4-monster-truck/release-info",
+        "text": "Dec 06, 2013"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ipad/4x4-monster-truck",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/4x4-monster-truck",
+        "text": "iPhone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/offroad/",
+        "text": "Off-roading"
+      }
+    ]
+  ],
+  "description": "Description",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/4x4-monster-truck",
+  "altTitles": []
+}

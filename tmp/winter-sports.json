@@ -1,0 +1,84 @@
+{
+  "name": "Winter Sports",
+  "icon": "https://www.mobygames.com/images/covers/s/38965-winter-sports-zx-spectrum-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/electric-dreams-software",
+        "text": "Electric Dreams Software"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/software-images",
+        "text": "Software Images"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/winter-sports/release-info",
+        "text": "1985"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/cpc/winter-sports",
+        "text": "Amstrad CPC"
+      },
+      {
+        "link": "https://www.mobygames.com/game/zx-spectrum/winter-sports",
+        "text": "ZX Spectrum"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/hockey/",
+        "text": "Hockey"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nEight winter sports events are recreated in this Epyx-style action game. Three variations on skiing are included - Downhill, Slalom and Giant Slalom, which involve setting the correct speed and direction change as you steam through the gates. These events have a split-screen view displaying different angles at once, as to the Bobsled, Speed Skating, Bobsled and Biathlon (all bar the latter are vertically-split). As it includes target shooting, the Biathlon is one of the more challenging events. The game also includes an Ice Hockey mode as something of a bonus.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/728023-winter-sports-zx-spectrum-screenshot-downhill.jpg",
+    "https://www.mobygames.com/images/shots/s/728025-winter-sports-zx-spectrum-screenshot-giant-slalom.jpg",
+    "https://www.mobygames.com/images/shots/s/728021-winter-sports-zx-spectrum-screenshot-loading-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/728029-winter-sports-zx-spectrum-screenshot-bobsled.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/winter-sports",
+  "altTitles": []
+}

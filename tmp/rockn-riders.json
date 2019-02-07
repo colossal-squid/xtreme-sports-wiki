@@ -1,0 +1,91 @@
+{
+  "name": "Rock'n Riders",
+  "icon": "https://www.mobygames.com/images/covers/s/269975-rock-n-riders-playstation-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/fab-communications-co-ltd",
+        "text": "Fab Communications Co., Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/pixy-corporation",
+        "text": "PIXY Corporation"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/playstation/rockn-riders/release-info",
+        "text": "Apr 01, 1999"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/playstation/",
+        "text": "PlayStation"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Art",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/anime-manga/",
+        "text": "Anime / Manga"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Setting",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sci-fi-futuristic/",
+        "text": "Sci-Fi / Futuristic"
+      }
+    ]
+  ],
+  "description": "\nIt's the future... to be more precise, the year 20xx. The ideals and attitudes many a harried housewife of the 1950's had against rock'n'roll has come back, albeit more aggressive than ever. The authorities, in fact, have taken it upon themselves to ban rock'n'roll and all that it stands for. However, one band in particular apparently didn't get the memo - the Japanese group \"R\", who have come to America to perform in Los Angeles. Now \"R\" must outrun - and snowboard their way - past the authorities in order to avoid heading to the slammer.\n\nR: Rock'n Riders otherwise known as simply R is a snowboard simulation game in which four of the six members of the rock band \"R\" must board their way across the Western United States in order to make it to their gig in Los Angeles. To complete a stage successfully, the player must collect five indicators and make it to the end before time expires. To do this, the player must perform different types of tricks, grab (and attempt to hold on to) musical instruments, and avoid getting hit or falling down in order to score points. Scoring points also improves the quality of the in-game music, which begins each stage in an incomplete and virtually non-existent state.\n\nAfter each stage (except the fourth and final) is complete, the player can view a replay accompanied by music.\n\nIn addition, players can access the \"Music room\" to see the characters playing their instrument, and after they complete the game with all four playable characters, they can access the \"Extra Game\", in which the band members must battle seven opponents - not just with their speed, but with their punching skills.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/637069-rock-n-riders-playstation-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/637085-rock-n-riders-playstation-screenshot-ending-music-video.jpg",
+    "https://www.mobygames.com/images/shots/s/637087-rock-n-riders-playstation-screenshot-extra-game-racing-against.jpg",
+    "https://www.mobygames.com/images/shots/s/928401-rock-n-riders-playstation-screenshot-sucker.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/rockn-riders",
+  "altTitles": [
+    "\"R[アール]\" -- Japanese spelling"
+  ]
+}

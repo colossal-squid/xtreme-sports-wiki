@@ -1,0 +1,71 @@
+{
+  "name": "Skier",
+  "icon": "https://www.mobygames.com/images/shots/s/880481-skier-vic-20-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/hesware",
+        "text": "Human Engineered Software"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/vic-20/skier_/release-info",
+        "text": "1982"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/vic-20/",
+        "text": "VIC-20"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSkier is an alpine skiing game. The game is played from a top perspective of the hill and the game scrolls from top to bottom. The skier automatically moves down the hill and the player has to steer left and right while trying to hit as many flags as possible. Double points are awarded when managing to knock a flag over and bonus points are given for reaching the finish line. Hitting a tree will lead to death for the skier while touching an ice path will cause it to skid. After losing a skier the player gets two more attempts at completing the race.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/880483-skier-vic-20-screenshot-difficulty-selection.jpg",
+    "https://www.mobygames.com/images/shots/s/880487-skier-vic-20-screenshot-hitting-a-tree.jpg",
+    "https://www.mobygames.com/images/shots/s/880489-skier-vic-20-screenshot-reaching-the-finish.jpg",
+    "https://www.mobygames.com/images/shots/s/880484-skier-vic-20-screenshot-going-down-the-slope.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/skier_",
+  "altTitles": []
+}

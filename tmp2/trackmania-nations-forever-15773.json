@@ -1,0 +1,68 @@
+{
+  "title": "TrackMania Nations Forever",
+  "platforms": "PC (Microsoft Windows)",
+  "mechanics": "n/a",
+  "date": "March 2008",
+  "sports": "",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/fpb8v1ed1ip3dbsmns44.jpg",
+  "altTitles": [],
+  "description": "\nTrackMania Nations Forever is the sequel to TrackMania Nations ESWC, but not a direct sequel in the series of TrackMania games. Just like the previous Nations edition, this is a free version of the racing game.\n\nThe Forever edition updates the existing stadium environment with new scenery (such as dirt or a night setting), updated graphics and new music. Games can be played in the solo mode or online against other players. By default 65 tracks are included (all based on the same environment) but the game comes with an editor where new tracks can be built through pre-defined blocks. There is a global ladder keeping track of statistics, further divided into the player's country and here also into departments or provinces. This also extends to finding online games. Additionally, the available servers can now be sorted based on the opponents' rankings to find people who are in the same league, as points are only earned by finishing before players with a lower rank. Generally games offer multiple tries at the same track to best the scores. This version supports a larger amount of players per game with tracks based both on speed, steering and braking skill, and stunts. Some modes are time-based with multiple tries while others offer a rounds system where only one try per round is offered.\n\nNew options allow players to drive over tiles that remove all traction for a way and optionally enable a racing line, a ghost car, or disable the opponents to get a clearer view. The game is compatible with the commercial titles TrackMania United and TrackMania United Forever, where players have a larger amount of options, racing tracks, different car models (only one in the Nations version) and an in-game peer-to-peer system to exchange custom game content based on the in-game copper currency. Races can be recorded and extensively edited in the replay editor.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/293284-trackmania-nations-forever-windows-screenshot-loading-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/612643-trackmania-nations-forever-windows-screenshot-medals-ghosts.jpg",
+    "https://www.mobygames.com/images/shots/s/293286-trackmania-nations-forever-windows-screenshot-overview-of.jpg",
+    "https://www.mobygames.com/images/shots/s/293285-trackmania-nations-forever-windows-screenshot-the-race-results.jpg"
+  ],
+  "video": "",
+  "relatedGames": [
+    "[TrackMania Sunrise](/games/trackmania-sunrise-22294/)",
+    "[TrackMania United Forever](/games/trackmania-united-forever-2451/)"
+  ],
+  "websites": [
+    " [http://www.trackmania.com](http://www.trackmania.com)",
+    " [https://store.steampowered.com/app/11020](https://store.steampowered.com/app/11020)"
+  ],
+  "filePath": "src/markdown/games/trackmania-nations-forever-15773.md",
+  "handle": "trackmania-nations-forever-15773",
+  "name": "TrackMania Nations Forever",
+  "icon": "https://www.mobygames.com/images/covers/s/109901-trackmania-nations-forever-windows-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Nadeo SAS"
+    },
+    {
+      "name": "Developed by",
+      "value": "Nadeo SAS"
+    },
+    {
+      "name": "Released",
+      "value": "Apr 16, 2008"
+    },
+    {
+      "name": "Platform",
+      "value": "Windows"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving"
+    },
+    {
+      "name": "Perspective",
+      "value": "1st-person,Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Arcade,Tricks / Stunts"
+    },
+    {
+      "name": "Interface",
+      "value": "Direct Control"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Automobile,Track Racing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/trackmania-nations-forever"
+}

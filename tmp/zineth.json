@@ -1,0 +1,75 @@
+{
+  "name": "Zineth",
+  "icon": "https://www.mobygames.com/images/covers/s/309087-zineth-macintosh-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/arcane-kids",
+        "text": "Arcane Kids"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/arcane-kids",
+        "text": "Arcane Kids"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/zineth/release-info",
+        "text": "Aug 09, 2012"
+      }
+    ],
+    "Official Site",
+    [
+      {
+        "link": "http://zinethgame.tumblr.com/",
+        "text": "Zineth"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/macintosh/zineth",
+        "text": "Macintosh"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/zineth",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ]
+  ],
+  "description": "\nIn Zineth the player controls a character who skis through a bright, abstract environment. Through a phone different missions are offered that can be completed. They include checkpoint races and fetch quests where zines need to be collected. The game focuses on exploring the environment by employing tricks. These are not rewarded, but different techniques are needed to move through areas without losing speed and to reach specific platforms. The character can be steered in any direction, use ramps to jump, do wall rides, grind on rails etc. During a jump air control can be applied to maneuver. Going downhill, gravity can be applied to gain more speed. There are no opponents or means of attack. At any moment time can be rewound manually to retry a missed jump or to return to an earlier location.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/572941-zineth-windows-screenshot-climbing-a-structure.jpg",
+    "https://www.mobygames.com/images/shots/s/572936-zineth-windows-screenshot-you-can-play-a-mini-game-on-your.jpg",
+    "https://www.mobygames.com/images/shots/s/572945-zineth-windows-screenshot-exploring-the-environment.jpg",
+    "https://www.mobygames.com/images/shots/s/572931-zineth-windows-screenshot-opening-scenes-when-the-game-is.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/zineth",
+  "altTitles": []
+}

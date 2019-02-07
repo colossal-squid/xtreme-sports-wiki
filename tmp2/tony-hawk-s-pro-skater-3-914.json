@@ -1,0 +1,77 @@
+{
+  "title": "Tony Hawk's Pro Skater 3",
+  "platforms": "Nintendo 64, PC (Microsoft Windows), Mac, Game Boy Color, Xbox, PSOne, GBA, Nintendo Gamecube, PS2",
+  "mechanics": "thps",
+  "date": "October 2001",
+  "sports": "Skateboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/ckvrca62rzyaemovjk5k.jpg",
+  "altTitles": [
+    "\"托尼霍克职业滑板3\" -- Chinese spelling (simplified)",
+    "\"THPS3\" -- Informal abbreviation"
+  ],
+  "description": "\nTony Hawk returns with an all new line-up of skaters, an all new line-up of parks to crash through, and a whole new level of graphics.\n\nThe line-up of street and vert riders include Elissa Steamer, Jamie Thomas, Steve Caballero, Rune Glifberg, Geoff Rowley, Andrew Reynolds, Rodney Mullen, Eric Koston, Chad Muska, Bucky Lasek and Bam Margera from MTV's Jackass (and Tony Hawk, of course).\n\nThe create a skater mode returns, allowing for even further levels of options for your character, like adding glasses and tatoos to changing the colour of the knee and elbow pads or even the hair.\n\nAnd the levels themselves that you must skate through are now more interactive, with cars and humans blocking paths and making noise as you race around to make as many points as possible. Use items around the streets or the park to jump from or over to increase your score, and pull of as many wild and wacky tricks as you can.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/626621-tony-hawk-s-pro-skater-3-playstation-screenshot-in-suburbia.jpg",
+    "https://www.mobygames.com/images/shots/s/24951-tony-hawk-s-pro-skater-3-windows-screenshot-boneless.jpg",
+    "https://www.mobygames.com/images/shots/s/24954-tony-hawk-s-pro-skater-3-windows-screenshot-this-one-is-tricky.jpg",
+    "https://www.mobygames.com/images/shots/s/284139-tony-hawk-s-pro-skater-3-playstation-2-screenshot-the-rio.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/9D7GFuuyL4Q",
+  "relatedGames": [
+    "[Tony Hawk's Pro Skater 4](/games/tony-hawk-s-pro-skater-4-915/)",
+    "[Tony Hawk's Pro Skater 2](/games/tony-hawk-s-pro-skater-2-913/)",
+    "[Tony Hawk's Proving Ground](/games/tony-hawk-s-proving-ground-2700/)",
+    "[Tony Hawk's Project 8](/games/tony-hawk-s-project-8-6204/)",
+    "[Tony Hawk's Underground](/games/tony-hawk-s-underground-2698/)",
+    "[Tony Hawk's Underground 2](/games/tony-hawk-s-underground-2-2699/)",
+    "[Tony Hawk's American Wasteland](/games/tony-hawk-s-american-wasteland-7219/)",
+    "[Tony Hawk's Pro Skater 2X](/games/tony-hawks-pro-skater-2x-47325/)",
+    "[Tony Hawk's Underground 2 Remix](/games/tony-hawks-underground-2-remix-22311/)"
+  ],
+  "websites": [
+    " [https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_3](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_3)"
+  ],
+  "filePath": "src/markdown/games/tony-hawk-s-pro-skater-3-914.md",
+  "handle": "tony-hawk-s-pro-skater-3-914",
+  "name": "Tony Hawk's Pro Skater 3",
+  "icon": "https://www.mobygames.com/images/covers/s/31883-tony-hawk-s-pro-skater-3-playstation-2-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Activision Publishing, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Neversoft Entertainment, Inc."
+    },
+    {
+      "name": "Released",
+      "value": "Oct 30, 2001"
+    },
+    {
+      "name": "Platforms",
+      "value": "GameCube,Macintosh,Nintendo 64,PlayStation,PlayStation 2,Windows,Xbox"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Skateboarding"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/tony-hawks-pro-skater-3"
+}

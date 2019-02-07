@@ -1,0 +1,93 @@
+{
+  "name": "Cheer Bear's Sweet Ride",
+  "icon": "https://www.mobygames.com/images/covers/s/127730-cheer-bear-s-sweet-ride-browser-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/american-greetings-corporation",
+        "text": "American Greetings Corporation"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/donut-games",
+        "text": "Donut Games"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/browser/cheer-bears-sweet-ride/release-info",
+        "text": "Aug 23, 2007"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/browser/",
+        "text": "Browser"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/platform/",
+        "text": "Platform"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nCheer Bear is apparently on his way to a birthday party with the other Care Bears. With his hovering skateboard and helmet, he takes a ride through the park collecting \"fun stuff\" for the birthday party. Cheer will automatically move forward on the skateboard. The game consists of a long stage, with various pickups scattered all around. Using the mouse or keyboard you can make Cheer Bear jump to get the pickups and reach new platforms. At the end of the stage, a summary is shown so you can see how many pickups you managed to collect. This game is a Care Bears themed version of the game PP's Park Race by the same developer.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/335392-cheer-bear-s-sweet-ride-browser-screenshot-jump-to-get-the.jpg",
+    "https://www.mobygames.com/images/shots/s/335393-cheer-bear-s-sweet-ride-browser-screenshot-a-summary-is-shown.jpg",
+    "https://www.mobygames.com/images/shots/s/335391-cheer-bear-s-sweet-ride-browser-screenshot-getting-ready-to.jpg",
+    "https://www.mobygames.com/images/shots/s/335390-cheer-bear-s-sweet-ride-browser-screenshot-the-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/cheer-bears-sweet-ride",
+  "altTitles": []
+}

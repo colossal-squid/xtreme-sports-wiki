@@ -1,0 +1,117 @@
+{
+  "name": "Milo the Fuel Run",
+  "icon": "https://www.mobygames.com/images/covers/s/159090-milo-the-fuel-run-dos-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/harrow-software-pty-ltd",
+        "text": "Harrow Software Pty Ltd"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/dos/milo-the-fuel-run/release-info",
+        "text": "Jan 20, 1997"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/dos/",
+        "text": "DOS"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Art",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/anime-manga/",
+        "text": "Anime / Manga"
+      }
+    ],
+    "Pacing",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/real-time/",
+        "text": "Real-Time"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/platform/",
+        "text": "Platform"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Setting",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/contemporary/",
+        "text": "Contemporary"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sci-fi-futuristic/",
+        "text": "Sci-Fi / Futuristic"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nMilo: the Fuel Run is a side scrolling platform game with you being a skater trying to save the world's supply of the chocolate malted beverage Milo. You must skate/jump/grind through various levels collecting tins of Milo, stomping bad guys and finding new tricks in order to reach the end of each stage, many of which have a boss. Can you stop the evil doctor and his dastardly evil plan to steal all the Milo in the world?\n\nPowerups you can find:\nSkateboard - collecting this earns you a extra life.\nMilo tin - collect these to increase your health.\n1st ollie - allows you to jump high on your skateboard.\n2nd ollie - allows for a even bigger groovy ollie then before\ntricks+grinds - allows grinding on certain objects to avoid damage.\nFlips - allows you to flip your board and (possibly?) deal more damage to bad guys\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/milo-the-fuel-run",
+  "altTitles": []
+}

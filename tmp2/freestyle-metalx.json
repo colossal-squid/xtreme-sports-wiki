@@ -1,0 +1,59 @@
+{
+  "title": "Freestyle MetalX",
+  "platforms": "GameCube",
+  "mechanics": "n/a",
+  "date": "2003",
+  "sports": "MX",
+  "cover": "https://www.mobygames.com/images/covers/s/143070-freestyle-metalx-xbox-front-cover.jpg",
+  "altTitles": [],
+  "description": "\nFreestyle MetalX is, as the name implies, a motocross stunt game. It contains 9 pro riders and twelve licensed bikes to begin with, plus some secret ones. It is structured somewhat like the Tony Hawk series with a career mode that is a succession of levels, each one containing goals like doing specific tricks, finding gaps and finding things, which could take the form of breaking windows, running people over, etc. In this case, there are also racing goals. Each goal gives you money, which can be used to unlock new riders, bikes and levels.\n\nControls consist of an accelerator, brake and clutch along with jump, trick and trick modifier buttons. The modifier can be used to turn a superman into a nothing superman, for instance. Wheelies are controlled with the right analog stick.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/546383-freestyle-metalx-playstation-2-screenshot-title-screen.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/freestyle-metalx](https://www.mobygames.com/game/freestyle-metalx)"
+  ],
+  "filePath": "src/markdown/games/freestyle-metalx.md",
+  "handle": "freestyle-metalx",
+  "name": "Freestyle MetalX",
+  "icon": "https://www.mobygames.com/images/covers/s/143070-freestyle-metalx-xbox-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Midway Games Limited"
+    },
+    {
+      "name": "Developed by",
+      "value": "Deibus Studios Ltd."
+    },
+    {
+      "name": "Released",
+      "value": "2003"
+    },
+    {
+      "name": "Platforms",
+      "value": "GameCube,PlayStation 2,Xbox"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "3rd-person (Other)"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Motorcycle"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/freestyle-metalx"
+}

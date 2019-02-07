@@ -1,0 +1,83 @@
+{
+  "name": "WaveRunner",
+  "icon": "https://www.mobygames.com/images/shots/s/720321-waverunner-arcade-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/sega-games-co-ltd",
+        "text": "SEGA Enterprises Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/amusement-vision-ltd",
+        "text": "Sega AM4 R&D Division"
+      },
+      {
+        "link": "https://www.mobygames.com/company/wow-entertainment-inc",
+        "text": "Sega AM1 R&D Division"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/arcade/waverunner/release-info",
+        "text": "Oct, 1996"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/arcade/",
+        "text": "Arcade"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/naval/",
+        "text": "Naval / Watercraft"
+      }
+    ]
+  ],
+  "description": "\nWaveRunner puts the player in control of the watercraft of the same name by Yamaha, competing against other riders and the clock. There are three courses, representing difficulty levels: \"Novice\", \"Intermediate\", and \"Expert\". The arcade machine features controls in the form of handlebars for turning and a throttle lever. It's possible to switch between two perspectives during the racing. Passing checkpoints extends the time limit. There are also ramps which allow trick jumps featured in the game, and up to four machines may be linked for multiplayer.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/720322-waverunner-arcade-screenshot-a-ship-is-ahead-but-so-is-the.jpg",
+    "https://www.mobygames.com/images/shots/s/720326-waverunner-arcade-screenshot-control-explanation.jpg",
+    "https://www.mobygames.com/images/shots/s/720329-waverunner-arcade-screenshot-water-splashing.jpg",
+    "https://www.mobygames.com/images/shots/s/720321-waverunner-arcade-screenshot-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/waverunner",
+  "altTitles": []
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Lava Surfing",
+  "icon": "https://www.mobygames.com/images/shots/s/724947-lava-surfing-browser-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/lego-group",
+        "text": "Lego Group, The"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/browser/lava-surfing/release-info",
+        "text": "2003"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/browser/",
+        "text": "Browser"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/surfing/",
+        "text": "Surfing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nLava Surfing is a Flash game used to promote the movie BIONICLE: Mask of Light - The Movie. You control Toa Nuva Tahu as he surfs on a river of lava with the goal of collecting 25 Tahu Tokens. You can steer left and right, as well as accelerate and brake. Missing a Tahu Token results in a five second penalty to the timer. You must also be careful not to crash into rocks, as this will end the game.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/724948-lava-surfing-browser-screenshot-approaching-a-tahu-token.jpg",
+    "https://www.mobygames.com/images/shots/s/724949-lava-surfing-browser-screenshot-approaching-a-rock.jpg",
+    "https://www.mobygames.com/images/shots/s/724950-lava-surfing-browser-screenshot-alas-not-even-the-toa-of-fire.jpg",
+    "https://www.mobygames.com/images/shots/s/724947-lava-surfing-browser-screenshot-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/lava-surfing",
+  "altTitles": []
+}

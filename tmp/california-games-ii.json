@@ -1,0 +1,107 @@
+{
+  "name": "California Games II",
+  "icon": "https://www.mobygames.com/images/covers/s/10292-california-games-ii-dos-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/epyx-inc",
+        "text": "Epyx, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/epyx-inc",
+        "text": "Epyx, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/california-games-ii/release-info",
+        "text": "1990"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/california-games-ii",
+        "text": "Amiga"
+      },
+      {
+        "link": "https://www.mobygames.com/game/atari-st/california-games-ii",
+        "text": "Atari ST"
+      },
+      {
+        "link": "https://www.mobygames.com/game/dos/california-games-ii",
+        "text": "DOS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/sega-master-system/california-games-ii",
+        "text": "SEGA Master System"
+      },
+      {
+        "link": "https://www.mobygames.com/game/snes/california-games-ii",
+        "text": "SNES"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/olympiad/",
+        "text": "Olympiad / Mixed Sports"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/surfing/",
+        "text": "Surfing"
+      }
+    ]
+  ],
+  "description": "\nCalifornia Games II is the sequel to the smash hit 1988 game.\n\n\n\nThis time you compete in: hang-gliding, jetski, skateboarding, body boarding and snow boarding.\n\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/307833-california-games-ii-amiga-screenshot-surfing-to-sea-now-where.jpg",
+    "https://www.mobygames.com/images/shots/s/370083-california-games-ii-atari-st-screenshot-surfing-between-the.jpg",
+    "https://www.mobygames.com/images/shots/s/370081-california-games-ii-atari-st-screenshot-enter-players.jpg",
+    "https://www.mobygames.com/images/shots/s/581835-california-games-ii-dos-screenshot-most-excellent-dudes.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/california-games-ii",
+  "altTitles": [
+    "\"Jogos de Verão II\" -- Brazilian SEGA Master System title",
+    "\"カリフォルニアゲームズII\" -- Japanese spelling",
+    "\"Calgames 2\" -- Informal title"
+  ]
+}

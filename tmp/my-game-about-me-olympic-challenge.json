@@ -1,0 +1,81 @@
+{
+  "name": "My Game About Me: Olympic Challenge",
+  "icon": "https://www.mobygames.com/images/covers/s/300161-my-game-about-me-olympic-challenge-browser-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/double-fine-productions-inc",
+        "text": "Double Fine Productions, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/double-fine-productions-inc",
+        "text": "Double Fine Productions, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/browser/my-game-about-me-olympic-challenge/release-info",
+        "text": "Jan 08, 2008"
+      }
+    ],
+    "Official Site",
+    [
+      {
+        "link": "http://www.doublefine.com/games/my_game_about_me/",
+        "text": "My Game About Me: Olympic Challenge"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/browser/",
+        "text": "Browser"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/board_games/",
+        "text": "Board Game"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/surfing/",
+        "text": "Surfing"
+      }
+    ]
+  ],
+  "description": "\nMy Game About Me: Olympic Challenge is based on the semi-autobiographical webcomic by Nathan Stapley, My Comic About Me. It is a parody of sports games, where there are a number of \"Olympic\" events to compete in to win medals. However, the events are not Olympic-caliber at all. The event mini-games included are eating, sleeping, and surfing while avoiding obstacles. Along with Nathan, there are multiple characters to choose from, as well as characters that can be unlocked.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/my-game-about-me-olympic-challenge",
+  "altTitles": []
+}

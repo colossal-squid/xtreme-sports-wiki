@@ -1,0 +1,87 @@
+{
+  "name": "RTL Biathlon 2009",
+  "icon": "https://www.mobygames.com/images/covers/s/175315-rtl-biathlon-2009-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/rtl-games-gmbh",
+        "text": "RTL Games GmbH"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/49games-gmbh",
+        "text": "49Games GmbH"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/rtl-biathlon-2009/release-info",
+        "text": "Nov 27, 2008"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ps2/rtl-biathlon-2009",
+        "text": "PlayStation 2"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii/rtl-biathlon-2009",
+        "text": "Wii"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/rtl-biathlon-2009",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nRTL Biathlon 2009 is a simulation of the Biathlon sport. Like the real sport it is basically divided into two sections: skiing and shooting. During the skiing sections the player steers his athlete into the correct direction and watches his stamina. In the middle of the screen is a power bar which gets filled by holding the assigned button - if the bar is too low the athlete gets slow and if it is too high he gets tired. Practically this results in steady button pressing to keep it as high as possible. During the shooting sequences the player shoots on targets while the cursor is wobbling. He can also hold his breath for a short time to steady his aim.\n\nIn the career mode the player divides points into four categories, e.g. speed or stamina, which influence the athlethe's capabilities. After successful championships he can improve these stats further. New in this instalment are super-powers which can be chosen at some point. When activated these give a big boost on a stat for a short time, e.g. \"mountain skiing\" boosts power when skiing uphill. These are available once per race. There are overall 15 courses which are partly licensed.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/416619-rtl-biathlon-2009-windows-screenshot-main-menu-demo-version.jpg",
+    "https://www.mobygames.com/images/shots/s/416620-rtl-biathlon-2009-windows-screenshot-this-is-an-existing-athlete.jpg",
+    "https://www.mobygames.com/images/shots/s/416622-rtl-biathlon-2009-windows-screenshot-the-intro-sequence-before.jpg",
+    "https://www.mobygames.com/images/shots/s/416621-rtl-biathlon-2009-windows-screenshot-information-about-the.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/rtl-biathlon-2009",
+  "altTitles": []
+}

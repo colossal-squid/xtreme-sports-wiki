@@ -1,0 +1,112 @@
+{
+  "name": "Battletoads",
+  "icon": "https://www.mobygames.com/images/covers/s/224525-battletoads-game-boy-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/tradewest-inc",
+        "text": "Tradewest, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/rare-ltd",
+        "text": "Rare Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/battletoads/release-info",
+        "text": "1991"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/battletoads",
+        "text": "Amiga"
+      },
+      {
+        "link": "https://www.mobygames.com/game/amiga-cd32/battletoads",
+        "text": "Amiga CD32"
+      },
+      {
+        "link": "https://www.mobygames.com/game/gameboy/battletoads",
+        "text": "Game Boy"
+      },
+      {
+        "link": "https://www.mobygames.com/game/game-gear/battletoads",
+        "text": "Game Gear"
+      },
+      {
+        "link": "https://www.mobygames.com/game/genesis/battletoads",
+        "text": "Genesis"
+      },
+      {
+        "link": "https://www.mobygames.com/game/nes/battletoads",
+        "text": "NES"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/beatemup-brawler/",
+        "text": "Beat 'em up / Brawler"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/platform/",
+        "text": "Platform"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/surfing/",
+        "text": "Surfing"
+      }
+    ],
+    "Setting",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sci-fi-futuristic/",
+        "text": "Sci-Fi / Futuristic"
+      }
+    ]
+  ],
+  "description": "\nThe Dark Queen has attacked and kidnapped (toadnapped?) your best buddy. To make matters worse, she nabbed the best looking girl around! So, what will you do? Cry? Whimper? Hide? Call the Starcops? NO! Cause you're a Battletoad! Battletoads don't cry, hide or call for help! And they certainly don't whimper! They get MAD then they get EVEN! So grab your blaster, hop on the Toadster and go get 'em!\n\nYou will control a battletoad through 13 levels (five of which are missing from the Game Boy port). Some are side-scrolling beat-em-ups, other are vertical drops down a shaft, fighting as you go, others have you riding a rocket or surfboard, shooting or avoiding enemies. At the end of each area, there is a boss. In some areas, about half-way through, you may have a mini-boss.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/30966-battletoads-game-boy-screenshot-third-level.jpg",
+    "https://www.mobygames.com/images/shots/s/30965-battletoads-game-boy-screenshot-second-level.jpg",
+    "https://www.mobygames.com/images/shots/s/488469-battletoads-amiga-cd32-screenshot-and-zitz-nasty-bunch.jpg",
+    "https://www.mobygames.com/images/shots/s/61226-battletoads-amiga-screenshot-one-of-the-toads-lands-on-the.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/battletoads",
+  "altTitles": [
+    "\"Battletoads in Ragnarok's World\" -- Game Boy title",
+    "\"バトルトード\" -- Japanese spelling"
+  ]
+}

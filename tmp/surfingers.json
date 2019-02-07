@@ -1,0 +1,119 @@
+{
+  "name": "Surfingers",
+  "icon": "https://www.mobygames.com/images/covers/s/464212-surfingers-ipad-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/digital-melody",
+        "text": "Digital Melody"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/digital-melody",
+        "text": "Digital Melody"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/surfingers/release-info",
+        "text": "Jan 06, 2016"
+      }
+    ],
+    "Official Site",
+    [
+      {
+        "link": "http://www.digitalmelody.eu/games/Surfingers",
+        "text": "Surfingers"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/android/surfingers",
+        "text": "Android"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ipad/surfingers",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/surfingers",
+        "text": "iPhone"
+      },
+      {
+        "link": "https://www.mobygames.com/game/linux/surfingers",
+        "text": "Linux"
+      },
+      {
+        "link": "https://www.mobygames.com/game/macintosh/surfingers",
+        "text": "Macintosh"
+      },
+      {
+        "link": "https://www.mobygames.com/game/tvos/surfingers",
+        "text": "tvOS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/surfingers",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/surfing/",
+        "text": "Surfing"
+      }
+    ]
+  ],
+  "description": "Buy at \nBuy at \n Buy at \nNot an American user?\nDescription",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/surfingers",
+  "altTitles": []
+}

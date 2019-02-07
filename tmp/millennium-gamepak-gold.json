@@ -1,0 +1,108 @@
+{
+  "name": "Millennium GamePak Gold",
+  "icon": "https://www.mobygames.com/images/covers/s/308412-millennium-gamepak-gold-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/valusoft-inc",
+        "text": "ValuSoft, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/millennium-gamepak-gold/release-info",
+        "text": "2000"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/strategy/",
+        "text": "Strategy/Tactics"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/board_games/",
+        "text": "Board Game"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/cards/",
+        "text": "Cards / Tiles"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/casino/",
+        "text": "Casino / Gambling"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/shooter/",
+        "text": "Shooter"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/bowling/",
+        "text": "Bowling"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/fishing/",
+        "text": "Fishing"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/soccer-football-european/",
+        "text": "Football (European) / Soccer"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/golf/",
+        "text": "Golf"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Setting",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sci-fi-futuristic/",
+        "text": "Sci-Fi / Futuristic"
+      }
+    ]
+  ],
+  "description": "\n100+ Great Games: Volume II is a collection of casual games. The games are grouped into four categories, Puzzle, parlor, Sports and Action. When the player selects a category and scrolls down the list of games a brief description and a screenshot of the game is displayed. All the games play in a window in the game area next to the game menu and have their own separate instruction screen. The games in this compilation are:\n\n\nPuzzle: Antware, Booby Trap, Brain Buster, Detention, Egyptris, Krazy Kubes, Marble Mayhem, Matchup, Move 'Em, Padhopper, Slider, Time Shift, Totally Tubular, Treasure Hunt, Warship\n\n\nSports: Baseball Darts, Bowling, Bumper Boats, Darts 301, Dirt Rally 2000, FacePlant, Fishing Frenzy, Football, Puttz Creek, SnowBoarding, Soopah Swoosh, Turkey Bowl\n\n\nParlor: Blackjack, Freecell, GinRummy, Greedy Dice, Poker, Pulltabs, Roulette, Scratch and Win, Slots, Solitaire\n\n\nAction: Bananarama, Bug Exterminator, Cat N' Mouse, Duck Shoot, Lunar Encounters, NovaBlast, Global Defender, Monster Madness, Space Lander, Space Penguins, Turtle Rush, Worms Galore\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/727535-millennium-gamepak-gold-windows-screenshot-parlor-games-includes.jpg",
+    "https://www.mobygames.com/images/shots/s/727531-millennium-gamepak-gold-windows-screenshot-scrolling-down.jpg",
+    "https://www.mobygames.com/images/shots/s/727532-millennium-gamepak-gold-windows-screenshot-many-of-the-games.jpg",
+    "https://www.mobygames.com/images/shots/s/727534-millennium-gamepak-gold-windows-screenshot-this-game-is-a.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/millennium-gamepak-gold",
+  "altTitles": []
+}

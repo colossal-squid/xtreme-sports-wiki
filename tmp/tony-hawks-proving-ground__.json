@@ -1,0 +1,79 @@
+{
+  "name": "Tony Hawk's Proving Ground",
+  "icon": "https://www.mobygames.com/images/covers/s/116542-tony-hawk-s-proving-ground-nintendo-ds-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/activision-publishing-inc",
+        "text": "Activision Publishing, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/vicarious-visions-inc",
+        "text": "Vicarious Visions, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/nintendo-ds/tony-hawks-proving-ground__/release-info",
+        "text": "Oct 16, 2007"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/nintendo-ds/",
+        "text": "Nintendo DS"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,593/",
+        "text": "Everyone 10+"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nThe Nintendo DS version of THPG has the similar storyline to it's console cousins, but utilizes the stylus pen as well as the D-pad to skate and perform tricks on just about every surface in the game. The player can also create their own skater or skate park in the story mode or can play classic and perform tricks to complete achievements given by famous skaters.\n\nIt also features Wi-Fi capability, allowing players to skate head-to-head in up to 10 different types including the standard endurance races and challenge matches along with some new ones including red light/green light in which tricks are given points only if they are performed when a green light is present.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/815749-tony-hawk-s-proving-ground-nintendo-ds-screenshot-a-cinematic.jpg",
+    "https://www.mobygames.com/images/shots/s/815744-tony-hawk-s-proving-ground-nintendo-ds-screenshot-lessons.jpg",
+    "https://www.mobygames.com/images/shots/s/815753-tony-hawk-s-proving-ground-nintendo-ds-screenshot-goal-info.jpg",
+    "https://www.mobygames.com/images/shots/s/815747-tony-hawk-s-proving-ground-nintendo-ds-screenshot-making-a.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/tony-hawks-proving-ground__",
+  "altTitles": []
+}

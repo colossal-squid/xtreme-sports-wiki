@@ -1,0 +1,106 @@
+{
+  "name": "Tony Hawk's Pro Skater 3",
+  "icon": "https://www.mobygames.com/images/covers/s/31883-tony-hawk-s-pro-skater-3-playstation-2-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/activision-publishing-inc",
+        "text": "Activision Publishing, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/neversoft-entertainment-inc",
+        "text": "Neversoft Entertainment, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/tony-hawks-pro-skater-3/release-info",
+        "text": "Oct 30, 2001"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gamecube/tony-hawks-pro-skater-3",
+        "text": "GameCube"
+      },
+      {
+        "link": "https://www.mobygames.com/game/macintosh/tony-hawks-pro-skater-3",
+        "text": "Macintosh"
+      },
+      {
+        "link": "https://www.mobygames.com/game/n64/tony-hawks-pro-skater-3",
+        "text": "Nintendo 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/playstation/tony-hawks-pro-skater-3",
+        "text": "PlayStation"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps2/tony-hawks-pro-skater-3",
+        "text": "PlayStation 2"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/tony-hawks-pro-skater-3",
+        "text": "Windows"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox/tony-hawks-pro-skater-3",
+        "text": "Xbox"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nTony Hawk returns with an all new line-up of skaters, an all new line-up of parks to crash through, and a whole new level of graphics.\n\nThe line-up of street and vert riders include Elissa Steamer, Jamie Thomas, Steve Caballero, Rune Glifberg, Geoff Rowley, Andrew Reynolds, Rodney Mullen, Eric Koston, Chad Muska, Bucky Lasek and Bam Margera from MTV's Jackass (and Tony Hawk, of course).\n\nThe create a skater mode returns, allowing for even further levels of options for your character, like adding glasses and tatoos to changing the colour of the knee and elbow pads or even the hair.\n\nAnd the levels themselves that you must skate through are now more interactive, with cars and humans blocking paths and making noise as you race around to make as many points as possible. Use items around the streets or the park to jump from or over to increase your score, and pull of as many wild and wacky tricks as you can.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/626621-tony-hawk-s-pro-skater-3-playstation-screenshot-in-suburbia.jpg",
+    "https://www.mobygames.com/images/shots/s/24951-tony-hawk-s-pro-skater-3-windows-screenshot-boneless.jpg",
+    "https://www.mobygames.com/images/shots/s/24954-tony-hawk-s-pro-skater-3-windows-screenshot-this-one-is-tricky.jpg",
+    "https://www.mobygames.com/images/shots/s/284139-tony-hawk-s-pro-skater-3-playstation-2-screenshot-the-rio.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/9D7GFuuyL4Q",
+  "url": "https://www.mobygames.com/game/tony-hawks-pro-skater-3",
+  "altTitles": [
+    "\"托尼霍克职业滑板3\" -- Chinese spelling (simplified)",
+    "\"THPS3\" -- Informal abbreviation"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Kelly Slater's Pro Surfer",
+  "platforms": "PC (Microsoft Windows), Xbox, GBA, Nintendo Gamecube, PS2",
+  "mechanics": "thps",
+  "date": "August 2002",
+  "sports": "Surfing",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/hofecvy4ggyoes9cotun.jpg",
+  "altTitles": [
+    "\"极限冲浪\" -- Chinese spelling (simplified)",
+    "\"KSPS\" -- Informal abbreviation"
+  ],
+  "description": "\nDo you like to surf? Have you ever imagined surfing at different remote locations around the world? Well, Kelly Slater takes you around the world on his boat to surf some of the more famous beaches. With a control scheme similar to all the other Activision O2 brand games, it's easy to jump into the game and surf.\n\nGame Play Modes:\nInfinite Time - With no clock, no objectives, and nobody around, this gives you the best opportunity to just enjoy the surf.\n\nHigh Score - With 3 minutes, how high of a score can you get?\n\nIcon Challenge - See how many icons you can collect and how high of a score you can get before time runs out.\n\nCareer Mode - Select a surfer and journey around the world to surf the best waves on the best beaches. As you progress you will unlock new beaches, new surf boards, and new tricks which will be usable in all the other modes of play.\n\nMultiplayer Modes:\nPush - Two players surf simultaneously in an attempt to \"push\" the split screen towards their opponent's half of the screen. As you score points the screen gets pushed more. The winner is decided once one player is pushed from the screen.\n\nHead to Head - Similar to Push but the screen is stationary and the winner is the person with the highest points when the time runs out.\n\nTime Attack - Players take turns to achieve the most points possible. The more points you get the less time is alloted to your opponent.\n\nThe Pros in the game: Kelly Slater, Lisa Andersen, Tom Carroll, Tom Curren, Nathan Fletcher, Donavon Frankenreiter, Bruce Irons, Rob Machado, Kalani Robb, and some other secret characters.\n\nThe beaches in the game: Sebastian, Trestles, Mavericks, Antarctica, Jaws, Pipeline, Teahupoo, Bells, Curren's Point, Kirra, G-Land, J-Bay, Mundaka, Cortez Bank, and perhaps some other tucked-away hide-aways.\n\nThe PS2 version of the game also includes a playable demo of Tony Hawk's Pro Skater 4.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/351884-kelly-slater-s-pro-surfer-windows-screenshot-if-you-don-t.jpg",
+    "https://www.mobygames.com/images/shots/s/351863-kelly-slater-s-pro-surfer-windows-screenshot-yeah-a-tube-ride.jpg",
+    "https://www.mobygames.com/images/shots/s/351866-kelly-slater-s-pro-surfer-windows-screenshot-the-usual-stuff.jpg",
+    "https://www.mobygames.com/images/shots/s/351875-kelly-slater-s-pro-surfer-windows-screenshot-the-game-takes.jpg"
+  ],
+  "video": "",
+  "relatedGames": [
+    "[Wakeboarding Unleashed Featuring Shaun Murray](/games/wakeboarding-unleashed-featuring-shaun-murray-23694/)",
+    "[TransWorld Surf](/games/transworld-surf-4209/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/kelly-slater-s-pro-surfer-3963.md",
+  "handle": "kelly-slater-s-pro-surfer-3963",
+  "name": "Kelly Slater's Pro Surfer",
+  "icon": "https://www.mobygames.com/images/covers/s/15209-kelly-slater-s-pro-surfer-playstation-2-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Activision Deutschland GmbH"
+    },
+    {
+      "name": "Developed by",
+      "value": "Treyarch Corporation"
+    },
+    {
+      "name": "Released",
+      "value": "2002"
+    },
+    {
+      "name": "Platforms",
+      "value": "GameCube,Macintosh,PlayStation 2,Windows,Xbox"
+    },
+    {
+      "name": "Genre",
+      "value": "Action,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Surfing"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/kelly-slaters-pro-surfer"
+}

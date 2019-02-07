@@ -1,0 +1,87 @@
+{
+  "name": "Jonny Moseley Mad Trix",
+  "icon": "https://www.mobygames.com/images/covers/s/170218-jonny-moseley-mad-trix-game-boy-advance-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/3do-company",
+        "text": "3DO Company, The"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/gfx-construction",
+        "text": "GFX Construction"
+      },
+      {
+        "link": "https://www.mobygames.com/company/rtg-studios",
+        "text": "RTG Studios"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gameboy-advance/jonny-moseley-mad-trix_/release-info",
+        "text": "2002"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/gameboy-advance/",
+        "text": "Game Boy Advance"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/isometric/",
+        "text": "Isometric"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nJonny Moseley Mad Trix is an extreme skiing game, in the vein of Tony Hawk's Pro Skater and Dave Mirra Freestyle BMX.\n\nAs Jonny Moseley, Tanner Hall, or a number of other skiers, you must perform various stunts while racing down several different courses, including both mountains and cities, to unlock more courses and secret characters.\n\nThe GBA version has an isometric viewpoint, instead of the 3D of the console versions, and has simplified controls.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/349280-jonny-moseley-mad-trix-game-boy-advance-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/349291-jonny-moseley-mad-trix-game-boy-advance-screenshot-stage-select.jpg",
+    "https://www.mobygames.com/images/shots/s/349281-jonny-moseley-mad-trix-game-boy-advance-screenshot-illegal.jpg",
+    "https://www.mobygames.com/images/shots/s/349284-jonny-moseley-mad-trix-game-boy-advance-screenshot-at-the.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/jonny-moseley-mad-trix_",
+  "altTitles": []
+}

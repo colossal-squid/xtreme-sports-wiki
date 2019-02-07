@@ -1,0 +1,62 @@
+{
+  "name": "Tricky Truck",
+  "icon": "https://www.mobygames.com/images/covers/s/281678-tricky-truck-ipad-front-cover.jpg",
+  "attributes": [
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/tricky-truck/release-info",
+        "text": "Jul 27, 2010"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ipad/tricky-truck",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/tricky-truck",
+        "text": "iPhone"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/tricky-truck",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ]
+  ],
+  "description": "\nJust like Peter Sotesz's previous game Sumotori Dreams, Tricky Truck is based around physics, but this time with a truck. It aims to test the player's parking skills with a long truck across a number of challenges. The controls are extremely sensitive, also because of the cargo, and the truck can easily topple over or lose a wheel. To complete a level the truck needs to be parked in a designated spot with all wheels. It is possible to lose a wheel along the way and sometimes the parking needs to be done in a specific direction. The courses include hills, fragile bridges and even jumps.\n\nThere are different viewpoints and those bring along two difficulty levels: easy (third-person) and hard (first-person). Each challenge comes with a demo where a successful attempt can be previewed.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/453452-tricky-truck-windows-screenshot-moving-over-a-fragile-bridge.jpg",
+    "https://www.mobygames.com/images/shots/s/453450-tricky-truck-windows-screenshot-corners-are-harder-than-they.jpg",
+    "https://www.mobygames.com/images/shots/s/453449-tricky-truck-windows-screenshot-using-the-left-mirror-you.jpg",
+    "https://www.mobygames.com/images/shots/s/453456-tricky-truck-windows-screenshot-some-corners-take-a-lot-of.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/tricky-truck",
+  "altTitles": []
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Millennium Winter Sports",
+  "icon": "https://www.mobygames.com/images/covers/s/283289-millennium-winter-sports-game-boy-color-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/konami-digital-entertainment-inc",
+        "text": "Konami of America, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/konami-computer-entertainment-studios-inc",
+        "text": "Konami Computer Entertainment Osaka Co., Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gameboy-color/millennium-winter-sports/release-info",
+        "text": "2000"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/gameboy-color/",
+        "text": "Game Boy Color"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nCompete for the gold in 8 different winter themed sports in this handheld sports offering by Konami. The game is similar to Konami's earlier sports games in the Track & Field legacy, where a mix of button-mashing and accurate timing will win the player the medals.\n\nThe player can either compete in the Championship Mode where all 8 sports are played in a row, or there's the option to play them all individually. There are several different skiing events, bob, speed skating and half-pipe snowboarding for the player to master.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/463240-millennium-winter-sports-game-boy-color-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/463241-millennium-winter-sports-game-boy-color-screenshot-main-menu.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/millennium-winter-sports",
+  "altTitles": [
+    "\"Konami Winter Games\" -- European title",
+    "\"Hyper Olympic: Winter 2000\" -- Japanese title",
+    "\"ハイパーオリンピックウインター2000\" -- Japanese spelling"
+  ]
+}

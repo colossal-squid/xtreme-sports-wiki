@@ -1,0 +1,89 @@
+{
+  "name": "SSX",
+  "icon": "https://www.mobygames.com/images/covers/s/17423-ssx-playstation-2-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/electronic-arts-inc",
+        "text": "Electronic Arts, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/electronic-arts-vancouver_",
+        "text": "Electronic Arts Canada"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/ps2/ssx/release-info",
+        "text": "Oct 26, 2000"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/ps2/",
+        "text": "PlayStation 2"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSSX is a racing game which allows (and encourages) slamming opponents out of the race, as well as performing various stunts. The courses in the game include Snowdream, Elysium Alps, Tokyo Megaplex, Mesablanca, Merqury City Meltdown, and others. Players can choose to control any of the eight available international racers, each featuring their own attitude and unique tricks. A career mode and two-player gameplay are available as well.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/689310-ssx-playstation-2-screenshot-all-the-lights-are-green-a-single.jpg",
+    "https://www.mobygames.com/images/shots/s/689309-ssx-playstation-2-screenshot-the-start-of-a-single-player.jpg",
+    "https://www.mobygames.com/images/shots/s/689313-ssx-playstation-2-screenshot-the-course-is-very-steep-and.jpg",
+    "https://www.mobygames.com/images/shots/s/689312-ssx-playstation-2-screenshot-the-boarder-has-just-pulled-of.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/__PjlECvhk8",
+  "url": "https://www.mobygames.com/game/ssx",
+  "altTitles": [
+    "\"X-treme Racing SSX\" -- Japanese title"
+  ]
+}

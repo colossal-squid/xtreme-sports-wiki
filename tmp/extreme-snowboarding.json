@@ -1,0 +1,64 @@
+{
+  "name": "Extreme Snowboarding",
+  "icon": "https://www.mobygames.com/images/covers/s/239715-extreme-snowboarding-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/idigicon-limited",
+        "text": "Idigicon Limited"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/psionic",
+        "text": "Psionic"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/extreme-snowboarding/release-info",
+        "text": "2007"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nExtreme Snowboarding is a one or two player game.\n\nThere are three modes of play:\nTournament: in which the player(s) race down a series of courses to achieve the highest cumulative score possible.\nSingle Race: in which the player(s) race down one of the tournament courses\nIn both kinds of race the player who finishes first is not necessarily the winner. Points are scored for finishing and they are also gained, for performing tricks and grid rails, and lost for missing gates.\nBig Air: in which the player(s) leap from a ski jump and perform tricks while in the air. The number of rounds in this kind of competition is customisable.\nThe game is controlled entirely via the keyboard though the action keys are customisable. The player's character and board are not customisable but there is a selection to choose from.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/552361-extreme-snowboarding-windows-screenshot-after-the-race-scores.jpg",
+    "https://www.mobygames.com/images/shots/s/552367-extreme-snowboarding-windows-screenshot-the-yellow-humpy-thing.jpg",
+    "https://www.mobygames.com/images/shots/s/552381-extreme-snowboarding-windows-screenshot-this-is-the-character.jpg",
+    "https://www.mobygames.com/images/shots/s/552360-extreme-snowboarding-windows-screenshot-at-the-end-of-the.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/extreme-snowboarding",
+  "altTitles": []
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Solipskier",
+  "icon": "https://www.mobygames.com/images/covers/s/194839-solipskier-browser-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/mikengreg-llc",
+        "text": "Mikengreg LLC"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/mikengreg-llc",
+        "text": "Mikengreg LLC"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/solipskier/release-info",
+        "text": "Aug 12, 2010"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/android/solipskier",
+        "text": "Android"
+      },
+      {
+        "link": "https://www.mobygames.com/game/browser/solipskier",
+        "text": "Browser"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ipad/solipskier",
+        "text": "iPad"
+      },
+      {
+        "link": "https://www.mobygames.com/game/iphone/solipskier",
+        "text": "iPhone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSolipskier is a fast-paced action game based around skiing. The aim of the game is to get the skier as far as possible without crashing and rack up a large amount of points, but the player does not control him directly. Instead you need to draw the snow for him to ski on, with the mouse (Browser) of by touching the screen (iPhone). Downslopes allow him to speed up, but he will climb up hills as well. By drawing downslopes ending in an upwards curve, he can be launched in the air. Doing that in quick succession allows him to travel great distances at large speeds. While in the air tricks are performed automatically when the player stops painting snow. The game builds up a score while playing, and by catching air, stars are earned and multipliers are built up. It is also possible to ski through gates and long tunnels to receive additional points and gain speed. Touching red gates kills the skier instantly, however and there are parts that prevent the player from drawing snow to ski on. Indicators on the right announce gates, tunnels and hazards. The skier is designed as a white figure with headphones, blasting rock music. At very high speeds it is possible to lose the headphones, making the rushing wind the only sound.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/456719-solipskier-browser-screenshot-slopes-are-climbed-automatically.jpg",
+    "https://www.mobygames.com/images/shots/s/456721-solipskier-browser-screenshot-moving-forward.jpg",
+    "https://www.mobygames.com/images/shots/s/456720-solipskier-browser-screenshot-results-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/456716-solipskier-browser-screenshot-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/solipskier",
+  "altTitles": []
+}

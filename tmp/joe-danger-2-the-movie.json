@@ -1,0 +1,102 @@
+{
+  "name": "Joe Danger 2: The Movie",
+  "icon": "https://www.mobygames.com/images/covers/s/298017-joe-danger-2-the-movie-ps-vita-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/xbox-game-studios",
+        "text": "Microsoft Studios"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/hello-games-ltd",
+        "text": "Hello Games Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/joe-danger-2-the-movie/release-info",
+        "text": "Sep 14, 2012"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/linux/joe-danger-2-the-movie",
+        "text": "Linux"
+      },
+      {
+        "link": "https://www.mobygames.com/game/macintosh/joe-danger-2-the-movie",
+        "text": "Macintosh"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps3/joe-danger-2-the-movie",
+        "text": "PlayStation 3"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps-vita/joe-danger-2-the-movie",
+        "text": "PS Vita"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/joe-danger-2-the-movie",
+        "text": "Windows"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox360/joe-danger-2-the-movie",
+        "text": "Xbox 360"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ]
+  ],
+  "description": "\nJoe Danger 2: The Movie is the sequel to the game Joe Danger. In this game, the player controls Joe Danger, stuntman extraordinary, through various stages. The whole game centres around various movie themes. Many, many tropes and clichés of famous movies get used in the different stages. The game has no story to speak of, but the different levels and stage are supposedly used to created a comprehensive film.\n\nThe gameplay in this game could roughly be described as \"side-scrolling arcade racing game\" (Or Excitebike on crystal meth). Joe Danger progresses a level on a fix axis from right to left (which in some levels can be switched) while avoiding crashes, making stunts and trying to collect different objects. The game is played very fast, with repeated failures and restarts already thought of in the design, as a single button press lets you restart the current stage. Various vehicles or other equipment are used by Joe, ranging from a unicycle to a jetpack. While simply finishing a stage lets the player usually progress, completing several tasks throughout a stage nets the player \"stars\" which are required to unlock higher levels. Competitive leaderboard based gaming is also encouraged, with \"ghosts\" of other players being (optionally) visible throughout the race.\n\nThe game features a vast cast unlockable characters, which can be used instead of Joe. Additionally a level editor called \"movie maker\" is included. 4 player simultaneous multiplayer is available, but only possible locally.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/648286-joe-danger-2-the-movie-windows-screenshot-physics-are-usually.jpg",
+    "https://www.mobygames.com/images/shots/s/648257-joe-danger-2-the-movie-windows-screenshot-it-gets-colder-in.jpg",
+    "https://www.mobygames.com/images/shots/s/648263-joe-danger-2-the-movie-windows-screenshot-here-the-player.jpg",
+    "https://www.mobygames.com/images/shots/s/648281-joe-danger-2-the-movie-windows-screenshot-the-multiplayer.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/joe-danger-2-the-movie",
+  "altTitles": []
+}

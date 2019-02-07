@@ -1,0 +1,80 @@
+{
+  "name": "1080° Snowboarding",
+  "icon": "https://www.mobygames.com/images/covers/s/262383-1080-snowboarding-wii-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nintendo-australia-pty-ltd",
+        "text": "Nintendo Australia Pty., Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nintendo-ead",
+        "text": "Nintendo EAD"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/1080-snowboarding/release-info",
+        "text": "1998"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/n64/1080-snowboarding",
+        "text": "Nintendo 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii/1080-snowboarding",
+        "text": "Wii"
+      },
+      {
+        "link": "https://www.mobygames.com/game/wii-u/1080-snowboarding",
+        "text": "Wii U"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\n1080° Snowboarding is a snowboard racing game. The player will find 6 downhill slopes and a half-pipe as courses, several characters to choose from, and be able to perform more than 25 tricks. After choosing a character and a board among the available eight, the player can compete in a variety of events:\nMatch Race: Race head-to-head against a computer controlled opponent.\nTime Attack: Try to beat the best time down a slope.\nTrick Attack: Try to get the best trick score on a slope.\nContest: Race for the best time down a slalom route.\n2P Vs.: Race against a friend.\nPractice: Practice tricks in a half-pipe or jump slope.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/37655-1080-snowboarding-nintendo-64-screenshot-match-race.jpg",
+    "https://www.mobygames.com/images/shots/s/37652-1080-snowboarding-nintendo-64-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/37657-1080-snowboarding-nintendo-64-screenshot-pretty-scenery.jpg",
+    "https://www.mobygames.com/images/shots/s/37654-1080-snowboarding-nintendo-64-screenshot-select-board.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/iga-zD9rhlQ",
+  "url": "https://www.mobygames.com/game/1080-snowboarding",
+  "altTitles": [
+    "\"TenEighty Snowboarding\" -- Alternate spelling",
+    "\"テン・エイティ　スノーボーディング\" -- Japanese spelling"
+  ]
+}

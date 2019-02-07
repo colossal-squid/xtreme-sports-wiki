@@ -1,0 +1,94 @@
+{
+  "name": "Stunts",
+  "icon": "https://www.mobygames.com/images/covers/s/213363-stunts-dos-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/brderbund-software-inc",
+        "text": "Brøderbund Software, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/distinctive-software-inc",
+        "text": "Distinctive Software, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/stunts/release-info",
+        "text": "Oct, 1990"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/amiga/stunts",
+        "text": "Amiga"
+      },
+      {
+        "link": "https://www.mobygames.com/game/dos/stunts",
+        "text": "DOS"
+      },
+      {
+        "link": "https://www.mobygames.com/game/fmtowns/stunts",
+        "text": "FM Towns"
+      },
+      {
+        "link": "https://www.mobygames.com/game/pc98/stunts",
+        "text": "PC-98"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/vehicle-simulator/",
+        "text": "Vehicle Simulator"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      }
+    ]
+  ],
+  "description": "\nStunts (4D Sports Driving outside of US) is a 3D car racing simulation. The game contains a variety of cars, courses, and opponents to choose from. The game provides unusual stunt objects including loops, corkscrews and jumps. It is possible to watch races in instant replay from different camera angles. A track editor is included as well.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/299701-stunts-dos-screenshot-stunts-title-screen-cga.jpg",
+    "https://www.mobygames.com/images/shots/s/575583-stunts-fm-towns-screenshot-changing-camera-angles.jpg",
+    "https://www.mobygames.com/images/shots/s/817715-stunts-dos-screenshot-go-for-drive-ega.jpg",
+    "https://www.mobygames.com/images/shots/s/575571-stunts-fm-towns-screenshot-title-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/stunts",
+  "altTitles": [
+    "\"4D Sports Driving\" -- European title",
+    "\"4D Driving\" -- Japanese title"
+  ]
+}

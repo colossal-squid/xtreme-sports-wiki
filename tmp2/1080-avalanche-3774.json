@@ -1,0 +1,70 @@
+{
+  "title": "1080° Avalanche",
+  "platforms": "Nintendo Gamecube",
+  "mechanics": "n/a",
+  "date": "November 2003",
+  "sports": "Snowboarding",
+  "cover": "",
+  "altTitles": [
+    "\"1080° Snowboarding 2\" -- Working title",
+    "\"1080° Silver Storm\" -- Japanese title",
+    "\"1080°シルバーストーム\" -- Japanese spelling"
+  ],
+  "description": "\nSnowboard like a pro in 1080° Avalanche Play as five different snowboarders and race through 15 tracks in three different difficulty settings, busting tricks to gain valuable points. Or take on the extra modes such as Gate Challenge, Trick Attack and time trial.\n\nOffering something different to other snowboarding titles, 1080° Avalanche allows you to race against an Avalanche itself, dodging trees as they fall, and boulders of ice and snow as they race past you. The screen will shake, but keep your eye on the prize and you'll live to tell the tale.\n\nUp to 4 players can race split screen, or use the GameCubes LAN capability to play 4 players using 4 GameCubes and TV's.\n",
+  "screenshots": [],
+  "video": "###Trailer\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DYwGPEOj7DI\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\n",
+  "relatedGames": [
+    "[1080° Snowboarding](/games/1080-snowboarding-3328/)",
+    "[SSX 3](/games/ssx-3-4174/)",
+    "[Snowboard Kids Plus](/games/snowboard-kids-plus-72103/)",
+    "[Steep](/games/steep-19554/)",
+    "[SBK: Snowboard Kids](/games/sbk-snowboard-kids-47725/)",
+    "[Wave Race: Blue Storm](/games/wave-race-blue-storm-4232/)"
+  ],
+  "websites": [
+    " [https://en.wikipedia.org/wiki/1080%C2%B0_Avalanche](https://en.wikipedia.org/wiki/1080%C2%B0_Avalanche)"
+  ],
+  "filePath": "src/markdown/games/1080-avalanche-3774.md",
+  "handle": "1080-avalanche-3774",
+  "name": "1080° Avalanche",
+  "icon": "https://www.mobygames.com/images/covers/s/38219-1080-avalanche-gamecube-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Nintendo of America Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Nintendo Software Technology Corporation"
+    },
+    {
+      "name": "Released",
+      "value": "Dec 01, 2003"
+    },
+    {
+      "name": "Platform",
+      "value": "GameCube"
+    },
+    {
+      "name": "ESRB Rating",
+      "value": "Everyone"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/1080-avalanche"
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Tony Hawk's Downhill Jam",
+  "platforms": "GBA, Nintendo DS, Nintendo Wii, PS2",
+  "mechanics": "n/a",
+  "date": "October 2006",
+  "sports": "Skateboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/dy0hdfvncra4xnwicaui.jpg",
+  "altTitles": [],
+  "description": "\nPlayers aim straight downhill at high speed through 7 open locations, such as Machu Picchu, San Francisco, Rio de Janeiro, Edinburgh, Hong Kong, and more in Tony Hawk's first extreme downhill racing game . Players must watch out for obstacles and be the first one to the bottom, all using the Wii controller.\n\nBy holding the controller sideways, tilting the controller side to side, you can turn and do aerial flips. To build up speed, press the 2 button and your character will crouch to build up speed and do tricks. The 1 button works for jumping and doing more stuff, since it works as an all-purpose trick button.\n\nThe Wii version's multiplayer can be played locally with 4-player split-screen.\n",
+  "screenshots": [],
+  "video": "###Trailer\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2CZOjTzp4J4\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\n",
+  "relatedGames": [
+    "[Tony Hawk's American Sk8land](/games/tony-hawk-s-american-sk8land-6643/)",
+    "[Tony Hawk's Underground 2 Remix](/games/tony-hawks-underground-2-remix-22311/)",
+    "[OlliOlli](/games/olliolli-7768/)",
+    "[Mat Hoffman's Pro BMX](/games/mat-hoffman-s-pro-bmx-3994/)",
+    "[Dave Mirra Freestyle BMX](/games/dave-mirra-freestyle-bmx-26012/)",
+    "[Tony Hawk's Pro Skater 2X](/games/tony-hawks-pro-skater-2x-47325/)",
+    "[Tony Hawk's Proving Ground](/games/tony-hawk-s-proving-ground-2700/)"
+  ],
+  "websites": [
+    " [https://en.wikipedia.org/wiki/Tony_Hawk%27s_Downhill_Jam](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Downhill_Jam)"
+  ],
+  "filePath": "src/markdown/games/tony-hawk-s-downhill-jam-5231.md",
+  "handle": "tony-hawk-s-downhill-jam-5231",
+  "name": "Tony Hawk's Downhill Jam",
+  "icon": "https://www.mobygames.com/images/covers/s/122815-tony-hawk-s-downhill-jam-playstation-2-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Activision Publishing, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Toys for Bob Inc."
+    },
+    {
+      "name": "Released",
+      "value": "Nov 19, 2006"
+    },
+    {
+      "name": "Platforms",
+      "value": "PlayStation 2,Wii"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving,Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Sport",
+      "value": "Skateboarding"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/tony-hawks-downhill-jam"
+}

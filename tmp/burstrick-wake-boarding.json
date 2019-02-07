@@ -1,0 +1,87 @@
+{
+  "name": "BursTrick: Wake Boarding!!",
+  "icon": "https://www.mobygames.com/images/covers/s/168622-burstrick-wake-boarding-playstation-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/natsume-inc",
+        "text": "Natsume, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/metro-corporation",
+        "text": "Metro Corporation"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/playstation/burstrick-wake-boarding/release-info",
+        "text": "2001"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/playstation/",
+        "text": "PlayStation"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nBursTrick: Wake Boarding!! is an extreme-sports game using gameplay similar to Wave Race 64, the main difference being that, as you are pulled by a boat when wake boarding, it is almost like an auto-scroller and you do not have nearly as much freedom of movement.\n\nThere are two gameplay modes, Obstacle and Trick. In Obstacle mode, you race around a track and must complete the track in time and collect enough points by wake boarding through rings and over jumps. In Trick mode, you compete to score as many points as possible by performing tricks. There are over 45 tricks in total.\n\nOther features include several different riders to choose from and unlockable boards and characters.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/760724-burstrick-wake-boarding-playstation-screenshot-blindside-360.jpg",
+    "https://www.mobygames.com/images/shots/s/760727-burstrick-wake-boarding-playstation-screenshot-my-god-is-the.jpg",
+    "https://www.mobygames.com/images/shots/s/760747-burstrick-wake-boarding-playstation-screenshot-final-round.jpg",
+    "https://www.mobygames.com/images/shots/s/760717-burstrick-wake-boarding-playstation-screenshot-introducing.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/burstrick-wake-boarding",
+  "altTitles": [
+    "\"SIMPLE1500シリーズ Vol.83 THE ウェイクボード 〜バーストリック ウェイクボーディング!!〜\" -- Simple 1500 Series re-release title (Japanese spelling)",
+    "\"Simple 1500 Series Vol. 83: The Wake Board - Burstrick Wake Boarding\" -- Alternative title",
+    "\"バーストリック ウェイクボーディング!!\" -- Japanese spelling"
+  ]
+}

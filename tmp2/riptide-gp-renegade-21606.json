@@ -1,0 +1,66 @@
+{
+  "title": "Riptide GP&#x3a; Renegade",
+  "platforms": "Android, PC (Microsoft Windows), iOS, PS4, Xbox One, Nintendo Switch",
+  "mechanics": "n/a",
+  "date": "July 2016",
+  "sports": "Jet Ski",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/nonzzeu01fzss9bfmaqo.jpg",
+  "altTitles": [],
+  "description": "\nRiptide GP: Renegade is a hydrojet racing game. It is the sequel to Riptide GP 2 and the third game in the Riptide racing series as the spiritual successor to the Hydro Thunder titles. The game modes are a single-player career mode, a challenge mode to get the best times on leaderboards, quick races, a synchronous online multiplayer mode for up to eight players, and a local split-screen mode for two to four players. The Renegade part of the title hints at the introduction of a story to the career mode. At the start of the game the player chooses a male (Impact) or female (Poison) rider. In the interactive tutorial the devious Krex gets the player's character caught in an illegal race. Years later, the rider needs to return after being banned from the GP League and take revenge on Krex. There are often static story sequences between races, with conversations between characters and bosses.\n\nThe career mode consists of several events where up to three stars can be earned based on the result, needed to keep unlocking new races until there is a showdown with a boss character. Defeating such a character adds it to the roster, with a custom hydrojet as a new vehicle to race. Racing consists of controls for acceleration, braking and turning. At various parts of the tracks stunts can be performed and these fill a booster meter. There are regular ramps, but also huge waves or bridges as there is a lot of interactivity on the tracks with events that influence the environment. After crashing a separate button is used to recover and the same button is used to activate boost. There are eight tracks: Downtown Rush, Unicorn Base, Sky Mines, Grindhouse, Tropico, The Ruins, Alpha Station, and Firewater, each with their own theme. There are shortcuts, alternate paths that open up after certain events, and also other vehicles, dynamic elements and explosions, rain, storms or fire, influencing the racing conditions.\n\nEvent types include regular track races, slalom, elimination, stunts against a time limit, and mini championships where the results of different events are combined. Certain cups are much harder and are offered as a bonus challenge. Tracks often have signs that help with the general direction or to highlight parts where stunts can be performed. Each hydrojet has different statistics for acceleration, top speed, handling and boost. Money earned during races can be used to improve these a few times, until a more powerful hydrojet is unlocked where the process is repeated. Winning also provides experience for a global player level. With each new level skill points become available to unlock new stunts, or to improve the boost bonus or boost start. It is also possible to level up the drafting ability where trailing behind an opponent adds a visual effect and provides more speed to catch up. The hydrojet colours can be customized and different types of decals can be unlocked. Optionally an easter egg can be found on each track.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/855708-riptide-gp-renegade-windows-screenshot-here-custom-decals.jpg",
+    "https://www.mobygames.com/images/shots/s/855712-riptide-gp-renegade-windows-screenshot-after-defeating-a-boss.jpg",
+    "https://www.mobygames.com/images/shots/s/855731-riptide-gp-renegade-windows-screenshot-water-splashes-on-the.jpg",
+    "https://www.mobygames.com/images/shots/s/855709-riptide-gp-renegade-windows-screenshot-sliding-over-a-platform.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/Xv7EQmtU4qs",
+  "relatedGames": [],
+  "websites": [
+    " [https://itunes.apple.com/us/app/riptide-gp-renegade/id1090577736?mt=8&uo=4](https://itunes.apple.com/us/app/riptide-gp-renegade/id1090577736?mt=8&uo=4)",
+    " [https://store.steampowered.com/app/443860](https://store.steampowered.com/app/443860)",
+    " [http://www.vectorunit.com/riptide-gp-renegade](http://www.vectorunit.com/riptide-gp-renegade)"
+  ],
+  "filePath": "src/markdown/games/riptide-gp-renegade-21606.md",
+  "handle": "riptide-gp-renegade-21606",
+  "name": "Riptide GP: Renegade",
+  "icon": "https://www.mobygames.com/images/covers/s/356328-riptide-gp-renegade-playstation-4-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Vector Unit Inc"
+    },
+    {
+      "name": "Developed by",
+      "value": "Vector Unit Inc"
+    },
+    {
+      "name": "Released",
+      "value": "Jul 26, 2016"
+    },
+    {
+      "name": "Official Site",
+      "value": "Riptide GP: Renegade"
+    },
+    {
+      "name": "Platforms",
+      "value": "Android,iPad,iPhone,Nintendo Switch,PlayStation 4,tvOS,Windows,Windows Apps,Xbox One"
+    },
+    {
+      "name": "Genre",
+      "value": "Racing / Driving"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Naval / Watercraft,Track Racing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/riptide-gp-renegade"
+}

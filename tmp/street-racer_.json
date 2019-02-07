@@ -1,0 +1,123 @@
+{
+  "name": "Street Racer",
+  "icon": "https://www.mobygames.com/images/covers/s/30357-street-racer-atari-2600-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/sears-roebuck-and-co",
+        "text": "Sears, Roebuck and Co."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/atari-inc_",
+        "text": "Atari, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/street-racer_/release-info",
+        "text": "1977"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/atari-2600/street-racer_",
+        "text": "Atari 2600"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/street-racer_",
+        "text": "Windows"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox360/street-racer_",
+        "text": "Xbox 360"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/shooter/",
+        "text": "Shooter"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/flight/",
+        "text": "Flight / Aviation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/street-racing/",
+        "text": "Street Racing"
+      }
+    ]
+  ],
+  "description": "\nStreet Racer is an action racing game for one to four players played from an overhead view. The screen is split into two lanes; in one or two player games, each player has a lane. In three and four player games, players must share the lanes. Each game has a two minute and sixteen second time limit, and your goal is to earn as many points as possible by the end of this time. In addition to the basic racing version, several other game variations are included as well. The games available are:\n\n\nStreet Racer: This is the basic race car game. Points are earned by passing other cars.\nSlalom: Each player controls a skier and needs to slalom through the course to earn points.\nDodgem: Each player controls a race car and needs to avoid the oncoming obstacles. One point is earned for successfully completing the race course.\nJet Shooter: Each player controls a jet in this game. Points are earned for shooting down the various oncoming planes.\nNumber Cruncher: Each player controls a motorcycle in this game variation. Various numbers will appear in the race track, and points are earned by running over the numbers.\nScoop Ball: Each player controls a race car with a scoop on the front. The goal is to scoop up the balls that appear in the raceway and then place them in a computer controlled car.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/62392-street-racer-atari-2600-screenshot-the-jet-shooter-variation.jpg",
+    "https://www.mobygames.com/images/shots/s/62394-street-racer-atari-2600-screenshot-a-game-of-scoop-ball.jpg",
+    "https://www.mobygames.com/images/shots/s/62389-street-racer-atari-2600-screenshot-racecar-racing.jpg",
+    "https://www.mobygames.com/images/shots/s/62393-street-racer-atari-2600-screenshot-number-cruncher.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/street-racer_",
+  "altTitles": [
+    "\"Speedway II\" -- Sears Roebuck and Co. repackaged release",
+    "\"12 Street Racer\" -- Title on the end label of original release"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Touchgrind Skate 2",
+  "platforms": "iOS",
+  "mechanics": "n/a",
+  "date": "November 2013",
+  "sports": "Skateboarding",
+  "####Alternative tiles": "",
+  "###Description": "",
+  "cover": "",
+  "altTitles": [],
+  "description": "Buy at \nNot an American user?\nDescription",
+  "screenshots": [],
+  "video": "",
+  "relatedGames": [],
+  "websites": [
+    " [https://itunes.apple.com/us/app/touchgrind-skate-2/id720068876?mt=8&uo=4](https://itunes.apple.com/us/app/touchgrind-skate-2/id720068876?mt=8&uo=4)"
+  ],
+  "filePath": "src/markdown/games/touchgrind-skate-2-41517.md",
+  "handle": "touchgrind-skate-2-41517",
+  "name": "Touchgrind Skate 2",
+  "icon": "https://www.mobygames.com/images/covers/s/429643-touchgrind-skate-2-ipad-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Illusion Labs AB"
+    },
+    {
+      "name": "Developed by",
+      "value": "Illusion Labs AB"
+    },
+    {
+      "name": "Released",
+      "value": "Nov 21, 2013"
+    },
+    {
+      "name": "Official Site",
+      "value": "Touchgrind Skate 2"
+    },
+    {
+      "name": "Platforms",
+      "value": "Android,iPad,iPhone"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Interface",
+      "value": "Direct Control"
+    },
+    {
+      "name": "Sport",
+      "value": "Skateboarding"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/touchgrind-skate-2"
+}

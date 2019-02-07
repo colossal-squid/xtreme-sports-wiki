@@ -1,0 +1,79 @@
+{
+  "name": "Tommy Moe's Winter Extreme: Skiing & Snowboarding",
+  "icon": "https://www.mobygames.com/images/covers/s/166185-tommy-moe-s-winter-extreme-skiing-snowboarding-snes-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/electro-brain-corp",
+        "text": "Electro Brain Corp."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/loriciel-sa",
+        "text": "Loriciel SA"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/snes/tommy-moes-winter-extreme-skiing-snowboarding/release-info",
+        "text": "Jun, 1994"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/snes/",
+        "text": "SNES"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nIn Winter Extreme, the player can partake in a series of skiing and snowboarding events including the Downhill where the player speeds down a course in order to finish the course as fast as possible in an allotted time by speeding through checkpoints. The Slalom has the same set-up where the player has to finish the course in an allotted time by passing through gates, but also has to contend with twists, turns and various other obstacles in the players path. The Giant Slalom is similar except for more obstacles and a longer path.\n\nAlong with the three challenge modes, there is also a Freeride mode where the player can ski at their leisure while avoiding various obstacles such as trees, rocks and fellow skiers and snowboarders. The game also is endorsed by skiing location, Val-d'Isère, which hosted the 1992 Winter Olympics along with skier, Tommy Moe.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/365080-tommy-moe-s-winter-extreme-skiing-snowboarding-snes-screenshot.jpg",
+    "https://www.mobygames.com/images/shots/s/365090-tommy-moe-s-winter-extreme-skiing-snowboarding-snes-screenshot.jpg",
+    "https://www.mobygames.com/images/shots/s/365099-tommy-moe-s-winter-extreme-skiing-snowboarding-snes-screenshot.jpg",
+    "https://www.mobygames.com/images/shots/s/881440-tommy-moe-s-winter-extreme-skiing-snowboarding-snes-screenshot.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/tommy-moes-winter-extreme-skiing-snowboarding",
+  "altTitles": [
+    "\"Val d'Isere Championship \" -- European title",
+    "\"Ski Paradise with Snowboard \" -- Japanese title",
+    "\"スキーパラダイス ＷＩＴＨ スノーボード\" -- Japanese spelling"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Aggressive Inline",
+  "icon": "https://www.mobygames.com/images/shots/s/205350-aggressive-inline-game-boy-advance-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/acclaim-entertainment-inc",
+        "text": "Acclaim Entertainment, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/full-fat-productions-ltd",
+        "text": "Full Fat Productions Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gameboy-advance/aggressive-inline_/release-info",
+        "text": "Aug 27, 2002"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/gameboy-advance/",
+        "text": "Game Boy Advance"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/birds-eye-view/",
+        "text": "Bird's-eye view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/isometric/",
+        "text": "Isometric"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nIn Aggressive Inline the player takes the role of one of nine real-life skaters with one specific goal: receiving as much points as possible by performing spectacular stunts. Every of the 13 courses also has various special challenges, e.g. collecting or smashing certain items, which need to be performed to beat it. In contrast to the open areas of the console versions this one features more linear levels and tight time limits.\n\nIt also replaces the \"juice meter\" with the so-called \"grind meter\" which is filled up by performing stunts. Every grind decreases this meter and if it is empty no grinds can be performed at all. Of course grinds are an elemental move to beat the challenges. There is also a freestyle playing mode where the player can unlock new skaters. The soundtrack is licensed.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/599055-aggressive-inline-game-boy-advance-screenshot-and-performing.jpg",
+    "https://www.mobygames.com/images/shots/s/205350-aggressive-inline-game-boy-advance-screenshot-title-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/599051-aggressive-inline-game-boy-advance-screenshot-a-small-bit.jpg",
+    "https://www.mobygames.com/images/shots/s/205351-aggressive-inline-game-boy-advance-screenshot-menu-screen.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/aggressive-inline_",
+  "altTitles": []
+}

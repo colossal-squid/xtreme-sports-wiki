@@ -1,0 +1,112 @@
+{
+  "name": "FlatOut 2",
+  "icon": "https://www.mobygames.com/images/covers/s/83578-flatout-2-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/empire-interactive-europe-ltd",
+        "text": "Empire Interactive Europe Ltd."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/bugbear-entertainment-ltd",
+        "text": "Bugbear Entertainment Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/flatout-2/release-info",
+        "text": "Jun 29, 2006"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/linux/flatout-2",
+        "text": "Linux"
+      },
+      {
+        "link": "https://www.mobygames.com/game/macintosh/flatout-2",
+        "text": "Macintosh"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps2/flatout-2",
+        "text": "PlayStation 2"
+      },
+      {
+        "link": "https://www.mobygames.com/game/windows/flatout-2",
+        "text": "Windows"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox/flatout-2",
+        "text": "Xbox"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/offroad/",
+        "text": "Off-roading"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/regional-differences/",
+        "text": "Regional Differences"
+      }
+    ]
+  ],
+  "description": "\nAs in FlatOut your goal is to drive as reckless as you can and still win the race. But contrary to its predecessor, FlatOut 2 is now a complete arcade-racing game.\n\nThe core of the game is the career mode which features 3 different racing-classes: Derby, Race and Street. Every class is also divided into 3 levels. You begin your career in the derby class level 1. Here you drive old, wrecked cars straight from the dump. As you progress to the race class and finally to the street class you can buy better and faster cars which you can then also tune to your needs, like installing a new engine.\n\nInside the classes you find different kinds of events: from normal races over Destruction Derbies to stunt events. All of the events feature a fully destructible environment. This is not only eye-candy but is also required to fill up your nitro and handicap your enemies.\n\nIf you get bored of that, you can play one of the 12 mini-games. Like in FlatOut your goal here is to do all kinds of crazy stuff with your driver. You can use him as a football, throw him through burning rings and more. These mini-games can also be played with up to 8 players on one PC in a hot-seat mode.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/199821-flatout-2-windows-screenshot-racing-on-muddy-surfaces-is-harder.jpg",
+    "https://www.mobygames.com/images/shots/s/199833-flatout-2-windows-screenshot-the-first-thing-you-ll-be-able.jpg",
+    "https://www.mobygames.com/images/shots/s/199819-flatout-2-windows-screenshot-races-take-place-in-a-large-variety.jpg",
+    "https://www.mobygames.com/images/shots/s/199842-flatout-2-windows-screenshot-the-hud-gives-little-info-but.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/flatout-2",
+  "altTitles": [
+    "\"FlatOut 2 GTR\" -- Japanese title"
+  ]
+}

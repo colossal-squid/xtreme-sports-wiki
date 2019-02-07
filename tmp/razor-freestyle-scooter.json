@@ -1,0 +1,81 @@
+{
+  "name": "Razor Freestyle Scooter",
+  "icon": "https://www.mobygames.com/images/covers/s/12449-razor-freestyle-scooter-dreamcast-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/crave-entertainment-inc",
+        "text": "Crave Entertainment, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/shaba-games-llc",
+        "text": "Shaba Games LLC"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/razor-freestyle-scooter/release-info",
+        "text": "Dec 12, 2000"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/dreamcast/razor-freestyle-scooter",
+        "text": "Dreamcast"
+      },
+      {
+        "link": "https://www.mobygames.com/game/n64/razor-freestyle-scooter",
+        "text": "Nintendo 64"
+      },
+      {
+        "link": "https://www.mobygames.com/game/playstation/razor-freestyle-scooter",
+        "text": "PlayStation"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nRazor Freestyle Scooter is an extreme-sports style action game modeled around small, nimble scooters. In contrast to most games of this type, there is a story. A crazed giant robot has kidnapped your skating buddies. By completing skating challenges at the robot's sky fortress, you must rescue your friends.\n\nYou skate around 3 large areas and attempt to perform wild tricks, collect scooter wheels, and earn bonus time. By completing an objective on all 3 areas, you unlock a sky fortress level in which you can rescue a new skater to control.\n\nGameplay is based heavily on the Tony Hawk series of games. Tricks consist of button and direction presses, and can be strung together with grinds to create high-scoring combos.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/26168-razor-freestyle-scooter-dreamcast-screenshot-hand-plant.jpg",
+    "https://www.mobygames.com/images/shots/s/695332-razor-freestyle-scooter-playstation-screenshot-the-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/695337-razor-freestyle-scooter-playstation-screenshot-playing-the.jpg",
+    "https://www.mobygames.com/images/shots/s/695339-razor-freestyle-scooter-playstation-screenshot-the-end-of.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/razor-freestyle-scooter",
+  "altTitles": [
+    "\"Freestyle Scooter\" -- European title"
+  ]
+}

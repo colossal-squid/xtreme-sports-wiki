@@ -1,0 +1,64 @@
+{
+  "name": "Rollerboard",
+  "icon": "https://www.mobygames.com/images/shots/s/800587-rollerboard-commodore-64-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/kingsoft-gmbh",
+        "text": "Kingsoft GmbH"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/c64/rollerboard/release-info",
+        "text": "1987"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/c64/",
+        "text": "Commodore 64"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/side-view/",
+        "text": "Side view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/skateboarding/",
+        "text": "Skateboarding"
+      }
+    ]
+  ],
+  "description": "\nRollerboard is a skateboarding game. The game is side scrolling and plays similar to the Kikstart series albeit with skateboards instead of motorbikes. The objective is simply to make it through the game's levels without crashing at any of the obstacles. Three skateboards are available from the start and for every crash one is lost. When all out of skateboards the game is over. The skater is controlled entirely with joystick. To speed up the button is pressed while pulling left is used to approach a hill and pulling up is used to jump. If it goes too fast pulling down causes the skater to brake. There are also tricks (flips and turns) that can be done for bonus points.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/800588-rollerboard-commodore-64-screenshot-another-title-screen-with.jpg",
+    "https://www.mobygames.com/images/shots/s/800590-rollerboard-commodore-64-screenshot-starting-out.jpg",
+    "https://www.mobygames.com/images/shots/s/800594-rollerboard-commodore-64-screenshot-second-level.jpg",
+    "https://www.mobygames.com/images/shots/s/800591-rollerboard-commodore-64-screenshot-hill-climbing.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/rollerboard",
+  "altTitles": []
+}

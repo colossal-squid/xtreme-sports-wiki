@@ -1,0 +1,71 @@
+{
+  "name": "Downhill Racer",
+  "icon": "https://www.mobygames.com/images/shots/s/846640-downhill-racer-macintosh-screenshot-title-screen.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/miles-computing-inc",
+        "text": "Miles Computing, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/macintosh/downhill-racer/release-info",
+        "text": "1986"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/macintosh/",
+        "text": "Macintosh"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Pacing",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/real-time/",
+        "text": "Real-Time"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nDownhill Racer is an alpine skiing game. The game is viewed from a third person perspective and is entirely played with the mouse. Moving the mouse left and right steers the skier while moving it forward puts it into a tucked position which leads to a lower center of gravity and higher speed but also higher risk of crashing when turning or jumping. Making sharp turns can lead to the edges of the skies digging in and which might lead to the player losing control. When reaching a jump the angle of attack has to be adjusted to compensate for rate of speed and center of gravity. When clicking the mouse the skier tucks its legs which is needed to maintain balance.\n\nThere are three different skiers to race as, each with a different look as well as one that is computer controlled. The game has four different courses: Prima Vale, Big Dipper, Great Scott and Warm Springs. Each has a different rating indicating it's difficulty with Prima Vale being the easiest and Warm Springs the hardest. The player can choose from four ability levels from beginner to expert.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/846647-downhill-racer-macintosh-screenshot-jumping.jpg",
+    "https://www.mobygames.com/images/shots/s/846651-downhill-racer-macintosh-screenshot-and-here-s-the-great-scott.jpg",
+    "https://www.mobygames.com/images/shots/s/846643-downhill-racer-macintosh-screenshot-and-we-re-off.jpg",
+    "https://www.mobygames.com/images/shots/s/846658-downhill-racer-macintosh-screenshot-going-off-piste.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/downhill-racer",
+  "altTitles": []
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Deca Sports",
+  "icon": "https://www.mobygames.com/images/covers/s/170070-deca-sports-wii-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/hudson-entertainment-inc",
+        "text": "Hudson Entertainment, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/hudson-soft-company-ltd",
+        "text": "Hudson Soft Company, Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/wii/deca-sports/release-info",
+        "text": "May 13, 2008"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/wii/",
+        "text": "Wii"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/basketball/",
+        "text": "Basketball"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/soccer-football-european/",
+        "text": "Football (European) / Soccer"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/volleyball/",
+        "text": "Volleyball"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/motorcycle/",
+        "text": "Motorcycle"
+      }
+    ]
+  ],
+  "description": "\nDeca Sports is a compilation of 10 sports games:\nBeach Volleyball\nKart Racing\nSoccer\nCurling\nBasketball\nSupercross\nSnowboarding\nFigure Skating\nArchery\nBadminton\nEach game utilizes the Wii Remote and Nunchuk, each with their own set up to it, (i.e., using the remote to spike a volleyball or turning it like a steering wheel for kart racing). Players can complete in one-player solo modes like Open Match, Tournament. There are also multiplayer events like the Deca Challenge where eight teams compete in a series of events and the Deca League where a player competes in a series of timed and point based events. Ther is also a locker room that players can keep track and show off accumulated trophies, awards and achievements unlocked during the game.\n",
+  "screenshots": [],
+  "url": "https://www.mobygames.com/game/deca-sports",
+  "altTitles": [
+    "\"Sports Island\" -- European title",
+    "\"Deca Sporta\" -- Japanese title",
+    "\"デカスポルタ\" -- Japanese spelling"
+  ]
+}

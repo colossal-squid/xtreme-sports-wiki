@@ -1,0 +1,92 @@
+{
+  "name": "FlatOut: Ultimate Carnage",
+  "icon": "https://www.mobygames.com/images/covers/s/109769-flatout-ultimate-carnage-xbox-360-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/empire-interactive-entertainment",
+        "text": "Empire Interactive Entertainment"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/bugbear-entertainment-ltd",
+        "text": "Bugbear Entertainment Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/flatout-ultimate-carnage/release-info",
+        "text": "Jun 22, 2007"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/flatout-ultimate-carnage",
+        "text": "Windows"
+      },
+      {
+        "link": "https://www.mobygames.com/game/xbox360/flatout-ultimate-carnage",
+        "text": "Xbox 360"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/action/",
+        "text": "Action"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/regional-differences/",
+        "text": "Regional Differences"
+      }
+    ]
+  ],
+  "description": "\nFlatOut: Ultimate Carnage is the third part in the FlatOut demolition racing series. Following the footsteps of its predecessor, this game is all about damage - earning points by driving is secondary to earning points by wrecking.\n\nThe game's appearance has been vastly updated compared to FlatOut 2. Not only is everything fully in High Definition, the game introduces a large amount of destructible scenery. Literally almost everything can be turned into debris, including traffic lights, fences, even plastic garden chairs.\n\nUltimate Carnage not only introduces new graphics, it comes up with various new game modes such as the Deathmatch Derby, (in a perhaps intentional nod towards Destruction Derby 2) which feature a closed arena with no defined track; the game objective becomes from a circular racing track to a simple fragging contest.\n\nAs known from the previous editions, the game features both various online modes (all game modes can be played online as well), and the infamously goofy Ragdoll Olympics mode, where most game modes end up with the driver character exiting through the windscreen and ending in grievous bodily harm.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/315360-flatout-ultimate-carnage-windows-screenshot-i-failed-again.jpg",
+    "https://www.mobygames.com/images/shots/s/315359-flatout-ultimate-carnage-windows-screenshot-notice-the-awesome.jpg",
+    "https://www.mobygames.com/images/shots/s/348483-flatout-ultimate-carnage-windows-screenshot-bonus-cars-like.jpg",
+    "https://www.mobygames.com/images/shots/s/581240-flatout-ultimate-carnage-windows-screenshot-nice-landscape.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/flatout-ultimate-carnage",
+  "altTitles": [
+    "\"Flatout: Apokalipsa\" -- Polish title"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Disney Sports Snowboarding",
+  "icon": "https://www.mobygames.com/images/shots/s/181124-disney-sports-snowboarding-game-boy-advance-screenshot-title.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/konami-digital-entertainment-inc",
+        "text": "Konami of America, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/konami-computer-entertainment-studios-inc",
+        "text": "Konami Computer Entertainment Osaka Co., Ltd."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/gameboy-advance/disney-sports-snowboarding/release-info",
+        "text": "Feb 05, 2003"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/gameboy-advance/",
+        "text": "Game Boy Advance"
+      }
+    ],
+    "",
+    "ESRB Rating",
+    [
+      {
+        "link": "https://www.mobygames.com/attribute/sheet/attributeId,90/",
+        "text": "Everyone"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Art",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/video-backdrop/",
+        "text": "Video backdrop"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ],
+    "Misc",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/licensed-title/",
+        "text": "Licensed"
+      }
+    ]
+  ],
+  "description": "\nIn Disney Sports Snowboarding, players must take one of six Disney characters down one of five slopes. Characters include Mickey, Minnie, Donald, Goofy, Pete and Chip & Dale, who share a single board.\n\nThe tracks are full-motion video loops of the track going past. The character is super-imposed on top of it and can interact with the track via rails to grind and ramps to launch from and do tricks. There are several different objectives, ranging from races to high-score contests. Characters are steered with the shoulder button and the face buttons and D-pad perform tricks.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/181142-disney-sports-snowboarding-game-boy-advance-screenshot-mickey.jpg",
+    "https://www.mobygames.com/images/shots/s/181124-disney-sports-snowboarding-game-boy-advance-screenshot-title.jpg",
+    "https://www.mobygames.com/images/shots/s/181132-disney-sports-snowboarding-game-boy-advance-screenshot-donald.jpg",
+    "https://www.mobygames.com/images/shots/s/181141-disney-sports-snowboarding-game-boy-advance-screenshot-mickey.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/disney-sports-snowboarding",
+  "altTitles": []
+}

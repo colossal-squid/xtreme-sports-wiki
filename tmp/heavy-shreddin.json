@@ -1,0 +1,73 @@
+{
+  "name": "Heavy Shreddin'",
+  "icon": "https://www.mobygames.com/images/covers/s/111027-heavy-shreddin-nes-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/parker-brothers",
+        "text": "Parker Brothers"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/imagineering-inc",
+        "text": "Imagineering Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/nes/heavy-shreddin/release-info",
+        "text": "Jun, 1990"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/nes/",
+        "text": "NES"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/birds-eye-view/",
+        "text": "Bird's-eye view"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nIn this snowboarding game, the player goes on various runs completing events on downhill mountains. There are five events in all: Downhill, Slalom, Half-pipe, Moguls and Backwoods. In Downhill the object is to get down the slope as fast as possible. In Slalom you have to guide the board between the gates. In halfpipe, you have to perform stunts on a half pipe. In Moguls, you have to jump over both small and large moguls. In Backwoods, you'll be given different obstacles to contend with and you'll have to find away to get around them.\n\nYou also earn points by executing various stunts along the way. Stunts you can pull off are a toe grab, hand-plant, mid-air 360, and a mule-kick.\n\nThere are three different peaks, each featuring a couple different runs. The mountain ranges consist of Poseur Peak, Scary Summit, and Mt. Mortified.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/294694-heavy-shreddin-nes-screenshot-all-the-different-levels-and.jpg",
+    "https://www.mobygames.com/images/shots/s/294703-heavy-shreddin-nes-screenshot-game-over.jpg",
+    "https://www.mobygames.com/images/shots/s/294697-heavy-shreddin-nes-screenshot-you-can-either-cross-the-bridge.jpg",
+    "https://www.mobygames.com/images/shots/s/294696-heavy-shreddin-nes-screenshot-getting-some-air.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/heavy-shreddin",
+  "altTitles": [
+    "\"Snowboard Challenge\" -- European title"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "BMX XXX",
+  "platforms": "Xbox, Nintendo Gamecube, PS2",
+  "mechanics": "n/a",
+  "date": "November 2002",
+  "sports": "BMX",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/xhah4uhzsqrooicujsn7.jpg",
+  "altTitles": [
+    "\"Dave Mirra's BMX XXX\" -- Working title"
+  ],
+  "description": "\nSlightly unusual for a tricks/stunt game, BMX XXX adds a twist to its genre by employing themes involving foul language, nudity and toilet humour.\n\nThe \"Hardcore Tour\" mode has you playing the levels, pulling off tricks and completing goals to unlock things such as new levels or stripper videos. The goals are of the odd variety, including things like collecting yellow snow for an icecream man, or gathering empty cans for a homeless guy. Also have to watch out for a health bar which accounts for your injuries and can make you start over levels if you run out of it.\n\nDo well enough in the game and you unlock a topless mode, where the riders are all.. well..\n\nThere's also a 'create-a-ride' mode, and a two player split screen option, with different games of its own. The game plays on Acclaim's own Dave Mirra series' engine.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/699905-bmx-xxx-playstation-2-screenshot-so-here-we-are-at-the-start.jpg",
+    "https://www.mobygames.com/images/shots/s/699897-bmx-xxx-playstation-2-screenshot-the-game-s-title-screen-after.jpg",
+    "https://www.mobygames.com/images/shots/s/699898-bmx-xxx-playstation-2-screenshot-the-game-s-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/699907-bmx-xxx-playstation-2-screenshot-having-run-into-a-scantily.jpg"
+  ],
+  "video": "https://www.youtube.com/embed/L-B3MtmnK8Q",
+  "relatedGames": [],
+  "websites": [],
+  "filePath": "src/markdown/games/bmx-xxx-3826.md",
+  "handle": "bmx-xxx-3826",
+  "name": "BMX XXX",
+  "icon": "https://www.mobygames.com/images/covers/s/19453-bmx-xxx-playstation-2-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Acclaim Entertainment, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Z-Axis, Ltd."
+    },
+    {
+      "name": "Released",
+      "value": "Nov 10, 2002"
+    },
+    {
+      "name": "Official Site",
+      "value": "BMX XXX"
+    },
+    {
+      "name": "Platforms",
+      "value": "GameCube,PlayStation 2,Xbox"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Vehicular",
+      "value": "Bike / Bicycling"
+    },
+    {
+      "name": "Narrative",
+      "value": "Adult"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/bmx-xxx"
+}

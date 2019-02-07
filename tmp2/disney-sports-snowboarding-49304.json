@@ -1,0 +1,70 @@
+{
+  "title": "Disney Sports Snowboarding",
+  "platforms": "GBA",
+  "mechanics": "n/a",
+  "date": "March 2003",
+  "sports": "Snowboarding",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/jl0he4zjkzyn07alenc7.jpg",
+  "altTitles": [],
+  "description": "\nIn Disney Sports Snowboarding, players must take one of six Disney characters down one of five slopes. Characters include Mickey, Minnie, Donald, Goofy, Pete and Chip & Dale, who share a single board.\n\nThe tracks are full-motion video loops of the track going past. The character is super-imposed on top of it and can interact with the track via rails to grind and ramps to launch from and do tricks. There are several different objectives, ranging from races to high-score contests. Characters are steered with the shoulder button and the face buttons and D-pad perform tricks.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/181142-disney-sports-snowboarding-game-boy-advance-screenshot-mickey.jpg",
+    "https://www.mobygames.com/images/shots/s/181124-disney-sports-snowboarding-game-boy-advance-screenshot-title.jpg",
+    "https://www.mobygames.com/images/shots/s/181132-disney-sports-snowboarding-game-boy-advance-screenshot-donald.jpg",
+    "https://www.mobygames.com/images/shots/s/181141-disney-sports-snowboarding-game-boy-advance-screenshot-mickey.jpg"
+  ],
+  "video": "",
+  "relatedGames": [
+    "[Steep](/games/steep-19554/)",
+    "[MTV Sports: Pure Ride](/games/mtv-sports-pure-ride-49960/)",
+    "[Heavy Shreddin'](/games/heavy-shreddin-48157/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/disney-sports-snowboarding-49304.md",
+  "handle": "disney-sports-snowboarding-49304",
+  "name": "Disney Sports Snowboarding",
+  "icon": "https://www.mobygames.com/images/shots/s/181124-disney-sports-snowboarding-game-boy-advance-screenshot-title.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Konami of America, Inc."
+    },
+    {
+      "name": "Developed by",
+      "value": "Konami Computer Entertainment Osaka Co., Ltd."
+    },
+    {
+      "name": "Released",
+      "value": "Feb 05, 2003"
+    },
+    {
+      "name": "Platform",
+      "value": "Game Boy Advance"
+    },
+    {
+      "name": "ESRB Rating",
+      "value": "Everyone"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Art",
+      "value": "Video backdrop"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    },
+    {
+      "name": "Misc",
+      "value": "Licensed"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/disney-sports-snowboarding"
+}

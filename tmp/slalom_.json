@@ -1,0 +1,73 @@
+{
+  "name": "Slalom",
+  "icon": "https://www.mobygames.com/images/shots/s/899214-slalom-trs-80-screenshot-main-menu.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/software-exchange",
+        "text": "TRS-80 Software Exchange"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/trs-80/slalom_/release-info",
+        "text": "1979"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/trs-80/",
+        "text": "TRS-80"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/top-down/",
+        "text": "Top-down"
+      }
+    ],
+    "Visual",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/2d-scrolling/",
+        "text": "2D scrolling"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Sport",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/snowboarding-skiing/",
+        "text": "Snowboarding / Skiing"
+      }
+    ]
+  ],
+  "description": "\nSlalom is a downhill skiing game. There are three courses to choose from: slalom, giant slalom and downhill and the aim in all of them is simply to go down the slope in the shortest time while trying to manoeuvre through each gate. The game does however not keep track of whether the player goes through the gates or not which has to be determined by the player. The slope is seen from a top down perspective and the player simply uses two keys to turn left and right. Hitting a ski pole will lead to an accident and an early end to the race.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/899217-slalom-trs-80-screenshot-start-of-game.jpg",
+    "https://www.mobygames.com/images/shots/s/899216-slalom-trs-80-screenshot-instructions-page-2.jpg",
+    "https://www.mobygames.com/images/shots/s/899214-slalom-trs-80-screenshot-main-menu.jpg",
+    "https://www.mobygames.com/images/shots/s/899215-slalom-trs-80-screenshot-instructions-page-1.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/slalom_",
+  "altTitles": [
+    "\"Ski Challenge\" -- In-game title"
+  ]
+}

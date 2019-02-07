@@ -1,0 +1,81 @@
+{
+  "name": "Stunt Driver",
+  "icon": "https://www.mobygames.com/images/covers/s/319445-stunt-driver-dos-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/spectrum-holobyte-inc",
+        "text": "Spectrum Holobyte, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/sphere-inc",
+        "text": "Sphere, Inc."
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/dos/stunt-driver/release-info",
+        "text": "1990"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/dos/",
+        "text": "DOS"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/simulation/",
+        "text": "Simulation"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/vehicle-simulator/",
+        "text": "Vehicle Simulator"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      }
+    ]
+  ],
+  "description": "\nStunt Driver allows the player to control a '60s Mustang car and take on three different opponents in a virtually unlimited amount of courses (thanks to the included course editor). The player's driving style must be adjusted according to the opponent's behavior. Drawbridges, loops, banked curves, hills and oil slicks are there to impede the player-controlled car's progress. The game also features a replay camera complete with custom camera placement.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/541542-stunt-driver-dos-screenshot-out-of-a-course-vga-256-colors.jpg",
+    "https://www.mobygames.com/images/shots/s/30317-stunt-driver-dos-screenshot-banked-curve-drivin-a-buck-twenty.jpg",
+    "https://www.mobygames.com/images/shots/s/541574-stunt-driver-dos-screenshot-carried-by-wrecker-after-crash.jpg",
+    "https://www.mobygames.com/images/shots/s/541536-stunt-driver-dos-screenshot-top-ten-drivers-vga-256-colors.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/stunt-driver",
+  "altTitles": [
+    "\"Crash Course\" -- European Title"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Rolling",
+  "platforms": "Xbox, PS2",
+  "mechanics": "thps",
+  "date": "October 2003",
+  "sports": "Inline skates",
+  "cover": "//images.igdb.com/igdb/image/upload/t_cover_big/bpets3i1fsaonkplmj1m.jpg",
+  "altTitles": [],
+  "description": "\nRolling is a game about the exciting world of inline skating. There are 21 of the world's best skaters to choose from, plus a few hidden ones as well. You can also create a custom character from scratch if the ones provided aren't good (or good-looking) enough. All the clothes and equipment are from real life, so expect to see your favorite skates and street clothes on those created skaters. Players can take their skater through 10 big outdoor city themed levels, 4 different competitions and even make their own levels with a handy level editor. There are a plethora of licensed music from the bands such as The Hives, Chuck D and Del Tha Funky Homosapien.\n",
+  "screenshots": [],
+  "video": "",
+  "relatedGames": [
+    "[Toxic Grind](/games/toxic-grind-6215/)"
+  ],
+  "websites": [],
+  "filePath": "src/markdown/games/rolling-6017.md",
+  "handle": "rolling-6017",
+  "name": "Rolling",
+  "icon": "https://www.mobygames.com/images/covers/s/534864-rolling-xbox-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "SCi Games Ltd."
+    },
+    {
+      "name": "Developed by",
+      "value": "Indy Games Limited,Rage Games Ltd."
+    },
+    {
+      "name": "Released",
+      "value": "Oct 24, 2003"
+    },
+    {
+      "name": "Platforms",
+      "value": "PlayStation 2,Xbox"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "Behind view"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Tricks / Stunts"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/rolling"
+}

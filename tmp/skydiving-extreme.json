@@ -1,0 +1,79 @@
+{
+  "name": "Skydiving Extreme",
+  "icon": "https://www.mobygames.com/images/covers/s/205434-skydiving-extreme-playstation-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/natsume-inc",
+        "text": "Natsume, Inc."
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/metro-corporation",
+        "text": "Metro Corporation"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/skydiving-extreme/release-info",
+        "text": "2001"
+      }
+    ],
+    "Platforms",
+    [
+      {
+        "link": "https://www.mobygames.com/game/playstation/skydiving-extreme",
+        "text": "PlayStation"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps3/skydiving-extreme",
+        "text": "PlayStation 3"
+      },
+      {
+        "link": "https://www.mobygames.com/game/psp/skydiving-extreme",
+        "text": "PSP"
+      },
+      {
+        "link": "https://www.mobygames.com/game/ps-vita/skydiving-extreme",
+        "text": "PS Vita"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/sports/",
+        "text": "Sports"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/3rd-person/",
+        "text": "3rd-person (Other)"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ]
+  ],
+  "description": "\nIn Skydiving Extreme you try to maneuver your team of skydivers into different formations in an odd mix of skydiving simulation and rhythm gameplay. You can practice your moves or compete against another player or computer.\n\nWhen beginning a game, your chosen team of four skydivers will jump and then you have a limited time to complete more four-person formations than your opponent. Doing a correct formation will slow your descent, giving you more time to execute more tricks. To perform a formation correctly you must correctly enter the button sequence displayed on the screen within a short period of time. If you do this correctly your four skydivers will move into the formation. Formations are performed in sequence; if you miss one you must return to the beginning of the sequence and start over. You try to do as many tricks as possible before your team falls too low and they must pull their parachutes.\n\nYou can also \"attack\" your opponent - by performing tricks successfully you fill up your attack meter. When it is full you can execute an attack and force the other team to defend itself by performing a defensive formation. If the other team fails in its defense, it will fall at a higher rate of speed.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/760181-skydiving-extreme-playstation-screenshot-versus-aero-dancer.jpg",
+    "https://www.mobygames.com/images/shots/s/760150-skydiving-extreme-playstation-screenshot-stage-5-last-one.jpg",
+    "https://www.mobygames.com/images/shots/s/760148-skydiving-extreme-playstation-screenshot-england-stage-formation.jpg",
+    "https://www.mobygames.com/images/shots/s/760185-skydiving-extreme-playstation-screenshot-nevermind-anchor.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/skydiving-extreme",
+  "altTitles": [
+    "\"Aero Dive\" -- Japanese title",
+    "\"エアロダイブ\" -- Japanese spelling"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Sky Surfer",
+  "platforms": "PlayStation 2",
+  "mechanics": "n/a",
+  "date": "Apr 20, 2000",
+  "sports": "",
+  "cover": "https://www.mobygames.com/images/covers/s/17877-sky-surfer-playstation-2-front-cover.jpg",
+  "altTitles": [
+    "\"スカイサーファー\" -- Japanese Spelling"
+  ],
+  "description": "\nJump out of a plane, maneuver to control points, use upwinds, be sure to open your parachute early enough. While falling, do tricks for points. Offers also training modes above a huge fan, trying to collect as many balloons as possible.\n\nSeveral Sky Boards and Jumpers to chose from. Analogue stick only! Only released in Japan and Europe. The European release has more scenarios!\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/867441-sky-surfer-playstation-2-screenshot-dive-to-air-board-selection.jpg",
+    "https://www.mobygames.com/images/shots/s/867449-sky-surfer-playstation-2-screenshot-beat-balloons-there-is.jpg",
+    "https://www.mobygames.com/images/shots/s/867443-sky-surfer-playstation-2-screenshot-dive-to-air-ready-to-dive.jpg",
+    "https://www.mobygames.com/images/shots/s/867444-sky-surfer-playstation-2-screenshot-dive-to-air-in-addition.jpg"
+  ],
+  "websites": [
+    " [https://www.mobygames.com/game/sky-surfer](https://www.mobygames.com/game/sky-surfer)"
+  ],
+  "filePath": "src/markdown/games/sky-surfer.md",
+  "handle": "sky-surfer",
+  "name": "Sky Surfer",
+  "icon": "https://www.mobygames.com/images/covers/s/17877-sky-surfer-playstation-2-front-cover.jpg",
+  "attributes": [
+    {
+      "name": "Published by",
+      "value": "Idea Factory Co., Ltd."
+    },
+    {
+      "name": "Developed by",
+      "value": "Toka S.a.r.l."
+    },
+    {
+      "name": "Released",
+      "value": "Apr 20, 2000"
+    },
+    {
+      "name": "Platform",
+      "value": "PlayStation 2"
+    },
+    {
+      "name": "Genre",
+      "value": "Sports"
+    },
+    {
+      "name": "Perspective",
+      "value": "3rd-person (Other)"
+    },
+    {
+      "name": "Gameplay",
+      "value": "Arcade,Tricks / Stunts"
+    },
+    {
+      "name": "Sport",
+      "value": "Snowboarding / Skiing"
+    }
+  ],
+  "url": "https://www.mobygames.com/game/sky-surfer"
+}

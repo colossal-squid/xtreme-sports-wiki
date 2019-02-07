@@ -1,0 +1,90 @@
+{
+  "name": "TrackMania Nations Forever",
+  "icon": "https://www.mobygames.com/images/covers/s/109901-trackmania-nations-forever-windows-front-cover.jpg",
+  "attributes": [
+    "Published by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nadeo-sas",
+        "text": "Nadeo SAS"
+      }
+    ],
+    "Developed by",
+    [
+      {
+        "link": "https://www.mobygames.com/company/nadeo-sas",
+        "text": "Nadeo SAS"
+      }
+    ],
+    "Released",
+    [
+      {
+        "link": "https://www.mobygames.com/game/windows/trackmania-nations-forever/release-info",
+        "text": "Apr 16, 2008"
+      }
+    ],
+    "Platform",
+    [
+      {
+        "link": "https://www.mobygames.com/browse/games/windows/",
+        "text": "Windows"
+      }
+    ],
+    "Genre",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-driving/",
+        "text": "Racing / Driving"
+      }
+    ],
+    "Perspective",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/1st-person/",
+        "text": "1st-person"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/behind-view/",
+        "text": "Behind view"
+      }
+    ],
+    "Gameplay",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/arcade_/",
+        "text": "Arcade"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/tricks-stunts/",
+        "text": "Tricks / Stunts"
+      }
+    ],
+    "Interface",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/direct_control/",
+        "text": "Direct Control"
+      }
+    ],
+    "Vehicular",
+    [
+      {
+        "link": "https://www.mobygames.com/genre/sheet/automobile/",
+        "text": "Automobile"
+      },
+      {
+        "link": "https://www.mobygames.com/genre/sheet/racing-track/",
+        "text": "Track Racing"
+      }
+    ]
+  ],
+  "description": "\nTrackMania Nations Forever is the sequel to TrackMania Nations ESWC, but not a direct sequel in the series of TrackMania games. Just like the previous Nations edition, this is a free version of the racing game.\n\nThe Forever edition updates the existing stadium environment with new scenery (such as dirt or a night setting), updated graphics and new music. Games can be played in the solo mode or online against other players. By default 65 tracks are included (all based on the same environment) but the game comes with an editor where new tracks can be built through pre-defined blocks. There is a global ladder keeping track of statistics, further divided into the player's country and here also into departments or provinces. This also extends to finding online games. Additionally, the available servers can now be sorted based on the opponents' rankings to find people who are in the same league, as points are only earned by finishing before players with a lower rank. Generally games offer multiple tries at the same track to best the scores. This version supports a larger amount of players per game with tracks based both on speed, steering and braking skill, and stunts. Some modes are time-based with multiple tries while others offer a rounds system where only one try per round is offered.\n\nNew options allow players to drive over tiles that remove all traction for a way and optionally enable a racing line, a ghost car, or disable the opponents to get a clearer view. The game is compatible with the commercial titles TrackMania United and TrackMania United Forever, where players have a larger amount of options, racing tracks, different car models (only one in the Nations version) and an in-game peer-to-peer system to exchange custom game content based on the in-game copper currency. Races can be recorded and extensively edited in the replay editor.\n",
+  "screenshots": [
+    "https://www.mobygames.com/images/shots/s/293284-trackmania-nations-forever-windows-screenshot-loading-screen.jpg",
+    "https://www.mobygames.com/images/shots/s/612643-trackmania-nations-forever-windows-screenshot-medals-ghosts.jpg",
+    "https://www.mobygames.com/images/shots/s/293286-trackmania-nations-forever-windows-screenshot-overview-of.jpg",
+    "https://www.mobygames.com/images/shots/s/293285-trackmania-nations-forever-windows-screenshot-the-race-results.jpg"
+  ],
+  "url": "https://www.mobygames.com/game/trackmania-nations-forever",
+  "altTitles": []
+}
