@@ -1,6 +1,12 @@
 .layout {
     margin: 30px;
+    padding-top: 30px;
 }
 .nav {
-    margin: 0 30px;
+    padding: 0 30px;
+    padding-bottom: 12px;
+    background: rgba(255,255,255,0.9);
+    position: fixed;
+    top: 0;
+    width: 100%;
 }

@@ -1,0 +1,7 @@
+html {
+    background-image: url('../static/back.jpg');
+}
+
+body {
+    background: rgba(255,255,255, 0.6);
+}

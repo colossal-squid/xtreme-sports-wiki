@@ -9,9 +9,9 @@ export default ({data}) => (
   <Meta title={"Extreme sports games wiki"}></Meta>
   <Layout>
    <img src="logo.png" style={{ "display" : "flex", "margin" : "auto", "paddingBottom": "10px" }} alt="Extreme sports games wiki!"/>
-   <p>Not really a wiki since i'm not using mediawiki engine or a similar alternative </p>
-   <p>I had this urge to document some of the games "inspired" by Tony Hawk's Pro Skater, SSX, Wave Race and other "EXTREME" games. Some of the tiles listed have literally nothing to do with extreme sports, yet their mechanics sort of are. Feel free to put my XTREME criteria into question.</p>
-   <p> So far I have {data.allMarkdownRemark.totalCount} poorly listed, slowly moderating the content myself</p>
+   <p>My personal effort to document some of the games "inspired" by Tony Hawk's Pro Skater, SSX, Wave Race and other "EXTREME" games.</p>
+   <p>I'm especially into the stuff from Neversoft, Z-Axis, EA Big, Activision O2. Some of the tiles listed have literally nothing to do with extreme sports, yet their mechanics sort of are. Feel free to put my XTREME criteria into question.</p>
+   <p> So far I have <u><b>{data.allMarkdownRemark.totalCount}</b></u> titles listed, slowly moderating the content myself</p>
    <ul>
       <li><a href="/games-by-sport/">Extreme games by sport</a></li>
       <li><Link to="/games-abc/">Extreme games alphabetically</Link></li>
@@ -20,7 +20,7 @@ export default ({data}) => (
    </ul>
    <h2>XTREME links and resources (shoutout to my boyz!)</h2>
    Please visit <Link to="/additional-resources/">this page</Link> for list of similar resources, forums and all sorts of things that are worth mentioning.
-   The list is WIP (as rest of the website), it has some letsplayer dedicated to ssx/thps, people modding the games and so on.
+   The list is WIP (as rest of the website), it has some letsplayers dedicated to ssx/thps, people modding the games, relevant blogs and more.
    <section>
    <h2>Recent XTREME news!</h2>
    <RecentNews></RecentNews>

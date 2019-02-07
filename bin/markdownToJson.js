@@ -1,5 +1,5 @@
-const PATH = 'C:/dev/js/gatsby/xtreme-static/src/markdown/games/';
-const MOBYGAMES_JSONS = 'C:/dev/node/mobigames/json/';
+const PATH = 'src/markdown/games/'
+
 const fs = require('fs');
 
 (async function(){
